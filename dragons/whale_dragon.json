@@ -1,0 +1,39 @@
+{
+  "name": "whale dragon",
+  "egg_description": "This Egg can hear sounds.",
+  "elements": [
+    "water",
+    "lightning"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Whale Dragon",
+  "body_type": "Drake",
+  "food": "Piranha",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/4a/Whale_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/68/Whale_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d7/Whale_Dragon_Default_Hatchling_M_Sprite.png/150px-Whale_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3d/Whale_Dragon_Default_Hatchling_F_Sprite.png/150px-Whale_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d7/Whale_Dragon_Default_Hatchling_M_Sprite.png/150px-Whale_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3d/Whale_Dragon_Default_Hatchling_F_Sprite.png/150px-Whale_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/92/Whale_Dragon_Default_Adult_M_Sprite.png/150px-Whale_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/94/Whale_Dragon_Default_Adult_F_Sprite.png/150px-Whale_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/4a/Whale_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

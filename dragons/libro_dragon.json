@@ -1,0 +1,38 @@
+{
+  "name": "libro dragon",
+  "egg_description": "This Egg is wearing a hat with feathers on it.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "History Dragon",
+  "body_type": "Drake",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/9d/Libro_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/c3/Libro_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/1/19/Libro_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/8/8f/Libro_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/1/19/Libro_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/8/8f/Libro_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3c/Libro_Dragon_Default_Adult_M_Sprite.png/150px-Libro_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/6a/Libro_Dragon_Default_Adult_F_Sprite.png/150px-Libro_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/9d/Libro_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

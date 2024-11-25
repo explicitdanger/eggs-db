@@ -1,0 +1,38 @@
+{
+  "name": "tilant",
+  "egg_description": "These Egg have sharp scales.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Common",
+  "region": "Deep Sea",
+  "dragon_type": "Strength Dragon",
+  "body_type": "Drake",
+  "food": "Piranha",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f3/Tilant_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/6c/Tilant_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d7/Tilant_Default_Hatchling_M_Sprite.png/150px-Tilant_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b3/Tilant_Default_Hatchling_F_Sprite.png/150px-Tilant_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d7/Tilant_Default_Hatchling_M_Sprite.png/150px-Tilant_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b3/Tilant_Default_Hatchling_F_Sprite.png/150px-Tilant_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4e/Tilant_Default_Adult_M_Sprite.png/150px-Tilant_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f5/Tilant_Default_Adult_F_Sprite.png/150px-Tilant_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f3/Tilant_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

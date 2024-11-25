@@ -1,0 +1,48 @@
+{
+  "name": "shockwave",
+  "egg_description": "This Egg leaves a trail.",
+  "elements": [
+    "wind",
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Speed Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "azure's blue sky",
+    "azure's golden sunset",
+    "azure's crimson sunset",
+    "azure's starry sky",
+    "blue sky",
+    "golden sunset",
+    "crimson sunset",
+    "starry sky",
+    "undead (default)",
+    "undead (azure's blue sky)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2b/Shockwave_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/49/Shockwave_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1e/Shockwave_Default_Hatchling_M_Sprite.png/150px-Shockwave_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/78/Shockwave_Default_Hatchling_F_Sprite.png/150px-Shockwave_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1e/Shockwave_Default_Hatchling_M_Sprite.png/150px-Shockwave_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/78/Shockwave_Default_Hatchling_F_Sprite.png/150px-Shockwave_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/11/Shockwave_Default_Adult_M_Sprite.png/150px-Shockwave_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/27/Shockwave_Default_Adult_F_Sprite.png/150px-Shockwave_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2b/Shockwave_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

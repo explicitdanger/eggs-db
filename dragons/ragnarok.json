@@ -1,0 +1,40 @@
+{
+  "name": "ragnarok",
+  "egg_description": "This Egg craves for apocalypses.",
+  "elements": [
+    "dream",
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Destiny Dragon",
+  "body_type": "Draco",
+  "food": "Desire",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "apocalypse",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/1c/Ragnarok_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/6e/Ragnarok_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/99/Ragnarok_Default_Hatchling_M_Sprite.png/150px-Ragnarok_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/81/Ragnarok_Default_Hatchling_F_Sprite.png/150px-Ragnarok_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/99/Ragnarok_Default_Hatchling_M_Sprite.png/150px-Ragnarok_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/81/Ragnarok_Default_Hatchling_F_Sprite.png/150px-Ragnarok_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3f/Ragnarok_Default_Adult_M_Sprite.png/150px-Ragnarok_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ac/Ragnarok_Default_Adult_F_Sprite.png/150px-Ragnarok_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/1c/Ragnarok_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

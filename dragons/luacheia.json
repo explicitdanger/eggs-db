@@ -1,0 +1,38 @@
+{
+  "name": "luacheia",
+  "egg_description": "This Egg moves its fins under the moonlight.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Nightmare Dragon",
+  "body_type": "Drake",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/49/Luacheia_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0b/Luacheia_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Luacheia_Default_Hatchling_M_Sprite.png/150px-Luacheia_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a6/Luacheia_Default_Hatchling_F_Sprite.png/150px-Luacheia_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Luacheia_Default_Hatchling_M_Sprite.png/150px-Luacheia_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a6/Luacheia_Default_Hatchling_F_Sprite.png/150px-Luacheia_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/49/Luacheia_Default_Adult_M_Sprite.png/150px-Luacheia_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fb/Luacheia_Default_Adult_F_Sprite.png/150px-Luacheia_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/49/Luacheia_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

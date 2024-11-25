@@ -1,0 +1,28 @@
+{
+  "name": "zombie dragon",
+  "egg_description": "This Egg is infected by a virus.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Experiment Dragon",
+  "body_type": "Drake",
+  "food": "Chicken",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/09/Zombie_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d1/Zombie_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/0/09/Zombie_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,35 @@
+{
+  "name": "panmunia",
+  "egg_description": "This Egg is searching for a friend.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Munia",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/be/Panmunia_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/89/Panmunia_Dead_Egg_Sprite.png",
+      "hatch": {
+        "female": "https://dvc.wiki.gg/images/9/93/Panmunia_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "female": "https://dvc.wiki.gg/images/9/93/Panmunia_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "female": "https://dvc.wiki.gg/images/0/06/Panmunia_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/be/Panmunia_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

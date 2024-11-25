@@ -1,0 +1,41 @@
+{
+  "name": "temiz",
+  "egg_description": "This Egg has a horn of purification.",
+  "elements": [
+    "light",
+    "steel"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Judgement Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "executor",
+    "judge",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c8/Temiz_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d0/Temiz_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/78/Temiz_Default_Hatchling_M_Sprite.png/150px-Temiz_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Temiz_Default_Hatchling_F_Sprite.png/150px-Temiz_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/78/Temiz_Default_Hatchling_M_Sprite.png/150px-Temiz_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Temiz_Default_Hatchling_F_Sprite.png/150px-Temiz_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/92/Temiz_Default_Adult_M_Sprite.png/150px-Temiz_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d0/Temiz_Default_Adult_F_Sprite.png/150px-Temiz_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c8/Temiz_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

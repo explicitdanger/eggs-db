@@ -1,0 +1,38 @@
+{
+  "name": "record dragon",
+  "egg_description": "This Egg plays classical music.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Music Dragon",
+  "body_type": "Asian",
+  "food": "Coffee Bean",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/06/Record_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/86/Record_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/c/c0/Record_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/e5/Record_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/c/c0/Record_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/e5/Record_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8d/Record_Dragon_Default_Adult_M_Sprite.png/150px-Record_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3a/Record_Dragon_Default_Adult_F_Sprite.png/150px-Record_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/06/Record_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

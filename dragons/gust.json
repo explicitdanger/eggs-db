@@ -1,0 +1,38 @@
+{
+  "name": "gust",
+  "egg_description": "This Egg holds the energy of gusts of wind.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Gust Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/ed/Gust_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/22/Gust_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cb/Gust_Default_Hatchling_M_Sprite.png/150px-Gust_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/99/Gust_Default_Hatchling_F_Sprite.png/150px-Gust_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cb/Gust_Default_Hatchling_M_Sprite.png/150px-Gust_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/99/Gust_Default_Hatchling_F_Sprite.png/150px-Gust_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/17/Gust_Default_Adult_M_Sprite.png/150px-Gust_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f9/Gust_Default_Adult_F_Sprite.png/150px-Gust_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/ed/Gust_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

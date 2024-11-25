@@ -1,0 +1,39 @@
+{
+  "name": "maloden",
+  "egg_description": "Enormous in size, this Egg has horns.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Massive Dragon",
+  "body_type": "Draco",
+  "food": "Ore",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/52/Maloden_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/85/Maloden_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/d8/Maloden_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/9/9c/Maloden_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/d8/Maloden_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/9/9c/Maloden_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/57/Maloden_Default_Adult_M_Sprite.png/150px-Maloden_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/6b/Maloden_Default_Adult_F_Sprite.png/150px-Maloden_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/52/Maloden_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

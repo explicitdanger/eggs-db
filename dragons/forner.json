@@ -1,0 +1,37 @@
+{
+  "name": "forner",
+  "egg_description": "This Egg is sprinkled with breadcrumbs.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Dessert Dragon",
+  "body_type": "Drake",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/70/Forner_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/10/Forner_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/e/eb/Forner_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/2/2c/Forner_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/e/eb/Forner_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/2/2c/Forner_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f2/Forner_Default_Adult_M_Sprite.png/150px-Forner_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/75/Forner_Default_Adult_F_Sprite.png/150px-Forner_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/70/Forner_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

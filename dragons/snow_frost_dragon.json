@@ -1,0 +1,39 @@
+{
+  "name": "snow frost dragon",
+  "egg_description": "This Egg is surrounded by cold air.",
+  "elements": [
+    "dark",
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Ice Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/13/Snow_Frost_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/30/Snow_Frost_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9f/Snow_Frost_Dragon_Default_Hatchling_M_Sprite.png/150px-Snow_Frost_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/80/Snow_Frost_Dragon_Default_Hatchling_F_Sprite.png/150px-Snow_Frost_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9f/Snow_Frost_Dragon_Default_Hatchling_M_Sprite.png/150px-Snow_Frost_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/80/Snow_Frost_Dragon_Default_Hatchling_F_Sprite.png/150px-Snow_Frost_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/dc/Snow_Frost_Dragon_Default_Adult_M_Sprite.png/150px-Snow_Frost_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/08/Snow_Frost_Dragon_Default_Adult_F_Sprite.png/150px-Snow_Frost_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/13/Snow_Frost_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

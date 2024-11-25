@@ -1,0 +1,40 @@
+{
+  "name": "cratio",
+  "egg_description": "This Egg is boiling lava.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Volcano Dragon",
+  "body_type": "Drake",
+  "food": "Magic Petals",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "aquris",
+    "abyss",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/79/Cratio_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/c1/Cratio_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/70/Cratio_Default_Hatchling_M_Sprite.png/150px-Cratio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c4/Cratio_Default_Hatchling_F_Sprite.png/150px-Cratio_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/70/Cratio_Default_Hatchling_M_Sprite.png/150px-Cratio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c4/Cratio_Default_Hatchling_F_Sprite.png/150px-Cratio_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/87/Cratio_Default_Adult_M_Sprite.png/150px-Cratio_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c8/Cratio_Default_Adult_F_Sprite.png/150px-Cratio_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/79/Cratio_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

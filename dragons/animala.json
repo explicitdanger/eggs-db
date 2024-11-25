@@ -1,0 +1,38 @@
+{
+  "name": "animala",
+  "egg_description": "This Egg is accompanied by souls.",
+  "elements": [
+    "dream",
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Soul Dragon",
+  "body_type": "Draco",
+  "food": "Soul",
+  "tradeable": true,
+  "breeding_tier": 45,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c5/Animala_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f0/Animala_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3c/Animala_Default_Hatchling_M_Sprite.png/150px-Animala_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e0/Animala_Default_Hatchling_F_Sprite.png/150px-Animala_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3c/Animala_Default_Hatchling_M_Sprite.png/150px-Animala_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e0/Animala_Default_Hatchling_F_Sprite.png/150px-Animala_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/ed/Animala_Default_Adult_M_Sprite.png/150px-Animala_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/50/Animala_Default_Adult_F_Sprite.png/150px-Animala_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c5/Animala_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

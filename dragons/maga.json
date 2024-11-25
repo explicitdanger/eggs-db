@@ -1,0 +1,38 @@
+{
+  "name": "maga",
+  "egg_description": "This Egg loves gusts of wind.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f8/Maga_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0a/Maga_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/88/Maga_Default_Hatchling_M_Sprite.png/150px-Maga_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ea/Maga_Default_Hatchling_F_Sprite.png/150px-Maga_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/88/Maga_Default_Hatchling_M_Sprite.png/150px-Maga_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ea/Maga_Default_Hatchling_F_Sprite.png/150px-Maga_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9f/Maga_Default_Adult_M_Sprite.png/150px-Maga_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/27/Maga_Default_Adult_F_Sprite.png/150px-Maga_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f8/Maga_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

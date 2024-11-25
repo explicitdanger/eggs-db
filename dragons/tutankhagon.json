@@ -1,0 +1,39 @@
+{
+  "name": "tutankhagon",
+  "egg_description": "This Egg is full of majesty.",
+  "elements": [
+    "dark",
+    "steel"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "King Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6a/Tutankhagon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/9b/Tutankhagon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/4/4e/Tutankhagon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/14/Tutankhagon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/4/4e/Tutankhagon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/14/Tutankhagon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/39/Tutankhagon_Default_Adult_M_Sprite.png/150px-Tutankhagon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2e/Tutankhagon_Default_Adult_F_Sprite.png/150px-Tutankhagon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6a/Tutankhagon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

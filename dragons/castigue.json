@@ -1,0 +1,41 @@
+{
+  "name": "castigue",
+  "egg_description": "This Egg knows the weight of sin.",
+  "elements": [
+    "light",
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Judgement Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "executor",
+    "judge",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/fb/Castigue_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/8b/Castigue_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/06/Castigue_Default_Hatchling_M_Sprite.png/150px-Castigue_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/38/Castigue_Default_Hatchling_F_Sprite.png/150px-Castigue_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/06/Castigue_Default_Hatchling_M_Sprite.png/150px-Castigue_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/38/Castigue_Default_Hatchling_F_Sprite.png/150px-Castigue_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f6/Castigue_Default_Adult_M_Sprite.png/150px-Castigue_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4b/Castigue_Default_Adult_F_Sprite.png/150px-Castigue_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/fb/Castigue_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

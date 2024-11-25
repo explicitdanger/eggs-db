@@ -1,0 +1,38 @@
+{
+  "name": "popomo",
+  "egg_description": "This Egg is found around cherry trees.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Fairy Dragon",
+  "body_type": "Drake",
+  "food": "Magic Petals",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6a/Popomo_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/38/Popomo_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/7/7a/Popomo_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/c2/Popomo_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/7/7a/Popomo_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/c2/Popomo_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b9/Popomo_Default_Adult_M_Sprite.png/150px-Popomo_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1a/Popomo_Default_Adult_F_Sprite.png/150px-Popomo_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6a/Popomo_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

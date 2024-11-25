@@ -1,0 +1,41 @@
+{
+  "name": "clockwork dragon",
+  "egg_description": "This Egg's spring has to be wound up.",
+  "elements": [
+    "wind",
+    "steel"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Machine Dragon",
+  "body_type": "Drake",
+  "food": "Oil",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/08/Clockwork_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d8/Clockwork_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ca/Clockwork_Dragon_Default_Hatchling_M_Sprite.png/150px-Clockwork_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/28/Clockwork_Dragon_Default_Hatchling_F_Sprite.png/150px-Clockwork_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ca/Clockwork_Dragon_Default_Hatchling_M_Sprite.png/150px-Clockwork_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/28/Clockwork_Dragon_Default_Hatchling_F_Sprite.png/150px-Clockwork_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/2a/Clockwork_Dragon_Default_Adult_M_Sprite.png/150px-Clockwork_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c1/Clockwork_Dragon_Default_Adult_F_Sprite.png/150px-Clockwork_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/08/Clockwork_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

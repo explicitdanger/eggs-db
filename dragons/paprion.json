@@ -1,0 +1,38 @@
+{
+  "name": "paprion",
+  "egg_description": "Bubbles are rising out of this Egg.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Legendary",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Draco",
+  "food": "Mango",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "signature"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/ed/Paprion_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d3/Paprion_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/75/Paprion_Default_Hatchling_M_Sprite.png/150px-Paprion_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Paprion_Default_Hatchling_F_Sprite.png/150px-Paprion_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/75/Paprion_Default_Hatchling_M_Sprite.png/150px-Paprion_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Paprion_Default_Hatchling_F_Sprite.png/150px-Paprion_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/29/Paprion_Default_Adult_M_Sprite.png/150px-Paprion_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/de/Paprion_Default_Adult_F_Sprite.png/150px-Paprion_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/ed/Paprion_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

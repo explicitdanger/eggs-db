@@ -1,0 +1,29 @@
+{
+  "name": "baby darknix",
+  "egg_description": "This Egg follows the dark with its eyes.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Baby Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bf/Baby_Darknix_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d7/Baby_Darknix_Dead_Egg_Sprite.png",
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/d/d2/Baby_Darknix_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/be/Baby_Darknix_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bf/Baby_Darknix_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

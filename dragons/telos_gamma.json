@@ -1,0 +1,47 @@
+{
+  "name": "telos gamma",
+  "egg_description": "This Egg moves by following the energy of those who have escaped.",
+  "elements": [
+    "steel",
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Experiment Dragon",
+  "body_type": "Drake",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "p_blue knight",
+    "p_black knight",
+    "p_red knight",
+    "p_white knight",
+    "blue knight",
+    "black knight",
+    "red knight",
+    "white knight",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/9d/Telos_Gamma_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/1b/Telos_Gamma_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/56/Telos_Gamma_Default_Hatchling_M_Sprite.png/150px-Telos_Gamma_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fc/Telos_Gamma_Default_Hatchling_F_Sprite.png/150px-Telos_Gamma_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/56/Telos_Gamma_Default_Hatchling_M_Sprite.png/150px-Telos_Gamma_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fc/Telos_Gamma_Default_Hatchling_F_Sprite.png/150px-Telos_Gamma_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fb/Telos_Gamma_Default_Adult_M_Sprite.png/150px-Telos_Gamma_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/73/Telos_Gamma_Default_Adult_F_Sprite.png/150px-Telos_Gamma_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/9d/Telos_Gamma_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

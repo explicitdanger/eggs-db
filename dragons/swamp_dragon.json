@@ -1,0 +1,40 @@
+{
+  "name": "swamp dragon",
+  "egg_description": "This Egg resembles a part of nature.",
+  "elements": [
+    "water",
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Swamp Dragon",
+  "body_type": "Draco",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "maple swamp",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/db/Swamp_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/27/Swamp_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5c/Swamp_Dragon_Default_Hatchling_M_Sprite.png/150px-Swamp_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/56/Swamp_Dragon_Default_Hatchling_F_Sprite.png/150px-Swamp_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5c/Swamp_Dragon_Default_Hatchling_M_Sprite.png/150px-Swamp_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/56/Swamp_Dragon_Default_Hatchling_F_Sprite.png/150px-Swamp_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/ea/Swamp_Dragon_Default_Adult_M_Sprite.png/150px-Swamp_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/78/Swamp_Dragon_Default_Adult_F_Sprite.png/150px-Swamp_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/db/Swamp_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

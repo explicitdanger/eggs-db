@@ -1,0 +1,38 @@
+{
+  "name": "augus",
+  "egg_description": "These Egg are covered with hard greenish Light.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Strength Dragon",
+  "body_type": "Drake",
+  "food": "Meggison",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/0c/Augus_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/06/Augus_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/b/be/Augus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/9/98/Augus_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/b/be/Augus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/9/98/Augus_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b3/Augus_Default_Adult_M_Sprite.png/150px-Augus_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a9/Augus_Default_Adult_F_Sprite.png/150px-Augus_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/0c/Augus_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

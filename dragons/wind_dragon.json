@@ -1,0 +1,40 @@
+{
+  "name": "wind dragon",
+  "egg_description": "This Egg is about to sway in the wind.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Wind Dragon",
+  "body_type": "Wyvern",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "sea breeze",
+    "land wind",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/49/Wind_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3d/Wind_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/b/b3/Wind_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/3b/Wind_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/b/b3/Wind_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/3b/Wind_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/be/Wind_Dragon_Default_Adult_M_Sprite.png/150px-Wind_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/57/Wind_Dragon_Default_Adult_F_Sprite.png/150px-Wind_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/49/Wind_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

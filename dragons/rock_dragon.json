@@ -1,0 +1,39 @@
+{
+  "name": "rock dragon",
+  "egg_description": "A pickax is needed to collect this Egg.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Rock Dragon",
+  "body_type": "Draco",
+  "food": "Ore",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "stone ore",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/cf/Rock_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0d/Rock_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b7/Rock_Dragon_Default_Hatchling_M_Sprite.png/150px-Rock_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d2/Rock_Dragon_Default_Hatchling_F_Sprite.png/150px-Rock_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b7/Rock_Dragon_Default_Hatchling_M_Sprite.png/150px-Rock_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d2/Rock_Dragon_Default_Hatchling_F_Sprite.png/150px-Rock_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/75/Rock_Dragon_Default_Adult_M_Sprite.png/150px-Rock_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4a/Rock_Dragon_Default_Adult_F_Sprite.png/150px-Rock_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/cf/Rock_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

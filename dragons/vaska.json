@@ -1,0 +1,46 @@
+{
+  "name": "vaska",
+  "egg_description": "This Egg bears the scent of the grassland.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Ancient Dragon",
+  "body_type": "Drake",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "lord of grassland",
+    "lord of flames",
+    "lord of lightning",
+    "lord of snowfield",
+    "grassland",
+    "flames",
+    "lightning",
+    "snowfield",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/54/Vaska_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5c/Vaska_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/59/Vaska_Default_Hatchling_M_Sprite.png/150px-Vaska_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/98/Vaska_Default_Hatchling_F_Sprite.png/150px-Vaska_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/59/Vaska_Default_Hatchling_M_Sprite.png/150px-Vaska_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/98/Vaska_Default_Hatchling_F_Sprite.png/150px-Vaska_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c7/Vaska_Default_Adult_M_Sprite.png/150px-Vaska_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d7/Vaska_Default_Adult_F_Sprite.png/150px-Vaska_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/54/Vaska_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

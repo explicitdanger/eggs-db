@@ -1,0 +1,30 @@
+{
+  "name": "slime dragon",
+  "egg_description": "This Egg's texture is like liquid.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Liquid Dragon",
+  "body_type": "Wyvern",
+  "food": "Haunted Pumpkin",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "orange slime",
+    "pink slime"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/90/Slime_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e8/Slime_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/9/90/Slime_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

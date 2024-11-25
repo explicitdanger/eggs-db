@@ -1,0 +1,39 @@
+{
+  "name": "poison river",
+  "egg_description": "This Egg has tentacles attached.",
+  "elements": [
+    "water",
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Poison Dragon",
+  "body_type": "Draco",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/e3/Poison_River_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/76/Poison_River_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7e/Poison_River_Default_Hatchling_M_Sprite.png/150px-Poison_River_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c4/Poison_River_Default_Hatchling_F_Sprite.png/150px-Poison_River_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7e/Poison_River_Default_Hatchling_M_Sprite.png/150px-Poison_River_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c4/Poison_River_Default_Hatchling_F_Sprite.png/150px-Poison_River_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/ff/Poison_River_Default_Adult_M_Sprite.png/150px-Poison_River_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ef/Poison_River_Default_Adult_F_Sprite.png/150px-Poison_River_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/e3/Poison_River_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

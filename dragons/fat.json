@@ -1,0 +1,41 @@
+{
+  "name": "fat",
+  "egg_description": "This Egg comes with a shield.",
+  "elements": [
+    "steel",
+    "dream"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Sleep Dragon",
+  "body_type": "Draco",
+  "food": "All Sorts",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "sleeping fat",
+    "furious fat",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/16/Fat_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/86/Fat_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/f/f4/Fat_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/7/7c/Fat_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/f/f4/Fat_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/7/7c/Fat_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f6/Fat_Default_Adult_M_Sprite.png/150px-Fat_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f8/Fat_Default_Adult_F_Sprite.png/150px-Fat_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/16/Fat_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

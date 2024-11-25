@@ -1,0 +1,38 @@
+{
+  "name": "glaone",
+  "egg_description": "This Egg has been merged.",
+  "elements": [
+    "light",
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Weapon Dragon",
+  "body_type": "Draco",
+  "food": "Oil",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/11/Glaone_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/04/Glaone_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Glaone_Default_Hatchling_M_Sprite.png/150px-Glaone_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/59/Glaone_Default_Hatchling_F_Sprite.png/150px-Glaone_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Glaone_Default_Hatchling_M_Sprite.png/150px-Glaone_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/59/Glaone_Default_Hatchling_F_Sprite.png/150px-Glaone_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/24/Glaone_Default_Adult_M_Sprite.png/150px-Glaone_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/51/Glaone_Default_Adult_F_Sprite.png/150px-Glaone_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/11/Glaone_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

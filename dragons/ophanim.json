@@ -1,0 +1,39 @@
+{
+  "name": "ophanim",
+  "egg_description": "This Egg monitors the movements of all things.",
+  "elements": [
+    "wind",
+    "lightning"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Wyrm",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "celestial"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/52/Ophanim_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a8/Ophanim_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ce/Ophanim_Default_Hatchling_M_Sprite.png/150px-Ophanim_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2a/Ophanim_Default_Hatchling_F_Sprite.png/150px-Ophanim_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ce/Ophanim_Default_Hatchling_M_Sprite.png/150px-Ophanim_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2a/Ophanim_Default_Hatchling_F_Sprite.png/150px-Ophanim_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/25/Ophanim_Default_Adult_M_Sprite.png/150px-Ophanim_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/17/Ophanim_Default_Adult_F_Sprite.png/150px-Ophanim_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/52/Ophanim_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

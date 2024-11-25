@@ -1,0 +1,39 @@
+{
+  "name": "razikas",
+  "egg_description": "This Egg predicts the future.",
+  "elements": [
+    "water",
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Knight Dragon",
+  "body_type": "Draco",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/01/Razikas_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/ed/Razikas_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f9/Razikas_Default_Hatchling_M_Sprite.png/150px-Razikas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/04/Razikas_Default_Hatchling_F_Sprite.png/150px-Razikas_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f9/Razikas_Default_Hatchling_M_Sprite.png/150px-Razikas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/04/Razikas_Default_Hatchling_F_Sprite.png/150px-Razikas_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/16/Razikas_Default_Adult_M_Sprite.png/150px-Razikas_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/58/Razikas_Default_Adult_F_Sprite.png/150px-Razikas_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/01/Razikas_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

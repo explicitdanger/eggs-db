@@ -1,0 +1,38 @@
+{
+  "name": "blade dragon",
+  "egg_description": "This Egg has tiny blades protruding from it.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Common",
+  "region": "West Yutakan",
+  "dragon_type": "Blade Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/9a/Blade_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/13/Blade_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4f/Blade_Dragon_Default_Hatchling_M_Sprite.png/150px-Blade_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/93/Blade_Dragon_Default_Hatchling_F_Sprite.png/150px-Blade_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4f/Blade_Dragon_Default_Hatchling_M_Sprite.png/150px-Blade_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/93/Blade_Dragon_Default_Hatchling_F_Sprite.png/150px-Blade_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9b/Blade_Dragon_Default_Adult_M_Sprite.png/150px-Blade_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/dc/Blade_Dragon_Default_Adult_F_Sprite.png/150px-Blade_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/9a/Blade_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "gatling-gon",
+  "egg_description": "This Egg is equipped with a gun.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Weapon Dragon",
+  "body_type": "Wyvern",
+  "food": "Oil",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bd/Gatling-Gon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d1/Gatling-Gon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/50/Gatling-Gon_Default_Hatchling_M_Sprite.png/150px-Gatling-Gon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/41/Gatling-Gon_Default_Hatchling_F_Sprite.png/150px-Gatling-Gon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/50/Gatling-Gon_Default_Hatchling_M_Sprite.png/150px-Gatling-Gon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/41/Gatling-Gon_Default_Hatchling_F_Sprite.png/150px-Gatling-Gon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9a/Gatling-Gon_Default_Adult_M_Sprite.png/150px-Gatling-Gon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/aa/Gatling-Gon_Default_Adult_F_Sprite.png/150px-Gatling-Gon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bd/Gatling-Gon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

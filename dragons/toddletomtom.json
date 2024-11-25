@@ -1,0 +1,38 @@
+{
+  "name": "toddletomtom",
+  "egg_description": "This Egg twinkles like stars.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c6/Toddletomtom_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/59/Toddletomtom_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/1/1d/Toddletomtom_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/03/Toddletomtom_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/1/1d/Toddletomtom_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/03/Toddletomtom_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/05/Toddletomtom_Default_Adult_M_Sprite.png/150px-Toddletomtom_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fc/Toddletomtom_Default_Adult_F_Sprite.png/150px-Toddletomtom_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c6/Toddletomtom_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

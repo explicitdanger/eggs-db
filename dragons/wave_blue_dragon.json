@@ -1,0 +1,38 @@
+{
+  "name": "wave blue dragon",
+  "egg_description": "This Egg detects the tide.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Waves Dragon",
+  "body_type": "Asian",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c7/Wave_Blue_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/83/Wave_Blue_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/a/a6/Wave_Blue_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/41/Wave_Blue_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/a/a6/Wave_Blue_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/41/Wave_Blue_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fb/Wave_Blue_Dragon_Default_Adult_M_Sprite.png/150px-Wave_Blue_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/96/Wave_Blue_Dragon_Default_Adult_F_Sprite.png/150px-Wave_Blue_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c7/Wave_Blue_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

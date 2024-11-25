@@ -1,0 +1,39 @@
+{
+  "name": "hercules dragon",
+  "egg_description": "This Egg is surrounded by sturdy horns.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Insect Dragon",
+  "body_type": "Draco",
+  "food": "Jelly",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "chubby",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/71/Hercules_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e2/Hercules_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8f/Hercules_Dragon_Default_Hatchling_M_Sprite.png/150px-Hercules_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Hercules_Dragon_Default_Hatchling_F_Sprite.png/150px-Hercules_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8f/Hercules_Dragon_Default_Hatchling_M_Sprite.png/150px-Hercules_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Hercules_Dragon_Default_Hatchling_F_Sprite.png/150px-Hercules_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/94/Hercules_Dragon_Default_Adult_M_Sprite.png/150px-Hercules_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2b/Hercules_Dragon_Default_Adult_F_Sprite.png/150px-Hercules_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/71/Hercules_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

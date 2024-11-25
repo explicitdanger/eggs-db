@@ -1,0 +1,38 @@
+{
+  "name": "tropheus",
+  "egg_description": "This Egg absorbs the darkness of the abyss.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Piranha",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/03/Tropheus_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/44/Tropheus_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fb/Tropheus_Default_Hatchling_M_Sprite.png/150px-Tropheus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b5/Tropheus_Default_Hatchling_F_Sprite.png/150px-Tropheus_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fb/Tropheus_Default_Hatchling_M_Sprite.png/150px-Tropheus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b5/Tropheus_Default_Hatchling_F_Sprite.png/150px-Tropheus_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6b/Tropheus_Default_Adult_M_Sprite.png/150px-Tropheus_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/db/Tropheus_Default_Adult_F_Sprite.png/150px-Tropheus_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/03/Tropheus_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

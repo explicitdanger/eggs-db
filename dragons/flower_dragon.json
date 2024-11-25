@@ -1,0 +1,40 @@
+{
+  "name": "flower dragon",
+  "egg_description": "This Egg looks like a flower.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Flower Dragon",
+  "body_type": "Draco",
+  "food": "Grass",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/be/Flower_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/92/Flower_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/22/Flower_Dragon_Default_Hatchling_M_Sprite.png/150px-Flower_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2e/Flower_Dragon_Default_Hatchling_F_Sprite.png/150px-Flower_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/22/Flower_Dragon_Default_Hatchling_M_Sprite.png/150px-Flower_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2e/Flower_Dragon_Default_Hatchling_F_Sprite.png/150px-Flower_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/ed/Flower_Dragon_Default_Adult_M_Sprite.png/150px-Flower_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7a/Flower_Dragon_Default_Adult_F_Sprite.png/150px-Flower_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/be/Flower_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

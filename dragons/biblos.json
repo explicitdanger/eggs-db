@@ -1,0 +1,40 @@
+{
+  "name": "biblos",
+  "egg_description": "This Egg reacts to stories.",
+  "elements": [
+    "earth",
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Book Dragon",
+  "body_type": "Draco",
+  "food": "Maple Leaf",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "researcher",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bf/Biblos_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ab/Biblos_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/31/Biblos_Default_Hatchling_M_Sprite.png/150px-Biblos_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7c/Biblos_Default_Hatchling_F_Sprite.png/150px-Biblos_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/31/Biblos_Default_Hatchling_M_Sprite.png/150px-Biblos_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7c/Biblos_Default_Hatchling_F_Sprite.png/150px-Biblos_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/55/Biblos_Default_Adult_M_Sprite.png/150px-Biblos_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/18/Biblos_Default_Adult_F_Sprite.png/150px-Biblos_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bf/Biblos_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

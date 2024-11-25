@@ -1,0 +1,37 @@
+{
+  "name": "dragonoid soul",
+  "egg_description": "This Egg is made of steel infused with souls.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Robot Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b2/Dragonoid_Soul_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ac/Dragonoid_Soul_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/ec/Dragonoid_Soul_Default_Hatchling_M_Sprite.png/150px-Dragonoid_Soul_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/44/Dragonoid_Soul_Default_Hatchling_F_Sprite.png/150px-Dragonoid_Soul_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/ec/Dragonoid_Soul_Default_Hatchling_M_Sprite.png/150px-Dragonoid_Soul_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/44/Dragonoid_Soul_Default_Hatchling_F_Sprite.png/150px-Dragonoid_Soul_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/57/Dragonoid_Soul_Default_Adult_M_Sprite.png/150px-Dragonoid_Soul_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cb/Dragonoid_Soul_Default_Adult_F_Sprite.png/150px-Dragonoid_Soul_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b2/Dragonoid_Soul_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

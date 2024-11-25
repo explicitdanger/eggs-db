@@ -1,0 +1,43 @@
+{
+  "name": "plumos",
+  "egg_description": "This Egg's apricot blossoms are blooming.",
+  "elements": [
+    "earth",
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Flower Dragon",
+  "body_type": "Asian",
+  "food": "Grass",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "apricot blossom",
+    "snow apricot blossom",
+    "apricot",
+    "plantain fan",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6f/Plumos_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5e/Plumos_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/24/Plumos_Default_Hatchling_M_Sprite.png/150px-Plumos_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Plumos_Default_Hatchling_F_Sprite.png/150px-Plumos_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/24/Plumos_Default_Hatchling_M_Sprite.png/150px-Plumos_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Plumos_Default_Hatchling_F_Sprite.png/150px-Plumos_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/78/Plumos_Default_Adult_M_Sprite.png/150px-Plumos_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bf/Plumos_Default_Adult_F_Sprite.png/150px-Plumos_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6f/Plumos_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

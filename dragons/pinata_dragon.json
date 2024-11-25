@@ -1,0 +1,39 @@
+{
+  "name": "pinata dragon",
+  "egg_description": "This Egg rustles like a piece of paper.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Paper Dragon",
+  "body_type": "Draco",
+  "food": "Candy",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/de/Pinata_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/be/Pinata_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0c/Pinata_Dragon_Default_Hatchling_M_Sprite.png/150px-Pinata_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a4/Pinata_Dragon_Default_Hatchling_F_Sprite.png/150px-Pinata_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0c/Pinata_Dragon_Default_Hatchling_M_Sprite.png/150px-Pinata_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a4/Pinata_Dragon_Default_Hatchling_F_Sprite.png/150px-Pinata_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/33/Pinata_Dragon_Default_Adult_M_Sprite.png/150px-Pinata_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2e/Pinata_Dragon_Default_Adult_F_Sprite.png/150px-Pinata_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/de/Pinata_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

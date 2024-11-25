@@ -1,0 +1,39 @@
+{
+  "name": "snow fairy dragon",
+  "egg_description": "This Egg is looking forward to the snow.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Fairy Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/0b/Snow_Fairy_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/af/Snow_Fairy_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/4/42/Snow_Fairy_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/5/52/Snow_Fairy_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/4/42/Snow_Fairy_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/5/52/Snow_Fairy_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c9/Snow_Fairy_Dragon_Default_Adult_M_Sprite.png/150px-Snow_Fairy_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/44/Snow_Fairy_Dragon_Default_Adult_F_Sprite.png/150px-Snow_Fairy_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/0b/Snow_Fairy_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

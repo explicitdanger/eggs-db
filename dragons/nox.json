@@ -1,0 +1,38 @@
+{
+  "name": "nox",
+  "egg_description": "The thorns on this Egg continue to grow.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Time Dragon",
+  "body_type": "Asian",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/74/Nox_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/11/Nox_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/4/48/Nox_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/db/Nox_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/4/48/Nox_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/db/Nox_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d2/Nox_Default_Adult_M_Sprite.png/150px-Nox_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ed/Nox_Default_Adult_F_Sprite.png/150px-Nox_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/74/Nox_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

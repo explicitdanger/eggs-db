@@ -1,0 +1,38 @@
+{
+  "name": "enix",
+  "egg_description": "This Egg has a wooden horn.",
+  "elements": [
+    "water",
+    "earth"
+  ],
+  "rarity": "Legendary",
+  "region": "Deep Sea",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2c/Enix_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/ff/Enix_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/93/Enix_Default_Hatchling_M_Sprite.png/150px-Enix_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/28/Enix_Default_Hatchling_F_Sprite.png/150px-Enix_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/93/Enix_Default_Hatchling_M_Sprite.png/150px-Enix_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/28/Enix_Default_Hatchling_F_Sprite.png/150px-Enix_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Enix_Default_Adult_M_Sprite.png/150px-Enix_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/89/Enix_Default_Adult_F_Sprite.png/150px-Enix_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2c/Enix_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

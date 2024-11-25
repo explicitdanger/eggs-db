@@ -1,0 +1,40 @@
+{
+  "name": "avernale",
+  "egg_description": "This Egg shines in dark places.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "glowing breath",
+    "undead (default)",
+    "undead (glowing breath)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/27/Avernale_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d0/Avernale_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/82/Avernale_Default_Hatchling_M_Sprite.png/150px-Avernale_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/6b/Avernale_Default_Hatchling_F_Sprite.png/150px-Avernale_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/82/Avernale_Default_Hatchling_M_Sprite.png/150px-Avernale_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/6b/Avernale_Default_Hatchling_F_Sprite.png/150px-Avernale_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3a/Avernale_Default_Adult_M_Sprite.png/150px-Avernale_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c4/Avernale_Default_Adult_F_Sprite.png/150px-Avernale_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/27/Avernale_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

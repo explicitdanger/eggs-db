@@ -1,0 +1,39 @@
+{
+  "name": "mustard hammer",
+  "egg_description": "This Egg holds tremendous power.",
+  "elements": [
+    "earth",
+    "dream"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Earth Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/a2/Mustard_Hammer_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/db/Mustard_Hammer_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/db/Mustard_Hammer_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/b9/Mustard_Hammer_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/db/Mustard_Hammer_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/b9/Mustard_Hammer_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/53/Mustard_Hammer_Default_Adult_M_Sprite.png/150px-Mustard_Hammer_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f2/Mustard_Hammer_Default_Adult_F_Sprite.png/150px-Mustard_Hammer_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/a2/Mustard_Hammer_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

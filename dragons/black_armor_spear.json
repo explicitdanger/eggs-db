@@ -1,0 +1,38 @@
+{
+  "name": "black armor spear",
+  "egg_description": "This Egg is wearing a helmet studded with a green jewel.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Knight Dragon",
+  "body_type": "Draco",
+  "food": "Eggberry",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/92/Black_Armor_Spear_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/91/Black_Armor_Spear_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/9/91/Black_Armor_Spear_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/4c/Black_Armor_Spear_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/9/91/Black_Armor_Spear_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/4c/Black_Armor_Spear_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/58/Black_Armor_Spear_Default_Adult_M_Sprite.png/150px-Black_Armor_Spear_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/eb/Black_Armor_Spear_Default_Adult_F_Sprite.png/150px-Black_Armor_Spear_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/92/Black_Armor_Spear_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

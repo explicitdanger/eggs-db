@@ -1,0 +1,41 @@
+{
+  "name": "zael delta",
+  "egg_description": "This Egg is imbued with the power of corrosion.",
+  "elements": [
+    "earth",
+    "wind"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Experiment Dragon",
+  "body_type": "Coatyl",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "restricted",
+    "liberated",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d2/Zael_Delta_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/06/Zael_Delta_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Zael_Delta_Default_Hatchling_M_Sprite.png/150px-Zael_Delta_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/16/Zael_Delta_Default_Hatchling_F_Sprite.png/150px-Zael_Delta_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Zael_Delta_Default_Hatchling_M_Sprite.png/150px-Zael_Delta_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/16/Zael_Delta_Default_Hatchling_F_Sprite.png/150px-Zael_Delta_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/84/Zael_Delta_Default_Adult_M_Sprite.png/150px-Zael_Delta_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a5/Zael_Delta_Default_Adult_F_Sprite.png/150px-Zael_Delta_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d2/Zael_Delta_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

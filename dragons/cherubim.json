@@ -1,0 +1,40 @@
+{
+  "name": "cherubim",
+  "egg_description": "This Egg controls its surroundings.",
+  "elements": [
+    "dark",
+    "lightning"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "celestial",
+    "inactive"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c5/Cherubim_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5c/Cherubim_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/14/Cherubim_Default_Hatchling_M_Sprite.png/150px-Cherubim_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1c/Cherubim_Default_Hatchling_F_Sprite.png/150px-Cherubim_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/14/Cherubim_Default_Hatchling_M_Sprite.png/150px-Cherubim_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1c/Cherubim_Default_Hatchling_F_Sprite.png/150px-Cherubim_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c4/Cherubim_Default_Adult_M_Sprite.png/150px-Cherubim_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e0/Cherubim_Default_Adult_F_Sprite.png/150px-Cherubim_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c5/Cherubim_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

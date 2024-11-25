@@ -1,0 +1,39 @@
+{
+  "name": "egg dragon",
+  "egg_description": "This Egg has saliva on it.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Draco",
+  "food": "Eggberry",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "capsaicin",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/66/Egg_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/b4/Egg_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/3/35/Egg_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/ce/Egg_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/3/35/Egg_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/ce/Egg_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fd/Egg_Dragon_Default_Adult_M_Sprite.png/150px-Egg_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/56/Egg_Dragon_Default_Adult_F_Sprite.png/150px-Egg_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/66/Egg_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

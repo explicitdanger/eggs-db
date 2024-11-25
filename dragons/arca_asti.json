@@ -1,0 +1,39 @@
+{
+  "name": "arca asti",
+  "egg_description": "This Egg absorbs energy through its horn.",
+  "elements": [
+    "wind",
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "Sky Kingdom",
+  "dragon_type": "Wind Dragon",
+  "body_type": "Asian",
+  "food": "Cloud",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/e4/Arca_Asti_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/97/Arca_Asti_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5f/Arca_Asti_Default_Hatchling_M_Sprite.png/150px-Arca_Asti_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/20/Arca_Asti_Default_Hatchling_F_Sprite.png/150px-Arca_Asti_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5f/Arca_Asti_Default_Hatchling_M_Sprite.png/150px-Arca_Asti_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/20/Arca_Asti_Default_Hatchling_F_Sprite.png/150px-Arca_Asti_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d5/Arca_Asti_Default_Adult_M_Sprite.png/150px-Arca_Asti_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/84/Arca_Asti_Default_Adult_F_Sprite.png/150px-Arca_Asti_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/e4/Arca_Asti_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

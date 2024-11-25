@@ -1,0 +1,39 @@
+{
+  "name": "applecheek",
+  "egg_description": "This Egg has large red spots on its sides.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Fruit Dragon",
+  "body_type": "Draco",
+  "food": "Apple",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "fall",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/61/Applecheek_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/cc/Applecheek_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/3/3b/Applecheek_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/11/Applecheek_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/3/3b/Applecheek_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/11/Applecheek_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/01/Applecheek_Default_Adult_M_Sprite.png/150px-Applecheek_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/dc/Applecheek_Default_Adult_F_Sprite.png/150px-Applecheek_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/61/Applecheek_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

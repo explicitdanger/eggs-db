@@ -1,0 +1,38 @@
+{
+  "name": "dilrang",
+  "egg_description": "This Egg is adorned with ornaments that emit a powerful light.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Flying Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b2/Dilrang_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/1c/Dilrang_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0d/Dilrang_Default_Hatchling_M_Sprite.png/150px-Dilrang_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c7/Dilrang_Default_Hatchling_F_Sprite.png/150px-Dilrang_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0d/Dilrang_Default_Hatchling_M_Sprite.png/150px-Dilrang_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c7/Dilrang_Default_Hatchling_F_Sprite.png/150px-Dilrang_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a9/Dilrang_Default_Adult_M_Sprite.png/150px-Dilrang_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Dilrang_Default_Adult_F_Sprite.png/150px-Dilrang_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b2/Dilrang_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

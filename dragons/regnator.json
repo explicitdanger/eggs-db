@@ -1,0 +1,41 @@
+{
+  "name": "regnator",
+  "egg_description": "This Egg wears a crown with the orb of Acuris.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Sea Dragon King Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Fish",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "conqueror",
+    "undead (default)",
+    "undead (conqueror)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/02/Regnator_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5d/Regnator_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Regnator_Default_Hatchling_M_Sprite.png/150px-Regnator_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2b/Regnator_Default_Hatchling_F_Sprite.png/150px-Regnator_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Regnator_Default_Hatchling_M_Sprite.png/150px-Regnator_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2b/Regnator_Default_Hatchling_F_Sprite.png/150px-Regnator_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/65/Regnator_Default_Adult_M_Sprite.png/150px-Regnator_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/18/Regnator_Default_Adult_F_Sprite.png/150px-Regnator_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/02/Regnator_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

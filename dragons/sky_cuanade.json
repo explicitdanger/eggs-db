@@ -1,0 +1,39 @@
+{
+  "name": "sky cuanade",
+  "egg_description": "This Egg senses urgency.",
+  "elements": [
+    "wind",
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Helper Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/02/Sky_Cuanade_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/73/Sky_Cuanade_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/84/Sky_Cuanade_Default_Hatchling_M_Sprite.png/150px-Sky_Cuanade_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e9/Sky_Cuanade_Default_Hatchling_F_Sprite.png/150px-Sky_Cuanade_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/84/Sky_Cuanade_Default_Hatchling_M_Sprite.png/150px-Sky_Cuanade_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e9/Sky_Cuanade_Default_Hatchling_F_Sprite.png/150px-Sky_Cuanade_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8d/Sky_Cuanade_Default_Adult_M_Sprite.png/150px-Sky_Cuanade_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/64/Sky_Cuanade_Default_Adult_F_Sprite.png/150px-Sky_Cuanade_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/02/Sky_Cuanade_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

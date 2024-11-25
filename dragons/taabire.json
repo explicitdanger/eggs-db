@@ -1,0 +1,39 @@
+{
+  "name": "taabire",
+  "egg_description": "This Egg is surrounded by static electricity.",
+  "elements": [
+    "lightning",
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Grasshopper",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/ca/Taabire_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/57/Taabire_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8d/Taabire_Default_Hatchling_M_Sprite.png/150px-Taabire_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/87/Taabire_Default_Hatchling_F_Sprite.png/150px-Taabire_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8d/Taabire_Default_Hatchling_M_Sprite.png/150px-Taabire_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/87/Taabire_Default_Hatchling_F_Sprite.png/150px-Taabire_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b0/Taabire_Default_Adult_M_Sprite.png/150px-Taabire_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/20/Taabire_Default_Adult_F_Sprite.png/150px-Taabire_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/ca/Taabire_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

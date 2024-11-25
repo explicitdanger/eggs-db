@@ -1,0 +1,40 @@
+{
+  "name": "phlegon",
+  "egg_description": "This Egg emits flames that resemble the sun.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Sun Dragon",
+  "body_type": "Drake",
+  "food": "Chicken",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "flare",
+    "hyper",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/a4/Phlegon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/85/Phlegon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e8/Phlegon_Default_Hatchling_M_Sprite.png/150px-Phlegon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2b/Phlegon_Default_Hatchling_F_Sprite.png/150px-Phlegon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e8/Phlegon_Default_Hatchling_M_Sprite.png/150px-Phlegon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2b/Phlegon_Default_Hatchling_F_Sprite.png/150px-Phlegon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/61/Phlegon_Default_Adult_M_Sprite.png/150px-Phlegon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/89/Phlegon_Default_Adult_F_Sprite.png/150px-Phlegon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/a4/Phlegon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

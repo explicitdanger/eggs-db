@@ -1,0 +1,40 @@
+{
+  "name": "vlad",
+  "egg_description": "This Egg devours life energy.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "coffin of death",
+    "coffin of silence",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/19/Vlad_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/69/Vlad_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/80/Vlad_Default_Hatchling_M_Sprite.png/150px-Vlad_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/58/Vlad_Default_Hatchling_F_Sprite.png/150px-Vlad_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/80/Vlad_Default_Hatchling_M_Sprite.png/150px-Vlad_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/58/Vlad_Default_Hatchling_F_Sprite.png/150px-Vlad_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/33/Vlad_Default_Adult_M_Sprite.png/150px-Vlad_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/44/Vlad_Default_Adult_F_Sprite.png/150px-Vlad_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/19/Vlad_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

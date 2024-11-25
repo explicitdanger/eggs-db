@@ -1,0 +1,38 @@
+{
+  "name": "lios",
+  "egg_description": "This Egg resonates with the sounds of violent winds.",
+  "elements": [
+    "water",
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "Deep Sea",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Grass",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/07/Lios_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/46/Lios_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/c/cc/Lios_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3e/Lios_Default_Hatchling_F_Sprite.png/150px-Lios_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/c/cc/Lios_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3e/Lios_Default_Hatchling_F_Sprite.png/150px-Lios_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/21/Lios_Default_Adult_M_Sprite.png/150px-Lios_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/57/Lios_Default_Adult_F_Sprite.png/150px-Lios_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/07/Lios_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

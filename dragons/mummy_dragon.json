@@ -1,0 +1,38 @@
+{
+  "name": "mummy dragon",
+  "egg_description": "This Egg is wrapped in bandages.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Bandage Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/60/Mummy_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/2e/Mummy_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e4/Mummy_Dragon_Default_Hatchling_M_Sprite.png/150px-Mummy_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b7/Mummy_Dragon_Default_Hatchling_F_Sprite.png/150px-Mummy_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e4/Mummy_Dragon_Default_Hatchling_M_Sprite.png/150px-Mummy_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b7/Mummy_Dragon_Default_Hatchling_F_Sprite.png/150px-Mummy_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3d/Mummy_Dragon_Default_Adult_M_Sprite.png/150px-Mummy_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2b/Mummy_Dragon_Default_Adult_F_Sprite.png/150px-Mummy_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/60/Mummy_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "hades",
+  "egg_description": "This Egg absorbs the souls of life belonging to the earth.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Fantasy Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d2/Hades_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/63/Hades_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d9/Hades_Default_Hatchling_M_Sprite.png/150px-Hades_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0b/Hades_Default_Hatchling_F_Sprite.png/150px-Hades_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d9/Hades_Default_Hatchling_M_Sprite.png/150px-Hades_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0b/Hades_Default_Hatchling_F_Sprite.png/150px-Hades_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/47/Hades_Default_Adult_M_Sprite.png/150px-Hades_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/71/Hades_Default_Adult_F_Sprite.png/150px-Hades_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d2/Hades_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

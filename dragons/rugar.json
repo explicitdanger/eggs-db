@@ -1,0 +1,38 @@
+{
+  "name": "rugar",
+  "egg_description": "This Egg flickers with green flames.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Soul",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/21/Rugar_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/88/Rugar_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Rugar_Default_Hatchling_M_Sprite.png/150px-Rugar_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3a/Rugar_Default_Hatchling_F_Sprite.png/150px-Rugar_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Rugar_Default_Hatchling_M_Sprite.png/150px-Rugar_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3a/Rugar_Default_Hatchling_F_Sprite.png/150px-Rugar_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/52/Rugar_Default_Adult_M_Sprite.png/150px-Rugar_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/83/Rugar_Default_Adult_F_Sprite.png/150px-Rugar_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/21/Rugar_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "eos",
+  "egg_description": "This Egg removes darkness.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Dawn Dragon",
+  "body_type": "Deep Sea",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/8f/Eos_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5c/Eos_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/3/39/Eos_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/6a/Eos_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/3/39/Eos_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/6a/Eos_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/af/Eos_Default_Adult_M_Sprite.png/150px-Eos_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5a/Eos_Default_Adult_F_Sprite.png/150px-Eos_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/8f/Eos_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "semilla",
+  "egg_description": "This Egg plays music full of hope.",
+  "elements": [
+    "earth",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Hope Dragon",
+  "body_type": "Coatyl",
+  "food": "Apple",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "desire",
+    "hope"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f3/Semilla_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f9/Semilla_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e5/Semilla_Default_Hatchling_M_Sprite.png/150px-Semilla_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/40/Semilla_Default_Hatchling_F_Sprite.png/150px-Semilla_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e5/Semilla_Default_Hatchling_M_Sprite.png/150px-Semilla_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/40/Semilla_Default_Hatchling_F_Sprite.png/150px-Semilla_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fb/Semilla_Default_Adult_M_Sprite.png/150px-Semilla_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/60/Semilla_Default_Adult_F_Sprite.png/150px-Semilla_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f3/Semilla_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "cobra dragon",
+  "egg_description": "This Egg is covered with thick scales.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Snake Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/02/Cobra_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/86/Cobra_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cb/Cobra_Dragon_Default_Hatchling_M_Sprite.png/150px-Cobra_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7c/Cobra_Dragon_Default_Hatchling_F_Sprite.png/150px-Cobra_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cb/Cobra_Dragon_Default_Hatchling_M_Sprite.png/150px-Cobra_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7c/Cobra_Dragon_Default_Hatchling_F_Sprite.png/150px-Cobra_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/04/Cobra_Dragon_Default_Adult_M_Sprite.png/150px-Cobra_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/09/Cobra_Dragon_Default_Adult_F_Sprite.png/150px-Cobra_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/02/Cobra_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

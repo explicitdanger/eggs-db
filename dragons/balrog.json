@@ -1,0 +1,38 @@
+{
+  "name": "balrog",
+  "egg_description": "This Egg emits scorching heat.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Demon Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "lair"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/e1/Balrog_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/b8/Balrog_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/2/20/Balrog_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/a/ac/Balrog_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/2/20/Balrog_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/a/ac/Balrog_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e2/Balrog_Default_Adult_M_Sprite.png/150px-Balrog_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/6d/Balrog_Default_Adult_F_Sprite.png/150px-Balrog_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/e1/Balrog_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

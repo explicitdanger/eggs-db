@@ -1,0 +1,41 @@
+{
+  "name": "lattegon",
+  "egg_description": "This Egg is topped with cream.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Coffee Dragon",
+  "body_type": "Draco",
+  "food": "coffee beans",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "cafe latte",
+    "white chocolate latte",
+    "undead (default)",
+    "undead (cafe latte)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/1e/Lattegon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a3/Lattegon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/6/69/Lattegon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/1c/Lattegon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/6/69/Lattegon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/1c/Lattegon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/04/Lattegon_Default_Adult_M_Sprite.png/150px-Lattegon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1e/Lattegon_Default_Adult_F_Sprite.png/150px-Lattegon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/1e/Lattegon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

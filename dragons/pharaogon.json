@@ -1,0 +1,38 @@
+{
+  "name": "pharaogon",
+  "egg_description": "This Egg is guarded by a snake.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Emperor Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/dd/Pharaogon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/8a/Pharaogon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7c/Pharaogon_Default_Hatchling_M_Sprite.png/150px-Pharaogon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9c/Pharaogon_Default_Hatchling_F_Sprite.png/150px-Pharaogon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7c/Pharaogon_Default_Hatchling_M_Sprite.png/150px-Pharaogon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9c/Pharaogon_Default_Hatchling_F_Sprite.png/150px-Pharaogon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9c/Pharaogon_Default_Adult_M_Sprite.png/150px-Pharaogon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ab/Pharaogon_Default_Adult_F_Sprite.png/150px-Pharaogon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/dd/Pharaogon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

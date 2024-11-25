@@ -1,0 +1,40 @@
+{
+  "name": "altar zero",
+  "egg_description": "This Egg radiates power from its crimson fur and horn.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Experiment Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "restricted",
+    "liberated",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/ae/Altar_Zero_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e3/Altar_Zero_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f9/Altar_Zero_Default_Hatchling_M_Sprite.png/150px-Altar_Zero_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a5/Altar_Zero_Default_Hatchling_F_Sprite.png/150px-Altar_Zero_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f9/Altar_Zero_Default_Hatchling_M_Sprite.png/150px-Altar_Zero_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a5/Altar_Zero_Default_Hatchling_F_Sprite.png/150px-Altar_Zero_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5d/Altar_Zero_Default_Adult_M_Sprite.png/150px-Altar_Zero_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/01/Altar_Zero_Default_Adult_F_Sprite.png/150px-Altar_Zero_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/ae/Altar_Zero_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

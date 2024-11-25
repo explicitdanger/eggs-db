@@ -1,0 +1,38 @@
+{
+  "name": "rafael",
+  "egg_description": "This Egg shines like a jewel.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Kindness Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/60/Rafael_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ab/Rafael_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/42/Rafael_Default_Hatchling_M_Sprite.png/150px-Rafael_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f3/Rafael_Default_Hatchling_F_Sprite.png/150px-Rafael_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/42/Rafael_Default_Hatchling_M_Sprite.png/150px-Rafael_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f3/Rafael_Default_Hatchling_F_Sprite.png/150px-Rafael_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bb/Rafael_Default_Adult_M_Sprite.png/150px-Rafael_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/23/Rafael_Default_Adult_F_Sprite.png/150px-Rafael_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/60/Rafael_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

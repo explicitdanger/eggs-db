@@ -1,0 +1,38 @@
+{
+  "name": "black armor",
+  "egg_description": "This Egg is wearing a helmet.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Knight Dragon",
+  "body_type": "Draco",
+  "food": "Eggberry",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/a7/Black_Armor_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/98/Black_Armor_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/b/b8/Black_Armor_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/13/Black_Armor_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/b/b8/Black_Armor_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/13/Black_Armor_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/01/Black_Armor_Default_Adult_M_Sprite.png/150px-Black_Armor_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c6/Black_Armor_Default_Adult_F_Sprite.png/150px-Black_Armor_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/a7/Black_Armor_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,41 @@
+{
+  "name": "klid",
+  "egg_description": "This Egg lulls nearby life to sleep.",
+  "elements": [
+    "dream",
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Judgement Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "executor",
+    "judge",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/0e/Klid_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/26/Klid_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Klid_Default_Hatchling_M_Sprite.png/150px-Klid_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e7/Klid_Default_Hatchling_F_Sprite.png/150px-Klid_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Klid_Default_Hatchling_M_Sprite.png/150px-Klid_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e7/Klid_Default_Hatchling_F_Sprite.png/150px-Klid_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a6/Klid_Default_Adult_M_Sprite.png/150px-Klid_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3e/Klid_Default_Adult_F_Sprite.png/150px-Klid_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/0e/Klid_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

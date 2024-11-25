@@ -1,0 +1,38 @@
+{
+  "name": "leaf dragon",
+  "egg_description": "Leaves are growing on this Egg.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Leaf Dragon",
+  "body_type": "Draco",
+  "food": "Grass",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/60/Leaf_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/16/Leaf_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bb/Leaf_Dragon_Default_Hatchling_M_Sprite.png/150px-Leaf_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Leaf_Dragon_Default_Hatchling_F_Sprite.png/150px-Leaf_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bb/Leaf_Dragon_Default_Hatchling_M_Sprite.png/150px-Leaf_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Leaf_Dragon_Default_Hatchling_F_Sprite.png/150px-Leaf_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/66/Leaf_Dragon_Default_Adult_M_Sprite.png/150px-Leaf_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/18/Leaf_Dragon_Default_Adult_F_Sprite.png/150px-Leaf_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/60/Leaf_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

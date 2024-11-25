@@ -1,0 +1,38 @@
+{
+  "name": "kangkang",
+  "egg_description": "This Egg is wearing a mask that looks like a lion.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Lion Mask Dragon",
+  "body_type": "Drake",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d0/Kangkang_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/58/Kangkang_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/18/Kangkang_Default_Hatchling_M_Sprite.png/150px-Kangkang_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/56/Kangkang_Default_Hatchling_F_Sprite.png/150px-Kangkang_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/18/Kangkang_Default_Hatchling_M_Sprite.png/150px-Kangkang_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/56/Kangkang_Default_Hatchling_F_Sprite.png/150px-Kangkang_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/55/Kangkang_Default_Adult_M_Sprite.png/150px-Kangkang_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Kangkang_Default_Adult_F_Sprite.png/150px-Kangkang_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d0/Kangkang_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

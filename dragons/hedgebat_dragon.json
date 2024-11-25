@@ -1,0 +1,38 @@
+{
+  "name": "hedgebat dragon",
+  "egg_description": "This Egg never puts its guard down.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Thorn Dragon",
+  "body_type": "Draco",
+  "food": "Siberian Ginseng",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/86/Hedgebat_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a3/Hedgebat_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1d/Hedgebat_Dragon_Default_Hatchling_M_Sprite.png/150px-Hedgebat_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b4/Hedgebat_Dragon_Default_Hatchling_F_Sprite.png/150px-Hedgebat_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1d/Hedgebat_Dragon_Default_Hatchling_M_Sprite.png/150px-Hedgebat_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b4/Hedgebat_Dragon_Default_Hatchling_F_Sprite.png/150px-Hedgebat_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bc/Hedgebat_Dragon_Default_Adult_M_Sprite.png/150px-Hedgebat_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d8/Hedgebat_Dragon_Default_Adult_F_Sprite.png/150px-Hedgebat_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/86/Hedgebat_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

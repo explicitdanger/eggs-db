@@ -1,0 +1,38 @@
+{
+  "name": "demonio",
+  "egg_description": "This Egg has a crimson gem attached to it.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/48/Demonio_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/73/Demonio_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/19/Demonio_Default_Hatchling_M_Sprite.png/150px-Demonio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Demonio_Default_Hatchling_F_Sprite.png/150px-Demonio_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/19/Demonio_Default_Hatchling_M_Sprite.png/150px-Demonio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Demonio_Default_Hatchling_F_Sprite.png/150px-Demonio_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/2a/Demonio_Default_Adult_M_Sprite.png/150px-Demonio_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/21/Demonio_Default_Adult_F_Sprite.png/150px-Demonio_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/48/Demonio_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

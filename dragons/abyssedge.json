@@ -1,0 +1,39 @@
+{
+  "name": "abyssedge",
+  "egg_description": "The fins of this Egg are as sharp as knives.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Shark Dragon",
+  "body_type": "Drake",
+  "food": "Piranha",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/79/Abyssedge_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/09/Abyssedge_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bd/Abyssedge_Default_Hatchling_M_Sprite.png/150px-Abyssedge_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b1/Abyssedge_Default_Hatchling_F_Sprite.png/150px-Abyssedge_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bd/Abyssedge_Default_Hatchling_M_Sprite.png/150px-Abyssedge_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b1/Abyssedge_Default_Hatchling_F_Sprite.png/150px-Abyssedge_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/72/Abyssedge_Default_Adult_M_Sprite.png/150px-Abyssedge_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3b/Abyssedge_Default_Adult_F_Sprite.png/150px-Abyssedge_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/79/Abyssedge_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

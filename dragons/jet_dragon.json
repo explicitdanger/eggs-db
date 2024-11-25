@@ -1,0 +1,42 @@
+{
+  "name": "jet dragon",
+  "egg_description": "This Egg emits mechanical sounds.",
+  "elements": [
+    "steel",
+    "wind"
+  ],
+  "rarity": "Common",
+  "region": "Sky Kingdom",
+  "dragon_type": "Flight Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "arca",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/3a/Jet_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e7/Jet_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/99/Jet_Dragon_Default_Hatchling_M_Sprite.png/150px-Jet_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/50/Jet_Dragon_Default_Hatchling_F_Sprite.png/150px-Jet_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/99/Jet_Dragon_Default_Hatchling_M_Sprite.png/150px-Jet_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/50/Jet_Dragon_Default_Hatchling_F_Sprite.png/150px-Jet_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c5/Jet_Dragon_Default_Adult_M_Sprite.png/150px-Jet_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0b/Jet_Dragon_Default_Adult_F_Sprite.png/150px-Jet_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/3a/Jet_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

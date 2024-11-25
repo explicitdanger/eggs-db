@@ -1,0 +1,38 @@
+{
+  "name": "portunus",
+  "egg_description": "This Egg is influenced by water.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Draco",
+  "food": "Seaweed",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c0/Portunus_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/32/Portunus_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/48/Portunus_Default_Hatchling_M_Sprite.png/150px-Portunus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/33/Portunus_Default_Hatchling_F_Sprite.png/150px-Portunus_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/48/Portunus_Default_Hatchling_M_Sprite.png/150px-Portunus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/33/Portunus_Default_Hatchling_F_Sprite.png/150px-Portunus_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/da/Portunus_Default_Adult_M_Sprite.png/150px-Portunus_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fb/Portunus_Default_Adult_F_Sprite.png/150px-Portunus_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c0/Portunus_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

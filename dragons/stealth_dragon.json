@@ -1,0 +1,43 @@
+{
+  "name": "stealth dragon",
+  "egg_description": "This egg contains Memory powder in it.",
+  "elements": [
+    "dream",
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Memory Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "stealth",
+    "snowfield",
+    "fantasy",
+    "fury",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/80/Stealth_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/7c/Stealth_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/46/Stealth_Dragon_Default_Hatchling_M_Sprite.png/150px-Stealth_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/25/Stealth_Dragon_Default_Hatchling_F_Sprite.png/150px-Stealth_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/46/Stealth_Dragon_Default_Hatchling_M_Sprite.png/150px-Stealth_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/25/Stealth_Dragon_Default_Hatchling_F_Sprite.png/150px-Stealth_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/50/Stealth_Dragon_Default_Adult_M_Sprite.png/150px-Stealth_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/39/Stealth_Dragon_Default_Adult_F_Sprite.png/150px-Stealth_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/80/Stealth_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

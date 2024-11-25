@@ -1,0 +1,40 @@
+{
+  "name": "siamese dragon",
+  "egg_description": "This Egg has clear boundaries.",
+  "elements": [
+    "fire",
+    "steel"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Two-Headed Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "festival",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f2/Siamese_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/99/Siamese_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/55/Siamese_Dragon_Default_Hatchling_M_Sprite.png/150px-Siamese_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e2/Siamese_Dragon_Default_Hatchling_F_Sprite.png/150px-Siamese_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/55/Siamese_Dragon_Default_Hatchling_M_Sprite.png/150px-Siamese_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e2/Siamese_Dragon_Default_Hatchling_F_Sprite.png/150px-Siamese_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ce/Siamese_Dragon_Default_Adult_M_Sprite.png/150px-Siamese_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c5/Siamese_Dragon_Default_Adult_F_Sprite.png/150px-Siamese_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f2/Siamese_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

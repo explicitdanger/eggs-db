@@ -1,0 +1,35 @@
+{
+  "name": "insect queen",
+  "egg_description": "Bees buzz near this Egg.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Queen Bee Dragon",
+  "body_type": "Draco",
+  "food": "Honey",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/9d/Insect_Queen_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/ef/Insect_Queen_Dead_Egg_Sprite.png",
+      "hatch": {
+        "female": "https://dvc.wiki.gg/images/0/04/Insect_Queen_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "female": "https://dvc.wiki.gg/images/0/04/Insect_Queen_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "female": "https://dvc.wiki.gg/images/thumb/9/9c/Insect_Queen_Default_Adult_F_Sprite.png/150px-Insect_Queen_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/9d/Insect_Queen_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

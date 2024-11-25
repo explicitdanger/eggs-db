@@ -1,0 +1,40 @@
+{
+  "name": "bone head",
+  "egg_description": "This Egg is covered with bones.",
+  "elements": [
+    "dark",
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Bone Dragon",
+  "body_type": "Draco",
+  "food": "Jerky",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/47/Bone_Head_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/56/Bone_Head_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/99/Bone_Head_Default_Hatchling_M_Sprite.png/150px-Bone_Head_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/82/Bone_Head_Default_Hatchling_F_Sprite.png/150px-Bone_Head_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/99/Bone_Head_Default_Hatchling_M_Sprite.png/150px-Bone_Head_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/82/Bone_Head_Default_Hatchling_F_Sprite.png/150px-Bone_Head_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/76/Bone_Head_Default_Adult_M_Sprite.png/150px-Bone_Head_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/aa/Bone_Head_Default_Adult_F_Sprite.png/150px-Bone_Head_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/47/Bone_Head_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "lichmond",
+  "egg_description": "This Egg exudes strong dark magic.",
+  "elements": [
+    "dark",
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Shaman Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/a4/Lichmond_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/75/Lichmond_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c2/Lichmond_Default_Hatchling_M_Sprite.png/150px-Lichmond_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a9/Lichmond_Default_Hatchling_F_Sprite.png/150px-Lichmond_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c2/Lichmond_Default_Hatchling_M_Sprite.png/150px-Lichmond_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a9/Lichmond_Default_Hatchling_F_Sprite.png/150px-Lichmond_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b9/Lichmond_Default_Adult_M_Sprite.png/150px-Lichmond_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Lichmond_Default_Adult_F_Sprite.png/150px-Lichmond_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/a4/Lichmond_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

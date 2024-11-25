@@ -1,0 +1,39 @@
+{
+  "name": "characen",
+  "egg_description": "This Egg has a keyhole.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Nomad Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f2/Characen_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a6/Characen_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f7/Characen_Default_Hatchling_M_Sprite.png/150px-Characen_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7c/Characen_Default_Hatchling_F_Sprite.png/150px-Characen_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f7/Characen_Default_Hatchling_M_Sprite.png/150px-Characen_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7c/Characen_Default_Hatchling_F_Sprite.png/150px-Characen_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cb/Characen_Default_Adult_M_Sprite.png/150px-Characen_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c1/Characen_Default_Adult_F_Sprite.png/150px-Characen_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f2/Characen_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

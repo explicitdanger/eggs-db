@@ -1,0 +1,35 @@
+{
+  "name": "black dragon",
+  "egg_description": "This Egg forms a blanket of dark fog around it.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Blackness Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/02/Black_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ac/Black_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/2d/Black_Dragon_Default_Hatchling_M_Sprite.png/150px-Black_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/2d/Black_Dragon_Default_Hatchling_M_Sprite.png/150px-Black_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/06/Black_Dragon_Default_Adult_M_Sprite.png/150px-Black_Dragon_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/02/Black_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

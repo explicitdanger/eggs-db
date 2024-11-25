@@ -1,0 +1,41 @@
+{
+  "name": "nidhogg",
+  "egg_description": "This Egg absorbs the source of the stars.",
+  "elements": [
+    "dark",
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Soul Dragon",
+  "body_type": "Draco",
+  "food": "Starseed",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "conquerer",
+    "apocalypse",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/0c/Nidhogg_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/bd/Nidhogg_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Nidhogg_Default_Hatchling_M_Sprite.png/150px-Nidhogg_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/24/Nidhogg_Default_Hatchling_F_Sprite.png/150px-Nidhogg_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Nidhogg_Default_Hatchling_M_Sprite.png/150px-Nidhogg_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/24/Nidhogg_Default_Hatchling_F_Sprite.png/150px-Nidhogg_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/80/Nidhogg_Default_Adult_M_Sprite.png/150px-Nidhogg_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/10/Nidhogg_Default_Adult_F_Sprite.png/150px-Nidhogg_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/0c/Nidhogg_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

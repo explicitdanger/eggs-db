@@ -1,0 +1,39 @@
+{
+  "name": "voncias",
+  "egg_description": "This Egg is heavy contrary to its looks.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Water Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Fish",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/80/Voncias_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/7f/Voncias_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8a/Voncias_Default_Hatchling_M_Sprite.png/150px-Voncias_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/15/Voncias_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8a/Voncias_Default_Hatchling_M_Sprite.png/150px-Voncias_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/15/Voncias_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/73/Voncias_Default_Adult_M_Sprite.png/150px-Voncias_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/17/Voncias_Default_Adult_F_Sprite.png/150px-Voncias_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/80/Voncias_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

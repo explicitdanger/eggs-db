@@ -1,0 +1,38 @@
+{
+  "name": "celsior",
+  "egg_description": "This Egg pulls in stars with a subtle light.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Star Dragon",
+  "body_type": "Drake",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6a/Celsior_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0e/Celsior_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/18/Celsior_Default_Hatchling_M_Sprite.png/150px-Celsior_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1e/Celsior_Default_Hatchling_F_Sprite.png/150px-Celsior_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/18/Celsior_Default_Hatchling_M_Sprite.png/150px-Celsior_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1e/Celsior_Default_Hatchling_F_Sprite.png/150px-Celsior_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/37/Celsior_Default_Adult_M_Sprite.png/150px-Celsior_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/6b/Celsior_Default_Adult_F_Sprite.png/150px-Celsior_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6a/Celsior_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

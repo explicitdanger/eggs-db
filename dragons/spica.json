@@ -1,0 +1,38 @@
+{
+  "name": "spica",
+  "egg_description": "This Egg looks after wishes.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Star Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "shooting star",
+    "black hole"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/37/Spica_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/30/Spica_Default_Hatchling_M_Sprite.png/150px-Spica_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Spica_Default_Hatchling_F_Sprite.png/150px-Spica_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/30/Spica_Default_Hatchling_M_Sprite.png/150px-Spica_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Spica_Default_Hatchling_F_Sprite.png/150px-Spica_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/07/Spica_Default_Adult_M_Sprite.png/150px-Spica_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/05/Spica_Default_Adult_F_Sprite.png/150px-Spica_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/37/Spica_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

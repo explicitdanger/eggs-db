@@ -1,0 +1,31 @@
+{
+  "name": "azak",
+  "egg_description": "This Egg has large pincers.",
+  "elements": [
+    "dark",
+    "steel"
+  ],
+  "rarity": "Legendary",
+  "region": "East Yutakan",
+  "dragon_type": "Hextech Dragon",
+  "body_type": "Draco",
+  "food": "Mana",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "underground castle"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/27/Azak_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/eb/Azak_Dead_Egg_Sprite.png",
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cf/Azak_Default_Adult_M_Sprite.png/150px-Azak_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1e/Azak_Default_Adult_F_Sprite.png/150px-Azak_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/27/Azak_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

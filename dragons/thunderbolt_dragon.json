@@ -1,0 +1,39 @@
+{
+  "name": "thunderbolt dragon",
+  "egg_description": "This Egg is surrounded by powerful electricity.",
+  "elements": [
+    "lightning",
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Piranha",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/78/Thunderbolt_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/ff/Thunderbolt_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/37/Thunderbolt_Dragon_Default_Hatchling_M_Sprite.png/150px-Thunderbolt_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Thunderbolt_Dragon_Default_Hatchling_F_Sprite.png/150px-Thunderbolt_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/37/Thunderbolt_Dragon_Default_Hatchling_M_Sprite.png/150px-Thunderbolt_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Thunderbolt_Dragon_Default_Hatchling_F_Sprite.png/150px-Thunderbolt_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/50/Thunderbolt_Dragon_Default_Adult_M_Sprite.png/150px-Thunderbolt_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8b/Thunderbolt_Dragon_Default_Adult_F_Sprite.png/150px-Thunderbolt_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/78/Thunderbolt_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

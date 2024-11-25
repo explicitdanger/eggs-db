@@ -1,0 +1,39 @@
+{
+  "name": "star ace",
+  "egg_description": "This Egg wears a radiant guardian's armor.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/02/Star_Ace_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e8/Star_Ace_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c3/Star_Ace_Default_Hatchling_M_Sprite.png/150px-Star_Ace_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/95/Star_Ace_Default_Hatchling_F_Sprite.png/150px-Star_Ace_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c3/Star_Ace_Default_Hatchling_M_Sprite.png/150px-Star_Ace_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/95/Star_Ace_Default_Hatchling_F_Sprite.png/150px-Star_Ace_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e2/Star_Ace_Default_Adult_M_Sprite.png/150px-Star_Ace_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c7/Star_Ace_Default_Adult_F_Sprite.png/150px-Star_Ace_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/02/Star_Ace_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

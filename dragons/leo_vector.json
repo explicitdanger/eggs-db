@@ -1,0 +1,37 @@
+{
+  "name": "leo vector",
+  "egg_description": "This Egg is being charged.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Weapon Dragon",
+  "body_type": "Drake",
+  "food": "Electricity",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d1/Leo_Vector_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/6c/Leo_Vector_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/59/Leo_Vector_Default_Hatchling_M_Sprite.png/150px-Leo_Vector_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0f/Leo_Vector_Default_Hatchling_F_Sprite.png/150px-Leo_Vector_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/59/Leo_Vector_Default_Hatchling_M_Sprite.png/150px-Leo_Vector_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0f/Leo_Vector_Default_Hatchling_F_Sprite.png/150px-Leo_Vector_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/26/Leo_Vector_Default_Adult_M_Sprite.png/150px-Leo_Vector_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/47/Leo_Vector_Default_Adult_F_Sprite.png/150px-Leo_Vector_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d1/Leo_Vector_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

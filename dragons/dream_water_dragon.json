@@ -1,0 +1,38 @@
+{
+  "name": "dream water dragon",
+  "egg_description": "This Egg flickers.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Water Dragon",
+  "body_type": "Draco",
+  "food": "Scallop",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/3d/Dream_Water_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/aa/Dream_Water_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/2/20/Dream_Water_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/b4/Dream_Water_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/2/20/Dream_Water_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/b4/Dream_Water_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8a/Dream_Water_Dragon_Default_Adult_M_Sprite.png/150px-Dream_Water_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b6/Dream_Water_Dragon_Default_Adult_F_Sprite.png/150px-Dream_Water_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/3d/Dream_Water_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

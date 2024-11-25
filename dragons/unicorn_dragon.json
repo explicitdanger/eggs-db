@@ -1,0 +1,37 @@
+{
+  "name": "unicorn dragon",
+  "egg_description": "This Egg shows off its pink mane.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Fantasy Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "bicorn",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6c/Unicorn_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/13/Unicorn_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c4/Unicorn_Dragon_Default_Hatchling_M_Sprite.png/150px-Unicorn_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c4/Unicorn_Dragon_Default_Hatchling_M_Sprite.png/150px-Unicorn_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/61/Unicorn_Dragon_Default_Adult_M_Sprite.png/150px-Unicorn_Dragon_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6c/Unicorn_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

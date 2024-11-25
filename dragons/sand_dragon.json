@@ -1,0 +1,39 @@
+{
+  "name": "sand dragon",
+  "egg_description": "This Egg's shell has a sand-like texture.",
+  "elements": [
+    "fire",
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Sand Dragon",
+  "body_type": "Draco",
+  "food": "Mealworm, Crickets",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/21/Sand_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/97/Sand_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Sand_Dragon_Default_Hatchling_M_Sprite.png/150px-Sand_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7d/Sand_Dragon_Default_Hatchling_F_Sprite.png/150px-Sand_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Sand_Dragon_Default_Hatchling_M_Sprite.png/150px-Sand_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7d/Sand_Dragon_Default_Hatchling_F_Sprite.png/150px-Sand_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/37/Sand_Dragon_Default_Adult_M_Sprite.png/150px-Sand_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bd/Sand_Dragon_Default_Adult_F_Sprite.png/150px-Sand_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/21/Sand_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

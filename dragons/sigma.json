@@ -1,0 +1,39 @@
+{
+  "name": "sigma",
+  "egg_description": "This Egg wishes to protect darkness.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "persion",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/27/Sigma_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/9e/Sigma_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/5/53/Sigma_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ef/Sigma_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/5/53/Sigma_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ef/Sigma_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/67/Sigma_Default_Adult_M_Sprite.png/150px-Sigma_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1b/Sigma_Default_Adult_F_Sprite.png/150px-Sigma_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/27/Sigma_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

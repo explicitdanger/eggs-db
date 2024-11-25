@@ -1,0 +1,38 @@
+{
+  "name": "purple lips",
+  "egg_description": "This Egg holds a beautiful jewel.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Sea Dragon",
+  "body_type": "Deep Sea",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2d/Purple_Lips_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/24/Purple_Lips_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c9/Purple_Lips_Default_Hatchling_M_Sprite.png/150px-Purple_Lips_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f4/Purple_Lips_Default_Hatchling_F_Sprite.png/150px-Purple_Lips_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c9/Purple_Lips_Default_Hatchling_M_Sprite.png/150px-Purple_Lips_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f4/Purple_Lips_Default_Hatchling_F_Sprite.png/150px-Purple_Lips_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fd/Purple_Lips_Default_Adult_M_Sprite.png/150px-Purple_Lips_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/13/Purple_Lips_Default_Adult_F_Sprite.png/150px-Purple_Lips_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2d/Purple_Lips_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

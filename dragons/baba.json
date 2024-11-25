@@ -1,0 +1,40 @@
+{
+  "name": "baba",
+  "egg_description": "This Egg uses its antennae to search for food.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Animal Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "sea rabbit",
+    "undead (default)",
+    "undead (sea rabbit)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/8d/Baba_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/b7/Baba_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/0/08/Baba_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/2/23/Baba_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/0/08/Baba_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/2/23/Baba_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d1/Baba_Default_Adult_M_Sprite.png/150px-Baba_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7b/Baba_Default_Adult_F_Sprite.png/150px-Baba_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/8d/Baba_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

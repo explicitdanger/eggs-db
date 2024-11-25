@@ -1,0 +1,36 @@
+{
+  "name": "devared",
+  "egg_description": "This egg has a mysterious red pattern on it.",
+  "elements": [
+    "steel",
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Primeval Dragon",
+  "body_type": "Draco",
+  "food": "Watermelon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/7e/Devared_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/80/Devared_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/d7/Devared_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/d7/Devared_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fa/Devared_Default_Adult_M_Sprite.png/150px-Devared_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/7e/Devared_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

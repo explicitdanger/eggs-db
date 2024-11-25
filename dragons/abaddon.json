@@ -1,0 +1,39 @@
+{
+  "name": "abaddon",
+  "egg_description": "This Egg possesses a strong will for destruction.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Abyss Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "hellfire",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/54/Abaddon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/9a/Abaddon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a2/Abaddon_Default_Hatchling_M_Sprite.png/150px-Abaddon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/94/Abaddon_Default_Hatchling_F_Sprite.png/150px-Abaddon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a2/Abaddon_Default_Hatchling_M_Sprite.png/150px-Abaddon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/94/Abaddon_Default_Hatchling_F_Sprite.png/150px-Abaddon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/eb/Abaddon_Default_Adult_M_Sprite.png/150px-Abaddon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/31/Abaddon_Default_Adult_F_Sprite.png/150px-Abaddon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/54/Abaddon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

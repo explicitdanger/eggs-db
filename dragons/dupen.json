@@ -1,0 +1,38 @@
+{
+  "name": "dupen",
+  "egg_description": "This Egg holds a crystal of mysteries.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Strength Dragon",
+  "body_type": "Drake",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/61/Dupen_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/ec/Dupen_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/f/f3/Dupen_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/d1/Dupen_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/f/f3/Dupen_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/d1/Dupen_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3a/Dupen_Default_Adult_M_Sprite.png/150px-Dupen_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2f/Dupen_Default_Adult_F_Sprite.png/150px-Dupen_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/61/Dupen_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

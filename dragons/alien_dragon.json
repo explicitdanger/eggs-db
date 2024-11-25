@@ -1,0 +1,42 @@
+{
+  "name": "alien dragon",
+  "egg_description": "The ring around this Egg is very delicate.",
+  "elements": [
+    "dream",
+    "lightning"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Space Dragon",
+  "body_type": "Coatyl",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "red alien",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/7b/Alien_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0e/Alien_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/9/94/Alien_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/10/Alien_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/9/94/Alien_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/10/Alien_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/13/Alien_Dragon_Default_Adult_M_Sprite.png/150px-Alien_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Alien_Dragon_Default_Adult_F_Sprite.png/150px-Alien_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/7b/Alien_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

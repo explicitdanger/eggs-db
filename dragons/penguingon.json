@@ -1,0 +1,38 @@
+{
+  "name": "penguingon",
+  "egg_description": "This Egg is white, smooth, and has dense dark blue fur.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Penguin Dragon",
+  "body_type": "Draco",
+  "food": "Piremio",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/42/Penguingon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3b/Penguingon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/8/89/Penguingon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/cd/Penguingon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/8/89/Penguingon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/cd/Penguingon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c3/Penguingon_Default_Adult_M_Sprite.png/150px-Penguingon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/15/Penguingon_Default_Adult_F_Sprite.png/150px-Penguingon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/42/Penguingon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "ignis",
+  "egg_description": "This Egg has sharp fins.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Fire Dragon",
+  "body_type": "Draco",
+  "food": "Grasshopper",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/67/Ignis_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/fa/Ignis_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/44/Ignis_Default_Hatchling_M_Sprite.png/150px-Ignis_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b8/Ignis_Default_Hatchling_F_Sprite.png/150px-Ignis_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/44/Ignis_Default_Hatchling_M_Sprite.png/150px-Ignis_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b8/Ignis_Default_Hatchling_F_Sprite.png/150px-Ignis_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ce/Ignis_Default_Adult_M_Sprite.png/150px-Ignis_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/27/Ignis_Default_Adult_F_Sprite.png/150px-Ignis_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/67/Ignis_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "galaxia",
+  "egg_description": "This Egg has absorbed the light of a galaxy.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Space Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/75/Galaxia_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/26/Galaxia_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0f/Galaxia_Default_Hatchling_M_Sprite.png/150px-Galaxia_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2a/Galaxia_Default_Hatchling_F_Sprite.png/150px-Galaxia_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0f/Galaxia_Default_Hatchling_M_Sprite.png/150px-Galaxia_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2a/Galaxia_Default_Hatchling_F_Sprite.png/150px-Galaxia_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/26/Galaxia_Default_Adult_M_Sprite.png/150px-Galaxia_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5a/Galaxia_Default_Adult_F_Sprite.png/150px-Galaxia_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/75/Galaxia_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

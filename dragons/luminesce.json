@@ -1,0 +1,38 @@
+{
+  "name": "luminesce",
+  "egg_description": "This Egg emits a chill.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Piranha",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/37/Luminesce_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e7/Luminesce_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/03/Luminesce_Default_Hatchling_M_Sprite.png/150px-Luminesce_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c0/Luminesce_Default_Hatchling_F_Sprite.png/150px-Luminesce_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/03/Luminesce_Default_Hatchling_M_Sprite.png/150px-Luminesce_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c0/Luminesce_Default_Hatchling_F_Sprite.png/150px-Luminesce_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/10/Luminesce_Default_Adult_M_Sprite.png/150px-Luminesce_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/19/Luminesce_Default_Adult_F_Sprite.png/150px-Luminesce_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/37/Luminesce_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

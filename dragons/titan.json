@@ -1,0 +1,38 @@
+{
+  "name": "titan",
+  "egg_description": "This Egg holds the strength of giants.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Common",
+  "region": "West Yutakan",
+  "dragon_type": "Massive Dragon",
+  "body_type": "Draco",
+  "food": "Ham",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/30/Titan_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/68/Titan_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/92/Titan_Default_Hatchling_M_Sprite.png/150px-Titan_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4a/Titan_Default_Hatchling_F_Sprite.png/150px-Titan_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/92/Titan_Default_Hatchling_M_Sprite.png/150px-Titan_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4a/Titan_Default_Hatchling_F_Sprite.png/150px-Titan_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7e/Titan_Default_Adult_M_Sprite.png/150px-Titan_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c5/Titan_Default_Adult_F_Sprite.png/150px-Titan_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/30/Titan_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

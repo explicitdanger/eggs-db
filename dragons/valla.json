@@ -1,0 +1,39 @@
+{
+  "name": "valla",
+  "egg_description": "The branches around this Egg can be easily broken.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Grass",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "full moon valla",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/5e/Valla_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/20/Valla_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4b/Valla_Default_Hatchling_M_Sprite.png/150px-Valla_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a9/Valla_Default_Hatchling_F_Sprite.png/150px-Valla_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4b/Valla_Default_Hatchling_M_Sprite.png/150px-Valla_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a9/Valla_Default_Hatchling_F_Sprite.png/150px-Valla_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/73/Valla_Default_Adult_M_Sprite.png/150px-Valla_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/15/Valla_Default_Adult_F_Sprite.png/150px-Valla_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/5e/Valla_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

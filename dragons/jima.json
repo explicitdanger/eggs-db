@@ -1,0 +1,38 @@
+{
+  "name": "jima",
+  "egg_description": "This Egg has transparent fins underneath it.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Poison Dragon",
+  "body_type": "Draco",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f7/Jima_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/1e/Jima_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/3/32/Jima_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/dc/Jima_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/3/32/Jima_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/dc/Jima_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e0/Jima_Default_Adult_M_Sprite.png/150px-Jima_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9e/Jima_Default_Adult_F_Sprite.png/150px-Jima_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f7/Jima_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

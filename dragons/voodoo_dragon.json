@@ -1,0 +1,37 @@
+{
+  "name": "voodoo dragon",
+  "egg_description": "This Egg gives off creepy vibe.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Cursed Doll Dragon",
+  "body_type": "Draco",
+  "food": "Soul",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d8/Voodoo_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3a/Voodoo_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1b/Voodoo_Dragon_Default_Hatchling_M_Sprite.png/150px-Voodoo_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0b/Voodoo_Dragon_Default_Hatchling_F_Sprite.png/150px-Voodoo_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1b/Voodoo_Dragon_Default_Hatchling_M_Sprite.png/150px-Voodoo_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0b/Voodoo_Dragon_Default_Hatchling_F_Sprite.png/150px-Voodoo_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Voodoo_Dragon_Default_Adult_M_Sprite.png/150px-Voodoo_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/13/Voodoo_Dragon_Default_Adult_F_Sprite.png/150px-Voodoo_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d8/Voodoo_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

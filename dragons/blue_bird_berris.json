@@ -1,0 +1,38 @@
+{
+  "name": "blue bird berris",
+  "egg_description": "This Egg is wearing a blue brooch.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Discord Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/e0/Blue_Bird_Berris_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f6/Blue_Bird_Berris_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4e/Blue_Bird_Berris_Default_Hatchling_M_Sprite.png/150px-Blue_Bird_Berris_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c8/Blue_Bird_Berris_Default_Hatchling_F_Sprite.png/150px-Blue_Bird_Berris_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4e/Blue_Bird_Berris_Default_Hatchling_M_Sprite.png/150px-Blue_Bird_Berris_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c8/Blue_Bird_Berris_Default_Hatchling_F_Sprite.png/150px-Blue_Bird_Berris_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7b/Blue_Bird_Berris_Default_Adult_M_Sprite.png/150px-Blue_Bird_Berris_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/21/Blue_Bird_Berris_Default_Adult_F_Sprite.png/150px-Blue_Bird_Berris_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/e0/Blue_Bird_Berris_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

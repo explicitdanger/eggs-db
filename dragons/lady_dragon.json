@@ -1,0 +1,37 @@
+{
+  "name": "lady dragon",
+  "egg_description": "This Egg is bright pink.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Aroma Dragon",
+  "body_type": "Draco",
+  "food": "Eggberry",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "little witch lady",
+    "blonde lady",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/36/Lady_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/79/Lady_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "female": "https://dvc.wiki.gg/images/thumb/3/36/Lady_Dragon_Default_Hatchling_F_Sprite.png/150px-Lady_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "female": "https://dvc.wiki.gg/images/thumb/3/36/Lady_Dragon_Default_Hatchling_F_Sprite.png/150px-Lady_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "female": "https://dvc.wiki.gg/images/thumb/6/67/Lady_Dragon_Default_Adult_F_Sprite.png/150px-Lady_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/36/Lady_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

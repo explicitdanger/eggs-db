@@ -1,0 +1,40 @@
+{
+  "name": "darknix",
+  "egg_description": "Be careful of the red power this Egg holds.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Legendary",
+  "region": "East Yutakan",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/ef/Darknix_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/46/Darknix_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/73/Darknix_Default_Hatchling_M_Sprite.png/150px-Darknix_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8b/Darknix_Default_Hatchling_F_Sprite.png/150px-Darknix_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/73/Darknix_Default_Hatchling_M_Sprite.png/150px-Darknix_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8b/Darknix_Default_Hatchling_F_Sprite.png/150px-Darknix_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/34/Darknix_Default_Adult_M_Sprite.png/150px-Darknix_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2c/Darknix_Default_Adult_F_Sprite.png/150px-Darknix_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/ef/Darknix_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

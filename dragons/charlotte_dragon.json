@@ -1,0 +1,38 @@
+{
+  "name": "charlotte dragon",
+  "egg_description": "This Egg is topped with sweet cream.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Dessert Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/ef/Charlotte_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3d/Charlotte_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/42/Charlotte_Dragon_Default_Hatchling_M_Sprite.png/150px-Charlotte_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/dd/Charlotte_Dragon_Default_Hatchling_F_Sprite.png/150px-Charlotte_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/42/Charlotte_Dragon_Default_Hatchling_M_Sprite.png/150px-Charlotte_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/dd/Charlotte_Dragon_Default_Hatchling_F_Sprite.png/150px-Charlotte_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/45/Charlotte_Dragon_Default_Adult_M_Sprite.png/150px-Charlotte_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/22/Charlotte_Dragon_Default_Adult_F_Sprite.png/150px-Charlotte_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/ef/Charlotte_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

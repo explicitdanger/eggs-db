@@ -1,0 +1,37 @@
+{
+  "name": "agnad",
+  "egg_description": "This Egg is made of sturdy metal.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Weapon Dragon",
+  "body_type": "Draco",
+  "food": "Electricity",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/4b/Agnad_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/74/Agnad_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Agnad_Default_Hatchling_M_Sprite.png/150px-Agnad_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/96/Agnad_Default_Hatchling_F_Sprite.png/150px-Agnad_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Agnad_Default_Hatchling_M_Sprite.png/150px-Agnad_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/96/Agnad_Default_Hatchling_F_Sprite.png/150px-Agnad_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7d/Agnad_Default_Adult_M_Sprite.png/150px-Agnad_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1f/Agnad_Default_Adult_F_Sprite.png/150px-Agnad_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/4b/Agnad_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

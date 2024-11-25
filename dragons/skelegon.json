@@ -1,0 +1,28 @@
+{
+  "name": "skelegon",
+  "egg_description": "This Egg has bones sticking out.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Skull Dragon",
+  "body_type": "Wyvern",
+  "food": "?",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/4b/Skelegon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0e/Skelegon_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/4/4b/Skelegon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "chungmu haetae",
+  "egg_description": "This Egg is righteous.",
+  "elements": [
+    "steel",
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "General Dragon",
+  "body_type": "Drake",
+  "food": "Crab",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/00/Chungmu_Haetae_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/00/Chungmu_Haetae_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d1/Chungmu_Haetae_Default_Hatchling_M_Sprite.png/150px-Chungmu_Haetae_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e2/Chungmu_Haetae_Default_Hatchling_F_Sprite.png/150px-Chungmu_Haetae_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d1/Chungmu_Haetae_Default_Hatchling_M_Sprite.png/150px-Chungmu_Haetae_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e2/Chungmu_Haetae_Default_Hatchling_F_Sprite.png/150px-Chungmu_Haetae_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/45/Chungmu_Haetae_Default_Adult_M_Sprite.png/150px-Chungmu_Haetae_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4d/Chungmu_Haetae_Default_Adult_F_Sprite.png/150px-Chungmu_Haetae_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/00/Chungmu_Haetae_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

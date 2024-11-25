@@ -1,0 +1,30 @@
+{
+  "name": "mamunia",
+  "egg_description": "This Egg loves water.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Munia",
+  "food": "Rainbow Fish",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/96/Mamunia_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/48/Mamunia_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/9/96/Mamunia_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

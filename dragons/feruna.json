@@ -1,0 +1,41 @@
+{
+  "name": "feruna",
+  "egg_description": "This Egg is accompanied by dark souls.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Demon Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "soul demon",
+    "love angel",
+    "sea demon",
+    "sweet devil"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b1/Feruna_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/2e/Feruna_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/ad/Feruna_Default_Hatchling_M_Sprite.png/150px-Feruna_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/49/Feruna_Default_Hatchling_F_Sprite.png/150px-Feruna_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/ad/Feruna_Default_Hatchling_M_Sprite.png/150px-Feruna_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/49/Feruna_Default_Hatchling_F_Sprite.png/150px-Feruna_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/eb/Feruna_Default_Adult_M_Sprite.png/150px-Feruna_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9d/Feruna_Default_Adult_F_Sprite.png/150px-Feruna_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b1/Feruna_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

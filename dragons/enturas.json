@@ -1,0 +1,39 @@
+{
+  "name": "enturas",
+  "egg_description": "This Egg ignites with flames that summon annihilation.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Warden Dragon",
+  "body_type": "Drake",
+  "food": "Roast Turkey",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "celestial",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/de/Enturas_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/53/Enturas_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/b/be/Enturas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/6c/Enturas_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/b/be/Enturas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/6c/Enturas_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/85/Enturas_Default_Adult_M_Sprite.png/150px-Enturas_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/17/Enturas_Default_Adult_F_Sprite.png/150px-Enturas_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/de/Enturas_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

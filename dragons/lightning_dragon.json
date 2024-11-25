@@ -1,0 +1,38 @@
+{
+  "name": "lightning dragon",
+  "egg_description": "The pattern on this Egg resembles lightning.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Grasshopper",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/87/Lightning_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e4/Lightning_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/e/e5/Lightning_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/e6/Lightning_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/e/e5/Lightning_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/e6/Lightning_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fc/Lightning_Dragon_Default_Adult_M_Sprite.png/150px-Lightning_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/15/Lightning_Dragon_Default_Adult_F_Sprite.png/150px-Lightning_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/87/Lightning_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

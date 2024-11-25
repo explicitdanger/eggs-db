@@ -1,0 +1,40 @@
+{
+  "name": "egg mayo dragon",
+  "egg_description": "This Egg smells like mayonnaise.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Feed Dragon",
+  "body_type": "Drake",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "egg mayo",
+    "hamburger"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/a9/Egg_Mayo_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/36/Egg_Mayo_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/a/a4/Egg_Mayo_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/0e/Egg_Mayo_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/a/a4/Egg_Mayo_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/0e/Egg_Mayo_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/a/a3/Egg_Mayo_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/8/83/Egg_Mayo_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/a9/Egg_Mayo_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

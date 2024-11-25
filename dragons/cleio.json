@@ -1,0 +1,40 @@
+{
+  "name": "cleio",
+  "egg_description": "This Egg is filled with the will of a guardian.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Deep Sea",
+  "food": "Rainbow Fish",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "oblivion",
+    "protection"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d3/Cleio_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f6/Cleio_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/98/Cleio_Default_Hatchling_M_Sprite.png/150px-Cleio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f8/Cleio_Default_Hatchling_F_Sprite.png/150px-Cleio_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/98/Cleio_Default_Hatchling_M_Sprite.png/150px-Cleio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f8/Cleio_Default_Hatchling_F_Sprite.png/150px-Cleio_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/34/Cleio_Default_Adult_M_Sprite.png/150px-Cleio_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/50/Cleio_Default_Adult_F_Sprite.png/150px-Cleio_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d3/Cleio_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

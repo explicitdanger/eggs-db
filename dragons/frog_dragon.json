@@ -1,0 +1,23 @@
+{
+  "name": "frog dragon",
+  "egg_description": "This Egg is smooth but has coarse hairs.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Water Dragon",
+  "body_type": "Draco",
+  "food": "Crickets, Mealworm",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "spring",
+    "summer",
+    "fall",
+    "winter",
+    "undead (default)"
+  ],
+  "assets": {},
+  "special_actions": []
+}

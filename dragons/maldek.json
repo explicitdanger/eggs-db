@@ -1,0 +1,36 @@
+{
+  "name": "maldek",
+  "egg_description": "This Egg wishes to absorb life from a living being.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Earth Dragon",
+  "body_type": "Drake",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "arcane",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c9/Maldek_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0d/Maldek_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/21/Maldek_Default_Hatchling_M_Sprite.png/150px-Maldek_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/21/Maldek_Default_Hatchling_M_Sprite.png/150px-Maldek_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/45/Maldek_Default_Adult_M_Sprite.png/150px-Maldek_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c9/Maldek_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

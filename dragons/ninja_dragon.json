@@ -1,0 +1,38 @@
+{
+  "name": "ninja dragon",
+  "egg_description": "This Egg tries to hide itself.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Ninja Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/22/Ninja_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/76/Ninja_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/77/Ninja_Dragon_Default_Hatchling_M_Sprite.png/150px-Ninja_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/11/Ninja_Dragon_Default_Hatchling_F_Sprite.png/150px-Ninja_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/77/Ninja_Dragon_Default_Hatchling_M_Sprite.png/150px-Ninja_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/11/Ninja_Dragon_Default_Hatchling_F_Sprite.png/150px-Ninja_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/49/Ninja_Dragon_Default_Adult_M_Sprite.png/150px-Ninja_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c5/Ninja_Dragon_Default_Adult_F_Sprite.png/150px-Ninja_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/22/Ninja_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

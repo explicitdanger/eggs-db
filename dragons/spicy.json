@@ -1,0 +1,38 @@
+{
+  "name": "spicy",
+  "egg_description": "This Egg wants to reach the light.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/58/Spicy_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/31/Spicy_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/08/Spicy_Default_Hatchling_M_Sprite.png/150px-Spicy_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Spicy_Default_Hatchling_F_Sprite.png/150px-Spicy_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/08/Spicy_Default_Hatchling_M_Sprite.png/150px-Spicy_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Spicy_Default_Hatchling_F_Sprite.png/150px-Spicy_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/33/Spicy_Default_Adult_M_Sprite.png/150px-Spicy_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/87/Spicy_Default_Adult_F_Sprite.png/150px-Spicy_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/58/Spicy_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,35 @@
+{
+  "name": "angel jr",
+  "egg_description": "This Egg has small wings.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/91/Angel_Jr_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/65/Angel_Jr_Dead_Egg_Sprite.png",
+      "hatch": {
+        "female": "https://dvc.wiki.gg/images/thumb/3/31/Angel_Jr_Default_Hatchling_F_Sprite.png/150px-Angel_Jr_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "female": "https://dvc.wiki.gg/images/thumb/3/31/Angel_Jr_Default_Hatchling_F_Sprite.png/150px-Angel_Jr_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "female": "https://dvc.wiki.gg/images/thumb/1/1a/Angel_Jr_Default_Adult_F_Sprite.png/150px-Angel_Jr_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/91/Angel_Jr_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

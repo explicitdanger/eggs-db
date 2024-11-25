@@ -1,0 +1,37 @@
+{
+  "name": "smart dragon",
+  "egg_description": "This Egg is incredibly still.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Book Dragon",
+  "body_type": "Draco",
+  "food": "Eggberry",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "spectator",
+    "astronomer",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/18/Smart_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/8a/Smart_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8f/Smart_Dragon_Default_Hatchling_M_Sprite.png/150px-Smart_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8f/Smart_Dragon_Default_Hatchling_M_Sprite.png/150px-Smart_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/76/Smart_Dragon_Default_Adult_M_Sprite.png/150px-Smart_Dragon_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/18/Smart_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "cupi friend",
+  "egg_description": "This Egg brings a symbol of good luck.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Friendship Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Fish",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "heart",
+    "double heart",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/e1/Cupi_Friend_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ac/Cupi_Friend_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b4/Cupi_Friend_Default_Hatchling_M_Sprite.png/150px-Cupi_Friend_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/22/Cupi_Friend_Default_Hatchling_F_Sprite.png/150px-Cupi_Friend_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b4/Cupi_Friend_Default_Hatchling_M_Sprite.png/150px-Cupi_Friend_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/22/Cupi_Friend_Default_Hatchling_F_Sprite.png/150px-Cupi_Friend_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/02/Cupi_Friend_Default_Adult_M_Sprite.png/150px-Cupi_Friend_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/17/Cupi_Friend_Default_Adult_F_Sprite.png/150px-Cupi_Friend_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/e1/Cupi_Friend_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

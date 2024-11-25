@@ -1,0 +1,39 @@
+{
+  "name": "feyrex",
+  "egg_description": "This Egg holds the energy of fairies.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Fairy Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Flower",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "final guardian",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/89/Feyrex_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/09/Feyrex_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/04/Feyrex_Default_Hatchling_M_Sprite.png/150px-Feyrex_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/86/Feyrex_Default_Hatchling_F_Sprite.png/150px-Feyrex_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/04/Feyrex_Default_Hatchling_M_Sprite.png/150px-Feyrex_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/86/Feyrex_Default_Hatchling_F_Sprite.png/150px-Feyrex_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b8/Feyrex_Default_Adult_M_Sprite.png/150px-Feyrex_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1f/Feyrex_Default_Adult_F_Sprite.png/150px-Feyrex_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/89/Feyrex_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

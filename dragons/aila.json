@@ -1,0 +1,40 @@
+{
+  "name": "aila",
+  "egg_description": "This Egg gathers starlight.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Space Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "traveler of light",
+    "traveler of dreams",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d6/Aila_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ad/Aila_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/1/10/Aila_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/66/Aila_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/1/10/Aila_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/66/Aila_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b3/Aila_Default_Adult_M_Sprite.png/150px-Aila_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/30/Aila_Default_Adult_F_Sprite.png/150px-Aila_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d6/Aila_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

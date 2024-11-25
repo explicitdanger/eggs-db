@@ -1,0 +1,38 @@
+{
+  "name": "jump dragon",
+  "egg_description": "This Egg rarely stays on the ground.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Nomad Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/26/Jump_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/84/Jump_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/d1/Jump_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a9/Jump_Dragon_Default_Hatchling_F_Sprite.png/150px-Jump_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/d1/Jump_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a9/Jump_Dragon_Default_Hatchling_F_Sprite.png/150px-Jump_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1b/Jump_Dragon_Default_Adult_M_Sprite.png/150px-Jump_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e4/Jump_Dragon_Default_Adult_F_Sprite.png/150px-Jump_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/26/Jump_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

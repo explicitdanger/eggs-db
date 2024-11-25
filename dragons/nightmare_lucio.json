@@ -1,0 +1,39 @@
+{
+  "name": "nightmare lucio",
+  "egg_description": "This Egg causes hallucinations.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Hallucination Dragon",
+  "body_type": "Coatyl",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/1f/Nightmare_Lucio_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/79/Nightmare_Lucio_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0d/Nightmare_Lucio_Default_Hatchling_M_Sprite.png/150px-Nightmare_Lucio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5b/Nightmare_Lucio_Default_Hatchling_F_Sprite.png/150px-Nightmare_Lucio_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0d/Nightmare_Lucio_Default_Hatchling_M_Sprite.png/150px-Nightmare_Lucio_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5b/Nightmare_Lucio_Default_Hatchling_F_Sprite.png/150px-Nightmare_Lucio_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/81/Nightmare_Lucio_Default_Adult_M_Sprite.png/150px-Nightmare_Lucio_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cb/Nightmare_Lucio_Default_Adult_F_Sprite.png/150px-Nightmare_Lucio_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/1f/Nightmare_Lucio_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

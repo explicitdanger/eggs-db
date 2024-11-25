@@ -1,0 +1,38 @@
+{
+  "name": "tara",
+  "egg_description": "This Egg has melted wax dripping down from it.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Wish Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "black candle"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/08/Tara_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ab/Tara_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/24/Tara_Default_Hatchling_M_Sprite.png/150px-Tara_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a3/Tara_Default_Hatchling_F_Sprite.png/150px-Tara_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/24/Tara_Default_Hatchling_M_Sprite.png/150px-Tara_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a3/Tara_Default_Hatchling_F_Sprite.png/150px-Tara_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/2e/Tara_Default_Adult_M_Sprite.png/150px-Tara_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/af/Tara_Default_Adult_F_Sprite.png/150px-Tara_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/08/Tara_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

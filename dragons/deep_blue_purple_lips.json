@@ -1,0 +1,41 @@
+{
+  "name": "deep blue purple lips",
+  "egg_description": "This Egg arouses greed.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Deep Sea",
+  "food": "Mullet, crucian carp, mackerel",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "day",
+    "night",
+    "full moon",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/62/Deep_Blue_Purple_Lips_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/1f/Deep_Blue_Purple_Lips_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c9/Deep_Blue_Purple_Lips_Default_Hatchling_M_Sprite.png/150px-Deep_Blue_Purple_Lips_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/07/Deep_Blue_Purple_Lips_Default_Hatchling_F_Sprite.png/150px-Deep_Blue_Purple_Lips_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c9/Deep_Blue_Purple_Lips_Default_Hatchling_M_Sprite.png/150px-Deep_Blue_Purple_Lips_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/07/Deep_Blue_Purple_Lips_Default_Hatchling_F_Sprite.png/150px-Deep_Blue_Purple_Lips_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/29/Deep_Blue_Purple_Lips_Default_Adult_M_Sprite.png/150px-Deep_Blue_Purple_Lips_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cd/Deep_Blue_Purple_Lips_Default_Adult_F_Sprite.png/150px-Deep_Blue_Purple_Lips_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/62/Deep_Blue_Purple_Lips_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

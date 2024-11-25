@@ -1,0 +1,30 @@
+{
+  "name": "timber dragon",
+  "egg_description": "This Egg looks like a lump of branches.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "wooden Dragon",
+  "body_type": "Draco",
+  "food": "Grapefruit",
+  "tradeable": false,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "cherry blossom tree",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/79/Timber_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5b/Timber_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/7/79/Timber_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

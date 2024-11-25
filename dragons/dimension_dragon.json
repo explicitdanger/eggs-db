@@ -1,0 +1,40 @@
+{
+  "name": "dimension dragon",
+  "egg_description": "This Egg is found at the Dimensional Gap.",
+  "elements": [
+    "dream",
+    "steel"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Dimension Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "observer",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c7/Dimension_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/bb/Dimension_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bf/Dimension_Dragon_Default_Hatchling_M_Sprite.png/150px-Dimension_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/76/Dimension_Dragon_Default_Hatchling_F_Sprite.png/150px-Dimension_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bf/Dimension_Dragon_Default_Hatchling_M_Sprite.png/150px-Dimension_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/76/Dimension_Dragon_Default_Hatchling_F_Sprite.png/150px-Dimension_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/38/Dimension_Dragon_Default_Adult_M_Sprite.png/150px-Dimension_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/83/Dimension_Dragon_Default_Adult_F_Sprite.png/150px-Dimension_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c7/Dimension_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

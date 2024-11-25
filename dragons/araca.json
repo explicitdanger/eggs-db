@@ -1,0 +1,41 @@
+{
+  "name": "araca",
+  "egg_description": "This egg feels like the spirit of the wind.",
+  "elements": [
+    "wind",
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Knight Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/14/Araca_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a2/Araca_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d6/Araca_Default_Hatchling_M_Sprite.png/150px-Araca_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Araca_Default_Hatchling_F_Sprite.png/150px-Araca_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d6/Araca_Default_Hatchling_M_Sprite.png/150px-Araca_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/14/Araca_Default_Hatchling_F_Sprite.png/150px-Araca_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/42/Araca_Default_Adult_M_Sprite.png/150px-Araca_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/49/Araca_Default_Adult_F_Sprite.png/150px-Araca_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/14/Araca_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

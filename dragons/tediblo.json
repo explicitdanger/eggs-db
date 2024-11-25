@@ -1,0 +1,37 @@
+{
+  "name": "tediblo",
+  "egg_description": "This Egg has been abandoned after being loved.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Doll Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/57/Tediblo_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/b6/Tediblo_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/12/Tediblo_Default_Hatchling_M_Sprite.png/150px-Tediblo_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/71/Tediblo_Default_Hatchling_F_Sprite.png/150px-Tediblo_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/12/Tediblo_Default_Hatchling_M_Sprite.png/150px-Tediblo_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/71/Tediblo_Default_Hatchling_F_Sprite.png/150px-Tediblo_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/83/Tediblo_Default_Adult_M_Sprite.png/150px-Tediblo_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b5/Tediblo_Default_Adult_F_Sprite.png/150px-Tediblo_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/57/Tediblo_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

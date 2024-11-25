@@ -1,0 +1,30 @@
+{
+  "name": "leglien",
+  "egg_description": "This Egg spreads poisonous gas.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Alien Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/61/Leglien_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/94/Leglien_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/6/61/Leglien_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

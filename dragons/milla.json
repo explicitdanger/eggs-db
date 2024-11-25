@@ -1,0 +1,38 @@
+{
+  "name": "milla",
+  "egg_description": "This Egg resembles nature.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Common",
+  "region": "Sky Kingdom",
+  "dragon_type": "Massive Dragon",
+  "body_type": "Deep Sea",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/54/Milla_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/12/Milla_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Milla_Default_Hatchling_M_Sprite.png/150px-Milla_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Milla_Default_Hatchling_F_Sprite.png/150px-Milla_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Milla_Default_Hatchling_M_Sprite.png/150px-Milla_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Milla_Default_Hatchling_F_Sprite.png/150px-Milla_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/96/Milla_Default_Adult_M_Sprite.png/150px-Milla_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e8/Milla_Default_Adult_F_Sprite.png/150px-Milla_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/54/Milla_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

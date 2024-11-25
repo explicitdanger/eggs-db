@@ -1,0 +1,38 @@
+{
+  "name": "maple dragon",
+  "egg_description": "This Egg has a leaf pattern.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "wooden Dragon",
+  "body_type": "Draco",
+  "food": "Maple Leaf",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c8/Maple_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5f/Maple_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/85/Maple_Dragon_Default_Hatchling_M_Sprite.png/150px-Maple_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7a/Maple_Dragon_Default_Hatchling_F_Sprite.png/150px-Maple_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/85/Maple_Dragon_Default_Hatchling_M_Sprite.png/150px-Maple_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7a/Maple_Dragon_Default_Hatchling_F_Sprite.png/150px-Maple_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3e/Maple_Dragon_Default_Adult_M_Sprite.png/150px-Maple_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/45/Maple_Dragon_Default_Adult_F_Sprite.png/150px-Maple_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c8/Maple_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

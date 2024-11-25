@@ -1,0 +1,37 @@
+{
+  "name": "frankenstein dragon",
+  "egg_description": "This Egg has screws attached to it.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Experiment Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/cd/Frankenstein_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/6b/Frankenstein_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b8/Frankenstein_Dragon_Default_Hatchling_M_Sprite.png/150px-Frankenstein_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/05/Frankenstein_Dragon_Default_Hatchling_F_Sprite.png/150px-Frankenstein_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b8/Frankenstein_Dragon_Default_Hatchling_M_Sprite.png/150px-Frankenstein_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/05/Frankenstein_Dragon_Default_Hatchling_F_Sprite.png/150px-Frankenstein_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d2/Frankenstein_Dragon_Default_Adult_M_Sprite.png/150px-Frankenstein_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d2/Frankenstein_Dragon_Default_Adult_F_Sprite.png/150px-Frankenstein_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/cd/Frankenstein_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

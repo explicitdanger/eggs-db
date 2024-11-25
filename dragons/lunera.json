@@ -1,0 +1,39 @@
+{
+  "name": "lunera",
+  "egg_description": "The dragon inside this egg has a moon-shaped gemstone.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Moon Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "lunar eclipse",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bc/Lunera_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/cd/Lunera_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a8/Lunera_Default_Hatchling_M_Sprite.png/150px-Lunera_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a1/Lunera_Default_Hatchling_F_Sprite.png/150px-Lunera_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a8/Lunera_Default_Hatchling_M_Sprite.png/150px-Lunera_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a1/Lunera_Default_Hatchling_F_Sprite.png/150px-Lunera_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f1/Lunera_Default_Adult_M_Sprite.png/150px-Lunera_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0d/Lunera_Default_Adult_F_Sprite.png/150px-Lunera_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bc/Lunera_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "gold applecheek",
+  "egg_description": "This Egg smells like sweet and sour apples.",
+  "elements": [
+    "dream",
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Apple Dragon",
+  "body_type": "Draco",
+  "food": "Apple",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/33/Gold_Applecheek_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f4/Gold_Applecheek_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/f/ff/Gold_Applecheek_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/3c/Gold_Applecheek_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/f/ff/Gold_Applecheek_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/3c/Gold_Applecheek_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cf/Gold_Applecheek_Default_Adult_M_Sprite.png/150px-Gold_Applecheek_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f7/Gold_Applecheek_Default_Adult_F_Sprite.png/150px-Gold_Applecheek_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/33/Gold_Applecheek_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "minas",
+  "egg_description": "This Egg is wearing fancy armor.",
+  "elements": [
+    "steel",
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Moon Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/25/Minas_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/58/Minas_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Minas_Default_Hatchling_M_Sprite.png/150px-Minas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ef/Minas_Default_Hatchling_F_Sprite.png/150px-Minas_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Minas_Default_Hatchling_M_Sprite.png/150px-Minas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ef/Minas_Default_Hatchling_F_Sprite.png/150px-Minas_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c1/Minas_Default_Adult_M_Sprite.png/150px-Minas_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/49/Minas_Default_Adult_F_Sprite.png/150px-Minas_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/25/Minas_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

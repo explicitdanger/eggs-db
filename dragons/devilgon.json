@@ -1,0 +1,38 @@
+{
+  "name": "devilgon",
+  "egg_description": "This Egg resonates with the spirit of dead Dragons.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Common",
+  "region": "West Yutakan",
+  "dragon_type": "Demon Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/fb/Devilgon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/da/Devilgon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5f/Devilgon_Default_Hatchling_M_Sprite.png/150px-Devilgon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e7/Devilgon_Default_Hatchling_F_Sprite.png/150px-Devilgon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5f/Devilgon_Default_Hatchling_M_Sprite.png/150px-Devilgon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e7/Devilgon_Default_Hatchling_F_Sprite.png/150px-Devilgon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/89/Devilgon_Default_Adult_M_Sprite.png/150px-Devilgon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/6c/Devilgon_Default_Adult_F_Sprite.png/150px-Devilgon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/fb/Devilgon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "angel dragon",
+  "egg_description": "This Egg has angel-like wings.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "angelic protection",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/08/Angel_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f9/Angel_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/0/0b/Angel_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/a/a1/Angel_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/0/0b/Angel_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/a/a1/Angel_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a9/Angel_Dragon_Default_Adult_M_Sprite.png/150px-Angel_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/50/Angel_Dragon_Default_Adult_F_Sprite.png/150px-Angel_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/08/Angel_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

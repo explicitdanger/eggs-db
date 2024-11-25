@@ -1,0 +1,39 @@
+{
+  "name": "cloud dragon",
+  "egg_description": "This Egg is with the clouds.",
+  "elements": [
+    "water",
+    "lightning"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Cloud Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b6/Cloud_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/14/Cloud_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/c/cb/Cloud_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/2/25/Cloud_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/c/cb/Cloud_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/2/25/Cloud_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/00/Cloud_Dragon_Default_Adult_M_Sprite.png/150px-Cloud_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/80/Cloud_Dragon_Default_Adult_F_Sprite.png/150px-Cloud_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b6/Cloud_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

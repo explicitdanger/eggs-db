@@ -1,0 +1,38 @@
+{
+  "name": "gaian",
+  "egg_description": "This Egg has unbreakable scales.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Warden Dragon",
+  "body_type": "Draco",
+  "food": "Ham",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/74/Gaian_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/34/Gaian_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Gaian_Default_Hatchling_M_Sprite.png/150px-Gaian_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c8/Gaian_Default_Hatchling_F_Sprite.png/150px-Gaian_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Gaian_Default_Hatchling_M_Sprite.png/150px-Gaian_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c8/Gaian_Default_Hatchling_F_Sprite.png/150px-Gaian_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/25/Gaian_Default_Adult_M_Sprite.png/150px-Gaian_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/25/Gaian_Default_Adult_F_Sprite.png/150px-Gaian_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/74/Gaian_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

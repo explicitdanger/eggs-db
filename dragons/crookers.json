@@ -1,0 +1,38 @@
+{
+  "name": "crookers",
+  "egg_description": "This Egg is wrapped in wings.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Fantasy Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/60/Crookers_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f8/Crookers_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/ff/Crookers_Default_Hatchling_M_Sprite.png/150px-Crookers_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/43/Crookers_Default_Hatchling_F_Sprite.png/150px-Crookers_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/ff/Crookers_Default_Hatchling_M_Sprite.png/150px-Crookers_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/43/Crookers_Default_Hatchling_F_Sprite.png/150px-Crookers_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/31/Crookers_Default_Adult_M_Sprite.png/150px-Crookers_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b6/Crookers_Default_Adult_F_Sprite.png/150px-Crookers_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/60/Crookers_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

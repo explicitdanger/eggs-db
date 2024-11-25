@@ -1,0 +1,38 @@
+{
+  "name": "gorgon",
+  "egg_description": "This Egg is wrapped by a snake.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Venomous Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c7/Gorgon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5e/Gorgon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/af/Gorgon_Default_Hatchling_M_Sprite.png/150px-Gorgon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/80/Gorgon_Default_Hatchling_F_Sprite.png/150px-Gorgon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/af/Gorgon_Default_Hatchling_M_Sprite.png/150px-Gorgon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/80/Gorgon_Default_Hatchling_F_Sprite.png/150px-Gorgon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1f/Gorgon_Default_Adult_M_Sprite.png/150px-Gorgon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e1/Gorgon_Default_Adult_F_Sprite.png/150px-Gorgon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c7/Gorgon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

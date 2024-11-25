@@ -1,0 +1,38 @@
+{
+  "name": "vargr",
+  "egg_description": "This Egg evokes a sense of vengeance.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Revenge Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d2/Vargr_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/ba/Vargr_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/15/Vargr_Default_Hatchling_M_Sprite.png/150px-Vargr_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f7/Vargr_Default_Hatchling_F_Sprite.png/150px-Vargr_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/15/Vargr_Default_Hatchling_M_Sprite.png/150px-Vargr_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f7/Vargr_Default_Hatchling_F_Sprite.png/150px-Vargr_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/eb/Vargr_Default_Adult_M_Sprite.png/150px-Vargr_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8f/Vargr_Default_Adult_F_Sprite.png/150px-Vargr_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d2/Vargr_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

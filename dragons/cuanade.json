@@ -1,0 +1,38 @@
+{
+  "name": "cuanade",
+  "egg_description": "This Egg is inside an incubation device.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Helper Dragon",
+  "body_type": "Draco",
+  "food": "Haunted Pumpkin",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/7b/Cuanade_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/48/Cuanade_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Cuanade_Default_Hatchling_M_Sprite.png/150px-Cuanade_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Cuanade_Default_Hatchling_F_Sprite.png/150px-Cuanade_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Cuanade_Default_Hatchling_M_Sprite.png/150px-Cuanade_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Cuanade_Default_Hatchling_F_Sprite.png/150px-Cuanade_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/cb/Cuanade_Default_Adult_M_Sprite.png/150px-Cuanade_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2a/Cuanade_Default_Adult_F_Sprite.png/150px-Cuanade_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/7b/Cuanade_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

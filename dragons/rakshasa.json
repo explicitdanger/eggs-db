@@ -1,0 +1,42 @@
+{
+  "name": "rakshasa",
+  "egg_description": "This Egg is found around shipwrecks.",
+  "elements": [
+    "dark",
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Abyss Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piranha",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "ocean",
+    "deep sea",
+    "ocean floor",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2d/Rakshasa_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/4a/Rakshasa_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/0/0f/Rakshasa_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/8/88/Rakshasa_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/0/0f/Rakshasa_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/8/88/Rakshasa_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/34/Rakshasa_Default_Adult_M_Sprite.png/150px-Rakshasa_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ea/Rakshasa_Default_Adult_F_Sprite.png/150px-Rakshasa_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2d/Rakshasa_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

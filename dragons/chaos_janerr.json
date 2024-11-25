@@ -1,0 +1,29 @@
+{
+  "name": "chaos janerr",
+  "egg_description": "This Egg attracts the vile.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Chaos Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6b/Chaos_Janerr_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/de/Chaos_Janerr_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6b/Chaos_Janerr_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

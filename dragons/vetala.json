@@ -1,0 +1,38 @@
+{
+  "name": "vetala",
+  "egg_description": "This Egg has black fangs attached to it.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Common",
+  "region": "Deep Sea",
+  "dragon_type": "Bat Dragon",
+  "body_type": "Wyvern",
+  "food": "Roast Turkey",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/ce/Vetala_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/ab/Vetala_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8f/Vetala_Default_Hatchling_M_Sprite.png/150px-Vetala_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fe/Vetala_Default_Hatchling_F_Sprite.png/150px-Vetala_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8f/Vetala_Default_Hatchling_M_Sprite.png/150px-Vetala_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fe/Vetala_Default_Hatchling_F_Sprite.png/150px-Vetala_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/83/Vetala_Default_Adult_M_Sprite.png/150px-Vetala_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5f/Vetala_Default_Adult_F_Sprite.png/150px-Vetala_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/ce/Vetala_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

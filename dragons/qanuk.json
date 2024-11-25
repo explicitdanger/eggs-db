@@ -1,0 +1,40 @@
+{
+  "name": "qanuk",
+  "egg_description": "This Egg has lush white fur growing on it.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Igloo Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "sculptor of the snowfield",
+    "explorer of the snowfield",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/8d/Qanuk_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/ba/Qanuk_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/83/Qanuk_Default_Hatchling_M_Sprite.png/150px-Qanuk_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bf/Qanuk_Default_Hatchling_F_Sprite.png/150px-Qanuk_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/83/Qanuk_Default_Hatchling_M_Sprite.png/150px-Qanuk_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bf/Qanuk_Default_Hatchling_F_Sprite.png/150px-Qanuk_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3d/Qanuk_Default_Adult_M_Sprite.png/150px-Qanuk_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/dc/Qanuk_Default_Adult_F_Sprite.png/150px-Qanuk_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/8d/Qanuk_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

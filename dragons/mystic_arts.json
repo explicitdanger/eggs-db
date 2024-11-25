@@ -1,0 +1,38 @@
+{
+  "name": "mystic arts",
+  "egg_description": "This Egg constantly watches its surroundings.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Grit Dragon",
+  "body_type": "Drake",
+  "food": "Grapefruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f2/Mystic_Arts_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5d/Mystic_Arts_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/1/1b/Mystic_Arts_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/8/8a/Mystic_Arts_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/1/1b/Mystic_Arts_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/8/8a/Mystic_Arts_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/85/Mystic_Arts_Default_Adult_M_Sprite.png/150px-Mystic_Arts_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/13/Mystic_Arts_Default_Adult_F_Sprite.png/150px-Mystic_Arts_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f2/Mystic_Arts_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

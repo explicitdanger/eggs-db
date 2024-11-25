@@ -1,0 +1,22 @@
+{
+  "name": "xmas dragon",
+  "egg_description": "This egg is decorated with a red ribbon.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Christmas Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "carol of light",
+    "silent night",
+    "christmas tree",
+    "undead (default)"
+  ],
+  "assets": {},
+  "special_actions": []
+}

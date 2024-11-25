@@ -1,0 +1,39 @@
+{
+  "name": "kirin",
+  "egg_description": "This Egg has a golden horn.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Reaper Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Flower",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/7a/Kirin_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/59/Kirin_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7f/Kirin_Default_Hatchling_M_Sprite.png/150px-Kirin_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7b/Kirin_Default_Hatchling_F_Sprite.png/150px-Kirin_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7f/Kirin_Default_Hatchling_M_Sprite.png/150px-Kirin_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7b/Kirin_Default_Hatchling_F_Sprite.png/150px-Kirin_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/ae/Kirin_Default_Adult_M_Sprite.png/150px-Kirin_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c0/Kirin_Default_Adult_F_Sprite.png/150px-Kirin_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/7a/Kirin_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

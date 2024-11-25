@@ -1,0 +1,39 @@
+{
+  "name": "frame",
+  "egg_description": "This Egg is placed in a frame.",
+  "elements": [
+    "dream",
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Frame Dragon",
+  "body_type": "Draco",
+  "food": "Memory",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/de/Frame_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/4a/Frame_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8a/Frame_Default_Hatchling_M_Sprite.png/150px-Frame_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/11/Frame_Default_Hatchling_F_Sprite.png/150px-Frame_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8a/Frame_Default_Hatchling_M_Sprite.png/150px-Frame_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/11/Frame_Default_Hatchling_F_Sprite.png/150px-Frame_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d9/Frame_Default_Adult_M_Sprite.png/150px-Frame_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/72/Frame_Default_Adult_F_Sprite.png/150px-Frame_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/de/Frame_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

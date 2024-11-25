@@ -1,0 +1,38 @@
+{
+  "name": "goldie",
+  "egg_description": "This Egg has a gold shaped mark.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Gold Dragon",
+  "body_type": "Drake",
+  "food": "Ore",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/32/Goldie_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5e/Goldie_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/f/f9/Goldie_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/d8/Goldie_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/f/f9/Goldie_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/d/d8/Goldie_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/10/Goldie_Default_Adult_M_Sprite.png/150px-Goldie_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a2/Goldie_Default_Adult_F_Sprite.png/150px-Goldie_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/32/Goldie_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

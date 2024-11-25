@@ -1,0 +1,38 @@
+{
+  "name": "vritra",
+  "egg_description": "This Egg emits a light filled with hatred.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Chaos Dragon",
+  "body_type": "Wyvern",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bd/Vritra_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/86/Vritra_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/03/Vritra_Default_Hatchling_M_Sprite.png/150px-Vritra_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d3/Vritra_Default_Hatchling_F_Sprite.png/150px-Vritra_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/03/Vritra_Default_Hatchling_M_Sprite.png/150px-Vritra_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d3/Vritra_Default_Hatchling_F_Sprite.png/150px-Vritra_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c3/Vritra_Default_Adult_M_Sprite.png/150px-Vritra_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e2/Vritra_Default_Adult_F_Sprite.png/150px-Vritra_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bd/Vritra_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

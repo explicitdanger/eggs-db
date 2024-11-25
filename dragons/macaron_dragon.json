@@ -1,0 +1,38 @@
+{
+  "name": "macaron dragon",
+  "egg_description": "This Egg is light and sweet.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Dessert Dragon",
+  "body_type": "Drake",
+  "food": "Rainbow Flower",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/9b/Macaron_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d1/Macaron_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4a/Macaron_Dragon_Default_Hatchling_M_Sprite.png/150px-Macaron_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b2/Macaron_Dragon_Default_Hatchling_F_Sprite.png/150px-Macaron_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4a/Macaron_Dragon_Default_Hatchling_M_Sprite.png/150px-Macaron_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b2/Macaron_Dragon_Default_Hatchling_F_Sprite.png/150px-Macaron_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b5/Macaron_Dragon_Default_Adult_M_Sprite.png/150px-Macaron_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5a/Macaron_Dragon_Default_Adult_F_Sprite.png/150px-Macaron_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/9b/Macaron_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

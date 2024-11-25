@@ -1,0 +1,41 @@
+{
+  "name": "lakion",
+  "egg_description": "This Egg is wearing a hoodie.",
+  "elements": [
+    "earth",
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Bundle Dragon",
+  "body_type": "Drake",
+  "food": "Haunted Pumpkin",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/73/Lakion_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/36/Lakion_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e9/Lakion_Default_Hatchling_M_Sprite.png/150px-Lakion_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cf/Lakion_Default_Hatchling_F_Sprite.png/150px-Lakion_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e9/Lakion_Default_Hatchling_M_Sprite.png/150px-Lakion_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cf/Lakion_Default_Hatchling_F_Sprite.png/150px-Lakion_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6e/Lakion_Default_Adult_M_Sprite.png/150px-Lakion_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/55/Lakion_Default_Adult_F_Sprite.png/150px-Lakion_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/73/Lakion_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "nubestella",
+  "egg_description": "This Egg gathers the energy of wishes.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Starlight Fruit",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "celestial",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/7f/Nubestella_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/1c/Nubestella_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/ad/Nubestella_Default_Hatchling_M_Sprite.png/150px-Nubestella_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/57/Nubestella_Default_Hatchling_F_Sprite.png/150px-Nubestella_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/ad/Nubestella_Default_Hatchling_M_Sprite.png/150px-Nubestella_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/57/Nubestella_Default_Hatchling_F_Sprite.png/150px-Nubestella_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/79/Nubestella_Default_Adult_M_Sprite.png/150px-Nubestella_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/84/Nubestella_Default_Adult_F_Sprite.png/150px-Nubestella_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/7f/Nubestella_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

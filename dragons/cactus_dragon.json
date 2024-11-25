@@ -1,0 +1,40 @@
+{
+  "name": "cactus dragon",
+  "egg_description": "This Egg remains unmoved by any stimuli.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Plant Dragon",
+  "body_type": "Drake",
+  "food": "Mango",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "blooming flower",
+    "withering flower",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/33/Cactus_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/74/Cactus_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Cactus_Dragon_Default_Hatchling_M_Sprite.png/150px-Cactus_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Cactus_Dragon_Default_Hatchling_F_Sprite.png/150px-Cactus_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Cactus_Dragon_Default_Hatchling_M_Sprite.png/150px-Cactus_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/06/Cactus_Dragon_Default_Hatchling_F_Sprite.png/150px-Cactus_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/27/Cactus_Dragon_Default_Adult_M_Sprite.png/150px-Cactus_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/52/Cactus_Dragon_Default_Adult_F_Sprite.png/150px-Cactus_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/33/Cactus_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

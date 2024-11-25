@@ -1,0 +1,37 @@
+{
+  "name": "fleecy cloud dragon",
+  "egg_description": "This Egg is surrounded by clouds like fluffy wool.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Common",
+  "region": "Sky Kingdom",
+  "dragon_type": "Cloud Dragon",
+  "body_type": "Drake",
+  "food": "Mango",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/ba/Fleecy_Cloud_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/35/Fleecy_Cloud_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/9/9b/Fleecy_Cloud_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/65/Fleecy_Cloud_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/9/9b/Fleecy_Cloud_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/6/65/Fleecy_Cloud_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f1/Fleecy_Cloud_Dragon_Default_Adult_M_Sprite.png/150px-Fleecy_Cloud_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/96/Fleecy_Cloud_Dragon_Default_Adult_F_Sprite.png/150px-Fleecy_Cloud_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/ba/Fleecy_Cloud_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "light spicy",
+  "egg_description": "Eerie light is seeping out from this Egg.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/af/Light_Spicy_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/8e/Light_Spicy_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/ba/Light_Spicy_Default_Hatchling_M_Sprite.png/150px-Light_Spicy_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/de/Light_Spicy_Default_Hatchling_F_Sprite.png/150px-Light_Spicy_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/ba/Light_Spicy_Default_Hatchling_M_Sprite.png/150px-Light_Spicy_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/de/Light_Spicy_Default_Hatchling_F_Sprite.png/150px-Light_Spicy_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b1/Light_Spicy_Default_Adult_M_Sprite.png/150px-Light_Spicy_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e0/Light_Spicy_Default_Adult_F_Sprite.png/150px-Light_Spicy_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/af/Light_Spicy_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

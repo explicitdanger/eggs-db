@@ -1,0 +1,40 @@
+{
+  "name": "phantom",
+  "egg_description": "This Egg has a black ring.",
+  "elements": [
+    "dark",
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Intangible Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "persion",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/7c/Phantom_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/fe/Phantom_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/49/Phantom_Default_Hatchling_M_Sprite.png/150px-Phantom_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/13/Phantom_Default_Hatchling_F_Sprite.png/150px-Phantom_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/49/Phantom_Default_Hatchling_M_Sprite.png/150px-Phantom_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/13/Phantom_Default_Hatchling_F_Sprite.png/150px-Phantom_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/77/Phantom_Default_Adult_M_Sprite.png/150px-Phantom_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8c/Phantom_Default_Adult_F_Sprite.png/150px-Phantom_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/7c/Phantom_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

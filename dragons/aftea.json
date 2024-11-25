@@ -1,0 +1,46 @@
+{
+  "name": "aftea",
+  "egg_description": "This Egg's fragrance and color change over time.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Liquid Dragon",
+  "body_type": "Draco",
+  "food": "Possessed Pumpkin",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "p_fruit tea",
+    "p_coffee",
+    "p_honey tea",
+    "p_love potion",
+    "fruit tea",
+    "coffee",
+    "honey tea",
+    "love potion"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/3a/Aftea_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/15/Aftea_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Aftea_Default_Hatchling_M_Sprite.png/150px-Aftea_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/af/Aftea_Default_Hatchling_F_Sprite.png/150px-Aftea_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Aftea_Default_Hatchling_M_Sprite.png/150px-Aftea_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/af/Aftea_Default_Hatchling_F_Sprite.png/150px-Aftea_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d0/Aftea_Default_Adult_M_Sprite.png/150px-Aftea_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/ba/Aftea_Default_Adult_F_Sprite.png/150px-Aftea_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/3a/Aftea_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

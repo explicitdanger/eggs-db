@@ -1,0 +1,40 @@
+{
+  "name": "beast roar",
+  "egg_description": "This Egg shines with blue light imbued with the power of the moon.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Animal Dragon",
+  "body_type": "Drake",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "beast",
+    "undead (default)",
+    "undead (beast)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b4/Beast_Roar_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a4/Beast_Roar_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/d8/Beast_Roar_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ed/Beast_Roar_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/d8/Beast_Roar_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ed/Beast_Roar_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/dc/Beast_Roar_Default_Adult_M_Sprite.png/150px-Beast_Roar_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ea/Beast_Roar_Default_Adult_F_Sprite.png/150px-Beast_Roar_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b4/Beast_Roar_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

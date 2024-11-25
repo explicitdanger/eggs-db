@@ -1,0 +1,42 @@
+{
+  "name": "girdletail dragon",
+  "egg_description": "The dragon inside this egg has a curled-up tail.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "lizard Dragon",
+  "body_type": "Draco",
+  "food": "Maple Leaf",
+  "tradeable": true,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "graywater",
+    "flame",
+    "crystal",
+    "king",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/86/Girdletail_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/15/Girdletail_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/62/Girdletail_Dragon_Default_Hatchling_M_Sprite.png/150px-Girdletail_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e8/Girdletail_Dragon_Default_Hatchling_F_Sprite.png/150px-Girdletail_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/62/Girdletail_Dragon_Default_Hatchling_M_Sprite.png/150px-Girdletail_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e8/Girdletail_Dragon_Default_Hatchling_F_Sprite.png/150px-Girdletail_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0e/Girdletail_Dragon_Default_Adult_M_Sprite.png/150px-Girdletail_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1f/Girdletail_Dragon_Default_Adult_F_Sprite.png/150px-Girdletail_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/86/Girdletail_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

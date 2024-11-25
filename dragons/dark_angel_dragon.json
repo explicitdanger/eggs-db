@@ -1,0 +1,39 @@
+{
+  "name": "dark angel dragon",
+  "egg_description": "This Egg has the wings of an angel tainted with darkness.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "angelic protection",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/c7/Dark_Angel_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5d/Dark_Angel_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/b/bc/Dark_Angel_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/be/Dark_Angel_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/b/bc/Dark_Angel_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/be/Dark_Angel_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c8/Dark_Angel_Dragon_Default_Adult_M_Sprite.png/150px-Dark_Angel_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1f/Dark_Angel_Dragon_Default_Adult_F_Sprite.png/150px-Dark_Angel_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/c7/Dark_Angel_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

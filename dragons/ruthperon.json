@@ -1,0 +1,39 @@
+{
+  "name": "ruthperon",
+  "egg_description": "This Egg has shiny gills.",
+  "elements": [
+    "water",
+    "dark"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Fish",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/53/Ruthperon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3d/Ruthperon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/76/Ruthperon_Default_Hatchling_M_Sprite.png/150px-Ruthperon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Ruthperon_Default_Hatchling_F_Sprite.png/150px-Ruthperon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/76/Ruthperon_Default_Hatchling_M_Sprite.png/150px-Ruthperon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Ruthperon_Default_Hatchling_F_Sprite.png/150px-Ruthperon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d7/Ruthperon_Default_Adult_M_Sprite.png/150px-Ruthperon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c1/Ruthperon_Default_Adult_F_Sprite.png/150px-Ruthperon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/53/Ruthperon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

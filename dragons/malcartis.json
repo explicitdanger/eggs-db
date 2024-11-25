@@ -1,0 +1,46 @@
+{
+  "name": "malcartis",
+  "egg_description": "This Egg exudes overwhelming power and authority.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Demon World Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "p_bloodmoon",
+    "p_frostmoon",
+    "p_brightmoon",
+    "p_vipermoon",
+    "bloodmoon",
+    "frostmoon",
+    "brightmoon",
+    "vipermoon",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b1/Malcartis_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/4d/Malcartis_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/41/Malcartis_Default_Hatchling_M_Sprite.png/150px-Malcartis_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/de/Malcartis_Default_Hatchling_F_Sprite.png/150px-Malcartis_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/41/Malcartis_Default_Hatchling_M_Sprite.png/150px-Malcartis_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/de/Malcartis_Default_Hatchling_F_Sprite.png/150px-Malcartis_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/85/Malcartis_Default_Adult_M_Sprite.png/150px-Malcartis_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bf/Malcartis_Default_Adult_F_Sprite.png/150px-Malcartis_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b1/Malcartis_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

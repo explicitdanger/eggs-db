@@ -1,0 +1,41 @@
+{
+  "name": "crested dragon",
+  "egg_description": "This Egg seems to have a round core.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Lizard Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "dalmatian",
+    "cappuccino",
+    "white",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/25/Crested_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/08/Crested_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Crested_Dragon_Default_Hatchling_M_Sprite.png/150px-Crested_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ed/Crested_Dragon_Default_Hatchling_F_Sprite.png/150px-Crested_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/43/Crested_Dragon_Default_Hatchling_M_Sprite.png/150px-Crested_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ed/Crested_Dragon_Default_Hatchling_F_Sprite.png/150px-Crested_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/37/Crested_Dragon_Default_Adult_M_Sprite.png/150px-Crested_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f0/Crested_Dragon_Default_Adult_F_Sprite.png/150px-Crested_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/25/Crested_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "khan",
+  "egg_description": "This Egg has three blue horns.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Light Dragon",
+  "body_type": "Drake",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/71/Khan_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/eb/Khan_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/35/Khan_Default_Hatchling_M_Sprite.png/150px-Khan_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c2/Khan_Default_Hatchling_F_Sprite.png/150px-Khan_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/35/Khan_Default_Hatchling_M_Sprite.png/150px-Khan_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c2/Khan_Default_Hatchling_F_Sprite.png/150px-Khan_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/2d/Khan_Default_Adult_M_Sprite.png/150px-Khan_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3f/Khan_Default_Adult_F_Sprite.png/150px-Khan_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/71/Khan_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

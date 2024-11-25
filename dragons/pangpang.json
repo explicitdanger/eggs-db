@@ -1,0 +1,35 @@
+{
+  "name": "pangpang",
+  "egg_description": "This Egg is a balloon.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Balloon Dragon",
+  "body_type": "Draco",
+  "food": "Air",
+  "tradeable": false,
+  "breeding_tier": null,
+  "forms": [
+    "default",
+    "pink ribbon"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/25/Pangpang_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3c/Pangpang_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/de/Pangpang_Default_Hatchling_M_Sprite.png/150px-Pangpang_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/de/Pangpang_Default_Hatchling_M_Sprite.png/150px-Pangpang_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Pangpang_Default_Adult_M_Sprite.png/150px-Pangpang_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/25/Pangpang_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

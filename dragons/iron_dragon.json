@@ -1,0 +1,30 @@
+{
+  "name": "iron dragon",
+  "egg_description": "Something black is sticking out from this red Egg.",
+  "elements": [
+    "steel",
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Fantasy Dragon",
+  "body_type": "Draco",
+  "food": "Oil",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2a/Iron_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f8/Iron_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2a/Iron_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

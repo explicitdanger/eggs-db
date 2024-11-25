@@ -1,0 +1,38 @@
+{
+  "name": "frost blue dragon",
+  "egg_description": "This Egg's ice doesn't melt.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Glacier Dragon",
+  "body_type": "Asian",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/28/Frost_Blue_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/44/Frost_Blue_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/d1/Frost_Blue_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/39/Frost_Blue_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/d1/Frost_Blue_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/39/Frost_Blue_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/95/Frost_Blue_Dragon_Default_Adult_M_Sprite.png/150px-Frost_Blue_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8d/Frost_Blue_Dragon_Default_Adult_F_Sprite.png/150px-Frost_Blue_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/28/Frost_Blue_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,43 @@
+{
+  "name": "ranky",
+  "egg_description": "This Egg is wearing headphones.",
+  "elements": [
+    "lightning",
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Gamer Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "cyberpunk",
+    "cooking game",
+    "rhythm game",
+    "sports game",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/26/Ranky_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/ef/Ranky_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1b/Ranky_Default_Hatchling_M_Sprite.png/150px-Ranky_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cf/Ranky_Default_Hatchling_F_Sprite.png/150px-Ranky_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1b/Ranky_Default_Hatchling_M_Sprite.png/150px-Ranky_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cf/Ranky_Default_Hatchling_F_Sprite.png/150px-Ranky_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/77/Ranky_Default_Night_Adult_M_Sprite.png/150px-Ranky_Default_Night_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0b/Ranky_Default_Night_Adult_F_Sprite.png/150px-Ranky_Default_Night_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/26/Ranky_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

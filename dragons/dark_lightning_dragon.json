@@ -1,0 +1,39 @@
+{
+  "name": "dark lightning dragon",
+  "egg_description": "This Egg's lightning shape holds the power of the darkness.",
+  "elements": [
+    "dark",
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f8/Dark_Lightning_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/c9/Dark_Lightning_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/b/b4/Dark_Lightning_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/05/Dark_Lightning_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/b/b4/Dark_Lightning_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/05/Dark_Lightning_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Dark_Lightning_Dragon_Default_Adult_M_Sprite.png/150px-Dark_Lightning_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/63/Dark_Lightning_Dragon_Default_Adult_F_Sprite.png/150px-Dark_Lightning_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f8/Dark_Lightning_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "proto alpha",
+  "egg_description": "This Egg responds to the sound of ancient memories.",
+  "elements": [
+    "lightning",
+    "dark"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Experiment Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "berserk"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/82/Proto_Alpha_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/b3/Proto_Alpha_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0f/Proto_Alpha_Default_Hatchling_M_Sprite.png/150px-Proto_Alpha_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/72/Proto_Alpha_Default_Hatchling_F_Sprite.png/150px-Proto_Alpha_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0f/Proto_Alpha_Default_Hatchling_M_Sprite.png/150px-Proto_Alpha_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/72/Proto_Alpha_Default_Hatchling_F_Sprite.png/150px-Proto_Alpha_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/55/Proto_Alpha_Default_Adult_M_Sprite.png/150px-Proto_Alpha_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/30/Proto_Alpha_Default_Adult_F_Sprite.png/150px-Proto_Alpha_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/82/Proto_Alpha_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

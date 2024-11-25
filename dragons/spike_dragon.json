@@ -1,0 +1,38 @@
+{
+  "name": "spike dragon",
+  "egg_description": "This Egg has very sharp thorns.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Thorn Dragon",
+  "body_type": "Draco",
+  "food": "Siberian Ginseng",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/81/Spike_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5c/Spike_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/ff/Spike_Dragon_Default_Hatchling_M_Sprite.png/150px-Spike_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fc/Spike_Dragon_Default_Hatchling_F_Sprite.png/150px-Spike_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/ff/Spike_Dragon_Default_Hatchling_M_Sprite.png/150px-Spike_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/fc/Spike_Dragon_Default_Hatchling_F_Sprite.png/150px-Spike_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/21/Spike_Dragon_Default_Adult_M_Sprite.png/150px-Spike_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e1/Spike_Dragon_Default_Adult_F_Sprite.png/150px-Spike_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/81/Spike_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

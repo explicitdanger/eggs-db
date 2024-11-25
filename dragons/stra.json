@@ -1,0 +1,36 @@
+{
+  "name": "stra",
+  "egg_description": "This Egg dreams of freedom of all life forms.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Wind Dragon",
+  "body_type": "Draco",
+  "food": "Grass",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "arcane",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/cc/Stra_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d9/Stra_Dead_Egg_Sprite.png",
+      "hatch": {
+        "female": "https://dvc.wiki.gg/images/thumb/7/7a/Stra_Default_Hatchling_F_Sprite.png/150px-Stra_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "female": "https://dvc.wiki.gg/images/thumb/7/7a/Stra_Default_Hatchling_F_Sprite.png/150px-Stra_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "female": "https://dvc.wiki.gg/images/thumb/8/8f/Stra_Default_Adult_F_Sprite.png/150px-Stra_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/c/cc/Stra_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

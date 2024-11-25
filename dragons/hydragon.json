@@ -1,0 +1,30 @@
+{
+  "name": "hydragon",
+  "egg_description": "This Egg is wrapped with three outer shells.",
+  "elements": [
+    "dark",
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Hell Dragon",
+  "body_type": "Hydra",
+  "food": "Chicken",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/aa/Hydragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f6/Hydragon_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/a/aa/Hydragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "surprise dragon",
+  "egg_description": "This Egg is fixed inside a box.",
+  "elements": [
+    "dark",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Playful Dragon",
+  "body_type": "Asian",
+  "food": "Fruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/96/Surprise_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/b4/Surprise_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/3/33/Surprise_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/e1/Surprise_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/3/33/Surprise_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/e1/Surprise_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/06/Surprise_Dragon_Default_Adult_M_Sprite.png/150px-Surprise_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ab/Surprise_Dragon_Default_Adult_F_Sprite.png/150px-Surprise_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/96/Surprise_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

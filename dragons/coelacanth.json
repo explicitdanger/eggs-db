@@ -1,0 +1,38 @@
+{
+  "name": "coelacanth",
+  "egg_description": "This Egg has golden horns.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Deep Sea",
+  "food": "Mango",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/a9/Coelacanth_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/45/Coelacanth_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/0/03/Coelacanth_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ed/Coelacanth_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/0/03/Coelacanth_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ed/Coelacanth_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/17/Coelacanth_Default_Adult_M_Sprite.png/150px-Coelacanth_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/65/Coelacanth_Default_Adult_F_Sprite.png/150px-Coelacanth_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/a9/Coelacanth_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "pummunia",
+  "egg_description": "This Egg flutters in search of sweet treats.",
+  "elements": [
+    "dark",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Munia",
+  "food": "Candy",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/78/Pummunia_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5f/Pummunia_Dead_Egg_Sprite.png",
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c7/Pummunia_Default_Adult_M_Sprite.png/150px-Pummunia_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/d3/Pummunia_Default_Adult_F_Sprite.png/150px-Pummunia_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/78/Pummunia_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

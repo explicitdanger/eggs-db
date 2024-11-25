@@ -1,0 +1,40 @@
+{
+  "name": "seraphim",
+  "egg_description": "This Egg is hiding its identity.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Unknown",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "intellectual",
+    "celestial"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f8/Seraphim_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/05/Seraphim_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1a/Seraphim_Default_Hatchling_M_Sprite.png/150px-Seraphim_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1a/Seraphim_Default_Hatchling_F_Sprite.png/150px-Seraphim_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1a/Seraphim_Default_Hatchling_M_Sprite.png/150px-Seraphim_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/1a/Seraphim_Default_Hatchling_F_Sprite.png/150px-Seraphim_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a3/Seraphim_Default_Adult_M_Sprite.png/150px-Seraphim_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f3/Seraphim_Default_Adult_F_Sprite.png/150px-Seraphim_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f8/Seraphim_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

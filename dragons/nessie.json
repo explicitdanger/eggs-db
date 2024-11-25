@@ -1,0 +1,39 @@
+{
+  "name": "nessie",
+  "egg_description": "This Egg looks like a fish.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Lake Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "festival",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/8d/Nessie_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d3/Nessie_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/f/fa/Nessie_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/4f/Nessie_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/f/fa/Nessie_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/4f/Nessie_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/61/Nessie_Default_Adult_M_Sprite.png/150px-Nessie_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5b/Nessie_Default_Adult_F_Sprite.png/150px-Nessie_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/8d/Nessie_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

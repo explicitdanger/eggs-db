@@ -1,0 +1,38 @@
+{
+  "name": "rupia",
+  "egg_description": "This Egg is protected by sea creatures.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Sea Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f3/Rupia_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/54/Rupia_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/d6/Rupia_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/50/Rupia_Default_Hatchling_F_Sprite.png/150px-Rupia_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/d6/Rupia_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/50/Rupia_Default_Hatchling_F_Sprite.png/150px-Rupia_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/73/Rupia_Default_Adult_M_Sprite.png/150px-Rupia_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b2/Rupia_Default_Adult_F_Sprite.png/150px-Rupia_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f3/Rupia_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

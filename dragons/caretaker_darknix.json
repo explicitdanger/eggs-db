@@ -1,0 +1,39 @@
+{
+  "name": "caretaker darknix",
+  "egg_description": "This Egg has two eyes filled with red energy.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "restrained",
+    "sealed"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b8/Caretaker_Darknix_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/44/Caretaker_Darknix_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/08/Caretaker_Darknix_Default_Hatchling_M_Sprite.png/150px-Caretaker_Darknix_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0d/Caretaker_Darknix_Default_Hatchling_F_Sprite.png/150px-Caretaker_Darknix_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/08/Caretaker_Darknix_Default_Hatchling_M_Sprite.png/150px-Caretaker_Darknix_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0d/Caretaker_Darknix_Default_Hatchling_F_Sprite.png/150px-Caretaker_Darknix_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d0/Caretaker_Darknix_Default_Adult_M_Sprite.png/150px-Caretaker_Darknix_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/41/Caretaker_Darknix_Default_Adult_F_Sprite.png/150px-Caretaker_Darknix_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b8/Caretaker_Darknix_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

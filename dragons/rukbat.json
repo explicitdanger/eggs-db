@@ -1,0 +1,38 @@
+{
+  "name": "rukbat",
+  "egg_description": "This Egg contains a galaxy.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Constellation Dragon",
+  "body_type": "Drake",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6a/Rukbat_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/95/Rukbat_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/a/a3/Rukbat_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/18/Rukbat_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/a/a3/Rukbat_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/1/18/Rukbat_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/72/Rukbat_Default_Adult_M_Sprite.png/150px-Rukbat_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4c/Rukbat_Default_Adult_F_Sprite.png/150px-Rukbat_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6a/Rukbat_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "baekho",
+  "egg_description": "This Egg exudes a divine aura.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Reaper Dragon",
+  "body_type": "Drake",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/30/Baekho_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/03/Baekho_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/72/Baekho_Default_Hatchling_M_Sprite.png/150px-Baekho_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/43/Baekho_Default_Hatchling_F_Sprite.png/150px-Baekho_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/72/Baekho_Default_Hatchling_M_Sprite.png/150px-Baekho_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/43/Baekho_Default_Hatchling_F_Sprite.png/150px-Baekho_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/14/Baekho_Default_Adult_M_Sprite.png/150px-Baekho_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/36/Baekho_Default_Adult_F_Sprite.png/150px-Baekho_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/30/Baekho_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

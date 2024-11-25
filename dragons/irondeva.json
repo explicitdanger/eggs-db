@@ -1,0 +1,35 @@
+{
+  "name": "irondeva",
+  "egg_description": "This egg has a mysterious green pattern on it.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Primeval Dragon",
+  "body_type": "Draco",
+  "food": "Watermelon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/9d/Irondeva_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/68/Irondeva_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/3/32/Irondeva_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/3/32/Irondeva_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1d/Irondeva_Default_Adult_M_Sprite.png/150px-Irondeva_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/9d/Irondeva_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "nakir",
+  "egg_description": "This Egg has a horn of wisdom growing from it.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "celestial",
+    "grace"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/22/Nakir_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/83/Nakir_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5c/Nakir_Default_Hatchling_M_Sprite.png/150px-Nakir_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/28/Nakir_Default_Hatchling_F_Sprite.png/150px-Nakir_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5c/Nakir_Default_Hatchling_M_Sprite.png/150px-Nakir_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/28/Nakir_Default_Hatchling_F_Sprite.png/150px-Nakir_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Nakir_Default_Adult_M_Sprite.png/150px-Nakir_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/49/Nakir_Default_Adult_F_Sprite.png/150px-Nakir_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/22/Nakir_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "god? dragon",
+  "egg_description": "This Egg has strange yellow spots.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/5a/God%3F_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/b5/God%3F_Dragon_Dead_Egg_Sprite.png",
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d9/God%3F_Dragon_Default_Adult_M_Sprite.png/150px-God%3F_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a8/God%3F_Dragon_Default_Adult_F_Sprite.png/150px-God%3F_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/5a/God%3F_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

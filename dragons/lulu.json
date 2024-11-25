@@ -1,0 +1,39 @@
+{
+  "name": "lulu",
+  "egg_description": "This Egg contains a pearl.",
+  "elements": [
+    "water",
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "Deep Sea",
+  "dragon_type": "Chaperone Dragon",
+  "body_type": "Wyvern",
+  "food": "Whirl Flower",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/ec/Lulu_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/0b/Lulu_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Lulu_Default_Hatchling_M_Sprite.png/150px-Lulu_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e2/Lulu_Default_Hatchling_F_Sprite.png/150px-Lulu_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Lulu_Default_Hatchling_M_Sprite.png/150px-Lulu_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e2/Lulu_Default_Hatchling_F_Sprite.png/150px-Lulu_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/36/Lulu_Default_Adult_M_Sprite.png/150px-Lulu_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e6/Lulu_Default_Adult_F_Sprite.png/150px-Lulu_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/ec/Lulu_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

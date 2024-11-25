@@ -1,0 +1,38 @@
+{
+  "name": "sion",
+  "egg_description": "This Egg emits primordial light.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "Deep Sea",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/d8/Sion_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/49/Sion_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f2/Sion_Default_Hatchling_M_Sprite.png/150px-Sion_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/36/Sion_Default_Hatchling_F_Sprite.png/150px-Sion_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f2/Sion_Default_Hatchling_M_Sprite.png/150px-Sion_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/36/Sion_Default_Hatchling_F_Sprite.png/150px-Sion_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/6f/Sion_Default_Adult_M_Sprite.png/150px-Sion_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/54/Sion_Default_Adult_F_Sprite.png/150px-Sion_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/d8/Sion_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

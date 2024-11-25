@@ -1,0 +1,29 @@
+{
+  "name": "citael",
+  "egg_description": "This Egg defends itself with its horns and fangs.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Grit Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/47/Citael_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d3/Citael_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/4/47/Citael_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

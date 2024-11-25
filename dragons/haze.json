@@ -1,0 +1,37 @@
+{
+  "name": "haze",
+  "egg_description": "This Egg is surrounded by fog.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Flying Dragon",
+  "body_type": "Coatyl",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/e2/Haze_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3e/Haze_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/e/e7/Haze_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/c4/Haze_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/e/e7/Haze_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/c/c4/Haze_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/25/Haze_Default_Adult_M_Sprite.png/150px-Haze_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bf/Haze_Default_Adult_F_Sprite.png/150px-Haze_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/e2/Haze_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

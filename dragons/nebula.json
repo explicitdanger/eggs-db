@@ -1,0 +1,29 @@
+{
+  "name": "nebula",
+  "egg_description": "This Egg holds the energy of the stars.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Nebula Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/15/Nebula_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/da/Nebula_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/1/15/Nebula_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

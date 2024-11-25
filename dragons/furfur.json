@@ -1,0 +1,38 @@
+{
+  "name": "furfur",
+  "egg_description": "The Egg continuously creates lightning.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "lair"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/f/f4/Furfur_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/6e/Furfur_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/92/Furfur_Default_Hatchling_M_Sprite.png/150px-Furfur_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9f/Furfur_Default_Hatchling_F_Sprite.png/150px-Furfur_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/92/Furfur_Default_Hatchling_M_Sprite.png/150px-Furfur_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9f/Furfur_Default_Hatchling_F_Sprite.png/150px-Furfur_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0f/Furfur_Default_Adult_M_Sprite.png/150px-Furfur_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cf/Furfur_Default_Adult_F_Sprite.png/150px-Furfur_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/f/f4/Furfur_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

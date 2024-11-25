@@ -1,0 +1,38 @@
+{
+  "name": "oculus",
+  "egg_description": "This Egg instinctively hovers around souls.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Chaperone Dragon",
+  "body_type": "Draco",
+  "food": "Mango",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/22/Oculus_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/bc/Oculus_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Oculus_Default_Hatchling_M_Sprite.png/150px-Oculus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/96/Oculus_Default_Hatchling_F_Sprite.png/150px-Oculus_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Oculus_Default_Hatchling_M_Sprite.png/150px-Oculus_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/96/Oculus_Default_Hatchling_F_Sprite.png/150px-Oculus_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d8/Oculus_Default_Adult_M_Sprite.png/150px-Oculus_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/1/17/Oculus_Default_Adult_F_Sprite.png/150px-Oculus_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/22/Oculus_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

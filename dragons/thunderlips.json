@@ -1,0 +1,42 @@
+{
+  "name": "thunderlips",
+  "egg_description": "This Egg has fins covered in strong electricity.",
+  "elements": [
+    "lightning",
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piranha",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "cold lightning",
+    "warm lightning",
+    "chilly lightning",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/29/Thunderlips_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e7/Thunderlips_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4a/Thunderlips_Default_Hatchling_M_Sprite.png/150px-Thunderlips_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4c/Thunderlips_Default_Hatchling_F_Sprite.png/150px-Thunderlips_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4a/Thunderlips_Default_Hatchling_M_Sprite.png/150px-Thunderlips_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4c/Thunderlips_Default_Hatchling_F_Sprite.png/150px-Thunderlips_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/96/Thunderlips_Default_Adult_M_Sprite.png/150px-Thunderlips_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/cf/Thunderlips_Default_Adult_F_Sprite.png/150px-Thunderlips_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/29/Thunderlips_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

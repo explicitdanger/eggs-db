@@ -1,0 +1,41 @@
+{
+  "name": "lucir",
+  "egg_description": "This Egg spreads holy energy.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Hope Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "salvation",
+    "undead (default)",
+    "undead (salvation)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/4f/Lucir_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/11/Lucir_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5c/Lucir_Default_Hatchling_M_Sprite.png/150px-Lucir_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9a/Lucir_Default_Hatchling_F_Sprite.png/150px-Lucir_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5c/Lucir_Default_Hatchling_M_Sprite.png/150px-Lucir_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9a/Lucir_Default_Hatchling_F_Sprite.png/150px-Lucir_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/64/Lucir_Default_Adult_M_Sprite.png/150px-Lucir_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9c/Lucir_Default_Adult_F_Sprite.png/150px-Lucir_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/4f/Lucir_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "hacer",
+  "egg_description": "This Egg has an unbreakable horn.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Hope Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "desire",
+    "hope"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/e/e4/Hacer_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/71/Hacer_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/27/Hacer_Default_Hatchling_M_Sprite.png/150px-Hacer_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/52/Hacer_Default_Hatchling_F_Sprite.png/150px-Hacer_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/27/Hacer_Default_Hatchling_M_Sprite.png/150px-Hacer_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/52/Hacer_Default_Hatchling_F_Sprite.png/150px-Hacer_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/fc/Hacer_Default_Adult_M_Sprite.png/150px-Hacer_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/57/Hacer_Default_Adult_F_Sprite.png/150px-Hacer_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/e/e4/Hacer_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

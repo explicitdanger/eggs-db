@@ -1,0 +1,38 @@
+{
+  "name": "auros",
+  "egg_description": "This Egg shines with a beautiful red hue.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Fish Dragon",
+  "body_type": "Wyrm",
+  "food": "Haunted Pumpkin",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bd/Auros_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/1/1b/Auros_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Auros_Default_Hatchling_M_Sprite.png/150px-Auros_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/54/Auros_Default_Hatchling_F_Sprite.png/150px-Auros_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f4/Auros_Default_Hatchling_M_Sprite.png/150px-Auros_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/54/Auros_Default_Hatchling_F_Sprite.png/150px-Auros_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/68/Auros_Default_Adult_M_Sprite.png/150px-Auros_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/08/Auros_Default_Adult_F_Sprite.png/150px-Auros_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bd/Auros_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "coral nessiebig",
+  "egg_description": "This Egg becomes more splendid over time.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Common",
+  "region": "Deep Sea",
+  "dragon_type": "Coral Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bc/Coral_Nessiebig_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/c0/Coral_Nessiebig_Dead_Egg_Sprite.png",
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bc/Coral_Nessiebig_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

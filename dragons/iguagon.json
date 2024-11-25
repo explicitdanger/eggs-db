@@ -1,0 +1,43 @@
+{
+  "name": "iguagon",
+  "egg_description": "This Egg is proud of its existence.",
+  "elements": [
+    "earth",
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "Deep Sea",
+  "dragon_type": "Lizard Dragon",
+  "body_type": "Draco",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "desert lineage",
+    "grassland lineage",
+    "deep sea lineage",
+    "volcano lineage",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/da/Iguagon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/24/Iguagon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ca/Iguagon_Default_Hatchling_M_Sprite.png/150px-Iguagon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f6/Iguagon_Default_Hatchling_F_Sprite.png/150px-Iguagon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ca/Iguagon_Default_Hatchling_M_Sprite.png/150px-Iguagon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f6/Iguagon_Default_Hatchling_F_Sprite.png/150px-Iguagon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/01/Iguagon_Default_Adult_M_Sprite.png/150px-Iguagon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/76/Iguagon_Default_Adult_F_Sprite.png/150px-Iguagon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/da/Iguagon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

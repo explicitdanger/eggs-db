@@ -1,0 +1,38 @@
+{
+  "name": "golden angel dragon",
+  "egg_description": "This Egg senses the power of angels.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Starlight Fruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/34/Golden_Angel_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e5/Golden_Angel_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/c/cd/Golden_Angel_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/45/Golden_Angel_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/c/cd/Golden_Angel_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/4/45/Golden_Angel_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d7/Golden_Angel_Dragon_Default_Adult_M_Sprite.png/150px-Golden_Angel_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f3/Golden_Angel_Dragon_Default_Adult_F_Sprite.png/150px-Golden_Angel_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/34/Golden_Angel_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

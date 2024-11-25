@@ -1,0 +1,43 @@
+{
+  "name": "angel cat",
+  "egg_description": "This Egg has a will to protect its Tamer.",
+  "elements": [
+    "light",
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Jerky",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "angel",
+    "demon",
+    "puppet costume",
+    "time traveler",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/55/Angel_Cat_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/85/Angel_Cat_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c9/Angel_Cat_Default_Hatchling_M_Sprite.png/150px-Angel_Cat_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/21/Angel_Cat_Default_Hatchling_F_Sprite.png/150px-Angel_Cat_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c9/Angel_Cat_Default_Hatchling_M_Sprite.png/150px-Angel_Cat_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/21/Angel_Cat_Default_Hatchling_F_Sprite.png/150px-Angel_Cat_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bc/Angel_Cat_Default_Adult_M_Sprite.png/150px-Angel_Cat_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3b/Angel_Cat_Default_Adult_F_Sprite.png/150px-Angel_Cat_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/55/Angel_Cat_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

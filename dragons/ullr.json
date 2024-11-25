@@ -1,0 +1,38 @@
+{
+  "name": "ullr",
+  "egg_description": "This Egg cuts through the darkness.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "Sky Kingdom",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Star fruit",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/a7/Ullr_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/8/8c/Ullr_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9f/Ullr_Default_Hatchling_M_Sprite.png/150px-Ullr_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b2/Ullr_Default_Hatchling_F_Sprite.png/150px-Ullr_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9f/Ullr_Default_Hatchling_M_Sprite.png/150px-Ullr_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b2/Ullr_Default_Hatchling_F_Sprite.png/150px-Ullr_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9d/Ullr_Default_Adult_M_Sprite.png/150px-Ullr_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c2/Ullr_Default_Adult_F_Sprite.png/150px-Ullr_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/a7/Ullr_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

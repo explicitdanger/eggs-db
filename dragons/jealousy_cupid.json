@@ -1,0 +1,38 @@
+{
+  "name": "jealousy cupid",
+  "egg_description": "This Egg symbolizes the Arrow of Jealousy.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Jealousy Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/17/Jealousy_Cupid_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d0/Jealousy_Cupid_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d9/Jealousy_Cupid_Default_Hatchling_M_Sprite.png/150px-Jealousy_Cupid_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/71/Jealousy_Cupid_Default_Hatchling_F_Sprite.png/150px-Jealousy_Cupid_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d9/Jealousy_Cupid_Default_Hatchling_M_Sprite.png/150px-Jealousy_Cupid_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/71/Jealousy_Cupid_Default_Hatchling_F_Sprite.png/150px-Jealousy_Cupid_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/86/Jealousy_Cupid_Default_Adult_M_Sprite.png/150px-Jealousy_Cupid_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/c4/Jealousy_Cupid_Default_Adult_F_Sprite.png/150px-Jealousy_Cupid_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/17/Jealousy_Cupid_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

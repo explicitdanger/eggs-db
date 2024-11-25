@@ -1,0 +1,38 @@
+{
+  "name": "starry dragon",
+  "egg_description": "This Egg is faintly surrounded by stardust.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Star Dragon",
+  "body_type": "Wyvern",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/30/Starry_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/aa/Starry_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/18/Starry_Dragon_Default_Hatchling_M_Sprite.png/150px-Starry_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/21/Starry_Dragon_Default_Hatchling_F_Sprite.png/150px-Starry_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/18/Starry_Dragon_Default_Hatchling_M_Sprite.png/150px-Starry_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/21/Starry_Dragon_Default_Hatchling_F_Sprite.png/150px-Starry_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/2/26/Starry_Dragon_Default_Adult_M_Sprite.png/150px-Starry_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/79/Starry_Dragon_Default_Adult_F_Sprite.png/150px-Starry_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/30/Starry_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

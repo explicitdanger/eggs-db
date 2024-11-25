@@ -1,0 +1,38 @@
+{
+  "name": "marbas",
+  "egg_description": "This Egg's black fur is exceptionally soft.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Drake",
+  "food": "Animal",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/8/88/Marbas_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/5/5d/Marbas_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/14/Marbas_Default_Hatchling_M_Sprite.png/150px-Marbas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/59/Marbas_Default_Hatchling_F_Sprite.png/150px-Marbas_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/14/Marbas_Default_Hatchling_M_Sprite.png/150px-Marbas_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/59/Marbas_Default_Hatchling_F_Sprite.png/150px-Marbas_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a9/Marbas_Default_Adult_M_Sprite.png/150px-Marbas_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/31/Marbas_Default_Adult_F_Sprite.png/150px-Marbas_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/8/88/Marbas_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

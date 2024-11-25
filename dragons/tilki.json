@@ -1,0 +1,39 @@
+{
+  "name": "tilki",
+  "egg_description": "This Egg is wearing a crown.",
+  "elements": [
+    "earth",
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Nomad Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/22/Tilki_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a1/Tilki_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/d/d1/Tilki_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/31/Tilki_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/d/d1/Tilki_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/3/31/Tilki_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/37/Tilki_Default_Adult_M_Sprite.png/150px-Tilki_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8c/Tilki_Default_Adult_F_Sprite.png/150px-Tilki_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/22/Tilki_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

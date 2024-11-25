@@ -1,0 +1,41 @@
+{
+  "name": "surtr",
+  "egg_description": "This Egg holds the flames of the battlefield.",
+  "elements": [
+    "fire",
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Flame Dragon",
+  "body_type": "Draco",
+  "food": "Flames",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "conquerer",
+    "apocalypse",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/3b/Surtr_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/30/Surtr_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f3/Surtr_Default_Hatchling_M_Sprite.png/150px-Surtr_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7a/Surtr_Default_Hatchling_F_Sprite.png/150px-Surtr_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f3/Surtr_Default_Hatchling_M_Sprite.png/150px-Surtr_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7a/Surtr_Default_Hatchling_F_Sprite.png/150px-Surtr_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/88/Surtr_Default_Adult_M_Sprite.png/150px-Surtr_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/75/Surtr_Default_Adult_F_Sprite.png/150px-Surtr_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/3b/Surtr_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

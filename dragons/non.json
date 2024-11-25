@@ -1,0 +1,39 @@
+{
+  "name": "non",
+  "egg_description": "This Egg is found in the Void Abyss.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Coatyl",
+  "food": "Star Fruit",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "void",
+    "galactic abyss"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2c/Non_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/47/Non_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7b/Non_Default_Hatchling_M_Sprite.png/150px-Non_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/de/Non_Default_Hatchling_F_Sprite.png/150px-Non_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/7b/Non_Default_Hatchling_M_Sprite.png/150px-Non_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/d/de/Non_Default_Hatchling_F_Sprite.png/150px-Non_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/03/Non_Default_Adult_M_Sprite.png/150px-Non_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/0b/Non_Default_Adult_F_Sprite.png/150px-Non_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2c/Non_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "goldpike",
+  "egg_description": "This Egg has golden thorns.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Thorn Dragon",
+  "body_type": "Draco",
+  "food": "Siberian Ginseng",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/c/cf/Goldpike_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/78/Goldpike_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/c/cf/Goldpike_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

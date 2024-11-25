@@ -1,0 +1,46 @@
+{
+  "name": "lotus fire dragon",
+  "egg_description": "This Egg can feel the energy of earnest wishes through its horn.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Wish Dragon",
+  "body_type": "Drake",
+  "food": "Magic Petal",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "p_lotus",
+    "p_sea wish",
+    "p_red spider lily",
+    "p_lucid dream",
+    "lotus",
+    "sea wish",
+    "red spider lily",
+    "lucid dream",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/07/Lotus_Fire_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/2b/Lotus_Fire_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f1/Lotus_Fire_Dragon_Default_Hatchling_M_Sprite.png/150px-Lotus_Fire_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3a/Lotus_Fire_Dragon_Default_Hatchling_F_Sprite.png/150px-Lotus_Fire_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f1/Lotus_Fire_Dragon_Default_Hatchling_M_Sprite.png/150px-Lotus_Fire_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3a/Lotus_Fire_Dragon_Default_Hatchling_F_Sprite.png/150px-Lotus_Fire_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/0/0f/Lotus_Fire_Dragon_Default_Adult_M_Sprite.png/150px-Lotus_Fire_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/ce/Lotus_Fire_Dragon_Default_Adult_F_Sprite.png/150px-Lotus_Fire_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/07/Lotus_Fire_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

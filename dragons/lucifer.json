@@ -1,0 +1,39 @@
+{
+  "name": "lucifer",
+  "egg_description": "This Egg carries a curse.",
+  "elements": [
+    "steel",
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Fallen Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "lair"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/0e/Lucifer_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/7e/Lucifer_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c1/Lucifer_Default_Hatchling_M_Sprite.png/150px-Lucifer_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5b/Lucifer_Default_Hatchling_F_Sprite.png/150px-Lucifer_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/c1/Lucifer_Default_Hatchling_M_Sprite.png/150px-Lucifer_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5b/Lucifer_Default_Hatchling_F_Sprite.png/150px-Lucifer_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/58/Lucifer_Default_Adult_M_Sprite.png/150px-Lucifer_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/2/2c/Lucifer_Default_Adult_F_Sprite.png/150px-Lucifer_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/0e/Lucifer_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "jango",
+  "egg_description": "The egg has a yellow badge.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Sheriff Dragon",
+  "body_type": "Drake",
+  "food": "Grapefruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "sheriff",
+    "undead (default)",
+    "undead (sheriff)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/0f/Jango_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/4/47/Jango_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9c/Jango_Default_Hatchling_M_Sprite.png/150px-Jango_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bd/Jango_Default_Hatchling_F_Sprite.png/150px-Jango_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9c/Jango_Default_Hatchling_M_Sprite.png/150px-Jango_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/bd/Jango_Default_Hatchling_F_Sprite.png/150px-Jango_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d7/Jango_Default_Adult_M_Sprite.png/150px-Jango_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/3/3d/Jango_Default_Adult_F_Sprite.png/150px-Jango_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/0f/Jango_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

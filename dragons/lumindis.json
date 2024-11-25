@@ -1,0 +1,43 @@
+{
+  "name": "lumindis",
+  "egg_description": "This Egg radiates noble loyalty.",
+  "elements": [
+    "light",
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Knight Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "knight of nobilis",
+    "star knight",
+    "moon knight",
+    "warrior",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/6f/Lumindis_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/90/Lumindis_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bf/Lumindis_Default_Hatchling_M_Sprite.png/150px-Lumindis_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/71/Lumindis_Default_Hatchling_F_Sprite.png/150px-Lumindis_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/bf/Lumindis_Default_Hatchling_M_Sprite.png/150px-Lumindis_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/71/Lumindis_Default_Hatchling_F_Sprite.png/150px-Lumindis_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/6/65/Lumindis_Default_Adult_M_Sprite.png/150px-Lumindis_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9e/Lumindis_Default_Adult_F_Sprite.png/150px-Lumindis_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/6f/Lumindis_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

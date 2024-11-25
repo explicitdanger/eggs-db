@@ -1,0 +1,39 @@
+{
+  "name": "fides",
+  "egg_description": "This Egg bears lightning.",
+  "elements": [
+    "dark",
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b9/Fides_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/bb/Fides_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b0/Fides_Default_Hatchling_M_Sprite.png/150px-Fides_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/09/Fides_Default_Hatchling_F_Sprite.png/150px-Fides_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b0/Fides_Default_Hatchling_M_Sprite.png/150px-Fides_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/09/Fides_Default_Hatchling_F_Sprite.png/150px-Fides_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/c/ca/Fides_Default_Adult_M_Sprite.png/150px-Fides_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a8/Fides_Default_Adult_F_Sprite.png/150px-Fides_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b9/Fides_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

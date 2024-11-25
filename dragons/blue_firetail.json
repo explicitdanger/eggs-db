@@ -1,0 +1,39 @@
+{
+  "name": "blue firetail",
+  "egg_description": "This Egg's deep blue fur is incredibly soft.",
+  "elements": [
+    "wind",
+    "lightning"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Nine-Tailed Fox Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/b0/Blue_Firetail_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/0/05/Blue_Firetail_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/82/Blue_Firetail_Default_Hatchling_M_Sprite.png/150px-Blue_Firetail_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/67/Blue_Firetail_Default_Hatchling_F_Sprite.png/150px-Blue_Firetail_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/82/Blue_Firetail_Default_Hatchling_M_Sprite.png/150px-Blue_Firetail_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/6/67/Blue_Firetail_Default_Hatchling_F_Sprite.png/150px-Blue_Firetail_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/f/f3/Blue_Firetail_Default_Adult_M_Sprite.png/150px-Blue_Firetail_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/08/Blue_Firetail_Default_Adult_F_Sprite.png/150px-Blue_Firetail_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/b0/Blue_Firetail_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

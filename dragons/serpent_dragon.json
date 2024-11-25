@@ -1,0 +1,36 @@
+{
+  "name": "serpent dragon",
+  "egg_description": "This Egg consists of thin scales.",
+  "elements": [
+    "dark",
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Snake Dragon",
+  "body_type": "Coatyl",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2a/Serpent_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/9e/Serpent_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/e/e6/Serpent_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/e/e6/Serpent_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a8/Serpent_Dragon_Default_Adult_M_Sprite.png/150px-Serpent_Dragon_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2a/Serpent_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

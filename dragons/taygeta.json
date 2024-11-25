@@ -1,0 +1,38 @@
+{
+  "name": "taygeta",
+  "egg_description": "This Egg is highly loyal.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Monitor Dragon",
+  "body_type": "Draco",
+  "food": "Magic Petals",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/6/64/Taygeta_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/2/23/Taygeta_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a2/Taygeta_Default_Hatchling_M_Sprite.png/150px-Taygeta_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Taygeta_Default_Hatchling_F_Sprite.png/150px-Taygeta_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a2/Taygeta_Default_Hatchling_M_Sprite.png/150px-Taygeta_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Taygeta_Default_Hatchling_F_Sprite.png/150px-Taygeta_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/33/Taygeta_Default_Adult_M_Sprite.png/150px-Taygeta_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e7/Taygeta_Default_Adult_F_Sprite.png/150px-Taygeta_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/6/64/Taygeta_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

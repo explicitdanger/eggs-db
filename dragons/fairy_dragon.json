@@ -1,0 +1,40 @@
+{
+  "name": "fairy dragon",
+  "egg_description": "This Egg's antennae scans the surrounding area.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Fairy Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "azure submerged volcano",
+    "tranquil rocky outcrop",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/4/46/Fairy_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/f4/Fairy_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/9/9e/Fairy_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/7/76/Fairy_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/9/9e/Fairy_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/7/76/Fairy_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/b/b1/Fairy_Dragon_Default_Adult_M_Sprite.png/150px-Fairy_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e5/Fairy_Dragon_Default_Adult_F_Sprite.png/150px-Fairy_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/4/46/Fairy_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

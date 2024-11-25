@@ -1,0 +1,30 @@
+{
+  "name": "patroa",
+  "egg_description": "This Egg is guarded by an emerald snake.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Flame Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/34/Patroa_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/ff/Patroa_Dead_Egg_Sprite.png",
+      "hatch": {},
+      "hatchling": {},
+      "adult": {}
+    },
+    "egg": "https://dvc.wiki.gg/images/3/34/Patroa_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

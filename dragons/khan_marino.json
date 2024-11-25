@@ -1,0 +1,38 @@
+{
+  "name": "khan marino",
+  "egg_description": "The dragon inside this egg has a pink glow.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Grasshopper",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/11/Khan_Marino_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/c0/Khan_Marino_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5e/Khan_Marino_Default_Hatchling_M_Sprite.png/150px-Khan_Marino_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4c/Khan_Marino_Default_Hatchling_F_Sprite.png/150px-Khan_Marino_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5e/Khan_Marino_Default_Hatchling_M_Sprite.png/150px-Khan_Marino_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/4c/Khan_Marino_Default_Hatchling_F_Sprite.png/150px-Khan_Marino_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/8c/Khan_Marino_Default_Adult_M_Sprite.png/150px-Khan_Marino_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/07/Khan_Marino_Default_Adult_F_Sprite.png/150px-Khan_Marino_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/11/Khan_Marino_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

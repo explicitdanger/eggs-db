@@ -1,0 +1,40 @@
+{
+  "name": "mushroom dragon",
+  "egg_description": "The Egg is moist and bouncy.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Mushroom Dragon",
+  "body_type": "Draco",
+  "food": "Mushroom",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/3/3e/Mushroom_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/3f/Mushroom_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/53/Mushroom_Dragon_Default_Hatchling_M_Sprite.png/150px-Mushroom_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Mushroom_Dragon_Default_Hatchling_F_Sprite.png/150px-Mushroom_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/53/Mushroom_Dragon_Default_Hatchling_M_Sprite.png/150px-Mushroom_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/ad/Mushroom_Dragon_Default_Hatchling_F_Sprite.png/150px-Mushroom_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/e/e4/Mushroom_Dragon_Default_Adult_M_Sprite.png/150px-Mushroom_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/c/ca/Mushroom_Dragon_Default_Adult_F_Sprite.png/150px-Mushroom_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/3/3e/Mushroom_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}
