@@ -1,0 +1,42 @@
+{
+  "name": "demong & gargoyle",
+  "egg_description": "This Egg emanates a demonic aura.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Demon Dragon",
+  "body_type": "Wyvern",
+  "food": "Dragon Eggberry",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "piggyback",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/20/Demong_%26_Gargoyle_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/f/fb/Demong_%26_Gargoyle_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/aa/Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/d9/Demong_%26_Gargoyle_Default_Adult_M_Sprite.png/150px-Demong_%26_Gargoyle_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9b/Demong_%26_Gargoyle_Default_Adult_F_Sprite.png/150px-Demong_%26_Gargoyle_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/20/Demong_%26_Gargoyle_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fc/Demonggargoyle_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Demong_%26_Gargoyle",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Demonggargoyle_00_e_egg_g.png/revision/latest?cb=20230919100328"
+}

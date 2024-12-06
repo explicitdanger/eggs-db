@@ -1,0 +1,39 @@
+{
+  "name": "rude ore dragon",
+  "egg_description": "This Egg has shiny shards on its shell.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Ore Dragon",
+  "body_type": "Draco",
+  "food": "Ore",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "god's ore",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/dd/Rude_Ore_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/6/68/Rude_Ore_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/3/3d/Rude_Ore_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/a/ac/Rude_Ore_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/3/3d/Rude_Ore_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/a/ac/Rude_Ore_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/98/Rude_Ore_Dragon_Default_Adult_M_Sprite.png/150px-Rude_Ore_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/01/Rude_Ore_Dragon_Default_Adult_F_Sprite.png/150px-Rude_Ore_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/dd/Rude_Ore_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

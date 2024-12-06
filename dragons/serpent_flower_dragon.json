@@ -1,0 +1,36 @@
+{
+  "name": "serpent flower dragon",
+  "egg_description": "This Egg smells like flowers.",
+  "elements": [
+    "dark",
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Snake Dragon",
+  "body_type": "Coatyl",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/07/Serpent_Flower_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/9e/Serpent_Flower_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "female": "https://dvc.wiki.gg/images/0/0c/Serpent_Flower_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "female": "https://dvc.wiki.gg/images/0/0c/Serpent_Flower_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "female": "https://dvc.wiki.gg/images/thumb/f/f5/Serpent_Flower_Dragon_Default_Adult_F_Sprite.png/150px-Serpent_Flower_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/07/Serpent_Flower_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

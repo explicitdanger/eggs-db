@@ -1,0 +1,39 @@
+{
+  "name": "chaosfear",
+  "egg_description": "This Egg radiates an aura of attunement.",
+  "elements": [
+    "steel",
+    "wind"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Chaos Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "lair"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/1/13/Chaosfear_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/3/38/Chaosfear_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/78/Chaosfear_Default_Hatchling_M_Sprite.png/150px-Chaosfear_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Chaosfear_Default_Hatchling_F_Sprite.png/150px-Chaosfear_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/78/Chaosfear_Default_Hatchling_M_Sprite.png/150px-Chaosfear_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/f/f1/Chaosfear_Default_Hatchling_F_Sprite.png/150px-Chaosfear_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/4/4b/Chaosfear_Default_Adult_M_Sprite.png/150px-Chaosfear_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/8f/Chaosfear_Default_Adult_F_Sprite.png/150px-Chaosfear_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/1/13/Chaosfear_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

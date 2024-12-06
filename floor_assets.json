@@ -1,0 +1,160 @@
+{
+  "floor": [
+    {
+      "display_name": "aftea",
+      "path": "aftea/aftea_floor_01"
+    },
+    {
+      "display_name": "aftea",
+      "path": "aftea/aftea_floor_02"
+    },
+    {
+      "display_name": "apathtohope",
+      "path": "apathtohope/apathtohope_floor_01"
+    },
+    {
+      "display_name": "clavis",
+      "path": "clavis/clavis_floor_01"
+    },
+    {
+      "display_name": "clavis",
+      "path": "clavis/clavis_floor_02"
+    },
+    {
+      "display_name": "deepsea",
+      "path": "deepsea/deepsea_floor_01"
+    },
+    {
+      "display_name": "destroyedlaboratory",
+      "path": "destroyedlaboratory/destroyedlaboratory_floor_01"
+    },
+    {
+      "display_name": "eshu",
+      "path": "eshu/eshu_floor_01"
+    },
+    {
+      "display_name": "executor",
+      "path": "executor/executor_floor_01"
+    },
+    {
+      "display_name": "feruna",
+      "path": "feruna/feruna_floor_01"
+    },
+    {
+      "display_name": "feruna",
+      "path": "feruna/feruna_floor_02"
+    },
+    {
+      "display_name": "halloween 2023",
+      "path": "halloween_2023/halloween_2023_floor_01"
+    },
+    {
+      "display_name": "janus",
+      "path": "janus/janus_floor_01"
+    },
+    {
+      "display_name": "janus",
+      "path": "janus/janus_floor_02"
+    },
+    {
+      "display_name": "judge",
+      "path": "judge/judge_floor_01"
+    },
+    {
+      "display_name": "kingdomoftheend",
+      "path": "kingdomoftheend/kingdomoftheend_floor_01"
+    },
+    {
+      "display_name": "kkamaknara",
+      "path": "kkamaknara/kkamaknara_floor_01"
+    },
+    {
+      "display_name": "korean palace",
+      "path": "korean_palace/korean_palace_floor_01"
+    },
+    {
+      "display_name": "lotusfiredragon",
+      "path": "lotusfiredragon/lotusfiredragon_floor_01"
+    },
+    {
+      "display_name": "lotusfiredragon",
+      "path": "lotusfiredragon/lotusfiredragon_floor_02"
+    },
+    {
+      "display_name": "lumindis",
+      "path": "lumindis/lumindis_floor_01"
+    },
+    {
+      "display_name": "malcartis",
+      "path": "malcartis/malcartis_floor_01"
+    },
+    {
+      "display_name": "malcartis",
+      "path": "malcartis/malcartis_floor_02"
+    },
+    {
+      "display_name": "metis",
+      "path": "metis/metis_floor_01"
+    },
+    {
+      "display_name": "metis",
+      "path": "metis/metis_floor_02"
+    },
+    {
+      "display_name": "pusom",
+      "path": "pusom/pusom_floor_01"
+    },
+    {
+      "display_name": "pusom",
+      "path": "pusom/pusom_floor_02"
+    },
+    {
+      "display_name": "ranky",
+      "path": "ranky/ranky_floor_01"
+    },
+    {
+      "display_name": "shallowsea",
+      "path": "shallowsea/shallowsea_floor_01"
+    },
+    {
+      "display_name": "shockwave",
+      "path": "shockwave/shockwave_floor_01"
+    },
+    {
+      "display_name": "shockwave",
+      "path": "shockwave/shockwave_floor_02"
+    },
+    {
+      "display_name": "symphonia",
+      "path": "symphonia/symphonia_floor_01"
+    },
+    {
+      "display_name": "symphonia",
+      "path": "symphonia/symphonia_floor_02"
+    },
+    {
+      "display_name": "telosgamma",
+      "path": "telosgamma/telosgamma_floor_01"
+    },
+    {
+      "display_name": "telosgamma",
+      "path": "telosgamma/telosgamma_floor_02"
+    },
+    {
+      "display_name": "templeofmemory",
+      "path": "templeofmemory/templeofmemory_floor_01"
+    },
+    {
+      "display_name": "vaska",
+      "path": "vaska/vaska_floor_01"
+    },
+    {
+      "display_name": "vaska",
+      "path": "vaska/vaska_floor_02"
+    },
+    {
+      "display_name": "xmas 2023",
+      "path": "xmas_2023/xmas_2023_floor_01"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "shark dragon",
+  "egg_description": "This Egg looks like a shark.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Shark Dragon",
+  "body_type": "Wyvern",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "signature",
+    "blue shark",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/7e/Shark_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/be/Shark_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/f/f4/Shark_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/b9/Shark_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/f/f4/Shark_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/b/b9/Shark_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/53/Shark_Dragon_Default_Adult_M_Sprite.png/150px-Shark_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/e3/Shark_Dragon_Default_Adult_F_Sprite.png/150px-Shark_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/7e/Shark_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Sharkgon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shark_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/aa/Sharkgon_00_e_egg_b.png/revision/latest?cb=20240316020210"
+}

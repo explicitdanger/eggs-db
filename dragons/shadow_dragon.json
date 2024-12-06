@@ -1,0 +1,34 @@
+{
+  "name": "shadow dragon",
+  "egg_description": "This Egg gives off a dark, shady aura.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Shadow Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/d/df/Shadow_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/e8/Shadow_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Shadow_Dragon_Default_Hatchling_M_Sprite.png/150px-Shadow_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Shadow_Dragon_Default_Hatchling_M_Sprite.png/150px-Shadow_Dragon_Default_Hatchling_M_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/dc/Shadow_Dragon_Default_Adult_M_Sprite.png/150px-Shadow_Dragon_Default_Adult_M_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/d/df/Shadow_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": []
+}

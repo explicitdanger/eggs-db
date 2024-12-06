@@ -1,0 +1,44 @@
+{
+  "name": "six-leg horn",
+  "egg_description": "This Egg's horn is growing little by little.",
+  "elements": [
+    "wind",
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Horn Dragon",
+  "body_type": "Draco",
+  "food": "Haunted Pumpkin",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "night sky six-legged horn",
+    "sunlight six-legged horn",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/2/2b/Six-Leg_Horn_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/b/be/Six-Leg_Horn_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1f/Six-Leg_Horn_Default_Hatchling_M_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5f/Six-Leg_Horn_Default_Hatchling_F_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1f/Six-Leg_Horn_Default_Hatchling_M_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/5/5f/Six-Leg_Horn_Default_Hatchling_F_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/5d/Six-Leg_Horn_Default_Adult_M_Sprite.png/150px-Six-Leg_Horn_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/e/ed/Six-Leg_Horn_Default_Adult_F_Sprite.png/150px-Six-Leg_Horn_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/2/2b/Six-Leg_Horn_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/16/Sixleghorn_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Six-Leg_Horn",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/be/Sixleghorn_00_e_egg_y.png/revision/latest?cb=20240202221554"
+}

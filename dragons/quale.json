@@ -1,0 +1,41 @@
+{
+  "name": "quale",
+  "egg_description": "This Egg is wrapped in fins as if wearing a cloak.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Light Dragon",
+  "body_type": "Drake",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/5/58/Quale_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/c/c2/Quale_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/5/54/Quale_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ed/Quale_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/5/54/Quale_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/e/ed/Quale_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/d/dd/Quale_Default_Adult_M_Sprite.png/150px-Quale_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/9/9d/Quale_Default_Adult_F_Sprite.png/150px-Quale_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/5/58/Quale_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/70/Qualle_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173423",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Quale",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d7/Qualle_00_e_egg_rp.png/revision/latest?cb=20240314030213"
+}

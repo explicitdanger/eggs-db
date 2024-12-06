@@ -1,0 +1,42 @@
+{
+  "name": "caretaker god dragon",
+  "egg_description": "This Egg has yellow spots and eyes.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "heart",
+    "hug"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/7/72/Caretaker_God_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/e/eb/Caretaker_God_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/b9/Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/a6/Caretaker_God_Dragon_Default_Adult_M_Sprite.png/150px-Caretaker_God_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/78/Caretaker_God_Dragon_Default_Adult_F_Sprite.png/150px-Caretaker_God_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/7/72/Caretaker_God_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Keepergoddragon_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Caretaker_God_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Keepergoddragon_00_e_egg_w.png/revision/latest?cb=20231116075254"
+}
