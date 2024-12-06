@@ -6668,15 +6668,25 @@
           "heart",
           "hug"
         ],
-        "assets": [
-          {
-            "form_number": "03",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "keepergoddragon_03_m_adult_w"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/7/72/Caretaker_God_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/e/eb/Caretaker_God_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/1c/Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/b/b9/Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/1c/Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/b/b9/Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png/150px-Caretaker_God_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/a/a6/Caretaker_God_Dragon_Default_Adult_M_Sprite.png/150px-Caretaker_God_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/7/78/Caretaker_God_Dragon_Default_Adult_F_Sprite.png/150px-Caretaker_God_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/7/72/Caretaker_God_Dragon_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Keepergoddragon_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Caretaker_God_Dragon",
@@ -7381,15 +7391,25 @@
           "default",
           "lair"
         ],
-        "assets": [
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "p",
-            "path": "chaosfear_02_m_hatchling_p"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/1/13/Chaosfear_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/3/38/Chaosfear_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/7/78/Chaosfear_Default_Hatchling_M_Sprite.png/150px-Chaosfear_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/f/f1/Chaosfear_Default_Hatchling_F_Sprite.png/150px-Chaosfear_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/7/78/Chaosfear_Default_Hatchling_M_Sprite.png/150px-Chaosfear_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/f/f1/Chaosfear_Default_Hatchling_F_Sprite.png/150px-Chaosfear_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/4/4b/Chaosfear_Default_Adult_M_Sprite.png/150px-Chaosfear_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/8/8f/Chaosfear_Default_Adult_F_Sprite.png/150px-Chaosfear_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/1/13/Chaosfear_Egg_Sprite.png"
+        },
         "special_actions": []
       },
       "characen": {
@@ -10584,15 +10604,25 @@
           "piggyback",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "g",
-            "path": "demonggargoyle_02_m_adult_g"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/2/20/Demong_%26_Gargoyle_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/f/fb/Demong_%26_Gargoyle_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/a/aa/Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/f/f1/Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/a/aa/Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/f/f1/Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png/150px-Demong_%26_Gargoyle_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/d/d9/Demong_%26_Gargoyle_Default_Adult_M_Sprite.png/150px-Demong_%26_Gargoyle_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/9/9b/Demong_%26_Gargoyle_Default_Adult_F_Sprite.png/150px-Demong_%26_Gargoyle_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/2/20/Demong_%26_Gargoyle_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fc/Demonggargoyle_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Demong_%26_Gargoyle",
@@ -11648,15 +11678,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "dummbbluedragon_01_m_hatch_b"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/3/3d/Dumbo_Blue_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/6/6d/Dumbo_Blue_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/d/dd/Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/0/05/Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/d/dd/Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/0/05/Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/e/e2/Dumbo_Blue_Dragon_Default_Adult_M_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/6/6a/Dumbo_Blue_Dragon_Default_Adult_F_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/3/3d/Dumbo_Blue_Dragon_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7e/Dummbbluedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172217",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dumbo_Blue_Dragon",
@@ -14418,15 +14458,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "prohibitedwitchdragon_01_m_hatchling_w"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/4/46/Forbidden_Witch_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/0/06/Forbidden_Witch_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/f/fe/Forbidden_Witch_Dragon_Default_Hatchling_M_Sprite.png/150px-Forbidden_Witch_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/6/6f/Forbidden_Witch_Dragon_Default_Hatchling_F_Sprite.png/150px-Forbidden_Witch_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/f/fe/Forbidden_Witch_Dragon_Default_Hatchling_M_Sprite.png/150px-Forbidden_Witch_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/6/6f/Forbidden_Witch_Dragon_Default_Hatchling_F_Sprite.png/150px-Forbidden_Witch_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/c/c9/Forbidden_Witch_Dragon_Default_Adult_M_Sprite.png/150px-Forbidden_Witch_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/8/80/Forbidden_Witch_Dragon_Default_Adult_F_Sprite.png/150px-Forbidden_Witch_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/4/46/Forbidden_Witch_Dragon_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/45/Prohibitedwitchdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Forbidden_Witch_Dragon",
@@ -15339,15 +15389,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "gandharba_01_m_hatchling_b"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/3/3f/Gandharva_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/7/7b/Gandharva_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/6/62/Gandharva_Default_Hatchling_M_Sprite.png/150px-Gandharva_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/3/34/Gandharva_Default_Hatchling_F_Sprite.png/150px-Gandharva_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/6/62/Gandharva_Default_Hatchling_M_Sprite.png/150px-Gandharva_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/3/34/Gandharva_Default_Hatchling_F_Sprite.png/150px-Gandharva_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/10/Gandharva_Default_Adult_M_Sprite.png/150px-Gandharva_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/9/9e/Gandharva_Default_Adult_F_Sprite.png/150px-Gandharva_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/3/3f/Gandharva_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Gandharba_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gandharva",
@@ -16010,15 +16070,22 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "babygoddragon_01_m_adult_w"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/d/da/God_Jr_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/2/2b/God_Jr_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/a/ad/God_Jr_Default_Hatchling_M_Sprite.png/150px-God_Jr_Default_Hatchling_M_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/a/ad/God_Jr_Default_Hatchling_M_Sprite.png/150px-God_Jr_Default_Hatchling_M_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/d/d8/God_Jr_Default_Adult_M_Sprite.png/150px-God_Jr_Default_Adult_M_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/d/da/God_Jr_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Goddragonjr_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/God_Jr",
@@ -16040,15 +16107,17 @@
         "forms": [
           "default"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "godquestiondragon_01_m_adult_w"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/5/5a/God%3F_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/b/b5/God%3F_Dragon_Dead_Egg_Sprite.png",
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/d/d9/God%3F_Dragon_Default_Adult_M_Sprite.png/150px-God%3F_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/a/a8/God%3F_Dragon_Default_Adult_F_Sprite.png/150px-God%3F_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/5/5a/God%3F_Dragon_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Godquestiondragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/God%3F_Dragon",
@@ -19775,15 +19844,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "jujag_01_m_hatchling_r"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/7/7b/Jujak_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/9/9a/Jujak_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/f/f5/Jujak_Default_Hatchling_M_Sprite.png/150px-Jujak_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/53/Jujak_Default_Hatchling_F_Sprite.png/150px-Jujak_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/f/f5/Jujak_Default_Hatchling_M_Sprite.png/150px-Jujak_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/53/Jujak_Default_Hatchling_F_Sprite.png/150px-Jujak_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/4/48/Jujak_Default_Adult_M_Sprite.png/150px-Jujak_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/7/7a/Jujak_Default_Adult_F_Sprite.png/150px-Jujak_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/7/7b/Jujak_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Jujag_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jujak",
@@ -25136,15 +25215,25 @@
           "persion",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "manimekalai_02_m_hatchling_r"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/5/59/Manimekhala_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/5/56/Manimekhala_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/19/Manimekhala_Default_Hatchling_M_Sprite.png/150px-Manimekhala_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/5d/Manimekhala_Default_Hatchling_F_Sprite.png/150px-Manimekhala_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/19/Manimekhala_Default_Hatchling_M_Sprite.png/150px-Manimekhala_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/5d/Manimekhala_Default_Hatchling_F_Sprite.png/150px-Manimekhala_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/16/Manimekhala_Default_Adult_M_Sprite.png/150px-Manimekhala_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/d/d7/Manimekhala_Default_Adult_F_Sprite.png/150px-Manimekhala_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/5/59/Manimekhala_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/25/Manimekalai_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Manimekhala",
@@ -27336,15 +27425,25 @@
           "undead (default)",
           "undead (signature)"
         ],
-        "assets": [
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "g",
-            "path": "mystictiny_02_m_adult_g"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/9/9d/Mystic_Tiny_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/2/2b/Mystic_Tiny_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/2/27/Mystic_Tiny_Default_Hatchling_M_Sprite.png/150px-Mystic_Tiny_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/4/41/Mystic_Tiny_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/2/27/Mystic_Tiny_Default_Hatchling_M_Sprite.png/150px-Mystic_Tiny_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/4/41/Mystic_Tiny_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/e/e9/Mystic_Tiny_Default_Adult_M_Sprite.png/150px-Mystic_Tiny_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/e/e5/Mystic_Tiny_Default_Adult_F_Sprite.png/150px-Mystic_Tiny_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/9/9d/Mystic_Tiny_Egg_Sprite.png"
+        },
         "special_actions": []
       },
       "naga": {
@@ -32777,15 +32876,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "qualle_01_m_hatchling_rp"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/5/58/Quale_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/c/c2/Quale_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/5/54/Quale_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/e/ed/Quale_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/5/54/Quale_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/e/ed/Quale_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/d/dd/Quale_Default_Adult_M_Sprite.png/150px-Quale_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/9/9d/Quale_Default_Adult_F_Sprite.png/150px-Quale_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/5/58/Quale_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/70/Qualle_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173423",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Quale",
@@ -34087,15 +34196,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "remorseflorea_01_m_hatchling_bk"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/0/0a/Remorseful_Florea_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/3/33/Remorseful_Florea_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/f/fe/Remorseful_Florea_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/5/54/Remorseful_Florea_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/f/fe/Remorseful_Florea_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/5/54/Remorseful_Florea_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/0/04/Remorseful_Florea_Default_Adult_M_Sprite.png/150px-Remorseful_Florea_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/6/63/Remorseful_Florea_Default_Adult_F_Sprite.png/150px-Remorseful_Florea_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/0/0a/Remorseful_Florea_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Remorseflorea_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Remorseful_Florea",
@@ -34227,15 +34346,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "rosegold_01_m_hatchling_rp"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/5/59/Rose_Gold_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/3/34/Rose_Gold_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/3/3d/Rose_Gold_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/e/ee/Rose_Gold_Dragon_Default_Hatchling_F_Sprite.png/150px-Rose_Gold_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/3/3d/Rose_Gold_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/e/ee/Rose_Gold_Dragon_Default_Hatchling_F_Sprite.png/150px-Rose_Gold_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/4/4f/Rose_Gold_Dragon_Default_Adult_M_Sprite.png/150px-Rose_Gold_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/51/Rose_Gold_Dragon_Default_Adult_F_Sprite.png/150px-Rose_Gold_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/5/59/Rose_Gold_Dragon_Egg_Sprite.png"
+        },
         "special_actions": []
       },
       "rude_ore_dragon": {
@@ -34256,15 +34385,25 @@
           "god's ore",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "legacy02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "rudeore_legacy02_m_hatchling_bk"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/d/dd/Rude_Ore_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/6/68/Rude_Ore_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/3/3d/Rude_Ore_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/a/ac/Rude_Ore_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/3/3d/Rude_Ore_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/a/ac/Rude_Ore_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/9/98/Rude_Ore_Dragon_Default_Adult_M_Sprite.png/150px-Rude_Ore_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/0/01/Rude_Ore_Dragon_Default_Adult_F_Sprite.png/150px-Rude_Ore_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/d/dd/Rude_Ore_Dragon_Egg_Sprite.png"
+        },
         "special_actions": []
       },
       "rudra": {
@@ -35471,15 +35610,22 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "g",
-            "path": "serpentdragon_01_m_hatchling_g"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/0/07/Serpent_Flower_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/9/9e/Serpent_Flower_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "female": "https://dvc.wiki.gg/images/0/0c/Serpent_Flower_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "female": "https://dvc.wiki.gg/images/0/0c/Serpent_Flower_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "female": "https://dvc.wiki.gg/images/thumb/f/f5/Serpent_Flower_Dragon_Default_Adult_F_Sprite.png/150px-Serpent_Flower_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/0/07/Serpent_Flower_Dragon_Egg_Sprite.png"
+        },
         "special_actions": []
       },
       "shadow_dragon": {
@@ -35498,15 +35644,22 @@
         "forms": [
           "default"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "shadow_01_m_hatchling_bk"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/d/df/Shadow_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/e/e8/Shadow_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/1c/Shadow_Dragon_Default_Hatchling_M_Sprite.png/150px-Shadow_Dragon_Default_Hatchling_M_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/1c/Shadow_Dragon_Default_Hatchling_M_Sprite.png/150px-Shadow_Dragon_Default_Hatchling_M_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/d/dc/Shadow_Dragon_Default_Adult_M_Sprite.png/150px-Shadow_Dragon_Default_Adult_M_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/d/df/Shadow_Dragon_Egg_Sprite.png"
+        },
         "special_actions": []
       },
       "shark_dragon": {
@@ -35529,15 +35682,25 @@
           "undead (default)",
           "undead (signature)"
         ],
-        "assets": [
-          {
-            "form_number": "03",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "pb",
-            "path": "sharkgon_03_m_hatchling_pb"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/7/7e/Shark_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/b/be/Shark_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/f/f4/Shark_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/b/b9/Shark_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/f/f4/Shark_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/b/b9/Shark_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/5/53/Shark_Dragon_Default_Adult_M_Sprite.png/150px-Shark_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/e/e3/Shark_Dragon_Default_Adult_F_Sprite.png/150px-Shark_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/7/7e/Shark_Dragon_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Sharkgon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shark_Dragon",
@@ -36326,15 +36489,25 @@
           "sunlight six-legged horn",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "03",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "sixleghorn_03_m_hatchling_rp"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/2/2b/Six-Leg_Horn_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/b/be/Six-Leg_Horn_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/1f/Six-Leg_Horn_Default_Hatchling_M_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/5f/Six-Leg_Horn_Default_Hatchling_F_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/1f/Six-Leg_Horn_Default_Hatchling_M_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/5f/Six-Leg_Horn_Default_Hatchling_F_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/5/5d/Six-Leg_Horn_Default_Adult_M_Sprite.png/150px-Six-Leg_Horn_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/e/ed/Six-Leg_Horn_Default_Adult_F_Sprite.png/150px-Six-Leg_Horn_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/2/2b/Six-Leg_Horn_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/16/Sixleghorn_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Six-Leg_Horn",
@@ -39765,15 +39938,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "yr",
-            "path": "trexdragon_01_m_hatchling_yr"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/5/53/T-Rex_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/9/9b/T-Rex_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/thumb/0/0b/T-Rex_Dragon_Default_Hatchling_M_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/1/16/T-Rex_Dragon_Default_Hatchling_F_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/thumb/0/0b/T-Rex_Dragon_Default_Hatchling_M_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/1/16/T-Rex_Dragon_Default_Hatchling_F_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/f/fc/T-Rex_Dragon_Default_Adult_M_Sprite.png/150px-T-Rex_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/5/5e/T-Rex_Dragon_Default_Adult_F_Sprite.png/150px-T-Rex_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/5/53/T-Rex_Dragon_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Trexdragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/T-Rex_Dragon",
@@ -44906,15 +45089,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "whiteapple_01_m_hatchling_w"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/a/ab/White_Applecheek_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/5/5d/White_Applecheek_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/f/ff/White_Applecheek_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/f/fe/White_Applecheek_Default_Hatchling_F_Sprite.png/150px-White_Applecheek_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/f/ff/White_Applecheek_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/f/fe/White_Applecheek_Default_Hatchling_F_Sprite.png/150px-White_Applecheek_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/1/17/White_Applecheek_Default_Adult_M_Sprite.png/150px-White_Applecheek_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/d/dd/White_Applecheek_Default_Adult_F_Sprite.png/150px-White_Applecheek_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/a/ab/White_Applecheek_Egg_Sprite.png"
+        },
         "special_actions": [],
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Whiteapple_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/White_Applecheek",
@@ -44982,15 +45175,25 @@
           "default",
           "undead (default)"
         ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "whitegold_01_m_hatchling_w"
-          }
-        ],
+        "assets": {
+          "sprites": {
+            "egg": "https://dvc.wiki.gg/images/2/20/White_Gold_Dragon_Egg_Sprite.png",
+            "dead_egg": "https://dvc.wiki.gg/images/4/47/White_Gold_Dragon_Dead_Egg_Sprite.png",
+            "hatch": {
+              "male": "https://dvc.wiki.gg/images/8/8e/White_Gold_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/e/e8/White_Gold_Dragon_Default_Hatchling_F_Sprite.png/150px-White_Gold_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "hatchling": {
+              "male": "https://dvc.wiki.gg/images/8/8e/White_Gold_Dragon_Default_Hatchling_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/e/e8/White_Gold_Dragon_Default_Hatchling_F_Sprite.png/150px-White_Gold_Dragon_Default_Hatchling_F_Sprite.png"
+            },
+            "adult": {
+              "male": "https://dvc.wiki.gg/images/thumb/7/78/White_Gold_Dragon_Default_Adult_M_Sprite.png/150px-White_Gold_Dragon_Default_Adult_M_Sprite.png",
+              "female": "https://dvc.wiki.gg/images/thumb/4/4d/White_Gold_Dragon_Default_Adult_F_Sprite.png/150px-White_Gold_Dragon_Default_Adult_F_Sprite.png"
+            }
+          },
+          "egg": "https://dvc.wiki.gg/images/2/20/White_Gold_Dragon_Egg_Sprite.png"
+        },
         "special_actions": []
       },
       "white_thunder_dragon": {
