@@ -6670,6 +6670,97 @@
         ],
         "assets": [
           {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "keepergoddragon_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "keepergoddragon_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "keepergoddragon_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "keepergoddragon_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "keepergoddragon_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "keepergoddragon_01_m_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "keepergoddragon_02_f_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "keepergoddragon_02_f_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "keepergoddragon_02_f_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "keepergoddragon_02_m_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "keepergoddragon_02_m_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "keepergoddragon_02_m_hatchling_w"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "keepergoddragon_03_f_adult_w"
+          },
+          {
             "form_number": "03",
             "gender": "m",
             "stage": "adult",
@@ -7382,6 +7473,83 @@
           "lair"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "chaosfear_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "chaosfear_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "chaosfear_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "chaosfear_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "chaosfear_01_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "chaosfear_01_m_hatchling_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "chaosfear_02_f_adult_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "chaosfear_02_f_hatch_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "chaosfear_02_f_hatchling_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "chaosfear_02_m_adult_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "chaosfear_02_m_hatch_p"
+          },
           {
             "form_number": "02",
             "gender": "m",
@@ -10586,6 +10754,55 @@
         ],
         "assets": [
           {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "demonggargoyle_01_f_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "demonggargoyle_01_f_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "demonggargoyle_01_f_hatchling_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "demonggargoyle_01_m_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "demonggargoyle_01_m_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "demonggargoyle_01_m_hatchling_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "demonggargoyle_02_f_adult_g"
+          },
+          {
             "form_number": "02",
             "gender": "m",
             "stage": "adult",
@@ -11649,6 +11866,41 @@
           "undead (default)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_m_hatchling_b"
+          },
           {
             "form_number": "01",
             "gender": "m",
@@ -14421,6 +14673,41 @@
         "assets": [
           {
             "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "prohibitedwitchdragon_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "prohibitedwitchdragon_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "prohibitedwitchdragon_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "prohibitedwitchdragon_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "prohibitedwitchdragon_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
             "gender": "m",
             "stage": "hatchling",
             "color_code": "w",
@@ -15342,6 +15629,41 @@
         "assets": [
           {
             "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "gandharba_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "gandharba_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "gandharba_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "gandharba_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "gandharba_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
             "gender": "m",
             "stage": "hatchling",
             "color_code": "b",
@@ -16013,6 +16335,13 @@
         "assets": [
           {
             "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "babygoddragon_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
             "gender": "m",
             "stage": "adult",
             "color_code": "w",
@@ -16041,6 +16370,13 @@
           "default"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "godquestiondragon_01_f_adult_w"
+          },
           {
             "form_number": "01",
             "gender": "m",
@@ -19776,6 +20112,41 @@
           "undead (default)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "jujag_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "jujag_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "jujag_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "jujag_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "jujag_01_m_hatch_r"
+          },
           {
             "form_number": "01",
             "gender": "m",
@@ -25138,6 +25509,83 @@
         ],
         "assets": [
           {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "manimekalai_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "manimekalai_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "manimekalai_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "manimekalai_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "manimekalai_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "manimekalai_01_m_hatchling_bg"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "manimekalai_02_f_adult_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "manimekalai_02_f_hatch_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "manimekalai_02_f_hatchling_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "manimekalai_02_m_adult_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "manimekalai_02_m_hatch_r"
+          },
+          {
             "form_number": "02",
             "gender": "m",
             "stage": "hatchling",
@@ -27337,6 +27785,55 @@
           "undead (signature)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "mystictiny_01_f_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "mystictiny_01_f_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "mystictiny_01_f_hatchling_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "mystictiny_01_m_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "mystictiny_01_m_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "mystictiny_01_m_hatchling_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "mystictiny_02_f_adult_g"
+          },
           {
             "form_number": "02",
             "gender": "m",
@@ -32780,6 +33277,41 @@
         "assets": [
           {
             "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "qualle_01_f_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "qualle_01_f_hatch_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "rp",
+            "path": "qualle_01_f_hatchling_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "qualle_01_m_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "qualle_01_m_hatch_rp"
+          },
+          {
+            "form_number": "01",
             "gender": "m",
             "stage": "hatchling",
             "color_code": "rp",
@@ -34090,6 +34622,41 @@
         "assets": [
           {
             "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "remorseflorea_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "remorseflorea_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "remorseflorea_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "remorseflorea_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "remorseflorea_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
             "gender": "m",
             "stage": "hatchling",
             "color_code": "bk",
@@ -34230,6 +34797,41 @@
         "assets": [
           {
             "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "rosegold_01_f_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "rosegold_01_f_hatch_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "rp",
+            "path": "rosegold_01_f_hatchling_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "rosegold_01_m_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "rosegold_01_m_hatch_rp"
+          },
+          {
+            "form_number": "01",
             "gender": "m",
             "stage": "hatchling",
             "color_code": "rp",
@@ -34257,6 +34859,167 @@
           "undead (default)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_01_m_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_02_f_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_02_f_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_02_f_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_02_m_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_02_m_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_02_m_hatchling_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_f_adult_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_f_hatch_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_f_hatchling_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_m_adult_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_m_hatch_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_m_hatchling_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_f_adult_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_f_hatch_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_f_hatchling_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_m_adult_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_m_hatch_bk"
+          },
           {
             "form_number": "legacy02",
             "gender": "m",
@@ -35475,6 +36238,20 @@
           {
             "form_number": "01",
             "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
             "stage": "hatchling",
             "color_code": "g",
             "path": "serpentdragon_01_m_hatchling_g"
@@ -35499,6 +36276,20 @@
           "default"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "shadow_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "shadow_01_m_hatch_bk"
+          },
           {
             "form_number": "01",
             "gender": "m",
@@ -35530,6 +36321,97 @@
           "undead (signature)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "sharkgon_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "sharkgon_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "sharkgon_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "sharkgon_01_m_hatchling_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_02_f_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_02_m_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "sharkgon_03_f_adult_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "sharkgon_03_f_hatch_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "sharkgon_03_f_hatchling_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "sharkgon_03_m_adult_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "sharkgon_03_m_hatch_pb"
+          },
           {
             "form_number": "03",
             "gender": "m",
@@ -36327,6 +37209,125 @@
           "undead (default)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "sixleghorn_01_f_adult_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "sixleghorn_01_f_hatch_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "sixleghorn_01_f_hatchling_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "sixleghorn_01_m_adult_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "sixleghorn_01_m_hatch_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "sixleghorn_01_m_hatchling_y"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "sixleghorn_02_f_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "sixleghorn_02_f_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "sixleghorn_02_f_hatchling_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "sixleghorn_02_m_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "sixleghorn_02_m_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "sixleghorn_02_m_hatchling_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "sixleghorn_03_f_adult_rp"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "sixleghorn_03_f_hatch_rp"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "rp",
+            "path": "sixleghorn_03_f_hatchling_rp"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "sixleghorn_03_m_adult_rp"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "sixleghorn_03_m_hatch_rp"
+          },
           {
             "form_number": "03",
             "gender": "m",
@@ -39766,6 +40767,41 @@
           "undead (default)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "trexdragon_01_f_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "trexdragon_01_f_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "trexdragon_01_f_hatchling_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "trexdragon_01_m_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "trexdragon_01_m_hatch_yr"
+          },
           {
             "form_number": "01",
             "gender": "m",
@@ -44909,6 +45945,41 @@
         "assets": [
           {
             "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "whiteapple_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "whiteapple_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "whiteapple_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "whiteapple_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "whiteapple_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
             "gender": "m",
             "stage": "hatchling",
             "color_code": "w",
@@ -44983,6 +46054,41 @@
           "undead (default)"
         ],
         "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "whitegold_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "whitegold_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "whitegold_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "whitegold_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "whitegold_01_m_hatch_w"
+          },
           {
             "form_number": "01",
             "gender": "m",
