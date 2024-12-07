@@ -18,25 +18,15 @@
     "sunlight six-legged horn",
     "undead (default)"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/2/2b/Six-Leg_Horn_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/b/be/Six-Leg_Horn_Dead_Egg_Sprite.png",
-      "hatch": {
-        "male": "https://dvc.wiki.gg/images/thumb/1/1f/Six-Leg_Horn_Default_Hatchling_M_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/5/5f/Six-Leg_Horn_Default_Hatchling_F_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_F_Sprite.png"
-      },
-      "hatchling": {
-        "male": "https://dvc.wiki.gg/images/thumb/1/1f/Six-Leg_Horn_Default_Hatchling_M_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/5/5f/Six-Leg_Horn_Default_Hatchling_F_Sprite.png/150px-Six-Leg_Horn_Default_Hatchling_F_Sprite.png"
-      },
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/5/5d/Six-Leg_Horn_Default_Adult_M_Sprite.png/150px-Six-Leg_Horn_Default_Adult_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/e/ed/Six-Leg_Horn_Default_Adult_F_Sprite.png/150px-Six-Leg_Horn_Default_Adult_F_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/2/2b/Six-Leg_Horn_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "sixleghorn_03_m_hatchling_rp"
+    }
+  ],
   "special_actions": [],
   "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/16/Sixleghorn_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
   "profile_url": "https://dragon-village-collection.fandom.com/wiki/Six-Leg_Horn",

@@ -16,25 +16,15 @@
     "default",
     "undead (default)"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/3/3d/Dumbo_Blue_Dragon_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/6/6d/Dumbo_Blue_Dragon_Dead_Egg_Sprite.png",
-      "hatch": {
-        "male": "https://dvc.wiki.gg/images/thumb/d/dd/Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/0/05/Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png"
-      },
-      "hatchling": {
-        "male": "https://dvc.wiki.gg/images/thumb/d/dd/Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/0/05/Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Hatchling_F_Sprite.png"
-      },
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/e/e2/Dumbo_Blue_Dragon_Default_Adult_M_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Adult_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/6/6a/Dumbo_Blue_Dragon_Default_Adult_F_Sprite.png/150px-Dumbo_Blue_Dragon_Default_Adult_F_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/3/3d/Dumbo_Blue_Dragon_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "dummbbluedragon_01_m_hatch_b"
+    }
+  ],
   "special_actions": [],
   "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7e/Dummbbluedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172217",
   "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dumbo_Blue_Dragon",

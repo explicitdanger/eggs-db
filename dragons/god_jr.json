@@ -15,22 +15,15 @@
     "default",
     "undead (default)"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/d/da/God_Jr_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/2/2b/God_Jr_Dead_Egg_Sprite.png",
-      "hatch": {
-        "male": "https://dvc.wiki.gg/images/thumb/a/ad/God_Jr_Default_Hatchling_M_Sprite.png/150px-God_Jr_Default_Hatchling_M_Sprite.png"
-      },
-      "hatchling": {
-        "male": "https://dvc.wiki.gg/images/thumb/a/ad/God_Jr_Default_Hatchling_M_Sprite.png/150px-God_Jr_Default_Hatchling_M_Sprite.png"
-      },
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/d/d8/God_Jr_Default_Adult_M_Sprite.png/150px-God_Jr_Default_Adult_M_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/d/da/God_Jr_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "babygoddragon_01_m_adult_w"
+    }
+  ],
   "special_actions": [],
   "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Goddragonjr_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
   "profile_url": "https://dragon-village-collection.fandom.com/wiki/God_Jr",

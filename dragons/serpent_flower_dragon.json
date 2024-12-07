@@ -16,21 +16,14 @@
     "default",
     "undead (default)"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/0/07/Serpent_Flower_Dragon_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/9/9e/Serpent_Flower_Dragon_Dead_Egg_Sprite.png",
-      "hatch": {
-        "female": "https://dvc.wiki.gg/images/0/0c/Serpent_Flower_Dragon_Default_Hatchling_F_Sprite.png"
-      },
-      "hatchling": {
-        "female": "https://dvc.wiki.gg/images/0/0c/Serpent_Flower_Dragon_Default_Hatchling_F_Sprite.png"
-      },
-      "adult": {
-        "female": "https://dvc.wiki.gg/images/thumb/f/f5/Serpent_Flower_Dragon_Default_Adult_F_Sprite.png/150px-Serpent_Flower_Dragon_Default_Adult_F_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/0/07/Serpent_Flower_Dragon_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "serpentdragon_01_m_hatchling_g"
+    }
+  ],
   "special_actions": []
 }

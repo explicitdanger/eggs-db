@@ -15,25 +15,15 @@
     "default",
     "undead (default)"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/5/53/T-Rex_Dragon_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/9/9b/T-Rex_Dragon_Dead_Egg_Sprite.png",
-      "hatch": {
-        "male": "https://dvc.wiki.gg/images/thumb/0/0b/T-Rex_Dragon_Default_Hatchling_M_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/1/16/T-Rex_Dragon_Default_Hatchling_F_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_F_Sprite.png"
-      },
-      "hatchling": {
-        "male": "https://dvc.wiki.gg/images/thumb/0/0b/T-Rex_Dragon_Default_Hatchling_M_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/1/16/T-Rex_Dragon_Default_Hatchling_F_Sprite.png/150px-T-Rex_Dragon_Default_Hatchling_F_Sprite.png"
-      },
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/f/fc/T-Rex_Dragon_Default_Adult_M_Sprite.png/150px-T-Rex_Dragon_Default_Adult_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/5/5e/T-Rex_Dragon_Default_Adult_F_Sprite.png/150px-T-Rex_Dragon_Default_Adult_F_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/5/53/T-Rex_Dragon_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "trexdragon_01_m_hatchling_yr"
+    }
+  ],
   "special_actions": [],
   "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Trexdragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
   "profile_url": "https://dragon-village-collection.fandom.com/wiki/T-Rex_Dragon",

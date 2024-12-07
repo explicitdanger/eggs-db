@@ -18,24 +18,14 @@
     "undead (default)",
     "undead (signature)"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/9/9d/Mystic_Tiny_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/2/2b/Mystic_Tiny_Dead_Egg_Sprite.png",
-      "hatch": {
-        "male": "https://dvc.wiki.gg/images/thumb/2/27/Mystic_Tiny_Default_Hatchling_M_Sprite.png/150px-Mystic_Tiny_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/4/41/Mystic_Tiny_Default_Hatchling_F_Sprite.png"
-      },
-      "hatchling": {
-        "male": "https://dvc.wiki.gg/images/thumb/2/27/Mystic_Tiny_Default_Hatchling_M_Sprite.png/150px-Mystic_Tiny_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/4/41/Mystic_Tiny_Default_Hatchling_F_Sprite.png"
-      },
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/e/e9/Mystic_Tiny_Default_Adult_M_Sprite.png/150px-Mystic_Tiny_Default_Adult_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/e/e5/Mystic_Tiny_Default_Adult_F_Sprite.png/150px-Mystic_Tiny_Default_Adult_F_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/9/9d/Mystic_Tiny_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "mystictiny_02_m_adult_g"
+    }
+  ],
   "special_actions": []
 }

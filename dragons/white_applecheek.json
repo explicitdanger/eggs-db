@@ -16,25 +16,15 @@
     "default",
     "undead (default)"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/a/ab/White_Applecheek_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/5/5d/White_Applecheek_Dead_Egg_Sprite.png",
-      "hatch": {
-        "male": "https://dvc.wiki.gg/images/f/ff/White_Applecheek_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/f/fe/White_Applecheek_Default_Hatchling_F_Sprite.png/150px-White_Applecheek_Default_Hatchling_F_Sprite.png"
-      },
-      "hatchling": {
-        "male": "https://dvc.wiki.gg/images/f/ff/White_Applecheek_Default_Hatchling_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/f/fe/White_Applecheek_Default_Hatchling_F_Sprite.png/150px-White_Applecheek_Default_Hatchling_F_Sprite.png"
-      },
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/1/17/White_Applecheek_Default_Adult_M_Sprite.png/150px-White_Applecheek_Default_Adult_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/d/dd/White_Applecheek_Default_Adult_F_Sprite.png/150px-White_Applecheek_Default_Adult_F_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/a/ab/White_Applecheek_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "whiteapple_01_m_hatchling_w"
+    }
+  ],
   "special_actions": [],
   "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Whiteapple_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
   "profile_url": "https://dragon-village-collection.fandom.com/wiki/White_Applecheek",

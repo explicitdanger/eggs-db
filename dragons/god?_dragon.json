@@ -14,17 +14,15 @@
   "forms": [
     "default"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/5/5a/God%3F_Dragon_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/b/b5/God%3F_Dragon_Dead_Egg_Sprite.png",
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/d/d9/God%3F_Dragon_Default_Adult_M_Sprite.png/150px-God%3F_Dragon_Default_Adult_M_Sprite.png",
-        "female": "https://dvc.wiki.gg/images/thumb/a/a8/God%3F_Dragon_Default_Adult_F_Sprite.png/150px-God%3F_Dragon_Default_Adult_F_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/5/5a/God%3F_Dragon_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "godquestiondragon_01_m_adult_w"
+    }
+  ],
   "special_actions": [],
   "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Godquestiondragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
   "profile_url": "https://dragon-village-collection.fandom.com/wiki/God%3F_Dragon",

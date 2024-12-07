@@ -14,21 +14,14 @@
   "forms": [
     "default"
   ],
-  "assets": {
-    "sprites": {
-      "egg": "https://dvc.wiki.gg/images/d/df/Shadow_Dragon_Egg_Sprite.png",
-      "dead_egg": "https://dvc.wiki.gg/images/e/e8/Shadow_Dragon_Dead_Egg_Sprite.png",
-      "hatch": {
-        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Shadow_Dragon_Default_Hatchling_M_Sprite.png/150px-Shadow_Dragon_Default_Hatchling_M_Sprite.png"
-      },
-      "hatchling": {
-        "male": "https://dvc.wiki.gg/images/thumb/1/1c/Shadow_Dragon_Default_Hatchling_M_Sprite.png/150px-Shadow_Dragon_Default_Hatchling_M_Sprite.png"
-      },
-      "adult": {
-        "male": "https://dvc.wiki.gg/images/thumb/d/dc/Shadow_Dragon_Default_Adult_M_Sprite.png/150px-Shadow_Dragon_Default_Adult_M_Sprite.png"
-      }
-    },
-    "egg": "https://dvc.wiki.gg/images/d/df/Shadow_Dragon_Egg_Sprite.png"
-  },
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "shadow_01_m_hatchling_bk"
+    }
+  ],
   "special_actions": []
 }
