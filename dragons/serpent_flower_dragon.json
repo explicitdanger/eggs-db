@@ -20,6 +20,20 @@
     {
       "form_number": "01",
       "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "serpentdragon_01_m_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "serpentdragon_01_m_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
       "stage": "hatchling",
       "color_code": "g",
       "path": "serpentdragon_01_m_hatchling_g"

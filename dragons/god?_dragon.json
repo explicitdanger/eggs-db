@@ -17,6 +17,13 @@
   "assets": [
     {
       "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "godquestiondragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
       "gender": "m",
       "stage": "adult",
       "color_code": "w",

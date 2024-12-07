@@ -18,6 +18,41 @@
   "assets": [
     {
       "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "qualle_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "qualle_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "qualle_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "qualle_01_m_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "qualle_01_m_hatch_rp"
+    },
+    {
+      "form_number": "01",
       "gender": "m",
       "stage": "hatchling",
       "color_code": "rp",

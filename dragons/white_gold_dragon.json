@@ -18,6 +18,41 @@
   "assets": [
     {
       "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "whitegold_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "whitegold_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "whitegold_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "whitegold_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "whitegold_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
       "gender": "m",
       "stage": "hatchling",
       "color_code": "w",

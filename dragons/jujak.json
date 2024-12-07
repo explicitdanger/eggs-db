@@ -18,6 +18,41 @@
   "assets": [
     {
       "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "jujag_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "jujag_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "jujag_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "jujag_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "jujag_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
       "gender": "m",
       "stage": "hatchling",
       "color_code": "r",
