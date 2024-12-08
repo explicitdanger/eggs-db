@@ -1,20 +1,20 @@
 {
-  "name": "",
+  "body_type": "Munia",
+  "breeding_tier": 2,
+  "dragon_type": "Egg Dragon",
   "egg_description": "This Egg evokes sadness.",
+  "egg_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
   "elements": [
     "steel",
     "dark"
   ],
+  "food": "Purple Tulip",
+  "name": "Mago",
+  "profile_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/mago",
   "rarity": "Rare",
   "region": "Sky Kingdom",
-  "dragon_type": "Egg Dragon",
-  "body_type": "Munia",
-  "food": "Purple Tulip",
   "tradeable": true,
-  "breeding_tier": 2,
-  "profile_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
-  "profile_url": "https://dvc.wiki.gg/wiki/Mago",
-  "egg_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
   "assets": [
     {
       "form_number": "01",
