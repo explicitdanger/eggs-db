@@ -1,6 +1,67 @@
 {
   "dragon": [
     {
+      "Ice_Drake": {
+        "name": "",
+        "egg_description": "This Egg uses its fins to create cold streams of water.",
+        "elements": [
+          "water"
+        ],
+        "rarity": "Rare",
+        "region": "Sky Kingdom",
+        "dragon_type": "Ice Dragon",
+        "body_type": "Asian",
+        "food": "Yggdrasill",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "profile_img_url": "https://dvc.wiki.gg/images/0/03/Ice_Drake_Egg_Sprite.png",
+        "profile_url": "https://dvc.wiki.gg/wiki/Ice_Drake",
+        "egg_img_url": "https://dvc.wiki.gg/images/0/03/Ice_Drake_Egg_Sprite.png",
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "icedrake_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "icedrake_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "icedrake_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "icedrake_01_m_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "icedrake_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "icedrake_01_m_adult_b"
+          }
+        ]
+      },
       "abaddon": {
         "name": "abaddon",
         "egg_description": "This Egg possesses a strong will for destruction.",
@@ -6037,6 +6098,67 @@
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bone_Head",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e7/Bonehead_00_e_egg_r.png/revision/latest?cb=20240202235430"
       },
+      "brrry": {
+        "name": "",
+        "egg_description": "This Egg freezes its surroundings.",
+        "elements": [
+          "water"
+        ],
+        "rarity": "Rare",
+        "region": "Special",
+        "dragon_type": "Ice Dragon",
+        "body_type": "Drake",
+        "food": "Yggdrasill",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "profile_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
+        "profile_url": "https://dvc.wiki.gg/wiki/Brrry",
+        "egg_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "brrry_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "brrry_01_m_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "brrry_02_f_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "brrry_02_m_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "brrry_03_f_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "brrry_03_m_adult_b"
+          }
+        ]
+      },
       "bubble_dragon": {
         "name": "bubble dragon",
         "egg_description": "Foam is rising out of this Egg.",
@@ -8988,6 +9110,68 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Cortus_03_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cortus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Cortus_00_e_egg_pb.png/revision/latest?cb=20240111032255"
+      },
+      "cotty": {
+        "name": "",
+        "egg_description": "This Egg has a light and soft qualities.",
+        "elements": [
+          "dream",
+          "light"
+        ],
+        "rarity": "Rare",
+        "region": "Sky Kingdom",
+        "dragon_type": "Cotton Candy Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "profile_img_url": "https://dvc.wiki.gg/images/6/68/Cotty_Egg_Sprite.png",
+        "profile_url": "https://dvc.wiki.gg/wiki/Cotty",
+        "egg_img_url": "https://dvc.wiki.gg/images/6/68/Cotty_Egg_Sprite.png",
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "cotty_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "cotty_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "cotty_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "cotty_01_m_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "cotty_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "cotty_01_m_adult_w"
+          }
+        ]
       },
       "cozy_dragon": {
         "name": "cozy dragon",
@@ -15259,6 +15443,403 @@
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frost_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/58/Frost_00_e_egg_b.png/revision/latest?cb=20240202221203"
       },
+      "frostina": {
+        "name": "",
+        "egg_description": "This Egg is decorated with ice-cold fragments.",
+        "elements": [
+          "water"
+        ],
+        "rarity": "Rare",
+        "region": "Special",
+        "dragon_type": "Ice Dragon",
+        "body_type": "Draco",
+        "food": "Yggdrasill",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "profile_img_url": "https://dvc.wiki.gg/images/5/5c/Frostina_Egg_Sprite.png",
+        "profile_url": "https://dvc.wiki.gg/wiki/Frostina",
+        "egg_img_url": "https://dvc.wiki.gg/images/5/5c/Frostina_Egg_Sprite.png",
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "frostina_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "frostina_01_m_hatch_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "frostina_02_f_hatch_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "frostina_02_m_hatch_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "frostina_03_f_hatch_bk"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "frostina_03_m_hatch_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "gy",
+            "path": "frostina_04_f_hatch_gy"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "gy",
+            "path": "frostina_04_m_hatch_gy"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "frostina_05_f_hatch_r"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "frostina_05_m_hatch_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "frostina_06_f_hatch_b"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "frostina_06_m_hatch_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "frostina_07_f_hatch_bk"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "frostina_07_m_hatch_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "gy",
+            "path": "frostina_08_f_hatch_gy"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "gy",
+            "path": "frostina_08_m_hatch_gy"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "frostina_09_f_hatch_r"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "frostina_09_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "frostina_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "frostina_01_m_hatchling_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "frostina_02_f_hatchling_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "frostina_02_m_hatchling_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "frostina_03_f_hatchling_bk"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "frostina_03_m_hatchling_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "gy",
+            "path": "frostina_04_f_hatchling_gy"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "gy",
+            "path": "frostina_04_m_hatchling_gy"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "frostina_05_f_hatchling_r"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "frostina_05_m_hatchling_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "frostina_06_f_hatchling_b"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "frostina_06_m_hatchling_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "frostina_07_f_hatchling_bk"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "frostina_07_m_hatchling_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "gy",
+            "path": "frostina_08_f_hatchling_gy"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "gy",
+            "path": "frostina_08_m_hatchling_gy"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "frostina_09_f_hatchling_r"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "frostina_09_m_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "frostina_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "frostina_01_m_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "frostina_02_f_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "frostina_02_m_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "frostina_03_f_adult_bk"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "frostina_03_m_adult_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "gy",
+            "path": "frostina_04_f_adult_gy"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "gy",
+            "path": "frostina_04_m_adult_gy"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "frostina_05_f_adult_r"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "frostina_05_m_adult_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "frostina_06_f_adult_b"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "frostina_06_m_adult_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "frostina_07_f_adult_bk"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "frostina_07_m_adult_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "gy",
+            "path": "frostina_08_f_adult_gy"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "gy",
+            "path": "frostina_08_m_adult_gy"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "frostina_09_f_adult_r"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "frostina_09_m_adult_r"
+          }
+        ]
+      },
       "frozen": {
         "name": "frozen",
         "egg_description": "This Egg is covered in frost.",
@@ -16233,6 +16814,43 @@
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Goblin_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Goblindragon_00_e_egg_y.png/revision/latest?cb=20240202234339"
       },
+      "god?_dragon": {
+        "name": "god? dragon",
+        "egg_description": "This Egg has strange yellow spots.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Legendary",
+        "region": "Special",
+        "dragon_type": "Light Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "godquestiondragon_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "godquestiondragon_01_m_adult_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Godquestiondragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/God%3F_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Godquestiondragon_00_e_egg_w.png/revision/latest?cb=20240328013959"
+      },
       "god_dragon": {
         "name": "god dragon",
         "egg_description": "This Egg has yellow spots.",
@@ -16352,43 +16970,6 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Goddragonjr_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/God_Jr",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3d/Goddragonjr_00_e_egg_w.png/revision/latest?cb=20240203000214"
-      },
-      "god?_dragon": {
-        "name": "god? dragon",
-        "egg_description": "This Egg has strange yellow spots.",
-        "elements": [
-          "light"
-        ],
-        "rarity": "Legendary",
-        "region": "Special",
-        "dragon_type": "Light Dragon",
-        "body_type": "Draco",
-        "food": "Melon",
-        "tradeable": true,
-        "breeding_tier": 3,
-        "forms": [
-          "default"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "godquestiondragon_01_f_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "godquestiondragon_01_m_adult_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Godquestiondragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/God%3F_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Godquestiondragon_00_e_egg_w.png/revision/latest?cb=20240328013959"
       },
       "gold_applecheek": {
         "name": "gold applecheek",
@@ -24701,6 +25282,47 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cd/Magnello_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Magnello",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Magnello_00_e_egg_yr.png/revision/latest?cb=20230824075612"
+      },
+      "mago": {
+        "name": "",
+        "egg_description": "This Egg evokes sadness.",
+        "elements": [
+          "steel",
+          "dark"
+        ],
+        "rarity": "Rare",
+        "region": "Sky Kingdom",
+        "dragon_type": "Egg Dragon",
+        "body_type": "Munia",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "profile_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
+        "profile_url": "https://dvc.wiki.gg/wiki/Mago",
+        "egg_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "n",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "mago_01_n_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "n",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "mago_01_n_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "n",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "mago_01_n_adult_bk"
+          }
+        ]
       },
       "makara": {
         "name": "makara",
@@ -47119,7 +47741,7 @@
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Zombiedragon_00_e_egg_g.png/revision/latest?cb=20240210055413"
       }
     },
-    515,
-    "2024-11-25 20:24:07.330728"
+    520,
+    "2024-12-08 19:43:57.889897"
   ]
 }
