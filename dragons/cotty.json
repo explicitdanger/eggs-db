@@ -9,6 +9,9 @@
     "light"
   ],
   "food": "Melon",
+  "forms": [
+    "Default"
+  ],
   "name": "Cotty",
   "profile_img_url": "https://dvc.wiki.gg/images/6/68/Cotty_Egg_Sprite.png",
   "profile_url": "https://dvc.wiki.gg/wiki/cotty",

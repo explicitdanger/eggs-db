@@ -9,6 +9,9 @@
     "dark"
   ],
   "food": "Purple Tulip",
+  "forms": [
+    "Default"
+  ],
   "name": "Mago",
   "profile_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
   "profile_url": "https://dvc.wiki.gg/wiki/mago",

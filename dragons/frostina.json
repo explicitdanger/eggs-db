@@ -8,6 +8,17 @@
     "water"
   ],
   "food": "Yggdrasill",
+  "forms": [
+    "Default",
+    "P_Ice King",
+    "P_Ancient King",
+    "P_Jade King",
+    "P_Blessed King",
+    "Ice King",
+    "Ancient King",
+    "Jade King",
+    "Blessed King"
+  ],
   "name": "Frostina",
   "profile_img_url": "https://dvc.wiki.gg/images/5/5c/Frostina_Egg_Sprite.png",
   "profile_url": "https://dvc.wiki.gg/wiki/frostina",
