@@ -1,641 +1,625 @@
 {
   "dragons": [
     {
-      "blue_lightning_dragon": {
-        "name": "blue lightning dragon",
-        "egg_description": "Electricity flows through this Egg.",
-        "elements": [
-          "lightning",
-          "water"
-        ],
-        "rarity": "Uncommon",
-        "region": "East Yutakan",
-        "dragon_type": "Electricity Dragon",
-        "body_type": "Draco",
-        "food": "Mango",
-        "tradeable": true,
-        "breeding_tier": 3,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "bluelightning_01_f_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "bluelightning_01_f_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "bluelightning_01_f_hatchling_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "bluelightning_01_m_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "bluelightning_01_m_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "bluelightning_01_m_hatchling_b"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Bluelightning_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171912",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Lightning_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Bluelightning_00_e_egg_b.png/revision/latest?cb=20240202224435"
-      }
+      "name": "blue lightning dragon",
+      "egg_description": "Electricity flows through this Egg.",
+      "elements": [
+        "lightning",
+        "water"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Electricity Dragon",
+      "body_type": "Draco",
+      "food": "Mango",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "bluelightning_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "bluelightning_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "bluelightning_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "bluelightning_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "bluelightning_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "bluelightning_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Bluelightning_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171912",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Lightning_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Bluelightning_00_e_egg_b.png/revision/latest?cb=20240202224435"
     },
     {
-      "blue_thunder": {
-        "name": "blue thunder",
-        "egg_description": "Lightning gathers around this Egg.",
-        "elements": [
-          "lightning",
-          "wind"
-        ],
-        "rarity": "Common",
-        "region": "East Yutakan",
-        "dragon_type": "Flash Dragon",
-        "body_type": "Drake",
-        "food": "Grasshopper",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "bluethunder_01_f_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "bluethunder_01_f_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "bluethunder_01_f_hatchling_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "bluethunder_01_m_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "bluethunder_01_m_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "bluethunder_01_m_hatchling_bk"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Bluethunder_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171913",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Thunder",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4e/Bluethunder_00_e_egg_bk.png/revision/latest?cb=20240202224447"
-      }
+      "name": "blue thunder",
+      "egg_description": "Lightning gathers around this Egg.",
+      "elements": [
+        "lightning",
+        "wind"
+      ],
+      "rarity": "Common",
+      "region": "East Yutakan",
+      "dragon_type": "Flash Dragon",
+      "body_type": "Drake",
+      "food": "Grasshopper",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "bluethunder_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "bluethunder_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "bluethunder_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "bluethunder_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "bluethunder_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "bluethunder_01_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Bluethunder_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171913",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Thunder",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4e/Bluethunder_00_e_egg_bk.png/revision/latest?cb=20240202224447"
     },
     {
-      "bomber_dragon": {
-        "name": "bomber dragon",
-        "egg_description": "This Egg explodes like a bomb.",
-        "elements": [
-          "fire",
-          "steel"
-        ],
-        "rarity": "Epic",
-        "region": "East Yutakan",
-        "dragon_type": "Bomb Dragon",
-        "body_type": "Draco",
-        "food": "Drumstick",
-        "tradeable": true,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "great explosion",
-          "undead (default)",
-          "undead (great explosion)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "bomberdragon_01_f_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "bomberdragon_01_f_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "bomberdragon_01_f_hatchling_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "bomberdragon_01_m_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "bomberdragon_01_m_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "bomberdragon_01_m_hatchling_bk"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "bomberdragon_02_f_adult_bk"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "bomberdragon_02_m_adult_bk"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3e/Bomberdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171914",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bomber_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Bomberdragon_00_e_egg_bk.png/revision/latest?cb=20240202220957"
-      }
+      "name": "bomber dragon",
+      "egg_description": "This Egg explodes like a bomb.",
+      "elements": [
+        "fire",
+        "steel"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Bomb Dragon",
+      "body_type": "Draco",
+      "food": "Drumstick",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "great explosion",
+        "undead (default)",
+        "undead (great explosion)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "bomberdragon_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "bomberdragon_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "bomberdragon_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "bomberdragon_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "bomberdragon_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "bomberdragon_01_m_hatchling_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "bomberdragon_02_f_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "bomberdragon_02_m_adult_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3e/Bomberdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171914",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bomber_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Bomberdragon_00_e_egg_bk.png/revision/latest?cb=20240202220957"
     },
     {
-      "bone_head": {
-        "name": "bone head",
-        "egg_description": "This Egg is covered with bones.",
-        "elements": [
-          "dark",
-          "earth"
-        ],
-        "rarity": "Uncommon",
-        "region": "East Yutakan",
-        "dragon_type": "Bone Dragon",
-        "body_type": "Draco",
-        "food": "Jerky",
-        "tradeable": false,
-        "breeding_tier": 3,
-        "forms": [
-          "default",
-          "underground castle",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "bonehead_01_f_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "bonehead_01_f_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "bonehead_01_f_hatchling_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "bonehead_01_m_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "bonehead_01_m_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "bonehead_01_m_hatchling_r"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "p",
-            "path": "bonehead_02_f_adult_p"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "p",
-            "path": "bonehead_02_f_hatch_p"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "p",
-            "path": "bonehead_02_f_hatchling_p"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "p",
-            "path": "bonehead_02_m_adult_p"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "p",
-            "path": "bonehead_02_m_hatch_p"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "p",
-            "path": "bonehead_02_m_hatchling_p"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/da/Bonehead_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171914",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bone_Head",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e7/Bonehead_00_e_egg_r.png/revision/latest?cb=20240202235430"
-      }
+      "name": "bone head",
+      "egg_description": "This Egg is covered with bones.",
+      "elements": [
+        "dark",
+        "earth"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Bone Dragon",
+      "body_type": "Draco",
+      "food": "Jerky",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "underground castle",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "bonehead_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "bonehead_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "bonehead_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "bonehead_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "bonehead_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "bonehead_01_m_hatchling_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "p",
+          "path": "bonehead_02_f_adult_p"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "p",
+          "path": "bonehead_02_f_hatch_p"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "p",
+          "path": "bonehead_02_f_hatchling_p"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "p",
+          "path": "bonehead_02_m_adult_p"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "p",
+          "path": "bonehead_02_m_hatch_p"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "p",
+          "path": "bonehead_02_m_hatchling_p"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/da/Bonehead_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171914",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bone_Head",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e7/Bonehead_00_e_egg_r.png/revision/latest?cb=20240202235430"
     },
     {
-      "brrry": {
-        "body_type": "Drake",
-        "breeding_tier": 2,
-        "dragon_type": "Ice Dragon",
-        "egg_description": "This Egg freezes its surroundings.",
-        "egg_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
-        "elements": [
-          "water"
-        ],
-        "food": "Yggdrasill",
-        "name": "Brrry",
-        "profile_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
-        "profile_url": "https://dvc.wiki.gg/wiki/brrry",
-        "rarity": "Rare",
-        "region": "Special",
-        "tradeable": true,
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "brrry_01_f_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "brrry_01_m_adult_b"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "brrry_02_f_adult_b"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "brrry_02_m_adult_b"
-          },
-          {
-            "form_number": "03",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "brrry_03_f_adult_b"
-          },
-          {
-            "form_number": "03",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "brrry_03_m_adult_b"
-          }
-        ],
-        "forms": [
-          "Default",
-          "Attendant",
-          "Santa"
-        ]
-      }
+      "body_type": "Drake",
+      "breeding_tier": 2,
+      "dragon_type": "Ice Dragon",
+      "egg_description": "This Egg freezes its surroundings.",
+      "egg_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
+      "elements": [
+        "water"
+      ],
+      "food": "Yggdrasill",
+      "name": "Brrry",
+      "profile_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
+      "profile_url": "https://dvc.wiki.gg/wiki/brrry",
+      "rarity": "Rare",
+      "region": "Special",
+      "tradeable": true,
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "brrry_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "brrry_01_m_adult_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "brrry_02_f_adult_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "brrry_02_m_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "brrry_03_f_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "brrry_03_m_adult_b"
+        }
+      ],
+      "forms": [
+        "Default",
+        "Attendant",
+        "Santa"
+      ]
     },
     {
-      "bubble_dragon": {
-        "name": "bubble dragon",
-        "egg_description": "Foam is rising out of this Egg.",
-        "elements": [
-          "water"
-        ],
-        "rarity": "Rare",
-        "region": "Deep Sea",
-        "dragon_type": "Water Dragon",
-        "body_type": "Drake",
-        "food": "Piranha",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bg",
-            "path": "bubbledragon_01_f_adult_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bg",
-            "path": "bubbledragon_01_f_hatch_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bg",
-            "path": "bubbledragon_01_f_hatchling_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bg",
-            "path": "bubbledragon_01_m_adult_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bg",
-            "path": "bubbledragon_01_m_hatch_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bg",
-            "path": "bubbledragon_01_m_hatchling_bg"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9f/Bubbledragon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171915",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bubble_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Bubbledragon_00_e_egg_bg.png/revision/latest?cb=20240215020559"
-      }
+      "name": "bubble dragon",
+      "egg_description": "Foam is rising out of this Egg.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Rare",
+      "region": "Deep Sea",
+      "dragon_type": "Water Dragon",
+      "body_type": "Drake",
+      "food": "Piranha",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "bubbledragon_01_f_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "bubbledragon_01_f_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "bubbledragon_01_f_hatchling_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "bubbledragon_01_m_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "bubbledragon_01_m_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "bubbledragon_01_m_hatchling_bg"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9f/Bubbledragon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171915",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bubble_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Bubbledragon_00_e_egg_bg.png/revision/latest?cb=20240215020559"
     },
     {
-      "burnesce": {
-        "name": "burnesce",
-        "egg_description": "This Egg emits heat.",
-        "elements": [
-          "fire"
-        ],
-        "rarity": "Epic",
-        "region": "Deep Sea",
-        "dragon_type": "Guardian Dragon",
-        "body_type": "Draco",
-        "food": "Drumstick",
-        "tradeable": false,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "burnesce_01_f_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "burnesce_01_f_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "burnesce_01_f_hatchling_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "burnesce_01_m_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "burnesce_01_m_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "burnesce_01_m_hatchling_r"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ad/Burnesce_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171916",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Burnesce",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Burnesce_00_e_egg_r.png/revision/latest?cb=20240328013813"
-      }
+      "name": "burnesce",
+      "egg_description": "This Egg emits heat.",
+      "elements": [
+        "fire"
+      ],
+      "rarity": "Epic",
+      "region": "Deep Sea",
+      "dragon_type": "Guardian Dragon",
+      "body_type": "Draco",
+      "food": "Drumstick",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "burnesce_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "burnesce_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "burnesce_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "burnesce_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "burnesce_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "burnesce_01_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ad/Burnesce_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171916",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Burnesce",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Burnesce_00_e_egg_r.png/revision/latest?cb=20240328013813"
     },
     {
-      "cactus_dragon": {
-        "name": "cactus dragon",
-        "egg_description": "This Egg remains unmoved by any stimuli.",
-        "elements": [
-          "earth"
-        ],
-        "rarity": "Rare",
-        "region": "Sky Kingdom",
-        "dragon_type": "Plant Dragon",
-        "body_type": "Drake",
-        "food": "Mango",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "blooming flower",
-          "withering flower",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "gy",
-            "path": "cactusdragon_01_f_adult_gy"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "gy",
-            "path": "cactusdragon_01_f_hatch_gy"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "gy",
-            "path": "cactusdragon_01_f_hatchling_gy"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "gy",
-            "path": "cactusdragon_01_m_adult_gy"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "gy",
-            "path": "cactusdragon_01_m_hatch_gy"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "gy",
-            "path": "cactusdragon_01_m_hatchling_gy"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "gy",
-            "path": "cactusdragon_02_f_adult_gy"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "gy",
-            "path": "cactusdragon_02_m_adult_gy"
-          },
-          {
-            "form_number": "03",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "gy",
-            "path": "cactusdragon_03_f_adult_gy"
-          },
-          {
-            "form_number": "03",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "gy",
-            "path": "cactusdragon_03_m_adult_gy"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Cactusdragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033756",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cactus_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/58/Cactusdragon_00_e_egg_gy.png/revision/latest?cb=20240724022318"
-      }
+      "name": "cactus dragon",
+      "egg_description": "This Egg remains unmoved by any stimuli.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Rare",
+      "region": "Sky Kingdom",
+      "dragon_type": "Plant Dragon",
+      "body_type": "Drake",
+      "food": "Mango",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "blooming flower",
+        "withering flower",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "cactusdragon_01_f_adult_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "gy",
+          "path": "cactusdragon_01_f_hatch_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "gy",
+          "path": "cactusdragon_01_f_hatchling_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "cactusdragon_01_m_adult_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "gy",
+          "path": "cactusdragon_01_m_hatch_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "gy",
+          "path": "cactusdragon_01_m_hatchling_gy"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "cactusdragon_02_f_adult_gy"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "cactusdragon_02_m_adult_gy"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "cactusdragon_03_f_adult_gy"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "cactusdragon_03_m_adult_gy"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Cactusdragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033756",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cactus_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/58/Cactusdragon_00_e_egg_gy.png/revision/latest?cb=20240724022318"
     }
   ]
 }

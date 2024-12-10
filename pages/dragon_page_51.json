@@ -1,526 +1,510 @@
 {
   "dragons": [
     {
-      "rusalka": {
-        "name": "rusalka",
-        "egg_description": "This Egg shares its consciousness.",
-        "elements": [
-          "water"
-        ],
-        "rarity": "Rare",
-        "region": "Deep Sea",
-        "dragon_type": "Warden Dragon",
-        "body_type": "Draco",
-        "food": "Piremio",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "pb",
-            "path": "rusalka_01_f_adult_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "pb",
-            "path": "rusalka_01_f_hatch_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "pb",
-            "path": "rusalka_01_f_hatchling_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "pb",
-            "path": "rusalka_01_m_adult_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "pb",
-            "path": "rusalka_01_m_hatch_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "pb",
-            "path": "rusalka_01_m_hatchling_pb"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/29/Rusalka_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rusalka",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Rusalka_00_e_egg_pb.png/revision/latest?cb=20240314030304"
-      }
-    },
-    {
-      "ruthperon": {
-        "name": "ruthperon",
-        "egg_description": "This Egg has shiny gills.",
-        "elements": [
-          "water",
-          "dark"
-        ],
-        "rarity": "Uncommon",
-        "region": "Deep Sea",
-        "dragon_type": "Water Dragon",
-        "body_type": "Draco",
-        "food": "Rainbow Fish",
-        "tradeable": true,
-        "breeding_tier": 3,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "pb",
-            "path": "ruthperon_01_f_adult_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "pb",
-            "path": "ruthperon_01_f_hatch_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "pb",
-            "path": "ruthperon_01_f_hatchling_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "pb",
-            "path": "ruthperon_01_m_adult_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "pb",
-            "path": "ruthperon_01_m_hatch_pb"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "pb",
-            "path": "ruthperon_01_m_hatchling_pb"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Ruthperon_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ruthperon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Ruthperon_00_e_egg_pb.png/revision/latest?cb=20240215021338"
-      }
-    },
-    {
-      "sand_dragon": {
-        "name": "sand dragon",
-        "egg_description": "This Egg's shell has a sand-like texture.",
-        "elements": [
-          "fire",
-          "earth"
-        ],
-        "rarity": "Common",
-        "region": "East Yutakan",
-        "dragon_type": "Sand Dragon",
-        "body_type": "Draco",
-        "food": "Mealworm, Crickets",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "sand_01_f_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "sand_01_f_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "sand_01_f_hatchling_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "sand_01_m_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "sand_01_m_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "sand_01_m_hatchling_y"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c1/Sand_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sand_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Sand_00_e_egg_y.png/revision/latest?cb=20240202221009"
-      }
-    },
-    {
-      "scarlet": {
-        "name": "scarlet",
-        "egg_description": "This Egg hides its form.",
-        "elements": [
-          "dream"
-        ],
-        "rarity": "Common",
-        "region": "West Yutakan",
-        "dragon_type": "Stealth Dragon",
-        "body_type": "Drake",
-        "food": "Paopao Fruit",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "scarlet_01_f_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "scarlet_01_f_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "scarlet_01_f_hatchling_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "scarlet_01_m_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "scarlet_01_m_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "scarlet_01_m_hatchling_r"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2b/Scarlet_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Scarlet",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Scarlet_00_e_egg_r.png/revision/latest?cb=20230919103551"
-      }
-    },
-    {
-      "scorpion_dragon": {
-        "name": "scorpion dragon",
-        "egg_description": "This Egg is tingling to the touch.",
-        "elements": [
-          "earth"
-        ],
-        "rarity": "Common",
-        "region": "West Yutakan",
-        "dragon_type": "Scorpion Dragon",
-        "body_type": "Draco",
-        "food": "Grapefruit",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "scorpiondragon_01_f_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "scorpiondragon_01_f_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "scorpiondragon_01_f_hatchling_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "scorpiondragon_01_m_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "scorpiondragon_01_m_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "scorpiondragon_01_m_hatchling_r"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Scorpiondragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Scorpion_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3a/Scorpiondragon_00_e_egg_r.png/revision/latest?cb=20231026172338"
-      }
-    },
-    {
-      "seahorse_dragon": {
-        "name": "seahorse dragon",
-        "egg_description": "This Egg is surrounded by turbulent waves.",
-        "elements": [
-          "water"
-        ],
-        "rarity": "Epic",
-        "region": "Deep Sea",
-        "dragon_type": "Seahorse Dragon",
-        "body_type": "Draco",
-        "food": "Piremio",
-        "tradeable": true,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "walking",
-          "undead (default)"
-        ],
-        "assets": {
-          "sprites": {
-            "egg": "https://dvc.wiki.gg/images/9/9c/Seahorse_Dragon_Egg_Sprite.png",
-            "dead_egg": "https://dvc.wiki.gg/images/a/a3/Seahorse_Dragon_Dead_Egg_Sprite.png",
-            "hatch": {
-              "male": "https://dvc.wiki.gg/images/0/08/Seahorse_Dragon_Default_Hatchling_M_Sprite.png",
-              "female": "https://dvc.wiki.gg/images/0/04/Seahorse_Dragon_Default_Hatchling_F_Sprite.png"
-            },
-            "hatchling": {
-              "male": "https://dvc.wiki.gg/images/0/08/Seahorse_Dragon_Default_Hatchling_M_Sprite.png",
-              "female": "https://dvc.wiki.gg/images/0/04/Seahorse_Dragon_Default_Hatchling_F_Sprite.png"
-            },
-            "adult": {
-              "male": "https://dvc.wiki.gg/images/thumb/8/80/Seahorse_Dragon_Default_Adult_M_Sprite.png/150px-Seahorse_Dragon_Default_Adult_M_Sprite.png",
-              "female": "https://dvc.wiki.gg/images/thumb/a/a6/Seahorse_Dragon_Default_Adult_F_Sprite.png/150px-Seahorse_Dragon_Default_Adult_F_Sprite.png"
-            }
-          },
-          "egg": "https://dvc.wiki.gg/images/9/9c/Seahorse_Dragon_Egg_Sprite.png"
+      "name": "rusalka",
+      "egg_description": "This Egg shares its consciousness.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Rare",
+      "region": "Deep Sea",
+      "dragon_type": "Warden Dragon",
+      "body_type": "Draco",
+      "food": "Piremio",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "rusalka_01_f_adult_pb"
         },
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Haemagon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seahorse_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Haemagon_00_e_egg_y.png/revision/latest?cb=20240314024930"
-      }
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "rusalka_01_f_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "rusalka_01_f_hatchling_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "rusalka_01_m_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "rusalka_01_m_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "rusalka_01_m_hatchling_pb"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/29/Rusalka_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rusalka",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Rusalka_00_e_egg_pb.png/revision/latest?cb=20240314030304"
     },
     {
-      "sealed_darknix": {
-        "name": "sealed darknix",
-        "egg_description": "This Egg is bound by chains of sealing.",
-        "elements": [
-          "dark"
-        ],
-        "rarity": "Legendary",
-        "region": "West Yutakan",
-        "dragon_type": "Dark Dragon",
-        "body_type": "Draco",
-        "food": "Dark Melon",
-        "tradeable": true,
-        "breeding_tier": 0,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "sealeddarknix_01_f_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "sealeddarknix_01_f_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "sealeddarknix_01_f_hatchling_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "sealeddarknix_01_m_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "sealeddarknix_01_m_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "sealeddarknix_01_m_hatchling_bk"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Sealeddarknix_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sealed_Darknix",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Sealeddarknix_00_e_egg_bk.png/revision/latest?cb=20231129051526"
-      }
+      "name": "ruthperon",
+      "egg_description": "This Egg has shiny gills.",
+      "elements": [
+        "water",
+        "dark"
+      ],
+      "rarity": "Uncommon",
+      "region": "Deep Sea",
+      "dragon_type": "Water Dragon",
+      "body_type": "Draco",
+      "food": "Rainbow Fish",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "ruthperon_01_f_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "ruthperon_01_f_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "ruthperon_01_f_hatchling_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "ruthperon_01_m_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "ruthperon_01_m_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "ruthperon_01_m_hatchling_pb"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Ruthperon_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ruthperon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Ruthperon_00_e_egg_pb.png/revision/latest?cb=20240215021338"
     },
     {
-      "seere": {
-        "name": "seere",
-        "egg_description": "It is best not to remove the hood of this Egg.",
-        "elements": [
-          "dream"
-        ],
-        "rarity": "Epic",
-        "region": "East Yutakan",
-        "dragon_type": "Dream Dragon",
-        "body_type": "Draco",
-        "food": "Starfruit",
-        "tradeable": true,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "seere_01_f_adult_rp"
+      "name": "sand dragon",
+      "egg_description": "This Egg's shell has a sand-like texture.",
+      "elements": [
+        "fire",
+        "earth"
+      ],
+      "rarity": "Common",
+      "region": "East Yutakan",
+      "dragon_type": "Sand Dragon",
+      "body_type": "Draco",
+      "food": "Mealworm, Crickets",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "sand_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "sand_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "sand_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "sand_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "sand_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "sand_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c1/Sand_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sand_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Sand_00_e_egg_y.png/revision/latest?cb=20240202221009"
+    },
+    {
+      "name": "scarlet",
+      "egg_description": "This Egg hides its form.",
+      "elements": [
+        "dream"
+      ],
+      "rarity": "Common",
+      "region": "West Yutakan",
+      "dragon_type": "Stealth Dragon",
+      "body_type": "Drake",
+      "food": "Paopao Fruit",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "scarlet_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "scarlet_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "scarlet_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "scarlet_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "scarlet_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "scarlet_01_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2b/Scarlet_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Scarlet",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Scarlet_00_e_egg_r.png/revision/latest?cb=20230919103551"
+    },
+    {
+      "name": "scorpion dragon",
+      "egg_description": "This Egg is tingling to the touch.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Common",
+      "region": "West Yutakan",
+      "dragon_type": "Scorpion Dragon",
+      "body_type": "Draco",
+      "food": "Grapefruit",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "scorpiondragon_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "scorpiondragon_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "scorpiondragon_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "scorpiondragon_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "scorpiondragon_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "scorpiondragon_01_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Scorpiondragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Scorpion_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3a/Scorpiondragon_00_e_egg_r.png/revision/latest?cb=20231026172338"
+    },
+    {
+      "name": "seahorse dragon",
+      "egg_description": "This Egg is surrounded by turbulent waves.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Epic",
+      "region": "Deep Sea",
+      "dragon_type": "Seahorse Dragon",
+      "body_type": "Draco",
+      "food": "Piremio",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "walking",
+        "undead (default)"
+      ],
+      "assets": {
+        "sprites": {
+          "egg": "https://dvc.wiki.gg/images/9/9c/Seahorse_Dragon_Egg_Sprite.png",
+          "dead_egg": "https://dvc.wiki.gg/images/a/a3/Seahorse_Dragon_Dead_Egg_Sprite.png",
+          "hatch": {
+            "male": "https://dvc.wiki.gg/images/0/08/Seahorse_Dragon_Default_Hatchling_M_Sprite.png",
+            "female": "https://dvc.wiki.gg/images/0/04/Seahorse_Dragon_Default_Hatchling_F_Sprite.png"
           },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "rp",
-            "path": "seere_01_f_hatch_rp"
+          "hatchling": {
+            "male": "https://dvc.wiki.gg/images/0/08/Seahorse_Dragon_Default_Hatchling_M_Sprite.png",
+            "female": "https://dvc.wiki.gg/images/0/04/Seahorse_Dragon_Default_Hatchling_F_Sprite.png"
           },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "seere_01_f_hatchling_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "seere_01_m_adult_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "rp",
-            "path": "seere_01_m_hatch_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "seere_01_m_hatchling_rp"
+          "adult": {
+            "male": "https://dvc.wiki.gg/images/thumb/8/80/Seahorse_Dragon_Default_Adult_M_Sprite.png/150px-Seahorse_Dragon_Default_Adult_M_Sprite.png",
+            "female": "https://dvc.wiki.gg/images/thumb/a/a6/Seahorse_Dragon_Default_Adult_F_Sprite.png/150px-Seahorse_Dragon_Default_Adult_F_Sprite.png"
           }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f7/Seere_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seere",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Seere_00_e_egg_rp.png/revision/latest?cb=20240202225659"
-      }
+        },
+        "egg": "https://dvc.wiki.gg/images/9/9c/Seahorse_Dragon_Egg_Sprite.png"
+      },
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Haemagon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seahorse_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Haemagon_00_e_egg_y.png/revision/latest?cb=20240314024930"
+    },
+    {
+      "name": "sealed darknix",
+      "egg_description": "This Egg is bound by chains of sealing.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Legendary",
+      "region": "West Yutakan",
+      "dragon_type": "Dark Dragon",
+      "body_type": "Draco",
+      "food": "Dark Melon",
+      "tradeable": true,
+      "breeding_tier": 0,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "sealeddarknix_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "sealeddarknix_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "sealeddarknix_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "sealeddarknix_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "sealeddarknix_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "sealeddarknix_01_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Sealeddarknix_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sealed_Darknix",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Sealeddarknix_00_e_egg_bk.png/revision/latest?cb=20231129051526"
+    },
+    {
+      "name": "seere",
+      "egg_description": "It is best not to remove the hood of this Egg.",
+      "elements": [
+        "dream"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Dream Dragon",
+      "body_type": "Draco",
+      "food": "Starfruit",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "seere_01_f_adult_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "seere_01_f_hatch_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "seere_01_f_hatchling_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "seere_01_m_adult_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "seere_01_m_hatch_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "seere_01_m_hatchling_rp"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f7/Seere_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seere",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Seere_00_e_egg_rp.png/revision/latest?cb=20240202225659"
     }
   ]
 }

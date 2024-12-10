@@ -1,641 +1,625 @@
 {
   "dragons": [
     {
-      "typhoon_dragon": {
-        "name": "typhoon dragon",
-        "egg_description": "The dragon inside this egg has a soft mane.",
-        "elements": [
-          "wind"
-        ],
-        "rarity": "Rare",
-        "region": "East Yutakan",
-        "dragon_type": "Typhoon Dragon",
-        "body_type": "Draco",
-        "food": "Whirl Flower",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "typhoondragon_01_f_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "typhoondragon_01_f_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "typhoondragon_01_f_hatchling_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "typhoondragon_01_m_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "typhoondragon_01_m_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "typhoondragon_01_m_hatchling_b"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0f/Typhoondragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Typhoon_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Typhoondragon_00_e_egg_b.png/revision/latest?cb=20240202221501"
-      }
+      "name": "typhoon dragon",
+      "egg_description": "The dragon inside this egg has a soft mane.",
+      "elements": [
+        "wind"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "Typhoon Dragon",
+      "body_type": "Draco",
+      "food": "Whirl Flower",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "typhoondragon_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "typhoondragon_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "typhoondragon_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "typhoondragon_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "typhoondragon_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "typhoondragon_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0f/Typhoondragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Typhoon_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Typhoondragon_00_e_egg_b.png/revision/latest?cb=20240202221501"
     },
     {
-      "ullr": {
-        "name": "ullr",
-        "egg_description": "This Egg cuts through the darkness.",
-        "elements": [
-          "light"
-        ],
-        "rarity": "Common",
-        "region": "Sky Kingdom",
-        "dragon_type": "Light Dragon",
-        "body_type": "Draco",
-        "food": "Star fruit",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "ullr_01_f_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "ullr_01_f_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "ullr_01_f_hatchling_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "ullr_01_m_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "ullr_01_m_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "ullr_01_m_hatchling_y"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Ullr_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ullr",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/19/Ullr_00_e_egg_y.png/revision/latest?cb=20240724022317"
-      }
+      "name": "ullr",
+      "egg_description": "This Egg cuts through the darkness.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Common",
+      "region": "Sky Kingdom",
+      "dragon_type": "Light Dragon",
+      "body_type": "Draco",
+      "food": "Star fruit",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "ullr_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "ullr_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "ullr_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "ullr_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "ullr_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "ullr_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Ullr_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ullr",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/19/Ullr_00_e_egg_y.png/revision/latest?cb=20240724022317"
     },
     {
-      "underground_dragon": {
-        "name": "underground dragon",
-        "egg_description": "This Egg is found deep in the ground.",
-        "elements": [
-          "earth",
-          "dark"
-        ],
-        "rarity": "Epic",
-        "region": "East Yutakan",
-        "dragon_type": "Tunnel Dragon",
-        "body_type": "Drake",
-        "food": "Mealworm, Crickets",
-        "tradeable": true,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "g",
-            "path": "underground_01_f_adult_g"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "g",
-            "path": "underground_01_f_hatchling_g"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "g",
-            "path": "underground_01_m_adult_g"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "g",
-            "path": "underground_01_m_hatchling_g"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Underground_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173640",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Underground_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Underground_00_e_egg_g.png/revision/latest?cb=20240202224331"
-      }
+      "name": "underground dragon",
+      "egg_description": "This Egg is found deep in the ground.",
+      "elements": [
+        "earth",
+        "dark"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Tunnel Dragon",
+      "body_type": "Drake",
+      "food": "Mealworm, Crickets",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "underground_01_f_adult_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "underground_01_f_hatchling_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "underground_01_m_adult_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "underground_01_m_hatchling_g"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Underground_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173640",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Underground_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Underground_00_e_egg_g.png/revision/latest?cb=20240202224331"
     },
     {
-      "undine": {
-        "name": "undine",
-        "egg_description": "This Egg causes hallucinations.",
-        "elements": [
-          "water",
-          "dream"
-        ],
-        "rarity": "Rare",
-        "region": "Deep Sea",
-        "dragon_type": "Water drop Dragon",
-        "body_type": "Draco",
-        "food": "Starfruit",
-        "tradeable": false,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "persion",
-          "signature",
-          "undead (default)",
-          "undead (signature)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "undine_01_f_adult_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "rp",
-            "path": "undine_01_f_hatch_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "undine_01_f_hatchling_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "undine_01_m_adult_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "rp",
-            "path": "undine_01_m_hatch_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "undine_01_m_hatchling_rp"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "undine_02_f_adult_rp"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "rp",
-            "path": "undine_02_f_hatch_rp"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "undine_02_f_hatchling_rp"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "undine_02_m_adult_rp"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "rp",
-            "path": "undine_02_m_hatch_rp"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "undine_02_m_hatchling_rp"
-          },
-          {
-            "form_number": "03",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "undine_03_f_adult_rp"
-          },
-          {
-            "form_number": "03",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "undine_03_m_adult_rp"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Undine_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173640",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Undine",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/99/Undine_00_e_egg_rp.png/revision/latest?cb=20240418015134"
-      }
+      "name": "undine",
+      "egg_description": "This Egg causes hallucinations.",
+      "elements": [
+        "water",
+        "dream"
+      ],
+      "rarity": "Rare",
+      "region": "Deep Sea",
+      "dragon_type": "Water drop Dragon",
+      "body_type": "Draco",
+      "food": "Starfruit",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "persion",
+        "signature",
+        "undead (default)",
+        "undead (signature)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "undine_01_f_adult_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "undine_01_f_hatch_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "undine_01_f_hatchling_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "undine_01_m_adult_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "undine_01_m_hatch_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "undine_01_m_hatchling_rp"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "undine_02_f_adult_rp"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "undine_02_f_hatch_rp"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "undine_02_f_hatchling_rp"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "undine_02_m_adult_rp"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "undine_02_m_hatch_rp"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "undine_02_m_hatchling_rp"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "undine_03_f_adult_rp"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "undine_03_m_adult_rp"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Undine_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173640",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Undine",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/99/Undine_00_e_egg_rp.png/revision/latest?cb=20240418015134"
     },
     {
-      "unicorn_dragon": {
-        "name": "unicorn dragon",
-        "egg_description": "This Egg shows off its pink mane.",
-        "elements": [
-          "light",
-          "dream"
-        ],
-        "rarity": "Rare",
-        "region": "Sky Kingdom",
-        "dragon_type": "Fantasy Dragon",
-        "body_type": "Draco",
-        "food": "Grape",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "bicorn",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "rp",
-            "path": "unicorndragon_01_m_adult_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "rp",
-            "path": "unicorndragon_01_m_hatch_rp"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "rp",
-            "path": "unicorndragon_01_m_hatchling_rp"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "unicorndragon_02_f_adult_bk"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "unicorndragon_02_f_hatch_bk"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "unicorndragon_02_f_hatchling_bk"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Unicorndragon_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Unicorn_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/de/Unicorndragon_00_e_egg_rp.png/revision/latest?cb=20240724022319"
-      }
+      "name": "unicorn dragon",
+      "egg_description": "This Egg shows off its pink mane.",
+      "elements": [
+        "light",
+        "dream"
+      ],
+      "rarity": "Rare",
+      "region": "Sky Kingdom",
+      "dragon_type": "Fantasy Dragon",
+      "body_type": "Draco",
+      "food": "Grape",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "bicorn",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "unicorndragon_01_m_adult_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "unicorndragon_01_m_hatch_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "unicorndragon_01_m_hatchling_rp"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "unicorndragon_02_f_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "unicorndragon_02_f_hatch_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "unicorndragon_02_f_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Unicorndragon_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Unicorn_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/de/Unicorndragon_00_e_egg_rp.png/revision/latest?cb=20240724022319"
     },
     {
-      "valcan": {
-        "name": "valcan",
-        "egg_description": "This Egg is as hot as magma.",
-        "elements": [
-          "water",
-          "fire"
-        ],
-        "rarity": "Legendary",
-        "region": "Deep Sea",
-        "dragon_type": "Guardian Dragon",
-        "body_type": "Draco",
-        "food": "Drumstick",
-        "tradeable": false,
-        "breeding_tier": 0,
-        "forms": [
-          "default"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "valcan_01_f_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "valcan_01_f_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "valcan_01_f_hatchling_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "valcan_01_m_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "valcan_01_m_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "valcan_01_m_hatchling_b"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fa/Valcan_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valcan",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Valcan_00_e_egg_b.png/revision/latest?cb=20240215021929"
-      }
+      "name": "valcan",
+      "egg_description": "This Egg is as hot as magma.",
+      "elements": [
+        "water",
+        "fire"
+      ],
+      "rarity": "Legendary",
+      "region": "Deep Sea",
+      "dragon_type": "Guardian Dragon",
+      "body_type": "Draco",
+      "food": "Drumstick",
+      "tradeable": false,
+      "breeding_tier": 0,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "valcan_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "valcan_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "valcan_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "valcan_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "valcan_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "valcan_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fa/Valcan_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valcan",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Valcan_00_e_egg_b.png/revision/latest?cb=20240215021929"
     },
     {
-      "valefor": {
-        "name": "valefor",
-        "egg_description": "This Egg wants to create chaos.",
-        "elements": [
-          "dream",
-          "fire"
-        ],
-        "rarity": "Epic",
-        "region": "West Yutakan",
-        "dragon_type": "Chaos Dragon",
-        "body_type": "Draco",
-        "food": "Purple Tulip",
-        "tradeable": false,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "valefor_01_f_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "valefor_01_f_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "valefor_01_f_hatchling_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "valefor_01_m_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "valefor_01_m_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "valefor_01_m_hatchling_bk"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/91/Valefor_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valefor",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Valefor_00_e_egg_bk.png/revision/latest?cb=20231129052633"
-      }
+      "name": "valefor",
+      "egg_description": "This Egg wants to create chaos.",
+      "elements": [
+        "dream",
+        "fire"
+      ],
+      "rarity": "Epic",
+      "region": "West Yutakan",
+      "dragon_type": "Chaos Dragon",
+      "body_type": "Draco",
+      "food": "Purple Tulip",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "valefor_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "valefor_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "valefor_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "valefor_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "valefor_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "valefor_01_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/91/Valefor_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valefor",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Valefor_00_e_egg_bk.png/revision/latest?cb=20231129052633"
     },
     {
-      "valla": {
-        "name": "valla",
-        "egg_description": "The branches around this Egg can be easily broken.",
-        "elements": [
-          "light"
-        ],
-        "rarity": "Common",
-        "region": "East Yutakan",
-        "dragon_type": "Light Dragon",
-        "body_type": "Draco",
-        "food": "Grass",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default",
-          "full moon valla",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bg",
-            "path": "valla_01_f_adult_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bg",
-            "path": "valla_01_f_hatch_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bg",
-            "path": "valla_01_f_hatchling_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bg",
-            "path": "valla_01_m_adult_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bg",
-            "path": "valla_01_m_hatch_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bg",
-            "path": "valla_01_m_hatchling_bg"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "valla_02_f_adult_y"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "valla_02_f_hatch_y"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "valla_02_f_hatchling_y"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "valla_02_m_adult_y"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "valla_02_m_hatch_y"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "valla_02_m_hatchling_y"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Valla_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valla",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/71/Valla_00_e_egg_bg.png/revision/latest?cb=20240202224736"
-      }
+      "name": "valla",
+      "egg_description": "The branches around this Egg can be easily broken.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Common",
+      "region": "East Yutakan",
+      "dragon_type": "Light Dragon",
+      "body_type": "Draco",
+      "food": "Grass",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "full moon valla",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "valla_01_f_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "valla_01_f_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "valla_01_f_hatchling_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "valla_01_m_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "valla_01_m_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "valla_01_m_hatchling_bg"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "valla_02_f_adult_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "valla_02_f_hatch_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "valla_02_f_hatchling_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "valla_02_m_adult_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "valla_02_m_hatch_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "valla_02_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Valla_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valla",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/71/Valla_00_e_egg_bg.png/revision/latest?cb=20240202224736"
     }
   ]
 }

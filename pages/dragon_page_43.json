@@ -1,635 +1,619 @@
 {
   "dragons": [
     {
-      "nox": {
-        "name": "nox",
-        "egg_description": "The thorns on this Egg continue to grow.",
-        "elements": [
-          "dark"
-        ],
-        "rarity": "Rare",
-        "region": "East Yutakan",
-        "dragon_type": "Time Dragon",
-        "body_type": "Asian",
-        "food": "Dark Melon",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "nox_01_f_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "nox_01_f_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "nox_01_f_hatchling_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "nox_01_m_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "nox_01_m_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "nox_01_m_hatchling_bk"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/06/Nox_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173331",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nox",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Nox_00_e_egg_bk.png/revision/latest?cb=20240202225356"
-      }
+      "name": "nox",
+      "egg_description": "The thorns on this Egg continue to grow.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "Time Dragon",
+      "body_type": "Asian",
+      "food": "Dark Melon",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "nox_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "nox_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "nox_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "nox_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "nox_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "nox_01_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/06/Nox_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173331",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nox",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Nox_00_e_egg_bk.png/revision/latest?cb=20240202225356"
     },
     {
-      "nubestella": {
-        "name": "nubestella",
-        "egg_description": "This Egg gathers the energy of wishes.",
-        "elements": [
-          "dream",
-          "wind"
-        ],
-        "rarity": "Legendary",
-        "region": "Sky Kingdom",
-        "dragon_type": "Angel Dragon",
-        "body_type": "Draco",
-        "food": "Starlight Fruit",
-        "tradeable": true,
-        "breeding_tier": 0,
-        "forms": [
-          "default",
-          "celestial",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "nubestella_01_f_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "nubestella_01_f_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "nubestella_01_f_hatchling_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "nubestella_01_m_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "nubestella_01_m_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "nubestella_01_m_hatchling_b"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "nubestella_02_f_adult_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "nubestella_02_f_hatch_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "nubestella_02_f_hatchling_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "nubestella_02_m_adult_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "nubestella_02_m_hatch_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "nubestella_02_m_hatchling_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/49/Nubestella_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240905005432",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nubestella",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Nubestella_00_e_egg_b.png/revision/latest?cb=20240905003826"
-      }
+      "name": "nubestella",
+      "egg_description": "This Egg gathers the energy of wishes.",
+      "elements": [
+        "dream",
+        "wind"
+      ],
+      "rarity": "Legendary",
+      "region": "Sky Kingdom",
+      "dragon_type": "Angel Dragon",
+      "body_type": "Draco",
+      "food": "Starlight Fruit",
+      "tradeable": true,
+      "breeding_tier": 0,
+      "forms": [
+        "default",
+        "celestial",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "nubestella_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "nubestella_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "nubestella_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "nubestella_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "nubestella_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "nubestella_01_m_hatchling_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "nubestella_02_f_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "nubestella_02_f_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "nubestella_02_f_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "nubestella_02_m_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "nubestella_02_m_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "nubestella_02_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/49/Nubestella_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240905005432",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nubestella",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Nubestella_00_e_egg_b.png/revision/latest?cb=20240905003826"
     },
     {
-      "obex": {
-        "name": "obex",
-        "egg_description": "This Egg tries to create space.",
-        "elements": [
-          "dark",
-          "steel"
-        ],
-        "rarity": "Epic",
-        "region": "West Yutakan",
-        "dragon_type": "Area Dragon",
-        "body_type": "Draco",
-        "food": "Dark Melon",
-        "tradeable": true,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "obex_01_f_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "obex_01_f_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "obex_01_f_hatchling_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "obex_01_m_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "obex_01_m_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "obex_01_m_hatchling_r"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Obex_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Obex",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Obex_00_e_egg_r.png/revision/latest?cb=20230919103355"
-      }
+      "name": "obex",
+      "egg_description": "This Egg tries to create space.",
+      "elements": [
+        "dark",
+        "steel"
+      ],
+      "rarity": "Epic",
+      "region": "West Yutakan",
+      "dragon_type": "Area Dragon",
+      "body_type": "Draco",
+      "food": "Dark Melon",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "obex_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "obex_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "obex_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "obex_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "obex_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "obex_01_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Obex_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Obex",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Obex_00_e_egg_r.png/revision/latest?cb=20230919103355"
     },
     {
-      "oculus": {
-        "name": "oculus",
-        "egg_description": "This Egg instinctively hovers around souls.",
-        "elements": [
-          "water"
-        ],
-        "rarity": "Rare",
-        "region": "East Yutakan",
-        "dragon_type": "Chaperone Dragon",
-        "body_type": "Draco",
-        "food": "Mango",
-        "tradeable": false,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "oculus_01_f_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "oculus_01_f_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "oculus_01_f_hatchling_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "b",
-            "path": "oculus_01_m_adult_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "b",
-            "path": "oculus_01_m_hatch_b"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "b",
-            "path": "oculus_01_m_hatchling_b"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/55/Oculus_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173331",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Oculus",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Oculus_00_e_egg_b.png/revision/latest?cb=20240202234656"
-      }
+      "name": "oculus",
+      "egg_description": "This Egg instinctively hovers around souls.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "Chaperone Dragon",
+      "body_type": "Draco",
+      "food": "Mango",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "oculus_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "oculus_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "oculus_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "oculus_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "oculus_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "oculus_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/55/Oculus_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173331",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Oculus",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Oculus_00_e_egg_b.png/revision/latest?cb=20240202234656"
     },
     {
-      "ophanim": {
-        "name": "ophanim",
-        "egg_description": "This Egg monitors the movements of all things.",
-        "elements": [
-          "wind",
-          "lightning"
-        ],
-        "rarity": "Legendary",
-        "region": "Sky Kingdom",
-        "dragon_type": "Angel Dragon",
-        "body_type": "Wyrm",
-        "food": "Yggdrasill",
-        "tradeable": true,
-        "breeding_tier": 0,
-        "forms": [
-          "default",
-          "celestial"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "ophanim_01_f_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "ophanim_01_f_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "ophanim_01_f_hatchling_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "ophanim_01_m_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "ophanim_01_m_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "ophanim_01_m_hatchling_y"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "ophanim_02_f_adult_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "ophanim_02_f_hatch_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "ophanim_02_f_hatchling_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "ophanim_02_m_adult_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "ophanim_02_m_hatch_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "ophanim_02_m_hatchling_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/07/Ophanim_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033801",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ophanim",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b0/Ophanim_00_e_egg_y.png/revision/latest?cb=20240724022317"
-      }
+      "name": "ophanim",
+      "egg_description": "This Egg monitors the movements of all things.",
+      "elements": [
+        "wind",
+        "lightning"
+      ],
+      "rarity": "Legendary",
+      "region": "Sky Kingdom",
+      "dragon_type": "Angel Dragon",
+      "body_type": "Wyrm",
+      "food": "Yggdrasill",
+      "tradeable": true,
+      "breeding_tier": 0,
+      "forms": [
+        "default",
+        "celestial"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "ophanim_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "ophanim_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "ophanim_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "ophanim_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "ophanim_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "ophanim_01_m_hatchling_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "ophanim_02_f_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "ophanim_02_f_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "ophanim_02_f_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "ophanim_02_m_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "ophanim_02_m_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "ophanim_02_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/07/Ophanim_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033801",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ophanim",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b0/Ophanim_00_e_egg_y.png/revision/latest?cb=20240724022317"
     },
     {
-      "oro": {
-        "name": "oro",
-        "egg_description": "This Egg subdues threats.",
-        "elements": [
-          "wind"
-        ],
-        "rarity": "Common",
-        "region": "Sky Kingdom",
-        "dragon_type": "Wind Dragon",
-        "body_type": "Draco",
-        "food": "Yggdrasill",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "oro_01_f_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "oro_01_f_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "oro_01_f_hatchling_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "oro_01_m_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "oro_01_m_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "oro_01_m_hatchling_y"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Oro_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Oro",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Oro_00_e_egg_y.png/revision/latest?cb=20240724022317"
-      }
+      "name": "oro",
+      "egg_description": "This Egg subdues threats.",
+      "elements": [
+        "wind"
+      ],
+      "rarity": "Common",
+      "region": "Sky Kingdom",
+      "dragon_type": "Wind Dragon",
+      "body_type": "Draco",
+      "food": "Yggdrasill",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "oro_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "oro_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "oro_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "oro_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "oro_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "oro_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Oro_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Oro",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Oro_00_e_egg_y.png/revision/latest?cb=20240724022317"
     },
     {
-      "paimon": {
-        "name": "paimon",
-        "egg_description": "This Egg is adorned with enchanting golden patterns.",
-        "elements": [
-          "fire"
-        ],
-        "rarity": "Rare",
-        "region": "West Yutakan",
-        "dragon_type": "Lord Dragon",
-        "body_type": "Draco",
-        "food": "Purple Tulip",
-        "tradeable": false,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bg",
-            "path": "paimon_01_f_adult_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bg",
-            "path": "paimon_01_f_hatch_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bg",
-            "path": "paimon_01_f_hatchling_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bg",
-            "path": "paimon_01_m_adult_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bg",
-            "path": "paimon_01_m_hatch_bg"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bg",
-            "path": "paimon_01_m_hatchling_bg"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/75/Paimon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Paimon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Paimon_00_e_egg_bg.png/revision/latest?cb=20240125024207"
-      }
+      "name": "paimon",
+      "egg_description": "This Egg is adorned with enchanting golden patterns.",
+      "elements": [
+        "fire"
+      ],
+      "rarity": "Rare",
+      "region": "West Yutakan",
+      "dragon_type": "Lord Dragon",
+      "body_type": "Draco",
+      "food": "Purple Tulip",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "paimon_01_f_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "paimon_01_f_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "paimon_01_f_hatchling_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "paimon_01_m_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "paimon_01_m_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "paimon_01_m_hatchling_bg"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/75/Paimon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Paimon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Paimon_00_e_egg_bg.png/revision/latest?cb=20240125024207"
     },
     {
-      "pancake_dragon": {
-        "name": "pancake dragon",
-        "egg_description": "This Egg has a sweet taste.",
-        "elements": [
-          "light"
-        ],
-        "rarity": "Rare",
-        "region": "West Yutakan",
-        "dragon_type": "Feed Dragon",
-        "body_type": "Draco",
-        "food": "Honey",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "pancakedragon_01_f_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "pancakedragon_01_f_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "pancakedragon_01_f_hatchling_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "y",
-            "path": "pancakedragon_01_m_adult_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "y",
-            "path": "pancakedragon_01_m_hatch_y"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "y",
-            "path": "pancakedragon_01_m_hatchling_y"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Pancakedragon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pancake_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Pancakedragon_00_e_egg_y.png/revision/latest?cb=20231116234726"
-      }
+      "name": "pancake dragon",
+      "egg_description": "This Egg has a sweet taste.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Rare",
+      "region": "West Yutakan",
+      "dragon_type": "Feed Dragon",
+      "body_type": "Draco",
+      "food": "Honey",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "pancakedragon_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "pancakedragon_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "pancakedragon_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "pancakedragon_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "pancakedragon_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "pancakedragon_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Pancakedragon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pancake_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Pancakedragon_00_e_egg_y.png/revision/latest?cb=20231116234726"
     }
   ]
 }

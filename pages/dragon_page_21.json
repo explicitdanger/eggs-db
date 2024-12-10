@@ -1,564 +1,548 @@
 {
   "dragons": [
     {
-      "firetail": {
-        "name": "firetail",
-        "egg_description": "This Egg has soft fur.",
-        "elements": [
-          "fire"
-        ],
-        "rarity": "Uncommon",
-        "region": "East Yutakan",
-        "dragon_type": "Nine-Tailed Fox Dragon",
-        "body_type": "Draco",
-        "food": "Fire Carrot",
-        "tradeable": false,
-        "breeding_tier": 3,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "firetail_01_f_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "firetail_01_f_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "firetail_01_f_hatchling_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "firetail_01_m_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "firetail_01_m_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "firetail_01_m_hatchling_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Firetail_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Firetail",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/13/Firetail_00_e_egg_w.png/revision/latest?cb=20240202230419"
-      }
+      "name": "firetail",
+      "egg_description": "This Egg has soft fur.",
+      "elements": [
+        "fire"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Nine-Tailed Fox Dragon",
+      "body_type": "Draco",
+      "food": "Fire Carrot",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "firetail_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "firetail_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "firetail_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "firetail_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "firetail_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "firetail_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Firetail_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Firetail",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/13/Firetail_00_e_egg_w.png/revision/latest?cb=20240202230419"
     },
     {
-      "flame_dragon": {
-        "name": "flame dragon",
-        "egg_description": "The flames around this Egg never cool down.",
-        "elements": [
-          "fire"
-        ],
-        "rarity": "Uncommon",
-        "region": "East Yutakan",
-        "dragon_type": "Flame Dragon",
-        "body_type": "Draco",
-        "food": "Fire Carrot",
-        "tradeable": false,
-        "breeding_tier": 3,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "flamedragon_01_f_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "flamedragon_01_f_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "flamedragon_01_f_hatchling_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "r",
-            "path": "flamedragon_01_m_adult_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "r",
-            "path": "flamedragon_01_m_hatch_r"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "r",
-            "path": "flamedragon_01_m_hatchling_r"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Flamedragon_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Flame_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e1/Flamedragon_00_e_egg_r.png/revision/latest?cb=20240202230511"
-      }
+      "name": "flame dragon",
+      "egg_description": "The flames around this Egg never cool down.",
+      "elements": [
+        "fire"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Flame Dragon",
+      "body_type": "Draco",
+      "food": "Fire Carrot",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "flamedragon_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "flamedragon_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "flamedragon_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "flamedragon_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "flamedragon_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "flamedragon_01_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Flamedragon_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Flame_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e1/Flamedragon_00_e_egg_r.png/revision/latest?cb=20240202230511"
     },
     {
-      "fleecy_cloud_dragon": {
-        "name": "fleecy cloud dragon",
-        "egg_description": "This Egg is surrounded by clouds like fluffy wool.",
-        "elements": [
-          "lightning"
-        ],
-        "rarity": "Common",
-        "region": "Sky Kingdom",
-        "dragon_type": "Cloud Dragon",
-        "body_type": "Drake",
-        "food": "Mango",
-        "tradeable": true,
-        "breeding_tier": 4,
-        "forms": [
-          "default"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "fleecyclouddragon_01_f_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "fleecyclouddragon_01_f_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "fleecyclouddragon_01_f_hatchling_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "fleecyclouddragon_01_m_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "fleecyclouddragon_01_m_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "fleecyclouddragon_01_m_hatchling_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Fleecyclouddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033758",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fleecy_Cloud_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Fleecyclouddragon_00_e_egg_w.png/revision/latest?cb=20240724022317"
-      }
+      "name": "fleecy cloud dragon",
+      "egg_description": "This Egg is surrounded by clouds like fluffy wool.",
+      "elements": [
+        "lightning"
+      ],
+      "rarity": "Common",
+      "region": "Sky Kingdom",
+      "dragon_type": "Cloud Dragon",
+      "body_type": "Drake",
+      "food": "Mango",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "fleecyclouddragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "fleecyclouddragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "fleecyclouddragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "fleecyclouddragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "fleecyclouddragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "fleecyclouddragon_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Fleecyclouddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033758",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fleecy_Cloud_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Fleecyclouddragon_00_e_egg_w.png/revision/latest?cb=20240724022317"
     },
     {
-      "florea": {
-        "name": "florea",
-        "egg_description": "This Egg can see destinies.",
-        "elements": [
-          "dream",
-          "earth"
-        ],
-        "rarity": "Legendary",
-        "region": "West Yutakan",
-        "dragon_type": "Destiny Dragon",
-        "body_type": "Wyvern",
-        "food": "Rainbow Flower",
-        "tradeable": true,
-        "breeding_tier": 0,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "florea_01_f_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "florea_01_f_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "florea_01_f_hatchling_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "florea_01_m_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "florea_01_m_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "florea_01_m_hatchling_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2f/Florea_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Florea",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Florea_00_e_egg_w.png/revision/latest?cb=20230919102701"
-      }
+      "name": "florea",
+      "egg_description": "This Egg can see destinies.",
+      "elements": [
+        "dream",
+        "earth"
+      ],
+      "rarity": "Legendary",
+      "region": "West Yutakan",
+      "dragon_type": "Destiny Dragon",
+      "body_type": "Wyvern",
+      "food": "Rainbow Flower",
+      "tradeable": true,
+      "breeding_tier": 0,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "florea_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "florea_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "florea_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "florea_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "florea_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "florea_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2f/Florea_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Florea",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Florea_00_e_egg_w.png/revision/latest?cb=20230919102701"
     },
     {
-      "flower_dragon": {
-        "name": "flower dragon",
-        "egg_description": "This Egg looks like a flower.",
-        "elements": [
-          "earth"
-        ],
-        "rarity": "Epic",
-        "region": "East Yutakan",
-        "dragon_type": "Flower Dragon",
-        "body_type": "Draco",
-        "food": "Grass",
-        "tradeable": false,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "signature",
-          "undead (default)",
-          "undead (signature)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "flowerdragon_01_f_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "flowerdragon_01_f_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "flowerdragon_01_f_hatchling_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "flowerdragon_01_m_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "flowerdragon_01_m_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "flowerdragon_01_m_hatchling_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "flowerdragon_02_f_adult_w"
-          },
-          {
-            "form_number": "02",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "flowerdragon_02_m_adult_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Flowerdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Flower_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/22/Flowerdragon_00_e_egg_w.png/revision/latest?cb=20240202230604"
-      }
+      "name": "flower dragon",
+      "egg_description": "This Egg looks like a flower.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Flower Dragon",
+      "body_type": "Draco",
+      "food": "Grass",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "signature",
+        "undead (default)",
+        "undead (signature)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "flowerdragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "flowerdragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "flowerdragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "flowerdragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "flowerdragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "flowerdragon_01_m_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "flowerdragon_02_f_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "flowerdragon_02_m_adult_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Flowerdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Flower_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/22/Flowerdragon_00_e_egg_w.png/revision/latest?cb=20240202230604"
     },
     {
-      "forbidden_witch_dragon": {
-        "name": "forbidden witch dragon",
-        "egg_description": "This Egg has an aura of benevolent magic.",
-        "elements": [
-          "light"
-        ],
-        "rarity": "Epic",
-        "region": "Special",
-        "dragon_type": "Witch Dragon",
-        "body_type": "Draco",
-        "food": "Melon",
-        "tradeable": false,
-        "breeding_tier": 1,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "prohibitedwitchdragon_01_f_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "prohibitedwitchdragon_01_f_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "prohibitedwitchdragon_01_f_hatchling_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "w",
-            "path": "prohibitedwitchdragon_01_m_adult_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "w",
-            "path": "prohibitedwitchdragon_01_m_hatch_w"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "w",
-            "path": "prohibitedwitchdragon_01_m_hatchling_w"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/45/Prohibitedwitchdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Forbidden_Witch_Dragon",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Prohibitedwitchdragon_00_e_egg_w.png/revision/latest?cb=20231129045050"
-      }
+      "name": "forbidden witch dragon",
+      "egg_description": "This Egg has an aura of benevolent magic.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Epic",
+      "region": "Special",
+      "dragon_type": "Witch Dragon",
+      "body_type": "Draco",
+      "food": "Melon",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "prohibitedwitchdragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "prohibitedwitchdragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "prohibitedwitchdragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "prohibitedwitchdragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "prohibitedwitchdragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "prohibitedwitchdragon_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/45/Prohibitedwitchdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Forbidden_Witch_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Prohibitedwitchdragon_00_e_egg_w.png/revision/latest?cb=20231129045050"
     },
     {
-      "forner": {
-        "name": "forner",
-        "egg_description": "This Egg is sprinkled with breadcrumbs.",
-        "elements": [
-          "light"
-        ],
-        "rarity": "Epic",
-        "region": "Deep Sea",
-        "dragon_type": "Dessert Dragon",
-        "body_type": "Drake",
-        "food": "Melon",
-        "tradeable": true,
-        "breeding_tier": 1,
-        "forms": [
-          "default"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "yr",
-            "path": "forner_01_f_adult_yr"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "yr",
-            "path": "forner_01_f_hatch_yr"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "yr",
-            "path": "forner_01_f_hatchling_yr"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "yr",
-            "path": "forner_01_m_adult_yr"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "yr",
-            "path": "forner_01_m_hatch_yr"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "yr",
-            "path": "forner_01_m_hatchling_yr"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/48/Forner_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Forner",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Forner_00_e_egg_yr.png/revision/latest?cb=20240627012436"
-      }
+      "name": "forner",
+      "egg_description": "This Egg is sprinkled with breadcrumbs.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Epic",
+      "region": "Deep Sea",
+      "dragon_type": "Dessert Dragon",
+      "body_type": "Drake",
+      "food": "Melon",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "forner_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "forner_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "forner_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "forner_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "forner_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "forner_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/48/Forner_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Forner",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Forner_00_e_egg_yr.png/revision/latest?cb=20240627012436"
     },
     {
-      "frame": {
-        "name": "frame",
-        "egg_description": "This Egg is placed in a frame.",
-        "elements": [
-          "dream",
-          "steel"
-        ],
-        "rarity": "Rare",
-        "region": "West Yutakan",
-        "dragon_type": "Frame Dragon",
-        "body_type": "Draco",
-        "food": "Memory",
-        "tradeable": true,
-        "breeding_tier": 2,
-        "forms": [
-          "default",
-          "undead (default)"
-        ],
-        "assets": [
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "frame_01_f_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "frame_01_f_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "f",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "frame_01_f_hatchling_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "adult",
-            "color_code": "bk",
-            "path": "frame_01_m_adult_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatch",
-            "color_code": "bk",
-            "path": "frame_01_m_hatch_bk"
-          },
-          {
-            "form_number": "01",
-            "gender": "m",
-            "stage": "hatchling",
-            "color_code": "bk",
-            "path": "frame_01_m_hatchling_bk"
-          }
-        ],
-        "special_actions": [],
-        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8a/Frame_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
-        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frame",
-        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Frame_00_e_egg_bk.png/revision/latest?cb=20231117000726"
-      }
+      "name": "frame",
+      "egg_description": "This Egg is placed in a frame.",
+      "elements": [
+        "dream",
+        "steel"
+      ],
+      "rarity": "Rare",
+      "region": "West Yutakan",
+      "dragon_type": "Frame Dragon",
+      "body_type": "Draco",
+      "food": "Memory",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "frame_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "frame_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "frame_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "frame_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "frame_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "frame_01_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8a/Frame_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frame",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Frame_00_e_egg_bk.png/revision/latest?cb=20231117000726"
     }
   ]
 }
