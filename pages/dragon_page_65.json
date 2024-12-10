@@ -1,722 +1,724 @@
 {
-  "dragons": {
-    "witch_dragon": {
-      "name": "witch dragon",
-      "egg_description": "This Egg radiates magic energy.",
-      "elements": [
-        "dark"
-      ],
-      "rarity": "Uncommon",
-      "region": "West Yutakan",
-      "dragon_type": "Witch Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "signature",
-        "undead (default)",
-        "undead (signature)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "witchdragon_01_f_adult_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "witchdragon_01_f_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "witchdragon_01_f_hatchling_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "witchdragon_01_m_adult_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "witchdragon_01_m_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "witchdragon_01_m_hatchling_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "witchdragon_02_f_adult_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "witchdragon_02_m_adult_p"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Witchdragon_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Witch_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/18/Witchdragon_00_e_egg_p.png/revision/latest?cb=20230919104255"
-    },
-    "wonder_dragon": {
-      "name": "wonder dragon",
-      "egg_description": "This Egg plants the energy of nightmares.",
-      "elements": [
-        "dark",
-        "wind"
-      ],
-      "rarity": "Uncommon",
-      "region": "Sky Kingdom",
-      "dragon_type": "Dream Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "wonderdragon_01_f_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "wonderdragon_01_f_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "wonderdragon_01_f_hatchling_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "wonderdragon_01_m_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "wonderdragon_01_m_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "wonderdragon_01_m_hatchling_yr"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/28/Wonderdragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Wonder_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Wonderdragon_00_e_egg_yr.png/revision/latest?cb=20240724022317"
-    },
-    "xmas_dragon": {
-      "name": "xmas dragon",
-      "egg_description": "This egg is decorated with a red ribbon.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Legendary",
-      "region": "Special",
-      "dragon_type": "Christmas Dragon",
-      "body_type": "Draco",
-      "food": "Melon",
-      "tradeable": false,
-      "breeding_tier": 0,
-      "forms": [
-        "carol of light",
-        "silent night",
-        "christmas tree",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "xmasdragon_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "xmasdragon_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "xmasdragon_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "xmasdragon_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "xmasdragon_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "xmasdragon_01_m_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "xmasdragon_02_f_adult_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "xmasdragon_02_f_hatch_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "xmasdragon_02_f_hatchling_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "xmasdragon_02_m_adult_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "xmasdragon_02_m_hatch_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "xmasdragon_02_m_hatchling_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "xmasdragon_03_f_adult_g"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "xmasdragon_03_f_hatch_g"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "xmasdragon_03_f_hatchling_g"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "xmasdragon_03_m_adult_g"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "xmasdragon_03_m_hatch_g"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "xmasdragon_03_m_hatchling_g"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f0/Xmasdragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Xmas_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e9/Xmasdragon_00_e_egg_w.png/revision/latest?cb=20231222185207"
-    },
-    "yurion": {
-      "name": "yurion",
-      "egg_description": "This Egg shines very bright.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Epic",
-      "region": "West Yutakan",
-      "dragon_type": "Light Dragon",
-      "body_type": "Draco",
-      "food": "Melon",
-      "tradeable": false,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "yurion_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "yurion_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "yurion_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "yurion_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "yurion_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "yurion_01_m_hatchling_w"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/64/Yurion_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Yurion",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/92/Yurion_00_e_egg_w.png/revision/latest?cb=20231129041633"
-    },
-    "yurqa": {
-      "name": "yurqa",
-      "egg_description": "This Egg spreads its wings at night.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Epic",
-      "region": "Deep Sea",
-      "dragon_type": "Light Dragon",
-      "body_type": "Draco",
-      "food": "Melon",
-      "tradeable": false,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "yurqa_01_f_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "yurqa_01_f_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "yurqa_01_f_hatchling_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "yurqa_01_m_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "yurqa_01_m_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "yurqa_01_m_hatchling_bg"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Yurqa_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Yurqa",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dc/Yurqa_00_e_egg_bg.png/revision/latest?cb=20240509015920"
-    },
-    "zael_delta": {
-      "name": "zael delta",
-      "egg_description": "This Egg is imbued with the power of corrosion.",
-      "elements": [
-        "earth",
-        "wind"
-      ],
-      "rarity": "Epic",
-      "region": "Special",
-      "dragon_type": "Experiment Dragon",
-      "body_type": "Coatyl",
-      "food": "Paopao Fruit",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "restricted",
-        "liberated",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "zaeldelta_01_f_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "zaeldelta_01_f_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "zaeldelta_01_f_hatchling_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "zaeldelta_01_m_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "zaeldelta_01_m_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "zaeldelta_01_m_hatchling_bg"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "zaeldelta_02_f_adult_bg"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "zaeldelta_02_f_hatch_bg"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "zaeldelta_02_f_hatchling_bg"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "zaeldelta_02_m_adult_bg"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "zaeldelta_02_m_hatch_bg"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "zaeldelta_02_m_hatchling_bg"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "zaeldelta_03_f_adult_bg"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "zaeldelta_03_f_hatch_bg"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "zaeldelta_03_f_hatchling_bg"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "zaeldelta_03_m_adult_bg"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "zaeldelta_03_m_hatch_bg"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "zaeldelta_03_m_hatchling_bg"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Zaeldelta_02_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004955",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zael_Delta",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cd/Zaeldelta_00_e_egg_bg.png/revision/latest?cb=20241017005208"
-    },
-    "zephyros": {
-      "name": "zephyros",
-      "egg_description": "This Egg prepares to fly through the sky.",
-      "elements": [
-        "wind",
-        "dark"
-      ],
-      "rarity": "Epic",
-      "region": "East Yutakan",
-      "dragon_type": "Wind Dragon",
-      "body_type": "Draco",
-      "food": "Whirl Flower",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "zephyros_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "zephyros_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "zephyros_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "zephyros_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "zephyros_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "zephyros_01_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Zephyros_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zephyros",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Zephyros_00_e_egg_bk.png/revision/latest?cb=20230824075945"
-    },
-    "zithakula": {
-      "name": "zithakula",
-      "egg_description": "This Egg is surrounded by ice.",
-      "elements": [
-        "water"
-      ],
-      "rarity": "",
-      "region": "Deep Sea",
-      "dragon_type": "Warden Dragon",
-      "body_type": "Wyvern",
-      "food": "Piranha",
-      "tradeable": false,
-      "breeding_tier": 3,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "zithakula_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "zithakula_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "zithakula_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "zithakula_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "zithakula_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "zithakula_01_m_hatchling_w"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Zithakula_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173736",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zithakula",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Zithakula_00_e_egg_w.png/revision/latest?cb=20240229022325"
+  "dragons": [
+    {
+      "witch_dragon": {
+        "name": "witch dragon",
+        "egg_description": "This Egg radiates magic energy.",
+        "elements": [
+          "dark"
+        ],
+        "rarity": "Uncommon",
+        "region": "West Yutakan",
+        "dragon_type": "Witch Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "signature",
+          "undead (default)",
+          "undead (signature)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "witchdragon_01_f_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "witchdragon_01_f_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "witchdragon_01_f_hatchling_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "witchdragon_01_m_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "witchdragon_01_m_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "witchdragon_01_m_hatchling_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "witchdragon_02_f_adult_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "witchdragon_02_m_adult_p"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Witchdragon_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Witch_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/18/Witchdragon_00_e_egg_p.png/revision/latest?cb=20230919104255"
+      },
+      "wonder_dragon": {
+        "name": "wonder dragon",
+        "egg_description": "This Egg plants the energy of nightmares.",
+        "elements": [
+          "dark",
+          "wind"
+        ],
+        "rarity": "Uncommon",
+        "region": "Sky Kingdom",
+        "dragon_type": "Dream Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "wonderdragon_01_f_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "wonderdragon_01_f_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "wonderdragon_01_f_hatchling_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "wonderdragon_01_m_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "wonderdragon_01_m_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "wonderdragon_01_m_hatchling_yr"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/28/Wonderdragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Wonder_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Wonderdragon_00_e_egg_yr.png/revision/latest?cb=20240724022317"
+      },
+      "xmas_dragon": {
+        "name": "xmas dragon",
+        "egg_description": "This egg is decorated with a red ribbon.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Legendary",
+        "region": "Special",
+        "dragon_type": "Christmas Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": false,
+        "breeding_tier": 0,
+        "forms": [
+          "carol of light",
+          "silent night",
+          "christmas tree",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "xmasdragon_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "xmasdragon_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "xmasdragon_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "xmasdragon_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "xmasdragon_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "xmasdragon_01_m_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "xmasdragon_02_f_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "xmasdragon_02_f_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "xmasdragon_02_f_hatchling_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "xmasdragon_02_m_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "xmasdragon_02_m_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "xmasdragon_02_m_hatchling_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "xmasdragon_03_f_adult_g"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "xmasdragon_03_f_hatch_g"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "xmasdragon_03_f_hatchling_g"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "xmasdragon_03_m_adult_g"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "xmasdragon_03_m_hatch_g"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "xmasdragon_03_m_hatchling_g"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f0/Xmasdragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Xmas_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e9/Xmasdragon_00_e_egg_w.png/revision/latest?cb=20231222185207"
+      },
+      "yurion": {
+        "name": "yurion",
+        "egg_description": "This Egg shines very bright.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Epic",
+        "region": "West Yutakan",
+        "dragon_type": "Light Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": false,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "yurion_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "yurion_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "yurion_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "yurion_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "yurion_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "yurion_01_m_hatchling_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/64/Yurion_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Yurion",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/92/Yurion_00_e_egg_w.png/revision/latest?cb=20231129041633"
+      },
+      "yurqa": {
+        "name": "yurqa",
+        "egg_description": "This Egg spreads its wings at night.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Epic",
+        "region": "Deep Sea",
+        "dragon_type": "Light Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": false,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "yurqa_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "yurqa_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "yurqa_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "yurqa_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "yurqa_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "yurqa_01_m_hatchling_bg"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Yurqa_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Yurqa",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dc/Yurqa_00_e_egg_bg.png/revision/latest?cb=20240509015920"
+      },
+      "zael_delta": {
+        "name": "zael delta",
+        "egg_description": "This Egg is imbued with the power of corrosion.",
+        "elements": [
+          "earth",
+          "wind"
+        ],
+        "rarity": "Epic",
+        "region": "Special",
+        "dragon_type": "Experiment Dragon",
+        "body_type": "Coatyl",
+        "food": "Paopao Fruit",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "restricted",
+          "liberated",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "zaeldelta_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "zaeldelta_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "zaeldelta_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "zaeldelta_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "zaeldelta_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "zaeldelta_01_m_hatchling_bg"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "zaeldelta_02_f_adult_bg"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "zaeldelta_02_f_hatch_bg"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "zaeldelta_02_f_hatchling_bg"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "zaeldelta_02_m_adult_bg"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "zaeldelta_02_m_hatch_bg"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "zaeldelta_02_m_hatchling_bg"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "zaeldelta_03_f_adult_bg"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "zaeldelta_03_f_hatch_bg"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "zaeldelta_03_f_hatchling_bg"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "zaeldelta_03_m_adult_bg"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "zaeldelta_03_m_hatch_bg"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "zaeldelta_03_m_hatchling_bg"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Zaeldelta_02_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004955",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zael_Delta",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cd/Zaeldelta_00_e_egg_bg.png/revision/latest?cb=20241017005208"
+      },
+      "zephyros": {
+        "name": "zephyros",
+        "egg_description": "This Egg prepares to fly through the sky.",
+        "elements": [
+          "wind",
+          "dark"
+        ],
+        "rarity": "Epic",
+        "region": "East Yutakan",
+        "dragon_type": "Wind Dragon",
+        "body_type": "Draco",
+        "food": "Whirl Flower",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "zephyros_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "zephyros_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "zephyros_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "zephyros_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "zephyros_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "zephyros_01_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Zephyros_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zephyros",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Zephyros_00_e_egg_bk.png/revision/latest?cb=20230824075945"
+      },
+      "zithakula": {
+        "name": "zithakula",
+        "egg_description": "This Egg is surrounded by ice.",
+        "elements": [
+          "water"
+        ],
+        "rarity": "",
+        "region": "Deep Sea",
+        "dragon_type": "Warden Dragon",
+        "body_type": "Wyvern",
+        "food": "Piranha",
+        "tradeable": false,
+        "breeding_tier": 3,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "zithakula_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "zithakula_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "zithakula_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "zithakula_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "zithakula_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "zithakula_01_m_hatchling_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Zithakula_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173736",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zithakula",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Zithakula_00_e_egg_w.png/revision/latest?cb=20240229022325"
+      }
     }
-  }
+  ]
 }

@@ -1,1041 +1,1043 @@
 {
-  "dragons": {
-    "semilla": {
-      "name": "semilla",
-      "egg_description": "This Egg plays music full of hope.",
-      "elements": [
-        "earth",
-        "dream"
-      ],
-      "rarity": "Epic",
-      "region": "Special",
-      "dragon_type": "Hope Dragon",
-      "body_type": "Coatyl",
-      "food": "Apple",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "desire",
-        "hope"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "semilla_01_f_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "semilla_01_f_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "semilla_01_f_hatchling_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "semilla_01_m_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "semilla_01_m_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "semilla_01_m_hatchling_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "semilla_02_f_adult_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "semilla_02_f_hatch_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "semilla_02_f_hatchling_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "semilla_02_m_adult_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "semilla_02_m_hatch_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "semilla_02_m_hatchling_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "semilla_03_f_adult_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "semilla_03_f_hatch_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "semilla_03_f_hatchling_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "semilla_03_m_adult_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "semilla_03_m_hatch_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "semilla_03_m_hatchling_pb"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Semilla_02_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Semilla",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/68/Semilla_00_e_egg_pb.png/revision/latest?cb=20240724022317"
-    },
-    "seraphim": {
-      "name": "seraphim",
-      "egg_description": "This Egg is hiding its identity.",
-      "elements": [
-        "light",
-        "dream"
-      ],
-      "rarity": "Legendary",
-      "region": "Sky Kingdom",
-      "dragon_type": "Angel Dragon",
-      "body_type": "Draco",
-      "food": "Unknown",
-      "tradeable": false,
-      "breeding_tier": 0,
-      "forms": [
-        "default",
-        "intellectual",
-        "celestial"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "seraphim_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "seraphim_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "seraphim_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "seraphim_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "seraphim_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "seraphim_01_m_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "seraphim_02_f_adult_g"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "seraphim_02_f_hatch_g"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "seraphim_02_f_hatchling_g"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "seraphim_02_m_adult_g"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "seraphim_02_m_hatch_g"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "seraphim_02_m_hatchling_g"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "y",
-          "path": "seraphim_03_f_adult_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "y",
-          "path": "seraphim_03_f_hatch_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "y",
-          "path": "seraphim_03_f_hatchling_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "y",
-          "path": "seraphim_03_m_adult_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "y",
-          "path": "seraphim_03_m_hatch_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "y",
-          "path": "seraphim_03_m_hatchling_y"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Seraphim_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033803",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seraphim",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Seraphim_00_e_egg_w.png/revision/latest?cb=20240724022318"
-    },
-    "serpent_dragon": {
-      "name": "serpent dragon",
-      "egg_description": "This Egg consists of thin scales.",
-      "elements": [
-        "dark",
-        "water"
-      ],
-      "rarity": "Uncommon",
-      "region": "East Yutakan",
-      "dragon_type": "Snake Dragon",
-      "body_type": "Coatyl",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "serpentdragon_01_m_adult_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "serpentdragon_01_m_hatch_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "serpentdragon_01_m_hatchling_g"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Serpentdragon_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Serpent_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Serpentdragon_00_e_egg_g.png/revision/latest?cb=20240202225407"
-    },
-    "serpent_flower_dragon": {
-      "name": "serpent flower dragon",
-      "egg_description": "This Egg smells like flowers.",
-      "elements": [
-        "dark",
-        "earth"
-      ],
-      "rarity": "Epic",
-      "region": "East Yutakan",
-      "dragon_type": "Snake Dragon",
-      "body_type": "Coatyl",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "serpentdragon_01_m_adult_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "serpentdragon_01_m_hatch_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "serpentdragon_01_m_hatchling_g"
-        }
-      ],
-      "special_actions": []
-    },
-    "shadow_dragon": {
-      "name": "shadow dragon",
-      "egg_description": "This Egg gives off a dark, shady aura.",
-      "elements": [
-        "dark"
-      ],
-      "rarity": "Uncommon",
-      "region": "East Yutakan",
-      "dragon_type": "Shadow Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 3,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "shadow_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "shadow_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "shadow_01_m_hatchling_bk"
-        }
-      ],
-      "special_actions": []
-    },
-    "shark_dragon": {
-      "name": "shark dragon",
-      "egg_description": "This Egg looks like a shark.",
-      "elements": [
-        "water"
-      ],
-      "rarity": "Epic",
-      "region": "East Yutakan",
-      "dragon_type": "Shark Dragon",
-      "body_type": "Wyvern",
-      "food": "Piremio",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "signature",
-        "blue shark",
-        "undead (default)",
-        "undead (signature)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "sharkgon_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "sharkgon_01_f_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "sharkgon_01_f_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "sharkgon_01_m_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "sharkgon_01_m_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "sharkgon_01_m_hatchling_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "sharkgon_02_f_adult_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "sharkgon_02_m_adult_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "sharkgon_03_f_adult_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "sharkgon_03_f_hatch_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "sharkgon_03_f_hatchling_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "sharkgon_03_m_adult_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "sharkgon_03_m_hatch_pb"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "sharkgon_03_m_hatchling_pb"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Sharkgon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shark_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/aa/Sharkgon_00_e_egg_b.png/revision/latest?cb=20240316020210"
-    },
-    "sharp_tail": {
-      "name": "sharp tail",
-      "egg_description": "This Egg is fierce.",
-      "elements": [
-        "earth"
-      ],
-      "rarity": "Rare",
-      "region": "West Yutakan",
-      "dragon_type": "Blade Dragon",
-      "body_type": "Draco",
-      "food": "Paopao Fruit",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "sharptail_01_f_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "sharptail_01_f_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "sharptail_01_f_hatchling_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "sharptail_01_m_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "sharptail_01_m_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "sharptail_01_m_hatchling_yr"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Sharptail_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sharp_Tail",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Sharptail_00_e_egg_yr.png/revision/latest?cb=20230919103643"
-    },
-    "shockwave": {
-      "name": "shockwave",
-      "egg_description": "This Egg leaves a trail.",
-      "elements": [
-        "wind",
-        "steel"
-      ],
-      "rarity": "Rare",
-      "region": "Special",
-      "dragon_type": "Speed Dragon",
-      "body_type": "Draco",
-      "food": "Whirl Flower",
-      "tradeable": false,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "azure's blue sky",
-        "azure's golden sunset",
-        "azure's crimson sunset",
-        "azure's starry sky",
-        "blue sky",
-        "golden sunset",
-        "crimson sunset",
-        "starry sky",
-        "undead (default)",
-        "undead (azure's blue sky)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_01_m_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_02_f_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_02_f_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_02_f_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_02_m_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_02_m_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_02_m_hatchling_w"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "shockwave_03_f_adult_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "shockwave_03_f_hatch_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "shockwave_03_f_hatchling_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "shockwave_03_m_adult_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "shockwave_03_m_hatch_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "shockwave_03_m_hatchling_b"
-        },
-        {
-          "form_number": "04",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_04_f_adult_w"
-        },
-        {
-          "form_number": "04",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_04_f_hatch_w"
-        },
-        {
-          "form_number": "04",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_04_f_hatchling_w"
-        },
-        {
-          "form_number": "04",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_04_m_adult_w"
-        },
-        {
-          "form_number": "04",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_04_m_hatch_w"
-        },
-        {
-          "form_number": "04",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_04_m_hatchling_w"
-        },
-        {
-          "form_number": "05",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "shockwave_05_f_adult_bk"
-        },
-        {
-          "form_number": "05",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "shockwave_05_f_hatch_bk"
-        },
-        {
-          "form_number": "05",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "shockwave_05_f_hatchling_bk"
-        },
-        {
-          "form_number": "05",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "shockwave_05_m_adult_bk"
-        },
-        {
-          "form_number": "05",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "shockwave_05_m_hatch_bk"
-        },
-        {
-          "form_number": "05",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "shockwave_05_m_hatchling_bk"
-        },
-        {
-          "form_number": "06",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_06_f_adult_w"
-        },
-        {
-          "form_number": "06",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_06_f_hatch_w"
-        },
-        {
-          "form_number": "06",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_06_f_hatchling_w"
-        },
-        {
-          "form_number": "06",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_06_m_adult_w"
-        },
-        {
-          "form_number": "06",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_06_m_hatch_w"
-        },
-        {
-          "form_number": "06",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_06_m_hatchling_w"
-        },
-        {
-          "form_number": "07",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "shockwave_07_f_adult_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "shockwave_07_f_hatch_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "shockwave_07_f_hatchling_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "shockwave_07_m_adult_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "shockwave_07_m_hatch_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "shockwave_07_m_hatchling_b"
-        },
-        {
-          "form_number": "08",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_08_f_adult_w"
-        },
-        {
-          "form_number": "08",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_08_f_hatch_w"
-        },
-        {
-          "form_number": "08",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_08_f_hatchling_w"
-        },
-        {
-          "form_number": "08",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "shockwave_08_m_adult_w"
-        },
-        {
-          "form_number": "08",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "shockwave_08_m_hatch_w"
-        },
-        {
-          "form_number": "08",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "shockwave_08_m_hatchling_w"
-        },
-        {
-          "form_number": "09",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "shockwave_09_f_adult_bk"
-        },
-        {
-          "form_number": "09",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "shockwave_09_f_hatch_bk"
-        },
-        {
-          "form_number": "09",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "shockwave_09_f_hatchling_bk"
-        },
-        {
-          "form_number": "09",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "shockwave_09_m_adult_bk"
-        },
-        {
-          "form_number": "09",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "shockwave_09_m_hatch_bk"
-        },
-        {
-          "form_number": "09",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "shockwave_09_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a0/Shockwave_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shockwave",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/85/Shockwave_00_e_egg_w.png/revision/latest?cb=20240530022641"
+  "dragons": [
+    {
+      "semilla": {
+        "name": "semilla",
+        "egg_description": "This Egg plays music full of hope.",
+        "elements": [
+          "earth",
+          "dream"
+        ],
+        "rarity": "Epic",
+        "region": "Special",
+        "dragon_type": "Hope Dragon",
+        "body_type": "Coatyl",
+        "food": "Apple",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "desire",
+          "hope"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "semilla_01_f_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "semilla_01_f_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "semilla_01_f_hatchling_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "semilla_01_m_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "semilla_01_m_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "semilla_01_m_hatchling_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "semilla_02_f_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "semilla_02_f_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "semilla_02_f_hatchling_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "semilla_02_m_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "semilla_02_m_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "semilla_02_m_hatchling_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "semilla_03_f_adult_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "semilla_03_f_hatch_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "semilla_03_f_hatchling_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "semilla_03_m_adult_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "semilla_03_m_hatch_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "semilla_03_m_hatchling_pb"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Semilla_02_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Semilla",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/68/Semilla_00_e_egg_pb.png/revision/latest?cb=20240724022317"
+      },
+      "seraphim": {
+        "name": "seraphim",
+        "egg_description": "This Egg is hiding its identity.",
+        "elements": [
+          "light",
+          "dream"
+        ],
+        "rarity": "Legendary",
+        "region": "Sky Kingdom",
+        "dragon_type": "Angel Dragon",
+        "body_type": "Draco",
+        "food": "Unknown",
+        "tradeable": false,
+        "breeding_tier": 0,
+        "forms": [
+          "default",
+          "intellectual",
+          "celestial"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "seraphim_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "seraphim_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "seraphim_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "seraphim_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "seraphim_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "seraphim_01_m_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "seraphim_02_f_adult_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "seraphim_02_f_hatch_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "seraphim_02_f_hatchling_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "seraphim_02_m_adult_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "seraphim_02_m_hatch_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "seraphim_02_m_hatchling_g"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "seraphim_03_f_adult_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "seraphim_03_f_hatch_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "seraphim_03_f_hatchling_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "seraphim_03_m_adult_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "seraphim_03_m_hatch_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "seraphim_03_m_hatchling_y"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Seraphim_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033803",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seraphim",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Seraphim_00_e_egg_w.png/revision/latest?cb=20240724022318"
+      },
+      "serpent_dragon": {
+        "name": "serpent dragon",
+        "egg_description": "This Egg consists of thin scales.",
+        "elements": [
+          "dark",
+          "water"
+        ],
+        "rarity": "Uncommon",
+        "region": "East Yutakan",
+        "dragon_type": "Snake Dragon",
+        "body_type": "Coatyl",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_hatchling_g"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Serpentdragon_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Serpent_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Serpentdragon_00_e_egg_g.png/revision/latest?cb=20240202225407"
+      },
+      "serpent_flower_dragon": {
+        "name": "serpent flower dragon",
+        "egg_description": "This Egg smells like flowers.",
+        "elements": [
+          "dark",
+          "earth"
+        ],
+        "rarity": "Epic",
+        "region": "East Yutakan",
+        "dragon_type": "Snake Dragon",
+        "body_type": "Coatyl",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "serpentdragon_01_m_hatchling_g"
+          }
+        ],
+        "special_actions": []
+      },
+      "shadow_dragon": {
+        "name": "shadow dragon",
+        "egg_description": "This Egg gives off a dark, shady aura.",
+        "elements": [
+          "dark"
+        ],
+        "rarity": "Uncommon",
+        "region": "East Yutakan",
+        "dragon_type": "Shadow Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "shadow_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "shadow_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "shadow_01_m_hatchling_bk"
+          }
+        ],
+        "special_actions": []
+      },
+      "shark_dragon": {
+        "name": "shark dragon",
+        "egg_description": "This Egg looks like a shark.",
+        "elements": [
+          "water"
+        ],
+        "rarity": "Epic",
+        "region": "East Yutakan",
+        "dragon_type": "Shark Dragon",
+        "body_type": "Wyvern",
+        "food": "Piremio",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "signature",
+          "blue shark",
+          "undead (default)",
+          "undead (signature)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "sharkgon_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "sharkgon_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "sharkgon_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "sharkgon_01_m_hatchling_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_02_f_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "sharkgon_02_m_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "sharkgon_03_f_adult_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "sharkgon_03_f_hatch_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "sharkgon_03_f_hatchling_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "sharkgon_03_m_adult_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "sharkgon_03_m_hatch_pb"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "sharkgon_03_m_hatchling_pb"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Sharkgon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shark_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/aa/Sharkgon_00_e_egg_b.png/revision/latest?cb=20240316020210"
+      },
+      "sharp_tail": {
+        "name": "sharp tail",
+        "egg_description": "This Egg is fierce.",
+        "elements": [
+          "earth"
+        ],
+        "rarity": "Rare",
+        "region": "West Yutakan",
+        "dragon_type": "Blade Dragon",
+        "body_type": "Draco",
+        "food": "Paopao Fruit",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "sharptail_01_f_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "sharptail_01_f_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "sharptail_01_f_hatchling_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "sharptail_01_m_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "sharptail_01_m_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "sharptail_01_m_hatchling_yr"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Sharptail_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sharp_Tail",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Sharptail_00_e_egg_yr.png/revision/latest?cb=20230919103643"
+      },
+      "shockwave": {
+        "name": "shockwave",
+        "egg_description": "This Egg leaves a trail.",
+        "elements": [
+          "wind",
+          "steel"
+        ],
+        "rarity": "Rare",
+        "region": "Special",
+        "dragon_type": "Speed Dragon",
+        "body_type": "Draco",
+        "food": "Whirl Flower",
+        "tradeable": false,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "azure's blue sky",
+          "azure's golden sunset",
+          "azure's crimson sunset",
+          "azure's starry sky",
+          "blue sky",
+          "golden sunset",
+          "crimson sunset",
+          "starry sky",
+          "undead (default)",
+          "undead (azure's blue sky)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_01_m_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_02_f_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_02_f_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_02_f_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_02_m_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_02_m_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_02_m_hatchling_w"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "shockwave_03_f_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "shockwave_03_f_hatch_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "shockwave_03_f_hatchling_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "shockwave_03_m_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "shockwave_03_m_hatch_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "shockwave_03_m_hatchling_b"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_04_f_adult_w"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_04_f_hatch_w"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_04_f_hatchling_w"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_04_m_adult_w"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_04_m_hatch_w"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_04_m_hatchling_w"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "shockwave_05_f_adult_bk"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "shockwave_05_f_hatch_bk"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "shockwave_05_f_hatchling_bk"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "shockwave_05_m_adult_bk"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "shockwave_05_m_hatch_bk"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "shockwave_05_m_hatchling_bk"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_06_f_adult_w"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_06_f_hatch_w"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_06_f_hatchling_w"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_06_m_adult_w"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_06_m_hatch_w"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_06_m_hatchling_w"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "shockwave_07_f_adult_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "shockwave_07_f_hatch_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "shockwave_07_f_hatchling_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "shockwave_07_m_adult_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "shockwave_07_m_hatch_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "shockwave_07_m_hatchling_b"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_08_f_adult_w"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_08_f_hatch_w"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_08_f_hatchling_w"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "shockwave_08_m_adult_w"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "shockwave_08_m_hatch_w"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "shockwave_08_m_hatchling_w"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "shockwave_09_f_adult_bk"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "shockwave_09_f_hatch_bk"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "shockwave_09_f_hatchling_bk"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "shockwave_09_m_adult_bk"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "shockwave_09_m_hatch_bk"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "shockwave_09_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a0/Shockwave_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shockwave",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/85/Shockwave_00_e_egg_w.png/revision/latest?cb=20240530022641"
+      }
     }
-  }
+  ]
 }

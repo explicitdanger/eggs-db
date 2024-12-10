@@ -1,679 +1,681 @@
 {
-  "dragons": {
-    "hekate": {
-      "name": "hekate",
-      "egg_description": "This Egg is covered with the hood of the moon.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Epic",
-      "region": "Deep Sea",
-      "dragon_type": "Chaperone Dragon",
-      "body_type": "Deep Sea",
-      "food": "Grape",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "hekate_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "hekate_01_f_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "hekate_01_f_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "hekate_01_m_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "hekate_01_m_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "hekate_01_m_hatchling_b"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/83/Hekate_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hekate",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Hekate_00_e_egg_b.png/revision/latest?cb=20240215020924"
-    },
-    "hela": {
-      "name": "hela",
-      "egg_description": "This Egg dominates souls.",
-      "elements": [
-        "steel",
-        "dark"
-      ],
-      "rarity": "Epic",
-      "region": "Special",
-      "dragon_type": "Soul Dragon",
-      "body_type": "Draco",
-      "food": "Soul",
-      "tradeable": false,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "conquerer",
-        "apocalypse",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "hela_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "hela_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "hela_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "hela_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "hela_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "hela_01_m_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "hela_02_f_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "hela_02_f_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "hela_02_f_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "hela_02_m_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "hela_02_m_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "hela_02_m_hatchling_w"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "y",
-          "path": "hela_03_f_adult_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "y",
-          "path": "hela_03_f_hatch_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "y",
-          "path": "hela_03_f_hatchling_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "y",
-          "path": "hela_03_m_adult_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "y",
-          "path": "hela_03_m_hatch_y"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "y",
-          "path": "hela_03_m_hatchling_y"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Hela_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hela",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Hela_00_e_egg_w.png/revision/latest?cb=20231013082828"
-    },
-    "hell_dragon": {
-      "name": "hell dragon",
-      "egg_description": "Don't stare at this Egg for too long.",
-      "elements": [
-        "fire",
-        "dark"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Demon Dragon",
-      "body_type": "Draco",
-      "food": "Chicken",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "hell_01_f_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "hell_01_f_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "hell_01_f_hatchling_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "hell_01_m_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "hell_01_m_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "hell_01_m_hatchling_r"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Hell_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hell_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6a/Hell_00_e_egg_r.png/revision/latest?cb=20240202221055"
-    },
-    "henes": {
-      "name": "henes",
-      "egg_description": "This Egg is wearing a mask.",
-      "elements": [
-        "dream",
-        "lightning"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Apostle Dragon",
-      "body_type": "Wyvern",
-      "food": "Haunted Pumpkin",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "henes_01_f_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "henes_01_f_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "henes_01_f_hatchling_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "henes_01_m_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "henes_01_m_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "henes_01_m_hatchling_bg"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Henes_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Henes",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/71/Henes_00_e_egg_bg.png/revision/latest?cb=20240202230153"
-    },
-    "hercules_dragon": {
-      "name": "hercules dragon",
-      "egg_description": "This Egg is surrounded by sturdy horns.",
-      "elements": [
-        "earth"
-      ],
-      "rarity": "Rare",
-      "region": "West Yutakan",
-      "dragon_type": "Insect Dragon",
-      "body_type": "Draco",
-      "food": "Jelly",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "chubby",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "herculesdragon_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "herculesdragon_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "herculesdragon_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "herculesdragon_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "herculesdragon_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "herculesdragon_01_m_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "herculesdragon_02_f_adult_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "herculesdragon_02_m_adult_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Herculesdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hercules_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Herculesdragon_00_e_egg_bk.png/revision/latest?cb=20230919102841"
-    },
-    "hourglass_dragon": {
-      "name": "hourglass dragon",
-      "egg_description": "This Egg measures time.",
-      "elements": [
-        "earth",
-        "wind"
-      ],
-      "rarity": "Rare",
-      "region": "West Yutakan",
-      "dragon_type": "Time Dragon",
-      "body_type": "Draco",
-      "food": "Yggdrasill",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "hourglassdragon_01_f_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "hourglassdragon_01_f_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "hourglassdragon_01_f_hatchling_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "hourglassdragon_01_m_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "hourglassdragon_01_m_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "hourglassdragon_01_m_hatchling_yr"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Hourglassdragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hourglass_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Hourglassdragon_00_e_egg_yr.png/revision/latest?cb=20230919101024"
-    },
-    "hungry_dragon": {
-      "name": "hungry dragon",
-      "egg_description": "This Egg smells delicious.",
-      "elements": [
-        "earth"
-      ],
-      "rarity": "Rare",
-      "region": "Deep Sea",
-      "dragon_type": "Gluttonous Dragon",
-      "body_type": "Draco",
-      "food": "Roast Turkey",
-      "tradeable": false,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "persion",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "hungrydragon_01_f_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "hungrydragon_01_f_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "hungrydragon_01_f_hatchling_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "hungrydragon_01_m_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "hungrydragon_01_m_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "hungrydragon_01_m_hatchling_yr"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "hungrydragon_02_f_adult_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "hungrydragon_02_f_hatch_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "hungrydragon_02_f_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "hungrydragon_02_m_adult_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "hungrydragon_02_m_hatch_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "hungrydragon_02_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/26/Hungrydragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419181438",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hungry_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/01/Hungrydragon_00_e_egg_yr.png/revision/latest?cb=20240418014856"
-    },
-    "hurricane_dragon": {
-      "name": "hurricane dragon",
-      "egg_description": "This Egg has wings of the wind.",
-      "elements": [
-        "wind"
-      ],
-      "rarity": "Epic",
-      "region": "East Yutakan",
-      "dragon_type": "Typhoon Dragon",
-      "body_type": "Draco",
-      "food": "Whirl Flower",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "hurricane_01_f_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "hurricane_01_f_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "hurricane_01_f_hatchling_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "hurricane_01_m_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "hurricane_01_m_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "hurricane_01_m_hatchling_bg"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/22/Hurricane_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hurricane_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Hurricane_00_e_egg_bg.png/revision/latest?cb=20230910102652"
+  "dragons": [
+    {
+      "hekate": {
+        "name": "hekate",
+        "egg_description": "This Egg is covered with the hood of the moon.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Epic",
+        "region": "Deep Sea",
+        "dragon_type": "Chaperone Dragon",
+        "body_type": "Deep Sea",
+        "food": "Grape",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "hekate_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "hekate_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "hekate_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "hekate_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "hekate_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "hekate_01_m_hatchling_b"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/83/Hekate_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hekate",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Hekate_00_e_egg_b.png/revision/latest?cb=20240215020924"
+      },
+      "hela": {
+        "name": "hela",
+        "egg_description": "This Egg dominates souls.",
+        "elements": [
+          "steel",
+          "dark"
+        ],
+        "rarity": "Epic",
+        "region": "Special",
+        "dragon_type": "Soul Dragon",
+        "body_type": "Draco",
+        "food": "Soul",
+        "tradeable": false,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "conquerer",
+          "apocalypse",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "hela_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "hela_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "hela_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "hela_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "hela_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "hela_01_m_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "hela_02_f_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "hela_02_f_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "hela_02_f_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "hela_02_m_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "hela_02_m_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "hela_02_m_hatchling_w"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "hela_03_f_adult_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "hela_03_f_hatch_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "hela_03_f_hatchling_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "hela_03_m_adult_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "hela_03_m_hatch_y"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "hela_03_m_hatchling_y"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Hela_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hela",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Hela_00_e_egg_w.png/revision/latest?cb=20231013082828"
+      },
+      "hell_dragon": {
+        "name": "hell dragon",
+        "egg_description": "Don't stare at this Egg for too long.",
+        "elements": [
+          "fire",
+          "dark"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Demon Dragon",
+        "body_type": "Draco",
+        "food": "Chicken",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "hell_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "hell_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "hell_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "hell_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "hell_01_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "hell_01_m_hatchling_r"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Hell_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hell_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6a/Hell_00_e_egg_r.png/revision/latest?cb=20240202221055"
+      },
+      "henes": {
+        "name": "henes",
+        "egg_description": "This Egg is wearing a mask.",
+        "elements": [
+          "dream",
+          "lightning"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Apostle Dragon",
+        "body_type": "Wyvern",
+        "food": "Haunted Pumpkin",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "henes_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "henes_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "henes_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "henes_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "henes_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "henes_01_m_hatchling_bg"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Henes_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Henes",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/71/Henes_00_e_egg_bg.png/revision/latest?cb=20240202230153"
+      },
+      "hercules_dragon": {
+        "name": "hercules dragon",
+        "egg_description": "This Egg is surrounded by sturdy horns.",
+        "elements": [
+          "earth"
+        ],
+        "rarity": "Rare",
+        "region": "West Yutakan",
+        "dragon_type": "Insect Dragon",
+        "body_type": "Draco",
+        "food": "Jelly",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "chubby",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "herculesdragon_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "herculesdragon_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "herculesdragon_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "herculesdragon_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "herculesdragon_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "herculesdragon_01_m_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "herculesdragon_02_f_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "herculesdragon_02_m_adult_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Herculesdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hercules_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Herculesdragon_00_e_egg_bk.png/revision/latest?cb=20230919102841"
+      },
+      "hourglass_dragon": {
+        "name": "hourglass dragon",
+        "egg_description": "This Egg measures time.",
+        "elements": [
+          "earth",
+          "wind"
+        ],
+        "rarity": "Rare",
+        "region": "West Yutakan",
+        "dragon_type": "Time Dragon",
+        "body_type": "Draco",
+        "food": "Yggdrasill",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "hourglassdragon_01_f_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "hourglassdragon_01_f_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "hourglassdragon_01_f_hatchling_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "hourglassdragon_01_m_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "hourglassdragon_01_m_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "hourglassdragon_01_m_hatchling_yr"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Hourglassdragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hourglass_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Hourglassdragon_00_e_egg_yr.png/revision/latest?cb=20230919101024"
+      },
+      "hungry_dragon": {
+        "name": "hungry dragon",
+        "egg_description": "This Egg smells delicious.",
+        "elements": [
+          "earth"
+        ],
+        "rarity": "Rare",
+        "region": "Deep Sea",
+        "dragon_type": "Gluttonous Dragon",
+        "body_type": "Draco",
+        "food": "Roast Turkey",
+        "tradeable": false,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "persion",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "hungrydragon_01_f_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "hungrydragon_01_f_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "hungrydragon_01_f_hatchling_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "hungrydragon_01_m_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "hungrydragon_01_m_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "hungrydragon_01_m_hatchling_yr"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "hungrydragon_02_f_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "hungrydragon_02_f_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "hungrydragon_02_f_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "hungrydragon_02_m_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "hungrydragon_02_m_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "hungrydragon_02_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/26/Hungrydragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419181438",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hungry_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/01/Hungrydragon_00_e_egg_yr.png/revision/latest?cb=20240418014856"
+      },
+      "hurricane_dragon": {
+        "name": "hurricane dragon",
+        "egg_description": "This Egg has wings of the wind.",
+        "elements": [
+          "wind"
+        ],
+        "rarity": "Epic",
+        "region": "East Yutakan",
+        "dragon_type": "Typhoon Dragon",
+        "body_type": "Draco",
+        "food": "Whirl Flower",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "hurricane_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "hurricane_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "hurricane_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "hurricane_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "hurricane_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "hurricane_01_m_hatchling_bg"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/22/Hurricane_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hurricane_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Hurricane_00_e_egg_bg.png/revision/latest?cb=20230910102652"
+      }
     }
-  }
+  ]
 }

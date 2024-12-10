@@ -1,528 +1,530 @@
 {
-  "dragons": {
-    "diyona": {
-      "name": "diyona",
-      "egg_description": "This Egg has gold feathers.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Common",
-      "region": "West Yutakan",
-      "dragon_type": "Blessing Dragon",
-      "body_type": "Draco",
-      "food": "Grape",
-      "tradeable": false,
-      "breeding_tier": 4,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "y",
-          "path": "diyona_01_f_adult_y"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "y",
-          "path": "diyona_01_f_hatch_y"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "y",
-          "path": "diyona_01_f_hatchling_y"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "y",
-          "path": "diyona_01_m_adult_y"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "y",
-          "path": "diyona_01_m_hatch_y"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "y",
-          "path": "diyona_01_m_hatchling_y"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Diyona_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Diyona",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/19/Diyona_00_e_egg_y.png/revision/latest?cb=20231020170214"
-    },
-    "dragon_slayer": {
-      "name": "dragon slayer",
-      "egg_description": "This Egg was forgotten by everyone.",
-      "elements": [
-        "dark"
-      ],
-      "rarity": "Legendary",
-      "region": "Sky Kingdom",
-      "dragon_type": "Ancient Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 0,
-      "forms": [
-        "default",
-        "frenzied"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "dragonslayer_01_f_adult_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "dragonslayer_01_f_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "dragonslayer_01_f_hatchling_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "dragonslayer_01_m_adult_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "dragonslayer_01_m_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "dragonslayer_01_m_hatchling_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "dragonslayer_02_f_adult_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "dragonslayer_02_f_hatch_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "dragonslayer_02_f_hatchling_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "dragonslayer_02_m_adult_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "dragonslayer_02_m_hatch_p"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "dragonslayer_02_m_hatchling_p"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/49/Dragonslayer_02_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240829010122",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragon_Slayer",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Dragonslayer_00_e_egg_p.png/revision/latest?cb=20240829003737"
-    },
-    "dragonoid": {
-      "name": "dragonoid",
-      "egg_description": "This Egg consists of solid steel.",
-      "elements": [
-        "lightning"
-      ],
-      "rarity": "Uncommon",
-      "region": "West Yutakan",
-      "dragon_type": "Robot Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "dragonoid_01_f_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "dragonoid_01_f_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "dragonoid_01_f_hatchling_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "dragonoid_01_m_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "dragonoid_01_m_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "dragonoid_01_m_hatchling_bg"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Dragonoid_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragonoid",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a7/Dragonoid_00_e_egg_bg.png/revision/latest?cb=20230919100451"
-    },
-    "dragonoid_soul": {
-      "name": "dragonoid soul",
-      "egg_description": "This Egg is made of steel infused with souls.",
-      "elements": [
-        "steel"
-      ],
-      "rarity": "Epic",
-      "region": "West Yutakan",
-      "dragon_type": "Robot Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "dragonoidsoul_01_f_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "dragonoidsoul_01_f_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "dragonoidsoul_01_f_hatchling_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "dragonoidsoul_01_m_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "dragonoidsoul_01_m_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "dragonoidsoul_01_m_hatchling_bg"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Dragonoidsoul_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragonoid_Soul",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Dragonoidsoul_00_e_egg_bg.png/revision/latest?cb=20230919100524"
-    },
-    "dragons": {
-      "name": "dragons",
-      "egg_description": "",
-      "elements": [],
-      "rarity": "",
-      "region": "",
-      "dragon_type": "",
-      "body_type": "",
-      "food": "",
-      "tradeable": false,
-      "breeding_tier": null,
-      "forms": [
-        "default"
-      ],
-      "assets": {
-        "sprites": {}
+  "dragons": [
+    {
+      "diyona": {
+        "name": "diyona",
+        "egg_description": "This Egg has gold feathers.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Common",
+        "region": "West Yutakan",
+        "dragon_type": "Blessing Dragon",
+        "body_type": "Draco",
+        "food": "Grape",
+        "tradeable": false,
+        "breeding_tier": 4,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "diyona_01_f_adult_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "diyona_01_f_hatch_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "diyona_01_f_hatchling_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "y",
+            "path": "diyona_01_m_adult_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "y",
+            "path": "diyona_01_m_hatch_y"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "y",
+            "path": "diyona_01_m_hatchling_y"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Diyona_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Diyona",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/19/Diyona_00_e_egg_y.png/revision/latest?cb=20231020170214"
       },
-      "special_actions": []
-    },
-    "dream_water_dragon": {
-      "name": "dream water dragon",
-      "egg_description": "This Egg flickers.",
-      "elements": [
-        "dream"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Water Dragon",
-      "body_type": "Draco",
-      "food": "Scallop",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "dreamwaterdragon_01_f_adult_p"
+      "dragon_slayer": {
+        "name": "dragon slayer",
+        "egg_description": "This Egg was forgotten by everyone.",
+        "elements": [
+          "dark"
+        ],
+        "rarity": "Legendary",
+        "region": "Sky Kingdom",
+        "dragon_type": "Ancient Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 0,
+        "forms": [
+          "default",
+          "frenzied"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "dragonslayer_01_f_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "dragonslayer_01_f_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "dragonslayer_01_f_hatchling_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "dragonslayer_01_m_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "dragonslayer_01_m_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "dragonslayer_01_m_hatchling_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "dragonslayer_02_f_adult_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "dragonslayer_02_f_hatch_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "dragonslayer_02_f_hatchling_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "dragonslayer_02_m_adult_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "dragonslayer_02_m_hatch_p"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "dragonslayer_02_m_hatchling_p"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/49/Dragonslayer_02_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240829010122",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragon_Slayer",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Dragonslayer_00_e_egg_p.png/revision/latest?cb=20240829003737"
+      },
+      "dragonoid": {
+        "name": "dragonoid",
+        "egg_description": "This Egg consists of solid steel.",
+        "elements": [
+          "lightning"
+        ],
+        "rarity": "Uncommon",
+        "region": "West Yutakan",
+        "dragon_type": "Robot Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "dragonoid_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "dragonoid_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "dragonoid_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "dragonoid_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "dragonoid_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "dragonoid_01_m_hatchling_bg"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Dragonoid_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragonoid",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a7/Dragonoid_00_e_egg_bg.png/revision/latest?cb=20230919100451"
+      },
+      "dragonoid_soul": {
+        "name": "dragonoid soul",
+        "egg_description": "This Egg is made of steel infused with souls.",
+        "elements": [
+          "steel"
+        ],
+        "rarity": "Epic",
+        "region": "West Yutakan",
+        "dragon_type": "Robot Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "dragonoidsoul_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "dragonoidsoul_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "dragonoidsoul_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "dragonoidsoul_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "dragonoidsoul_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "dragonoidsoul_01_m_hatchling_bg"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Dragonoidsoul_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragonoid_Soul",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Dragonoidsoul_00_e_egg_bg.png/revision/latest?cb=20230919100524"
+      },
+      "dragons": {
+        "name": "dragons",
+        "egg_description": "",
+        "elements": [],
+        "rarity": "",
+        "region": "",
+        "dragon_type": "",
+        "body_type": "",
+        "food": "",
+        "tradeable": false,
+        "breeding_tier": null,
+        "forms": [
+          "default"
+        ],
+        "assets": {
+          "sprites": {}
         },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "dreamwaterdragon_01_f_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "dreamwaterdragon_01_f_hatchling_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "dreamwaterdragon_01_m_adult_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "dreamwaterdragon_01_m_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "dreamwaterdragon_01_m_hatchling_p"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8e/Dreamwaterdragon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dream_Water_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/43/Dreamwaterdragon_00_e_egg_p.png/revision/latest?cb=20240203000339"
-    },
-    "dreamer_obex": {
-      "name": "dreamer obex",
-      "egg_description": "This Egg wants to create a world of imagination.",
-      "elements": [
-        "light",
-        "steel"
-      ],
-      "rarity": "Epic",
-      "region": "Special",
-      "dragon_type": "Area Dragon",
-      "body_type": "Draco",
-      "food": "Melon",
-      "tradeable": false,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "rp",
-          "path": "dreamerobex_01_f_adult_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "rp",
-          "path": "dreamerobex_01_f_hatch_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "rp",
-          "path": "dreamerobex_01_f_hatchling_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "rp",
-          "path": "dreamerobex_01_m_adult_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "rp",
-          "path": "dreamerobex_01_m_hatch_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "rp",
-          "path": "dreamerobex_01_m_hatchling_rp"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ab/Dreamerobex_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dreamer_Obex",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8c/Dreamerobex_00_e_egg_rp.png/revision/latest?cb=20231129050227"
-    },
-    "dumbo_blue_dragon": {
-      "name": "dumbo blue dragon",
-      "egg_description": "This Egg has a toy arrowhead on it.",
-      "elements": [
-        "wind",
-        "lightning"
-      ],
-      "rarity": "Rare",
-      "region": "Special",
-      "dragon_type": "Reaper Dragon",
-      "body_type": "Asian",
-      "food": "Yggdrasill",
-      "tradeable": false,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "dummbbluedragon_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "dummbbluedragon_01_f_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "dummbbluedragon_01_f_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "dummbbluedragon_01_m_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "dummbbluedragon_01_m_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "dummbbluedragon_01_m_hatch_b"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7e/Dummbbluedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172217",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dumbo_Blue_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Dummbbluedragon_00_e_egg_b.png/revision/latest?cb=20240328013908"
+        "special_actions": []
+      },
+      "dream_water_dragon": {
+        "name": "dream water dragon",
+        "egg_description": "This Egg flickers.",
+        "elements": [
+          "dream"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Water Dragon",
+        "body_type": "Draco",
+        "food": "Scallop",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "dreamwaterdragon_01_f_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "dreamwaterdragon_01_f_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "dreamwaterdragon_01_f_hatchling_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "dreamwaterdragon_01_m_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "dreamwaterdragon_01_m_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "dreamwaterdragon_01_m_hatchling_p"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8e/Dreamwaterdragon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dream_Water_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/43/Dreamwaterdragon_00_e_egg_p.png/revision/latest?cb=20240203000339"
+      },
+      "dreamer_obex": {
+        "name": "dreamer obex",
+        "egg_description": "This Egg wants to create a world of imagination.",
+        "elements": [
+          "light",
+          "steel"
+        ],
+        "rarity": "Epic",
+        "region": "Special",
+        "dragon_type": "Area Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": false,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "dreamerobex_01_f_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "dreamerobex_01_f_hatch_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "rp",
+            "path": "dreamerobex_01_f_hatchling_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "dreamerobex_01_m_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "dreamerobex_01_m_hatch_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "rp",
+            "path": "dreamerobex_01_m_hatchling_rp"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ab/Dreamerobex_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dreamer_Obex",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8c/Dreamerobex_00_e_egg_rp.png/revision/latest?cb=20231129050227"
+      },
+      "dumbo_blue_dragon": {
+        "name": "dumbo blue dragon",
+        "egg_description": "This Egg has a toy arrowhead on it.",
+        "elements": [
+          "wind",
+          "lightning"
+        ],
+        "rarity": "Rare",
+        "region": "Special",
+        "dragon_type": "Reaper Dragon",
+        "body_type": "Asian",
+        "food": "Yggdrasill",
+        "tradeable": false,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_m_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "dummbbluedragon_01_m_hatch_b"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7e/Dummbbluedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172217",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dumbo_Blue_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Dummbbluedragon_00_e_egg_b.png/revision/latest?cb=20240328013908"
+      }
     }
-  }
+  ]
 }

@@ -1,579 +1,581 @@
 {
-  "dragons": {
-    "augus": {
-      "name": "augus",
-      "egg_description": "These Egg are covered with hard greenish Light.",
-      "elements": [
-        "earth"
-      ],
-      "rarity": "Uncommon",
-      "region": "Deep Sea",
-      "dragon_type": "Strength Dragon",
-      "body_type": "Drake",
-      "food": "Meggison",
-      "tradeable": false,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "augus_01_f_adult_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "augus_01_f_hatch_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "augus_01_f_hatchling_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "augus_01_m_adult_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "g",
-          "path": "augus_01_m_hatch_g"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "g",
-          "path": "augus_01_m_hatchling_g"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Augus_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Augus",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Augus_00_e_egg_g.png/revision/latest?cb=20240509005224"
-    },
-    "aurelia": {
-      "name": "aurelia",
-      "egg_description": "This Egg resembles a jellyfish.",
-      "elements": [
-        "water",
-        "light"
-      ],
-      "rarity": "Epic",
-      "region": "Deep Sea",
-      "dragon_type": "Jellyfish Dragon",
-      "body_type": "Deep Sea",
-      "food": "Plankton",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "aurelia_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "aurelia_01_f_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "aurelia_01_f_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "aurelia_01_m_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "aurelia_01_m_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "aurelia_01_m_hatchling_b"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Aurelia_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419190312",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Aurelia",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4f/Aurelia_00_e_egg_b.png/revision/latest?cb=20240418014856"
-    },
-    "auros": {
-      "name": "auros",
-      "egg_description": "This Egg shines with a beautiful red hue.",
-      "elements": [
-        "wind"
-      ],
-      "rarity": "Epic",
-      "region": "Deep Sea",
-      "dragon_type": "Fish Dragon",
-      "body_type": "Wyrm",
-      "food": "Haunted Pumpkin",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "auros_01_f_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "auros_01_f_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "auros_01_f_hatchling_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "auros_01_m_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "auros_01_m_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "auros_01_m_hatchling_r"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Auros_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417062114",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Auros",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/20/Auros_00_e_egg_r.png/revision/latest?cb=20240314024707"
-    },
-    "avernale": {
-      "name": "avernale",
-      "egg_description": "This Egg shines in dark places.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Epic",
-      "region": "Special",
-      "dragon_type": "Light Dragon",
-      "body_type": "Draco",
-      "food": "Melon",
-      "tradeable": false,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "glowing breath",
-        "undead (default)",
-        "undead (glowing breath)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "avernale_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "avernale_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "avernale_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "avernale_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "avernale_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "avernale_01_m_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "avernale_02_f_adult_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "avernale_02_f_hatch_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "avernale_02_f_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "avernale_02_m_adult_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "avernale_02_m_hatch_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "avernale_02_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Avernale_02_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419185940",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Avernale",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Avernale_00_e_egg_bk.png/revision/latest?cb=20240418014856"
-    },
-    "azak": {
-      "name": "azak",
-      "egg_description": "This Egg has large pincers.",
-      "elements": [
-        "dark",
-        "steel"
-      ],
-      "rarity": "Legendary",
-      "region": "East Yutakan",
-      "dragon_type": "Hextech Dragon",
-      "body_type": "Draco",
-      "food": "Mana",
-      "tradeable": true,
-      "breeding_tier": 0,
-      "forms": [
-        "default",
-        "underground castle"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "azak_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "azak_01_m_adult_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "azak_02_f_adult_g"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "g",
-          "path": "azak_02_m_adult_g"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Azak_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171858",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Azak",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Azak_00_e_egg_b.png/revision/latest?cb=20240202235422"
-    },
-    "baal": {
-      "name": "baal",
-      "egg_description": "This Egg has fins.",
-      "elements": [
-        "dark",
-        "lightning"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Blackness Dragon",
-      "body_type": "Drake",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "baal_01_f_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "baal_01_f_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "baal_01_f_hatchling_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "baal_01_m_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "baal_01_m_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "baal_01_m_hatchling_pb"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Baal_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171859",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baal",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3b/Baal_00_e_egg_pb.png/revision/latest?cb=20240202225416"
-    },
-    "baba": {
-      "name": "baba",
-      "egg_description": "This Egg uses its antennae to search for food.",
-      "elements": [
-        "water"
-      ],
-      "rarity": "Epic",
-      "region": "Special",
-      "dragon_type": "Animal Dragon",
-      "body_type": "Deep Sea",
-      "food": "Piremio",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "sea rabbit",
-        "undead (default)",
-        "undead (sea rabbit)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "baba_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "baba_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "baba_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "baba_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "baba_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "baba_01_m_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "baba_02_f_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "baba_02_f_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "baba_02_f_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "baba_02_m_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "baba_02_m_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "baba_02_m_hatchling_w"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/32/Baba_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240718021354",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baba",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Baba_00_e_egg_w.png/revision/latest?cb=20240718005926"
-    },
-    "baby_darknix": {
-      "name": "baby darknix",
-      "egg_description": "This Egg follows the dark with its eyes.",
-      "elements": [
-        "dark"
-      ],
-      "rarity": "Legendary",
-      "region": "Special",
-      "dragon_type": "Baby Dragon",
-      "body_type": "Draco",
-      "food": "Dark Melon",
-      "tradeable": false,
-      "breeding_tier": 0,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "babydarknix_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "babydarknix_01_m_adult_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/14/Babydarknix_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240706201135",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baby_Darknix",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3f/Babydarknix_00_e_egg_bk.png/revision/latest?cb=20240704005456"
+  "dragons": [
+    {
+      "augus": {
+        "name": "augus",
+        "egg_description": "These Egg are covered with hard greenish Light.",
+        "elements": [
+          "earth"
+        ],
+        "rarity": "Uncommon",
+        "region": "Deep Sea",
+        "dragon_type": "Strength Dragon",
+        "body_type": "Drake",
+        "food": "Meggison",
+        "tradeable": false,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "augus_01_f_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "augus_01_f_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "augus_01_f_hatchling_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "augus_01_m_adult_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "g",
+            "path": "augus_01_m_hatch_g"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "g",
+            "path": "augus_01_m_hatchling_g"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Augus_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Augus",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Augus_00_e_egg_g.png/revision/latest?cb=20240509005224"
+      },
+      "aurelia": {
+        "name": "aurelia",
+        "egg_description": "This Egg resembles a jellyfish.",
+        "elements": [
+          "water",
+          "light"
+        ],
+        "rarity": "Epic",
+        "region": "Deep Sea",
+        "dragon_type": "Jellyfish Dragon",
+        "body_type": "Deep Sea",
+        "food": "Plankton",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "aurelia_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "aurelia_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "aurelia_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "aurelia_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "aurelia_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "aurelia_01_m_hatchling_b"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Aurelia_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419190312",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Aurelia",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4f/Aurelia_00_e_egg_b.png/revision/latest?cb=20240418014856"
+      },
+      "auros": {
+        "name": "auros",
+        "egg_description": "This Egg shines with a beautiful red hue.",
+        "elements": [
+          "wind"
+        ],
+        "rarity": "Epic",
+        "region": "Deep Sea",
+        "dragon_type": "Fish Dragon",
+        "body_type": "Wyrm",
+        "food": "Haunted Pumpkin",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "auros_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "auros_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "auros_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "auros_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "auros_01_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "auros_01_m_hatchling_r"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Auros_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417062114",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Auros",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/20/Auros_00_e_egg_r.png/revision/latest?cb=20240314024707"
+      },
+      "avernale": {
+        "name": "avernale",
+        "egg_description": "This Egg shines in dark places.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Epic",
+        "region": "Special",
+        "dragon_type": "Light Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": false,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "glowing breath",
+          "undead (default)",
+          "undead (glowing breath)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "avernale_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "avernale_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "avernale_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "avernale_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "avernale_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "avernale_01_m_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "avernale_02_f_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "avernale_02_f_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "avernale_02_f_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "avernale_02_m_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "avernale_02_m_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "avernale_02_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Avernale_02_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419185940",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Avernale",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Avernale_00_e_egg_bk.png/revision/latest?cb=20240418014856"
+      },
+      "azak": {
+        "name": "azak",
+        "egg_description": "This Egg has large pincers.",
+        "elements": [
+          "dark",
+          "steel"
+        ],
+        "rarity": "Legendary",
+        "region": "East Yutakan",
+        "dragon_type": "Hextech Dragon",
+        "body_type": "Draco",
+        "food": "Mana",
+        "tradeable": true,
+        "breeding_tier": 0,
+        "forms": [
+          "default",
+          "underground castle"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "azak_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "azak_01_m_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "azak_02_f_adult_g"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "g",
+            "path": "azak_02_m_adult_g"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Azak_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171858",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Azak",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Azak_00_e_egg_b.png/revision/latest?cb=20240202235422"
+      },
+      "baal": {
+        "name": "baal",
+        "egg_description": "This Egg has fins.",
+        "elements": [
+          "dark",
+          "lightning"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Blackness Dragon",
+        "body_type": "Drake",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "baal_01_f_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "baal_01_f_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "baal_01_f_hatchling_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "baal_01_m_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "baal_01_m_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "baal_01_m_hatchling_pb"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Baal_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171859",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baal",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3b/Baal_00_e_egg_pb.png/revision/latest?cb=20240202225416"
+      },
+      "baba": {
+        "name": "baba",
+        "egg_description": "This Egg uses its antennae to search for food.",
+        "elements": [
+          "water"
+        ],
+        "rarity": "Epic",
+        "region": "Special",
+        "dragon_type": "Animal Dragon",
+        "body_type": "Deep Sea",
+        "food": "Piremio",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "sea rabbit",
+          "undead (default)",
+          "undead (sea rabbit)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "baba_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "baba_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "baba_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "baba_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "baba_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "baba_01_m_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "baba_02_f_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "baba_02_f_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "baba_02_f_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "baba_02_m_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "baba_02_m_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "baba_02_m_hatchling_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/32/Baba_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240718021354",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baba",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Baba_00_e_egg_w.png/revision/latest?cb=20240718005926"
+      },
+      "baby_darknix": {
+        "name": "baby darknix",
+        "egg_description": "This Egg follows the dark with its eyes.",
+        "elements": [
+          "dark"
+        ],
+        "rarity": "Legendary",
+        "region": "Special",
+        "dragon_type": "Baby Dragon",
+        "body_type": "Draco",
+        "food": "Dark Melon",
+        "tradeable": false,
+        "breeding_tier": 0,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "babydarknix_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "babydarknix_01_m_adult_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/14/Babydarknix_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240706201135",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baby_Darknix",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3f/Babydarknix_00_e_egg_bk.png/revision/latest?cb=20240704005456"
+      }
     }
-  }
+  ]
 }

@@ -1,696 +1,698 @@
 {
-  "dragons": {
-    "rock_dragon": {
-      "name": "rock dragon",
-      "egg_description": "A pickax is needed to collect this Egg.",
-      "elements": [
-        "earth"
-      ],
-      "rarity": "Common",
-      "region": "East Yutakan",
-      "dragon_type": "Rock Dragon",
-      "body_type": "Draco",
-      "food": "Ore",
-      "tradeable": true,
-      "breeding_tier": 4,
-      "forms": [
-        "default",
-        "stone ore",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rock_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rock_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rock_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rock_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rock_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rock_01_m_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "rock_02_f_adult_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "rock_02_f_hatch_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "rock_02_f_hatchling_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "rock_02_m_adult_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "rock_02_m_hatch_pb"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "rock_02_m_hatchling_pb"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ce/Rock_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rock_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Rock_00_e_egg_bk.png/revision/latest?cb=20240202224157"
-    },
-    "rose_gold_dragon": {
-      "name": "rose gold dragon",
-      "egg_description": "This Egg is made of rose gold.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Gold Dragon",
-      "body_type": "Draco",
-      "food": "Paopao Fruit",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "rp",
-          "path": "rosegold_01_f_adult_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "rp",
-          "path": "rosegold_01_f_hatch_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "rp",
-          "path": "rosegold_01_f_hatchling_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "rp",
-          "path": "rosegold_01_m_adult_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "rp",
-          "path": "rosegold_01_m_hatch_rp"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "rp",
-          "path": "rosegold_01_m_hatchling_rp"
-        }
-      ],
-      "special_actions": []
-    },
-    "rude_ore_dragon": {
-      "name": "rude ore dragon",
-      "egg_description": "This Egg has shiny shards on its shell.",
-      "elements": [
-        "dream"
-      ],
-      "rarity": "Legendary",
-      "region": "Special",
-      "dragon_type": "Ore Dragon",
-      "body_type": "Draco",
-      "food": "Ore",
-      "tradeable": false,
-      "breeding_tier": 0,
-      "forms": [
-        "default",
-        "god's ore",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_01_m_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_02_f_adult_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_02_f_hatch_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_02_f_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_02_m_adult_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_02_m_hatch_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_02_m_hatchling_bk"
-        },
-        {
-          "form_number": "legacy01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_legacy01_f_adult_bk"
-        },
-        {
-          "form_number": "legacy01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_legacy01_f_hatch_bk"
-        },
-        {
-          "form_number": "legacy01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_legacy01_f_hatchling_bk"
-        },
-        {
-          "form_number": "legacy01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_legacy01_m_adult_bk"
-        },
-        {
-          "form_number": "legacy01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_legacy01_m_hatch_bk"
-        },
-        {
-          "form_number": "legacy01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_legacy01_m_hatchling_bk"
-        },
-        {
-          "form_number": "legacy02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_legacy02_f_adult_bk"
-        },
-        {
-          "form_number": "legacy02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_legacy02_f_hatch_bk"
-        },
-        {
-          "form_number": "legacy02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_legacy02_f_hatchling_bk"
-        },
-        {
-          "form_number": "legacy02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rudeore_legacy02_m_adult_bk"
-        },
-        {
-          "form_number": "legacy02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rudeore_legacy02_m_hatch_bk"
-        },
-        {
-          "form_number": "legacy02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rudeore_legacy02_m_hatchling_bk"
-        }
-      ],
-      "special_actions": []
-    },
-    "rudra": {
-      "name": "rudra",
-      "egg_description": "This egg creates gusts of wind.",
-      "elements": [
-        "wind"
-      ],
-      "rarity": "Epic",
-      "region": "Sky Kingdom",
-      "dragon_type": "Wind Dragon",
-      "body_type": "Draco",
-      "food": "Yggdrasill",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "rudra_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "rudra_01_f_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "rudra_01_f_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "rudra_01_m_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "rudra_01_m_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "rudra_01_m_hatchling_b"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/51/Rudra_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rudra",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/25/Rudra_00_e_egg_b.png/revision/latest?cb=20240724022317"
-    },
-    "rugar": {
-      "name": "rugar",
-      "egg_description": "This Egg flickers with green flames.",
-      "elements": [
-        "fire"
-      ],
-      "rarity": "Epic",
-      "region": "West Yutakan",
-      "dragon_type": "Dark Dragon",
-      "body_type": "Draco",
-      "food": "Soul",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "rugar_01_f_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "rugar_01_f_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "rugar_01_f_hatchling_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "rugar_01_m_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "rugar_01_m_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "rugar_01_m_hatchling_pb"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/62/Rugar_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rugar",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b1/Rugar_00_e_egg_pb.png/revision/latest?cb=20230919100722"
-    },
-    "rukbat": {
-      "name": "rukbat",
-      "egg_description": "This Egg contains a galaxy.",
-      "elements": [
-        "dream"
-      ],
-      "rarity": "Rare",
-      "region": "Sky Kingdom",
-      "dragon_type": "Constellation Dragon",
-      "body_type": "Drake",
-      "food": "Starfruit",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "rukbat_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "rukbat_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "rukbat_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "rukbat_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "rukbat_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "rukbat_01_m_hatchling_w"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Rukbat_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rukbat",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Rukbat_00_e_egg_w.png/revision/latest?cb=20240724022317"
-    },
-    "rupia": {
-      "name": "rupia",
-      "egg_description": "This Egg is protected by sea creatures.",
-      "elements": [
-        "water"
-      ],
-      "rarity": "Epic",
-      "region": "East Yutakan",
-      "dragon_type": "Sea Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rupia_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rupia_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rupia_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rupia_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rupia_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rupia_01_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3f/Rupia_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rupia",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b8/Rupia_00_e_egg_bk.png/revision/latest?cb=20240202230214"
-    },
-    "rupo": {
-      "name": "rupo",
-      "egg_description": "This Egg has steel horns.",
-      "elements": [
-        "dark"
-      ],
-      "rarity": "Epic",
-      "region": "East Yutakan",
-      "dragon_type": "Mystery Dragon",
-      "body_type": "Draco",
-      "food": "Dark Melon",
-      "tradeable": false,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "rupo_01_f_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "rupo_01_f_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "rupo_01_f_hatchling_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "rupo_01_m_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "rupo_01_m_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "rupo_01_m_hatchling_pb"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d7/Rupo_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rupo",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0c/Rupo_00_e_egg_pb.png/revision/latest?cb=20240202234403"
+  "dragons": [
+    {
+      "rock_dragon": {
+        "name": "rock dragon",
+        "egg_description": "A pickax is needed to collect this Egg.",
+        "elements": [
+          "earth"
+        ],
+        "rarity": "Common",
+        "region": "East Yutakan",
+        "dragon_type": "Rock Dragon",
+        "body_type": "Draco",
+        "food": "Ore",
+        "tradeable": true,
+        "breeding_tier": 4,
+        "forms": [
+          "default",
+          "stone ore",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rock_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rock_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rock_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rock_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rock_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rock_01_m_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "rock_02_f_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "rock_02_f_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "rock_02_f_hatchling_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "rock_02_m_adult_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "rock_02_m_hatch_pb"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "rock_02_m_hatchling_pb"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ce/Rock_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rock_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Rock_00_e_egg_bk.png/revision/latest?cb=20240202224157"
+      },
+      "rose_gold_dragon": {
+        "name": "rose gold dragon",
+        "egg_description": "This Egg is made of rose gold.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Gold Dragon",
+        "body_type": "Draco",
+        "food": "Paopao Fruit",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "rosegold_01_f_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "rosegold_01_f_hatch_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "rp",
+            "path": "rosegold_01_f_hatchling_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "rp",
+            "path": "rosegold_01_m_adult_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "rp",
+            "path": "rosegold_01_m_hatch_rp"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "rp",
+            "path": "rosegold_01_m_hatchling_rp"
+          }
+        ],
+        "special_actions": []
+      },
+      "rude_ore_dragon": {
+        "name": "rude ore dragon",
+        "egg_description": "This Egg has shiny shards on its shell.",
+        "elements": [
+          "dream"
+        ],
+        "rarity": "Legendary",
+        "region": "Special",
+        "dragon_type": "Ore Dragon",
+        "body_type": "Draco",
+        "food": "Ore",
+        "tradeable": false,
+        "breeding_tier": 0,
+        "forms": [
+          "default",
+          "god's ore",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_01_m_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_02_f_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_02_f_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_02_f_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_02_m_adult_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_02_m_hatch_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_02_m_hatchling_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_f_adult_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_f_hatch_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_f_hatchling_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_m_adult_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_m_hatch_bk"
+          },
+          {
+            "form_number": "legacy01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_legacy01_m_hatchling_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_f_adult_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_f_hatch_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_f_hatchling_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_m_adult_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_m_hatch_bk"
+          },
+          {
+            "form_number": "legacy02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rudeore_legacy02_m_hatchling_bk"
+          }
+        ],
+        "special_actions": []
+      },
+      "rudra": {
+        "name": "rudra",
+        "egg_description": "This egg creates gusts of wind.",
+        "elements": [
+          "wind"
+        ],
+        "rarity": "Epic",
+        "region": "Sky Kingdom",
+        "dragon_type": "Wind Dragon",
+        "body_type": "Draco",
+        "food": "Yggdrasill",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "rudra_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "rudra_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "rudra_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "rudra_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "rudra_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "rudra_01_m_hatchling_b"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/51/Rudra_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rudra",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/25/Rudra_00_e_egg_b.png/revision/latest?cb=20240724022317"
+      },
+      "rugar": {
+        "name": "rugar",
+        "egg_description": "This Egg flickers with green flames.",
+        "elements": [
+          "fire"
+        ],
+        "rarity": "Epic",
+        "region": "West Yutakan",
+        "dragon_type": "Dark Dragon",
+        "body_type": "Draco",
+        "food": "Soul",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "rugar_01_f_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "rugar_01_f_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "rugar_01_f_hatchling_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "rugar_01_m_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "rugar_01_m_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "rugar_01_m_hatchling_pb"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/62/Rugar_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rugar",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b1/Rugar_00_e_egg_pb.png/revision/latest?cb=20230919100722"
+      },
+      "rukbat": {
+        "name": "rukbat",
+        "egg_description": "This Egg contains a galaxy.",
+        "elements": [
+          "dream"
+        ],
+        "rarity": "Rare",
+        "region": "Sky Kingdom",
+        "dragon_type": "Constellation Dragon",
+        "body_type": "Drake",
+        "food": "Starfruit",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "rukbat_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "rukbat_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "rukbat_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "rukbat_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "rukbat_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "rukbat_01_m_hatchling_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Rukbat_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rukbat",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Rukbat_00_e_egg_w.png/revision/latest?cb=20240724022317"
+      },
+      "rupia": {
+        "name": "rupia",
+        "egg_description": "This Egg is protected by sea creatures.",
+        "elements": [
+          "water"
+        ],
+        "rarity": "Epic",
+        "region": "East Yutakan",
+        "dragon_type": "Sea Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rupia_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rupia_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rupia_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rupia_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rupia_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rupia_01_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3f/Rupia_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rupia",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b8/Rupia_00_e_egg_bk.png/revision/latest?cb=20240202230214"
+      },
+      "rupo": {
+        "name": "rupo",
+        "egg_description": "This Egg has steel horns.",
+        "elements": [
+          "dark"
+        ],
+        "rarity": "Epic",
+        "region": "East Yutakan",
+        "dragon_type": "Mystery Dragon",
+        "body_type": "Draco",
+        "food": "Dark Melon",
+        "tradeable": false,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "rupo_01_f_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "rupo_01_f_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "rupo_01_f_hatchling_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "rupo_01_m_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "rupo_01_m_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "rupo_01_m_hatchling_pb"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d7/Rupo_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rupo",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0c/Rupo_00_e_egg_pb.png/revision/latest?cb=20240202234403"
+      }
     }
-  }
+  ]
 }

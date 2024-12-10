@@ -1,978 +1,980 @@
 {
-  "dragons": {
-    "linu": {
-      "name": "linu",
-      "egg_description": "This Egg emits a blue flame.",
-      "elements": [
-        "light"
-      ],
-      "rarity": "Legendary",
-      "region": "Deep Sea",
-      "dragon_type": "Warden Dragon",
-      "body_type": "Draco",
-      "food": "Grape",
-      "tradeable": true,
-      "breeding_tier": 0,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "linu_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "linu_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "linu_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "linu_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "linu_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "linu_01_m_hatchling_w"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Linu_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Linu",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ae/Linu_00_e_egg_w.png/revision/latest?cb=20240314025308"
-    },
-    "lion_dragon": {
-      "name": "lion dragon",
-      "egg_description": "This Egg is being tested to become the king of the jungle.",
-      "elements": [
-        "lightning",
-        "light"
-      ],
-      "rarity": "Uncommon",
-      "region": "Sky Kingdom",
-      "dragon_type": "Animal Dragon",
-      "body_type": "Draco",
-      "food": "Melon",
-      "tradeable": true,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "succession",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "liondragon_01_f_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "liondragon_01_f_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "liondragon_01_f_hatchling_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "liondragon_01_m_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "liondragon_01_m_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "liondragon_01_m_hatchling_yr"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "liondragon_02_f_adult_yr"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "liondragon_02_m_adult_yr"
-        },
-        {
-          "form_number": "legacy",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "liondragon_legacy_f_adult_yr"
-        },
-        {
-          "form_number": "legacy",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "liondragon_legacy_f_hatch_yr"
-        },
-        {
-          "form_number": "legacy",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "liondragon_legacy_f_hatchling_yr"
-        },
-        {
-          "form_number": "legacy",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "liondragon_legacy_m_adult_yr"
-        },
-        {
-          "form_number": "legacy",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "liondragon_legacy_m_hatch_yr"
-        },
-        {
-          "form_number": "legacy",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "liondragon_legacy_m_hatchling_yr"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Liondragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033759",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lion_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Liondragon_00_e_egg_yr.png/revision/latest?cb=20240724022317"
-    },
-    "lios": {
-      "name": "lios",
-      "egg_description": "This Egg resonates with the sounds of violent winds.",
-      "elements": [
-        "water",
-        "wind"
-      ],
-      "rarity": "Legendary",
-      "region": "Deep Sea",
-      "dragon_type": "Guardian Dragon",
-      "body_type": "Draco",
-      "food": "Grass",
-      "tradeable": false,
-      "breeding_tier": 0,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "lios_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "lios_01_f_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "lios_01_f_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "lios_01_m_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "lios_01_m_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "lios_01_m_hatchling_b"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/25/Lios_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lios",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Lios_00_e_egg_b.png/revision/latest?cb=20240215021900"
-    },
-    "lololli": {
-      "name": "lololli",
-      "egg_description": "This Egg smells sweet.",
-      "elements": [
-        "dream"
-      ],
-      "rarity": "Uncommon",
-      "region": "East Yutakan",
-      "dragon_type": "Dessert Dragon",
-      "body_type": "Draco",
-      "food": "Lollipop",
-      "tradeable": false,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "lololli_01_f_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "lololli_01_f_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "lololli_01_f_hatchling_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "lololli_01_m_adult_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "lololli_01_m_hatch_w"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "lololli_01_m_hatchling_w"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Lololli_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lololli",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/83/Lololli_00_e_egg_w.png/revision/latest?cb=20240202230737"
-    },
-    "lotus_fire_dragon": {
-      "name": "lotus fire dragon",
-      "egg_description": "This Egg can feel the energy of earnest wishes through its horn.",
-      "elements": [
-        "fire"
-      ],
-      "rarity": "Rare",
-      "region": "Special",
-      "dragon_type": "Wish Dragon",
-      "body_type": "Drake",
-      "food": "Magic Petal",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "p_lotus",
-        "p_sea wish",
-        "p_red spider lily",
-        "p_lucid dream",
-        "lotus",
-        "sea wish",
-        "red spider lily",
-        "lucid dream",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "lotusfiredragon_01_f_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "lotusfiredragon_01_f_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "lotusfiredragon_01_f_hatchling_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "lotusfiredragon_01_m_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "lotusfiredragon_01_m_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "lotusfiredragon_01_m_hatchling_r"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "lotusfiredragon_02_f_adult_r"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "lotusfiredragon_02_f_hatch_r"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "lotusfiredragon_02_f_hatchling_r"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "lotusfiredragon_02_m_adult_r"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "lotusfiredragon_02_m_hatch_r"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "lotusfiredragon_02_m_hatchling_r"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "lotusfiredragon_03_f_adult_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "lotusfiredragon_03_f_hatch_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "lotusfiredragon_03_f_hatchling_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "lotusfiredragon_03_m_adult_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "lotusfiredragon_03_m_hatch_b"
-        },
-        {
-          "form_number": "03",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "lotusfiredragon_03_m_hatchling_b"
-        },
-        {
-          "form_number": "04",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "lotusfiredragon_04_f_adult_bk"
-        },
-        {
-          "form_number": "04",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "lotusfiredragon_04_f_hatch_bk"
-        },
-        {
-          "form_number": "04",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "lotusfiredragon_04_f_hatchling_bk"
-        },
-        {
-          "form_number": "04",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "lotusfiredragon_04_m_adult_bk"
-        },
-        {
-          "form_number": "04",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "lotusfiredragon_04_m_hatch_bk"
-        },
-        {
-          "form_number": "04",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "lotusfiredragon_04_m_hatchling_bk"
-        },
-        {
-          "form_number": "05",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "lotusfiredragon_05_f_adult_p"
-        },
-        {
-          "form_number": "05",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "lotusfiredragon_05_f_hatch_p"
-        },
-        {
-          "form_number": "05",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "lotusfiredragon_05_f_hatchling_p"
-        },
-        {
-          "form_number": "05",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "lotusfiredragon_05_m_adult_p"
-        },
-        {
-          "form_number": "05",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "lotusfiredragon_05_m_hatch_p"
-        },
-        {
-          "form_number": "05",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "lotusfiredragon_05_m_hatchling_p"
-        },
-        {
-          "form_number": "06",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "lotusfiredragon_06_f_adult_r"
-        },
-        {
-          "form_number": "06",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "lotusfiredragon_06_f_hatch_r"
-        },
-        {
-          "form_number": "06",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "lotusfiredragon_06_f_hatchling_r"
-        },
-        {
-          "form_number": "06",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "lotusfiredragon_06_m_adult_r"
-        },
-        {
-          "form_number": "06",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "lotusfiredragon_06_m_hatch_r"
-        },
-        {
-          "form_number": "06",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "lotusfiredragon_06_m_hatchling_r"
-        },
-        {
-          "form_number": "07",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "lotusfiredragon_07_f_adult_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "lotusfiredragon_07_f_hatch_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "lotusfiredragon_07_f_hatchling_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "lotusfiredragon_07_m_adult_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "lotusfiredragon_07_m_hatch_b"
-        },
-        {
-          "form_number": "07",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "lotusfiredragon_07_m_hatchling_b"
-        },
-        {
-          "form_number": "08",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "lotusfiredragon_08_f_adult_bk"
-        },
-        {
-          "form_number": "08",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "lotusfiredragon_08_f_hatch_bk"
-        },
-        {
-          "form_number": "08",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "lotusfiredragon_08_f_hatchling_bk"
-        },
-        {
-          "form_number": "08",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "lotusfiredragon_08_m_adult_bk"
-        },
-        {
-          "form_number": "08",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "lotusfiredragon_08_m_hatch_bk"
-        },
-        {
-          "form_number": "08",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "lotusfiredragon_08_m_hatchling_bk"
-        },
-        {
-          "form_number": "09",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "lotusfiredragon_09_f_adult_p"
-        },
-        {
-          "form_number": "09",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "lotusfiredragon_09_f_hatch_p"
-        },
-        {
-          "form_number": "09",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "lotusfiredragon_09_f_hatchling_p"
-        },
-        {
-          "form_number": "09",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "lotusfiredragon_09_m_adult_p"
-        },
-        {
-          "form_number": "09",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "lotusfiredragon_09_m_hatch_p"
-        },
-        {
-          "form_number": "09",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "lotusfiredragon_09_m_hatchling_p"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Lotusfiredragon_02_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240731021523",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lotus_Fire_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Lotusfiredragon_00_e_egg_r.png/revision/latest?cb=20240731011715"
-    },
-    "luacheia": {
-      "name": "luacheia",
-      "egg_description": "This Egg moves its fins under the moonlight.",
-      "elements": [
-        "dark"
-      ],
-      "rarity": "Rare",
-      "region": "Sky Kingdom",
-      "dragon_type": "Nightmare Dragon",
-      "body_type": "Drake",
-      "food": "Dark Melon",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "luacheia_01_f_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "luacheia_01_f_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "luacheia_01_f_hatchling_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bg",
-          "path": "luacheia_01_m_adult_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bg",
-          "path": "luacheia_01_m_hatch_bg"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bg",
-          "path": "luacheia_01_m_hatchling_bg"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Luacheia_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240829010122",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Luacheia",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Luacheia_00_e_egg_bg.png/revision/latest?cb=20240829003736"
-    },
-    "lucifer": {
-      "name": "lucifer",
-      "egg_description": "This Egg carries a curse.",
-      "elements": [
-        "steel",
-        "dark"
-      ],
-      "rarity": "Epic",
-      "region": "Sky Kingdom",
-      "dragon_type": "Fallen Dragon",
-      "body_type": "Draco",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "lair"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "lucifer_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "lucifer_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "lucifer_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "lucifer_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "lucifer_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "lucifer_01_m_hatchling_bk"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "lucifer_02_f_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "lucifer_02_f_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "lucifer_02_f_hatchling_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "w",
-          "path": "lucifer_02_m_adult_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "w",
-          "path": "lucifer_02_m_hatch_w"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "w",
-          "path": "lucifer_02_m_hatchling_w"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Lucifer_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240808061839",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lucifer",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Lucifer_00_e_egg_bk.png/revision/latest?cb=20240808005826"
-    },
-    "lucio": {
-      "name": "lucio",
-      "egg_description": "This Egg induces hallucinations.",
-      "elements": [
-        "dark",
-        "water"
-      ],
-      "rarity": "Epic",
-      "region": "West Yutakan",
-      "dragon_type": "Hallucination Dragon",
-      "body_type": "Coatyl",
-      "food": "Purple Tulip",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "lucio_01_f_adult_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "lucio_01_f_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "lucio_01_f_hatchling_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "p",
-          "path": "lucio_01_m_adult_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "p",
-          "path": "lucio_01_m_hatch_p"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "p",
-          "path": "lucio_01_m_hatchling_p"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Lucio_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lucio",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Lucio_00_e_egg_p.png/revision/latest?cb=20230919100808"
+  "dragons": [
+    {
+      "linu": {
+        "name": "linu",
+        "egg_description": "This Egg emits a blue flame.",
+        "elements": [
+          "light"
+        ],
+        "rarity": "Legendary",
+        "region": "Deep Sea",
+        "dragon_type": "Warden Dragon",
+        "body_type": "Draco",
+        "food": "Grape",
+        "tradeable": true,
+        "breeding_tier": 0,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "linu_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "linu_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "linu_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "linu_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "linu_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "linu_01_m_hatchling_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Linu_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Linu",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ae/Linu_00_e_egg_w.png/revision/latest?cb=20240314025308"
+      },
+      "lion_dragon": {
+        "name": "lion dragon",
+        "egg_description": "This Egg is being tested to become the king of the jungle.",
+        "elements": [
+          "lightning",
+          "light"
+        ],
+        "rarity": "Uncommon",
+        "region": "Sky Kingdom",
+        "dragon_type": "Animal Dragon",
+        "body_type": "Draco",
+        "food": "Melon",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "succession",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "liondragon_01_f_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "liondragon_01_f_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "liondragon_01_f_hatchling_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "liondragon_01_m_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "liondragon_01_m_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "liondragon_01_m_hatchling_yr"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "liondragon_02_f_adult_yr"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "liondragon_02_m_adult_yr"
+          },
+          {
+            "form_number": "legacy",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "liondragon_legacy_f_adult_yr"
+          },
+          {
+            "form_number": "legacy",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "liondragon_legacy_f_hatch_yr"
+          },
+          {
+            "form_number": "legacy",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "liondragon_legacy_f_hatchling_yr"
+          },
+          {
+            "form_number": "legacy",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "liondragon_legacy_m_adult_yr"
+          },
+          {
+            "form_number": "legacy",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "liondragon_legacy_m_hatch_yr"
+          },
+          {
+            "form_number": "legacy",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "liondragon_legacy_m_hatchling_yr"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Liondragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033759",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lion_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Liondragon_00_e_egg_yr.png/revision/latest?cb=20240724022317"
+      },
+      "lios": {
+        "name": "lios",
+        "egg_description": "This Egg resonates with the sounds of violent winds.",
+        "elements": [
+          "water",
+          "wind"
+        ],
+        "rarity": "Legendary",
+        "region": "Deep Sea",
+        "dragon_type": "Guardian Dragon",
+        "body_type": "Draco",
+        "food": "Grass",
+        "tradeable": false,
+        "breeding_tier": 0,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "lios_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "lios_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "lios_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "lios_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "lios_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "lios_01_m_hatchling_b"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/25/Lios_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lios",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Lios_00_e_egg_b.png/revision/latest?cb=20240215021900"
+      },
+      "lololli": {
+        "name": "lololli",
+        "egg_description": "This Egg smells sweet.",
+        "elements": [
+          "dream"
+        ],
+        "rarity": "Uncommon",
+        "region": "East Yutakan",
+        "dragon_type": "Dessert Dragon",
+        "body_type": "Draco",
+        "food": "Lollipop",
+        "tradeable": false,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "lololli_01_f_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "lololli_01_f_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "lololli_01_f_hatchling_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "lololli_01_m_adult_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "lololli_01_m_hatch_w"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "lololli_01_m_hatchling_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Lololli_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lololli",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/83/Lololli_00_e_egg_w.png/revision/latest?cb=20240202230737"
+      },
+      "lotus_fire_dragon": {
+        "name": "lotus fire dragon",
+        "egg_description": "This Egg can feel the energy of earnest wishes through its horn.",
+        "elements": [
+          "fire"
+        ],
+        "rarity": "Rare",
+        "region": "Special",
+        "dragon_type": "Wish Dragon",
+        "body_type": "Drake",
+        "food": "Magic Petal",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "p_lotus",
+          "p_sea wish",
+          "p_red spider lily",
+          "p_lucid dream",
+          "lotus",
+          "sea wish",
+          "red spider lily",
+          "lucid dream",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "lotusfiredragon_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "lotusfiredragon_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "lotusfiredragon_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "lotusfiredragon_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "lotusfiredragon_01_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "lotusfiredragon_01_m_hatchling_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "lotusfiredragon_02_f_adult_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "lotusfiredragon_02_f_hatch_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "lotusfiredragon_02_f_hatchling_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "lotusfiredragon_02_m_adult_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "lotusfiredragon_02_m_hatch_r"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "lotusfiredragon_02_m_hatchling_r"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "lotusfiredragon_03_f_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "lotusfiredragon_03_f_hatch_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "lotusfiredragon_03_f_hatchling_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "lotusfiredragon_03_m_adult_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "lotusfiredragon_03_m_hatch_b"
+          },
+          {
+            "form_number": "03",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "lotusfiredragon_03_m_hatchling_b"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "lotusfiredragon_04_f_adult_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "lotusfiredragon_04_f_hatch_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "lotusfiredragon_04_f_hatchling_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "lotusfiredragon_04_m_adult_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "lotusfiredragon_04_m_hatch_bk"
+          },
+          {
+            "form_number": "04",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "lotusfiredragon_04_m_hatchling_bk"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "lotusfiredragon_05_f_adult_p"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "lotusfiredragon_05_f_hatch_p"
+          },
+          {
+            "form_number": "05",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "lotusfiredragon_05_f_hatchling_p"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "lotusfiredragon_05_m_adult_p"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "lotusfiredragon_05_m_hatch_p"
+          },
+          {
+            "form_number": "05",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "lotusfiredragon_05_m_hatchling_p"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "lotusfiredragon_06_f_adult_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "lotusfiredragon_06_f_hatch_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "lotusfiredragon_06_f_hatchling_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "lotusfiredragon_06_m_adult_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "lotusfiredragon_06_m_hatch_r"
+          },
+          {
+            "form_number": "06",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "lotusfiredragon_06_m_hatchling_r"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "lotusfiredragon_07_f_adult_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "lotusfiredragon_07_f_hatch_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "lotusfiredragon_07_f_hatchling_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "lotusfiredragon_07_m_adult_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "lotusfiredragon_07_m_hatch_b"
+          },
+          {
+            "form_number": "07",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "lotusfiredragon_07_m_hatchling_b"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "lotusfiredragon_08_f_adult_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "lotusfiredragon_08_f_hatch_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "lotusfiredragon_08_f_hatchling_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "lotusfiredragon_08_m_adult_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "lotusfiredragon_08_m_hatch_bk"
+          },
+          {
+            "form_number": "08",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "lotusfiredragon_08_m_hatchling_bk"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "lotusfiredragon_09_f_adult_p"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "lotusfiredragon_09_f_hatch_p"
+          },
+          {
+            "form_number": "09",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "lotusfiredragon_09_f_hatchling_p"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "lotusfiredragon_09_m_adult_p"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "lotusfiredragon_09_m_hatch_p"
+          },
+          {
+            "form_number": "09",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "lotusfiredragon_09_m_hatchling_p"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Lotusfiredragon_02_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240731021523",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lotus_Fire_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Lotusfiredragon_00_e_egg_r.png/revision/latest?cb=20240731011715"
+      },
+      "luacheia": {
+        "name": "luacheia",
+        "egg_description": "This Egg moves its fins under the moonlight.",
+        "elements": [
+          "dark"
+        ],
+        "rarity": "Rare",
+        "region": "Sky Kingdom",
+        "dragon_type": "Nightmare Dragon",
+        "body_type": "Drake",
+        "food": "Dark Melon",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "luacheia_01_f_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "luacheia_01_f_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "luacheia_01_f_hatchling_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bg",
+            "path": "luacheia_01_m_adult_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bg",
+            "path": "luacheia_01_m_hatch_bg"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bg",
+            "path": "luacheia_01_m_hatchling_bg"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Luacheia_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240829010122",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Luacheia",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Luacheia_00_e_egg_bg.png/revision/latest?cb=20240829003736"
+      },
+      "lucifer": {
+        "name": "lucifer",
+        "egg_description": "This Egg carries a curse.",
+        "elements": [
+          "steel",
+          "dark"
+        ],
+        "rarity": "Epic",
+        "region": "Sky Kingdom",
+        "dragon_type": "Fallen Dragon",
+        "body_type": "Draco",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "lair"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "lucifer_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "lucifer_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "lucifer_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "lucifer_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "lucifer_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "lucifer_01_m_hatchling_bk"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "lucifer_02_f_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "lucifer_02_f_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "lucifer_02_f_hatchling_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "w",
+            "path": "lucifer_02_m_adult_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "w",
+            "path": "lucifer_02_m_hatch_w"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "w",
+            "path": "lucifer_02_m_hatchling_w"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Lucifer_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240808061839",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lucifer",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Lucifer_00_e_egg_bk.png/revision/latest?cb=20240808005826"
+      },
+      "lucio": {
+        "name": "lucio",
+        "egg_description": "This Egg induces hallucinations.",
+        "elements": [
+          "dark",
+          "water"
+        ],
+        "rarity": "Epic",
+        "region": "West Yutakan",
+        "dragon_type": "Hallucination Dragon",
+        "body_type": "Coatyl",
+        "food": "Purple Tulip",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "lucio_01_f_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "lucio_01_f_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "lucio_01_f_hatchling_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "p",
+            "path": "lucio_01_m_adult_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "p",
+            "path": "lucio_01_m_hatch_p"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "p",
+            "path": "lucio_01_m_hatchling_p"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Lucio_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lucio",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Lucio_00_e_egg_p.png/revision/latest?cb=20230919100808"
+      }
     }
-  }
+  ]
 }

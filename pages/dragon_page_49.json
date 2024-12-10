@@ -1,580 +1,582 @@
 {
-  "dragons": {
-    "record_dragon": {
-      "name": "record dragon",
-      "egg_description": "This Egg plays classical music.",
-      "elements": [
-        "dream"
-      ],
-      "rarity": "Rare",
-      "region": "Sky Kingdom",
-      "dragon_type": "Music Dragon",
-      "body_type": "Asian",
-      "food": "Coffee Bean",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "yr",
-          "path": "recorddragon_01_f_adult_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "yr",
-          "path": "recorddragon_01_f_hatch_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "yr",
-          "path": "recorddragon_01_f_hatchling_yr"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "pb",
-          "path": "recorddragon_01_m_adult_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "pb",
-          "path": "recorddragon_01_m_hatch_pb"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "pb",
-          "path": "recorddragon_01_m_hatchling_pb"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/11/Recorddragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055603",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Record_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Recorddragon_00_e_egg_yr.png/revision/latest?cb=20240814055329"
-    },
-    "red_taabire": {
-      "name": "red taabire",
-      "egg_description": "Blue static electricity is created around this Egg.",
-      "elements": [
-        "lightning",
-        "fire"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Lightning Dragon",
-      "body_type": "Draco",
-      "food": "Fire Carrot",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "redtaabire_01_f_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "redtaabire_01_f_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "redtaabire_01_f_hatchling_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "redtaabire_01_m_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "redtaabire_01_m_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "redtaabire_01_m_hatchling_r"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2b/Redtaabire_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Red_Taabire",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d2/Redtaabire_00_e_egg_r.png/revision/latest?cb=20240203000205"
-    },
-    "red_wyvern": {
-      "name": "red wyvern",
-      "egg_description": "This Egg likes fire pits.",
-      "elements": [
-        "fire"
-      ],
-      "rarity": "Uncommon",
-      "region": "East Yutakan",
-      "dragon_type": "Fire Dragon",
-      "body_type": "Wyvern",
-      "food": "Fire Carrot",
-      "tradeable": true,
-      "breeding_tier": 3,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "redwyvern_01_f_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "redwyvern_01_f_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "redwyvern_01_f_hatchling_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "redwyvern_01_m_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "redwyvern_01_m_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "redwyvern_01_m_hatchling_r"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Redwyvern_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Red_Wyvern",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Redwyvern_00_e_egg_r.png/revision/latest?cb=20240407165108"
-    },
-    "redbull_dragon": {
-      "name": "redbull dragon",
-      "egg_description": "This Egg exudes strong energy.",
-      "elements": [
-        "fire"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Bull Dragon",
-      "body_type": "Draco",
-      "food": "Roast Turkey",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "redbulldragon_01_f_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "redbulldragon_01_f_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "redbulldragon_01_f_hatchling_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "r",
-          "path": "redbulldragon_01_m_adult_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "r",
-          "path": "redbulldragon_01_m_hatch_r"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "r",
-          "path": "redbulldragon_01_m_hatchling_r"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Redbulldragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Redbull_Dragon",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Redbulldragon_00_e_egg_r.png/revision/latest?cb=20240318030805"
-    },
-    "reghi": {
-      "name": "reghi",
-      "egg_description": "This Egg locates things that have been abandoned.",
-      "elements": [
-        "dark",
-        "dream"
-      ],
-      "rarity": "Rare",
-      "region": "Sky Kingdom",
-      "dragon_type": "Collector Dragon",
-      "body_type": "Wyvern",
-      "food": "Tulip",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "reghi_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "reghi_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "reghi_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "reghi_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "reghi_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "reghi_01_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Reghi_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20241114001213",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Reghi",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Reghi_00_e_egg_bk.png/revision/latest?cb=20241114001348"
-    },
-    "regnator": {
-      "name": "regnator",
-      "egg_description": "This Egg wears a crown with the orb of Acuris.",
-      "elements": [
-        "water",
-        "dream"
-      ],
-      "rarity": "Epic",
-      "region": "Special",
-      "dragon_type": "Sea Dragon King Dragon",
-      "body_type": "Draco",
-      "food": "Rainbow Fish",
-      "tradeable": true,
-      "breeding_tier": 1,
-      "forms": [
-        "default",
-        "conqueror",
-        "undead (default)",
-        "undead (conqueror)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "regnator_01_f_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "regnator_01_f_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "regnator_01_f_hatchling_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "regnator_01_m_adult_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "regnator_01_m_hatch_b"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "regnator_01_m_hatchling_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "regnator_02_f_adult_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "regnator_02_f_hatch_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "regnator_02_f_hatchling_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "b",
-          "path": "regnator_02_m_adult_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "b",
-          "path": "regnator_02_m_hatch_b"
-        },
-        {
-          "form_number": "02",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "b",
-          "path": "regnator_02_m_hatchling_b"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dd/Regnator_02_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Regnator",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/40/Regnator_00_e_egg_b.png/revision/latest?cb=20240201023810"
-    },
-    "rekmall": {
-      "name": "rekmall",
-      "egg_description": "This Egg holds mysterious power.",
-      "elements": [
-        "dark",
-        "lightning"
-      ],
-      "rarity": "Rare",
-      "region": "East Yutakan",
-      "dragon_type": "Power Dragon",
-      "body_type": "Draco",
-      "food": "Jerky",
-      "tradeable": true,
-      "breeding_tier": 2,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rekmall_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rekmall_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rekmall_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "rekmall_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "rekmall_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "rekmall_01_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Rekmall_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rekmall",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/26/Rekmall_00_e_egg_bk.png/revision/latest?cb=20230824080157"
-    },
-    "remorseful_florea": {
-      "name": "remorseful florea",
-      "egg_description": "This Egg holds memories.",
-      "elements": [
-        "light",
-        "earth"
-      ],
-      "rarity": "Legendary",
-      "region": "Special",
-      "dragon_type": "Flashback Dragon",
-      "body_type": "Wyvern",
-      "food": "Grape",
-      "tradeable": false,
-      "breeding_tier": 0,
-      "forms": [
-        "default",
-        "undead (default)"
-      ],
-      "assets": [
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "remorseflorea_01_f_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "remorseflorea_01_f_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "f",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "remorseflorea_01_f_hatchling_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "adult",
-          "color_code": "bk",
-          "path": "remorseflorea_01_m_adult_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatch",
-          "color_code": "bk",
-          "path": "remorseflorea_01_m_hatch_bk"
-        },
-        {
-          "form_number": "01",
-          "gender": "m",
-          "stage": "hatchling",
-          "color_code": "bk",
-          "path": "remorseflorea_01_m_hatchling_bk"
-        }
-      ],
-      "special_actions": [],
-      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Remorseflorea_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
-      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Remorseful_Florea",
-      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Remorseflorea_00_e_egg_bk.png/revision/latest?cb=20231129040823"
+  "dragons": [
+    {
+      "record_dragon": {
+        "name": "record dragon",
+        "egg_description": "This Egg plays classical music.",
+        "elements": [
+          "dream"
+        ],
+        "rarity": "Rare",
+        "region": "Sky Kingdom",
+        "dragon_type": "Music Dragon",
+        "body_type": "Asian",
+        "food": "Coffee Bean",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "yr",
+            "path": "recorddragon_01_f_adult_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "yr",
+            "path": "recorddragon_01_f_hatch_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "yr",
+            "path": "recorddragon_01_f_hatchling_yr"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "pb",
+            "path": "recorddragon_01_m_adult_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "pb",
+            "path": "recorddragon_01_m_hatch_pb"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "pb",
+            "path": "recorddragon_01_m_hatchling_pb"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/11/Recorddragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055603",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Record_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Recorddragon_00_e_egg_yr.png/revision/latest?cb=20240814055329"
+      },
+      "red_taabire": {
+        "name": "red taabire",
+        "egg_description": "Blue static electricity is created around this Egg.",
+        "elements": [
+          "lightning",
+          "fire"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Lightning Dragon",
+        "body_type": "Draco",
+        "food": "Fire Carrot",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "redtaabire_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "redtaabire_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "redtaabire_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "redtaabire_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "redtaabire_01_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "redtaabire_01_m_hatchling_r"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2b/Redtaabire_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Red_Taabire",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d2/Redtaabire_00_e_egg_r.png/revision/latest?cb=20240203000205"
+      },
+      "red_wyvern": {
+        "name": "red wyvern",
+        "egg_description": "This Egg likes fire pits.",
+        "elements": [
+          "fire"
+        ],
+        "rarity": "Uncommon",
+        "region": "East Yutakan",
+        "dragon_type": "Fire Dragon",
+        "body_type": "Wyvern",
+        "food": "Fire Carrot",
+        "tradeable": true,
+        "breeding_tier": 3,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "redwyvern_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "redwyvern_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "redwyvern_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "redwyvern_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "redwyvern_01_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "redwyvern_01_m_hatchling_r"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Redwyvern_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Red_Wyvern",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Redwyvern_00_e_egg_r.png/revision/latest?cb=20240407165108"
+      },
+      "redbull_dragon": {
+        "name": "redbull dragon",
+        "egg_description": "This Egg exudes strong energy.",
+        "elements": [
+          "fire"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Bull Dragon",
+        "body_type": "Draco",
+        "food": "Roast Turkey",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "redbulldragon_01_f_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "redbulldragon_01_f_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "redbulldragon_01_f_hatchling_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "r",
+            "path": "redbulldragon_01_m_adult_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "r",
+            "path": "redbulldragon_01_m_hatch_r"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "r",
+            "path": "redbulldragon_01_m_hatchling_r"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Redbulldragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Redbull_Dragon",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Redbulldragon_00_e_egg_r.png/revision/latest?cb=20240318030805"
+      },
+      "reghi": {
+        "name": "reghi",
+        "egg_description": "This Egg locates things that have been abandoned.",
+        "elements": [
+          "dark",
+          "dream"
+        ],
+        "rarity": "Rare",
+        "region": "Sky Kingdom",
+        "dragon_type": "Collector Dragon",
+        "body_type": "Wyvern",
+        "food": "Tulip",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "reghi_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "reghi_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "reghi_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "reghi_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "reghi_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "reghi_01_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Reghi_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20241114001213",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Reghi",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Reghi_00_e_egg_bk.png/revision/latest?cb=20241114001348"
+      },
+      "regnator": {
+        "name": "regnator",
+        "egg_description": "This Egg wears a crown with the orb of Acuris.",
+        "elements": [
+          "water",
+          "dream"
+        ],
+        "rarity": "Epic",
+        "region": "Special",
+        "dragon_type": "Sea Dragon King Dragon",
+        "body_type": "Draco",
+        "food": "Rainbow Fish",
+        "tradeable": true,
+        "breeding_tier": 1,
+        "forms": [
+          "default",
+          "conqueror",
+          "undead (default)",
+          "undead (conqueror)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "regnator_01_f_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "regnator_01_f_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "regnator_01_f_hatchling_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "regnator_01_m_adult_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "regnator_01_m_hatch_b"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "regnator_01_m_hatchling_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "regnator_02_f_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "regnator_02_f_hatch_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "regnator_02_f_hatchling_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "b",
+            "path": "regnator_02_m_adult_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "b",
+            "path": "regnator_02_m_hatch_b"
+          },
+          {
+            "form_number": "02",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "b",
+            "path": "regnator_02_m_hatchling_b"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dd/Regnator_02_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Regnator",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/40/Regnator_00_e_egg_b.png/revision/latest?cb=20240201023810"
+      },
+      "rekmall": {
+        "name": "rekmall",
+        "egg_description": "This Egg holds mysterious power.",
+        "elements": [
+          "dark",
+          "lightning"
+        ],
+        "rarity": "Rare",
+        "region": "East Yutakan",
+        "dragon_type": "Power Dragon",
+        "body_type": "Draco",
+        "food": "Jerky",
+        "tradeable": true,
+        "breeding_tier": 2,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rekmall_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rekmall_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rekmall_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "rekmall_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "rekmall_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "rekmall_01_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Rekmall_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rekmall",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/26/Rekmall_00_e_egg_bk.png/revision/latest?cb=20230824080157"
+      },
+      "remorseful_florea": {
+        "name": "remorseful florea",
+        "egg_description": "This Egg holds memories.",
+        "elements": [
+          "light",
+          "earth"
+        ],
+        "rarity": "Legendary",
+        "region": "Special",
+        "dragon_type": "Flashback Dragon",
+        "body_type": "Wyvern",
+        "food": "Grape",
+        "tradeable": false,
+        "breeding_tier": 0,
+        "forms": [
+          "default",
+          "undead (default)"
+        ],
+        "assets": [
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "remorseflorea_01_f_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "remorseflorea_01_f_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "f",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "remorseflorea_01_f_hatchling_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "adult",
+            "color_code": "bk",
+            "path": "remorseflorea_01_m_adult_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatch",
+            "color_code": "bk",
+            "path": "remorseflorea_01_m_hatch_bk"
+          },
+          {
+            "form_number": "01",
+            "gender": "m",
+            "stage": "hatchling",
+            "color_code": "bk",
+            "path": "remorseflorea_01_m_hatchling_bk"
+          }
+        ],
+        "special_actions": [],
+        "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Remorseflorea_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+        "profile_url": "https://dragon-village-collection.fandom.com/wiki/Remorseful_Florea",
+        "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Remorseflorea_00_e_egg_bk.png/revision/latest?cb=20231129040823"
+      }
     }
-  }
+  ]
 }
