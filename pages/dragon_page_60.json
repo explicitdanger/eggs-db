@@ -1,0 +1,577 @@
+{
+  "dragon": {
+    "toarnesce": {
+      "name": "toarnesce",
+      "egg_description": "This Egg emits electricity.",
+      "elements": [
+        "lightning"
+      ],
+      "rarity": "Epic",
+      "region": "Deep Sea",
+      "dragon_type": "Guardian Dragon",
+      "body_type": "Draco",
+      "food": "Fire Carrot",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "toarnesce_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "toarnesce_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "toarnesce_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "toarnesce_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "toarnesce_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "toarnesce_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Toarnesce_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Toarnesce",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9d/Toarnesce_00_e_egg_y.png/revision/latest?cb=20240328014111"
+    },
+    "toddletomtom": {
+      "name": "toddletomtom",
+      "egg_description": "This Egg twinkles like stars.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Uncommon",
+      "region": "Deep Sea",
+      "dragon_type": "Light Dragon",
+      "body_type": "Draco",
+      "food": "Melon",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "toddletomtom_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "toddletomtom_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "toddletomtom_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "toddletomtom_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "toddletomtom_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "toddletomtom_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Toddletomtom_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240427083349",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Toddletomtom",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d3/Toddletomtom_00_e_egg_yr.png/revision/latest?cb=20240425005031"
+    },
+    "tonton": {
+      "name": "tonton",
+      "egg_description": "This Egg is searching for something.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Epic",
+      "region": "Deep Sea",
+      "dragon_type": "Nomad Dragon",
+      "body_type": "Draco",
+      "food": "Grapefruit",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "tonton_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "tonton_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "tonton_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "tonton_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "tonton_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "tonton_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3b/Tonton_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240427083349",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tonton",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/64/Tonton_00_e_egg_b.png/revision/latest?cb=20240425005039"
+    },
+    "totem_dragon": {
+      "name": "totem dragon",
+      "egg_description": "A sharp feather is stuck in this Egg.",
+      "elements": [
+        "wind"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Wish Dragon",
+      "body_type": "Draco",
+      "food": "Maple Leaf",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "underground castle",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "totemdragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "totemdragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "totemdragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "totemdragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "totemdragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "totemdragon_01_m_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "totemdragon_02_f_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "totemdragon_02_f_hatch_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "totemdragon_02_f_hatchling_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "totemdragon_02_m_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "totemdragon_02_m_hatch_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "totemdragon_02_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ac/Totemdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Totem_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Totemdragon_00_e_egg_w.png/revision/latest?cb=20240202234801"
+    },
+    "trevor": {
+      "name": "trevor",
+      "egg_description": "This Egg illuminates the path.",
+      "elements": [
+        "earth",
+        "wind"
+      ],
+      "rarity": "Rare",
+      "region": "Sky Kingdom",
+      "dragon_type": "Transport Dragon",
+      "body_type": "Draco",
+      "food": "Palm fruit",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "trevor_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "trevor_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "trevor_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "trevor_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "trevor_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "trevor_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Trevor_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055604",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Trevor",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/96/Trevor_00_e_egg_yr.png/revision/latest?cb=20240814055329"
+    },
+    "tropheus": {
+      "name": "tropheus",
+      "egg_description": "This Egg absorbs the darkness of the abyss.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Uncommon",
+      "region": "Deep Sea",
+      "dragon_type": "Dark Dragon",
+      "body_type": "Draco",
+      "food": "Piranha",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "tropheus_01_f_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "tropheus_01_f_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "tropheus_01_f_hatchling_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "tropheus_01_m_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "tropheus_01_m_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "tropheus_01_m_hatchling_bg"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Tropheus_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tropheus",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Tropheus_00_e_egg_bg.png/revision/latest?cb=20240314030453"
+    },
+    "tutankhagon": {
+      "name": "tutankhagon",
+      "egg_description": "This Egg is full of majesty.",
+      "elements": [
+        "dark",
+        "steel"
+      ],
+      "rarity": "Epic",
+      "region": "West Yutakan",
+      "dragon_type": "King Dragon",
+      "body_type": "Draco",
+      "food": "Purple Tulip",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "tutankhagon_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "tutankhagon_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "tutankhagon_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "tutankhagon_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "tutankhagon_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "tutankhagon_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Tutankhagon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tutankhagon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a1/Tutankhagon_00_e_egg_y.png/revision/latest?cb=20231020164652"
+    },
+    "tycane": {
+      "name": "tycane",
+      "egg_description": "The dragon inside this egg can summon a gust of wind and lightning.",
+      "elements": [
+        "wind"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Typhoon Dragon",
+      "body_type": "Draco",
+      "food": "Whirl Flower",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "tycane_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "tycane_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "tycane_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "tycane_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "tycane_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "tycane_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1d/Tycane_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tycane",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f7/Tycane_00_e_egg_b.png/revision/latest?cb=20240202235535"
+    }
+  }
+}

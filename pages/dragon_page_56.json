@@ -1,0 +1,770 @@
+{
+  "dragon": {
+    "star_ace": {
+      "name": "star ace",
+      "egg_description": "This Egg wears a radiant guardian's armor.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Legendary",
+      "region": "West Yutakan",
+      "dragon_type": "Guardian Dragon",
+      "body_type": "Draco",
+      "food": "Grape",
+      "tradeable": false,
+      "breeding_tier": 0,
+      "forms": [
+        "default",
+        "underground castle",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "starace_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "starace_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "starace_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "starace_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "starace_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "starace_01_m_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "starace_02_f_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "starace_02_f_hatch_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "starace_02_f_hatchling_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "starace_02_m_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "starace_02_m_hatch_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "starace_02_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Starace_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173522",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Star_Ace",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Starace_00_e_egg_w.png/revision/latest?cb=20230919103824"
+    },
+    "starry_dragon": {
+      "name": "starry dragon",
+      "egg_description": "This Egg is faintly surrounded by stardust.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "Star Dragon",
+      "body_type": "Wyvern",
+      "food": "Melon",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "starrydragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "starrydragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "starrydragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "starrydragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "starrydragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "starrydragon_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Starrydragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173523",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Starry_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Starrydragon_00_e_egg_w.png/revision/latest?cb=20240215021427"
+    },
+    "stealth_dragon": {
+      "name": "stealth dragon",
+      "egg_description": "This egg contains Memory powder in it.",
+      "elements": [
+        "dream",
+        "water"
+      ],
+      "rarity": "Rare",
+      "region": "Special",
+      "dragon_type": "Memory Dragon",
+      "body_type": "Draco",
+      "food": "Starfruit",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "stealth",
+        "snowfield",
+        "fantasy",
+        "fury",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "stealthdragon_01_f_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "stealthdragon_01_f_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "stealthdragon_01_f_hatchling_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "stealthdragon_01_m_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "stealthdragon_01_m_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "stealthdragon_01_m_hatchling_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "stealthdragon_02_f_adult_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "stealthdragon_02_f_hatch_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "stealthdragon_02_f_hatchling_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "stealthdragon_02_m_adult_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "stealthdragon_02_m_hatch_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "stealthdragon_02_m_hatchling_pb"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "stealthdragon_03_f_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "stealthdragon_03_f_hatch_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "stealthdragon_03_f_hatchling_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "stealthdragon_03_m_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "stealthdragon_03_m_hatch_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "stealthdragon_03_m_hatchling_b"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "stealthdragon_04_f_adult_y"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "stealthdragon_04_f_hatch_y"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "stealthdragon_04_f_hatchling_y"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "stealthdragon_04_m_adult_y"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "stealthdragon_04_m_hatch_y"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "stealthdragon_04_m_hatchling_y"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "stealthdragon_05_f_adult_bk"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "stealthdragon_05_f_hatch_bk"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "stealthdragon_05_f_hatchling_bk"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "stealthdragon_05_m_adult_bk"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "stealthdragon_05_m_hatch_bk"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "stealthdragon_05_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8a/Stealthdragon_02_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173525",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Stealth_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ef/Stealthdragon_00_e_egg_pb.png/revision/latest?cb=20240203000628"
+    },
+    "stra": {
+      "name": "stra",
+      "egg_description": "This Egg dreams of freedom of all life forms.",
+      "elements": [
+        "wind"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Wind Dragon",
+      "body_type": "Draco",
+      "food": "Grass",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "arcane",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "stra_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "stra_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "stra_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "stra_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "stra_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "stra_01_m_hatchling_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "stra_02_f_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "stra_02_f_hatch_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "stra_02_f_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a2/Stra_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Stra",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Stra_00_e_egg_b.png/revision/latest?cb=20230903173650"
+    },
+    "stud_dragon": {
+      "name": "stud dragon",
+      "egg_description": "This Egg is surrounded by armor.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Common",
+      "region": "Deep Sea",
+      "dragon_type": "Turtle Dragon",
+      "body_type": "Drake",
+      "food": "Haunted Pumpkin",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "studdragon_01_f_adult_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "studdragon_01_f_hatch_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "studdragon_01_f_hatchling_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "studdragon_01_m_adult_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "studdragon_01_m_hatch_rp"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "studdragon_01_m_hatchling_rp"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Studdragon_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Stud_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Studdragon_00_e_egg_rp.png/revision/latest?cb=20240418015134"
+    },
+    "sullae": {
+      "name": "sullae",
+      "egg_description": "This Egg looks like a gourd.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Rare",
+      "region": "Special",
+      "dragon_type": "Gourd Dragon",
+      "body_type": "Draco",
+      "food": "Dark Melon",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "sullae_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "sullae_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "sullae_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "sullae_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "sullae_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "sullae_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Sullae_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sullae",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Sullae_00_e_egg_y.png/revision/latest?cb=20230926141842"
+    },
+    "sura_dragon": {
+      "name": "sura dragon",
+      "egg_description": "This Egg emanates intense heat.",
+      "elements": [
+        "fire"
+      ],
+      "rarity": "Uncommon",
+      "region": "West Yutakan",
+      "dragon_type": "Spark Dragon",
+      "body_type": "Asian",
+      "food": "Drumstick",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "suradragon_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "suradragon_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "suradragon_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "suradragon_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "suradragon_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "suradragon_01_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2c/Suradragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sura_Dragon",
+      "egg_img_url": null
+    },
+    "surprise_dragon": {
+      "name": "surprise dragon",
+      "egg_description": "This Egg is fixed inside a box.",
+      "elements": [
+        "dark",
+        "dream"
+      ],
+      "rarity": "Rare",
+      "region": "Sky Kingdom",
+      "dragon_type": "Playful Dragon",
+      "body_type": "Asian",
+      "food": "Fruit",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "surprisedragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "surprisedragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "surprisedragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "surprisedragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "surprisedragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "surprisedragon_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fa/Surprisedragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20241114001213",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Surprise_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Surprisedragon_00_e_egg_w.png/revision/latest?cb=20241114001348"
+    }
+  }
+}

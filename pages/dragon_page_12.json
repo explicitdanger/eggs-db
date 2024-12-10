@@ -1,0 +1,832 @@
+{
+  "dragon": {
+    "chungmu_haetae": {
+      "name": "chungmu haetae",
+      "egg_description": "This Egg is righteous.",
+      "elements": [
+        "steel",
+        "water"
+      ],
+      "rarity": "Rare",
+      "region": "West Yutakan",
+      "dragon_type": "General Dragon",
+      "body_type": "Drake",
+      "food": "Crab",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "chungmuhaetae_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "chungmuhaetae_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "chungmuhaetae_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "chungmuhaetae_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "chungmuhaetae_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "chungmuhaetae_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Chungmuhaetae_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171923",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Chungmu_Haetae",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Chungmuhaetae_00_e_egg_b.png/revision/latest?cb=20230919104324"
+    },
+    "circle_dragon": {
+      "name": "circle dragon",
+      "egg_description": "This Egg draws a circle on the floor.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Rare",
+      "region": "Sky Kingdom",
+      "dragon_type": "Flight Dragon",
+      "body_type": "Draco",
+      "food": "Grape",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "circledragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "circledragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "circledragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "circledragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "circledragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "circledragon_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Circledragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033757",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Circle_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Circledragon_00_e_egg_w.png/revision/latest?cb=20240724022318"
+    },
+    "citael": {
+      "name": "citael",
+      "egg_description": "This Egg defends itself with its horns and fangs.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Grit Dragon",
+      "body_type": "Draco",
+      "food": "Grape",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "citael_01_n_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "citael_01_n_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "citael_01_n_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Citael_01_n_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171924",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Citael",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Citael_00_e_egg_w.png/revision/latest?cb=20240202230621"
+    },
+    "clavis": {
+      "name": "clavis",
+      "egg_description": "This Egg is covered in roses.",
+      "elements": [
+        "dark",
+        "earth"
+      ],
+      "rarity": "Rare",
+      "region": "Special",
+      "dragon_type": "Flower Dragon",
+      "body_type": "Draco",
+      "food": "Purple Tulip",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "crimson rose",
+        "lucky clover",
+        "pink rose",
+        "frozen rose",
+        "christmas",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "clavis_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "clavis_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "clavis_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "clavis_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "clavis_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "clavis_01_m_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "clavis_02_f_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "clavis_02_f_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "clavis_02_f_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "clavis_02_m_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "clavis_02_m_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "clavis_02_m_hatchling_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "clavis_03_f_adult_g"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "clavis_03_f_hatch_g"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "clavis_03_f_hatchling_g"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "clavis_03_m_adult_g"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "clavis_03_m_hatch_g"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "clavis_03_m_hatchling_g"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "clavis_04_f_adult_rp"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "clavis_04_f_hatch_rp"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "clavis_04_f_hatchling_rp"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "clavis_04_m_adult_rp"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "clavis_04_m_hatch_rp"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "clavis_04_m_hatchling_rp"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "clavis_05_f_adult_b"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "clavis_05_f_hatch_b"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "clavis_05_f_hatchling_b"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "clavis_05_m_adult_b"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "clavis_05_m_hatch_b"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "clavis_05_m_hatchling_b"
+        },
+        {
+          "form_number": "06",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "clavis_06_f_adult_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "clavis_06_f_hatch_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "clavis_06_f_hatchling_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "clavis_06_m_adult_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "clavis_06_m_hatch_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "clavis_06_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Clavis_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171925",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Clavis",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Clavis_00_e_egg_w.png/revision/latest?cb=20231129034226"
+    },
+    "cleio": {
+      "name": "cleio",
+      "egg_description": "This Egg is filled with the will of a guardian.",
+      "elements": [
+        "water",
+        "dream"
+      ],
+      "rarity": "Epic",
+      "region": "Deep Sea",
+      "dragon_type": "Water Dragon",
+      "body_type": "Deep Sea",
+      "food": "Rainbow Fish",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "oblivion",
+        "protection"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cleio_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cleio_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cleio_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cleio_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cleio_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cleio_01_m_hatchling_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cleio_02_f_adult_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cleio_02_f_hatch_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cleio_02_f_hatchling_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cleio_02_m_adult_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cleio_02_m_hatch_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cleio_02_m_hatchling_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cleio_03_f_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cleio_03_f_hatch_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cleio_03_f_hatchling_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cleio_03_m_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cleio_03_m_hatch_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cleio_03_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Cleio_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417062115",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cleio",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/14/Cleio_00_e_egg_b.png/revision/latest?cb=20240215020639"
+    },
+    "clockwork_dragon": {
+      "name": "clockwork dragon",
+      "egg_description": "This Egg's spring has to be wound up.",
+      "elements": [
+        "wind",
+        "steel"
+      ],
+      "rarity": "Uncommon",
+      "region": "West Yutakan",
+      "dragon_type": "Machine Dragon",
+      "body_type": "Drake",
+      "food": "Oil",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "signature",
+        "undead (default)",
+        "undead (signature)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "clockworkdragon_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "clockworkdragon_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "clockworkdragon_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "clockworkdragon_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "clockworkdragon_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "clockworkdragon_01_m_hatchling_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "clockworkdragon_02_f_adult_b"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "clockworkdragon_02_m_adult_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b8/Clockworkdragon_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171928",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Clockwork_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1f/Clockworkdragon_00_e_egg_bk.png/revision/latest?cb=20230919102323"
+    },
+    "cloud_dragon": {
+      "name": "cloud dragon",
+      "egg_description": "This Egg is with the clouds.",
+      "elements": [
+        "water",
+        "lightning"
+      ],
+      "rarity": "Common",
+      "region": "East Yutakan",
+      "dragon_type": "Cloud Dragon",
+      "body_type": "Draco",
+      "food": "Whirl Flower",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cloud_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cloud_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cloud_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cloud_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cloud_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cloud_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2a/Cloud_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171928",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cloud_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Cloud_00_e_egg_b.png/revision/latest?cb=20240202215621"
+    },
+    "cobra_dragon": {
+      "name": "cobra dragon",
+      "egg_description": "This Egg is covered with thick scales.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Snake Dragon",
+      "body_type": "Draco",
+      "food": "Purple Tulip",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cobradragon_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cobradragon_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cobradragon_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "cobradragon_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "cobradragon_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "cobradragon_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/73/Cobradragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171929",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cobra_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Cobradragon_00_e_egg_b.png/revision/latest?cb=20240203000239"
+    }
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "dragon": {
+    "god?_dragon": {
+      "name": "god? dragon",
+      "egg_description": "This Egg has strange yellow spots.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Legendary",
+      "region": "Special",
+      "dragon_type": "Light Dragon",
+      "body_type": "Draco",
+      "food": "Melon",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "godquestiondragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "godquestiondragon_01_m_adult_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Godquestiondragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/God%3F_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Godquestiondragon_00_e_egg_w.png/revision/latest?cb=20240328013959"
+    },
+    "god_dragon": {
+      "name": "god dragon",
+      "egg_description": "This Egg has yellow spots.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Legendary",
+      "region": "East Yutakan",
+      "dragon_type": "Light Dragon",
+      "body_type": "Draco",
+      "food": "Melon",
+      "tradeable": true,
+      "breeding_tier": 0,
+      "forms": [
+        "default",
+        "signature",
+        "undead (default)",
+        "undead (signature)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "goddragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "goddragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "goddragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "goddragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "goddragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "goddragon_01_m_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "goddragon_02_f_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "goddragon_02_m_adult_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/39/Goddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/God_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Goddragon_00_e_egg_w.png/revision/latest?cb=20240202224627"
+    },
+    "god_jr": {
+      "name": "god jr",
+      "egg_description": "This Egg's horns look like whipped cream.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Light Dragon",
+      "body_type": "Draco",
+      "food": "Melon",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "babygoddragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "babygoddragon_01_m_adult_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Goddragonjr_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/God_Jr",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3d/Goddragonjr_00_e_egg_w.png/revision/latest?cb=20240203000214"
+    },
+    "gold_applecheek": {
+      "name": "gold applecheek",
+      "egg_description": "This Egg smells like sweet and sour apples.",
+      "elements": [
+        "dream",
+        "earth"
+      ],
+      "rarity": "Epic",
+      "region": "Special",
+      "dragon_type": "Apple Dragon",
+      "body_type": "Draco",
+      "food": "Apple",
+      "tradeable": false,
+      "breeding_tier": 5,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "goldapplecheek_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "goldapplecheek_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "goldapplecheek_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "goldapplecheek_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "goldapplecheek_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "goldapplecheek_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Goldapplecheek_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gold_Applecheek",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Goldapplecheek_00_e_egg_y.png/revision/latest?cb=20230824080111"
+    },
+    "gold_dragon": {
+      "name": "gold dragon",
+      "egg_description": "This Egg is made of pure gold.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "Gold Dragon",
+      "body_type": "Draco",
+      "food": "Paopao Fruit",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "gold_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "gold_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "gold_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "gold_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "gold_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "gold_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Gold_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gold_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Gold_00_e_egg_yr.png/revision/latest?cb=20240203000442"
+    },
+    "gold_metal": {
+      "name": "gold metal",
+      "egg_description": "This Egg is shines golden bright.",
+      "elements": [
+        "steel"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "Metal Dragon",
+      "body_type": "Draco",
+      "food": "Crab",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "goldmetal_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "goldmetal_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "goldmetal_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "goldmetal_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "goldmetal_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "goldmetal_01_m_hatchling_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Goldmetal_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gold_Metal",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/82/Goldmetal_00_e_egg_y.png/revision/latest?cb=20240203000022"
+    },
+    "golden_angel_dragon": {
+      "name": "golden angel dragon",
+      "egg_description": "This Egg senses the power of angels.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Epic",
+      "region": "Sky Kingdom",
+      "dragon_type": "Angel Dragon",
+      "body_type": "Draco",
+      "food": "Starlight Fruit",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "goldenangeldragon_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "goldenangeldragon_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "goldenangeldragon_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "goldenangeldragon_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "goldenangeldragon_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "goldenangeldragon_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Goldenangeldragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240926004955",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Golden_Angel_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/26/Goldenangeldragon_00_e_egg_w.png/revision/latest?cb=20240926004341"
+    },
+    "golden_azak": {
+      "name": "golden azak",
+      "egg_description": "This Egg possesses a sacred golden glow.",
+      "elements": [
+        "steel",
+        "light"
+      ],
+      "rarity": "Epic",
+      "region": "Sky Kingdom",
+      "dragon_type": "Hextech Dragon",
+      "body_type": "Draco",
+      "food": "Mana",
+      "tradeable": true,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "goldenazak_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "goldenazak_01_m_adult_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/92/Goldenazak_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20241011004452",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Golden_Azak",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f0/Goldenazak_00_e_egg_y.png/revision/latest?cb=20241011004514"
+    }
+  }
+}

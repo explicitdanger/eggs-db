@@ -1,0 +1,715 @@
+{
+  "dragon": {
+    "lambgon": {
+      "name": "lambgon",
+      "egg_description": "This Egg is covered with soft fur.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Uncommon",
+      "region": "West Yutakan",
+      "dragon_type": "Dream Dragon",
+      "body_type": "Draco",
+      "food": "Paopao Fruit",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "clumpy",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "lambgon_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "lambgon_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "lambgon_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "lambgon_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "lambgon_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "lambgon_01_m_hatchling_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "lambgon_02_f_adult_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "lambgon_02_m_adult_y"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Lambgon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lambgon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Lambgon_00_e_egg_y.png/revision/latest?cb=20230919100617"
+    },
+    "lattegon": {
+      "name": "lattegon",
+      "egg_description": "This Egg is topped with cream.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Rare",
+      "region": "Special",
+      "dragon_type": "Coffee Dragon",
+      "body_type": "Draco",
+      "food": "coffee beans",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "cafe latte",
+        "white chocolate latte",
+        "undead (default)",
+        "undead (cafe latte)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "lattegon_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "lattegon_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "lattegon_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "lattegon_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "lattegon_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "lattegon_01_m_hatchling_yr"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "lattegon_02_f_adult_yr"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "lattegon_02_f_hatch_yr"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "lattegon_02_f_hatchling_yr"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "lattegon_02_m_adult_yr"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "lattegon_02_m_hatch_yr"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "lattegon_02_m_hatchling_yr"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "lattegon_03_f_adult_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "lattegon_03_m_adult_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Lattegon_02_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lattegon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Lattegon_00_e_egg_yr.png/revision/latest?cb=20231206033041"
+    },
+    "lauha": {
+      "name": "lauha",
+      "egg_description": "Beautiful horns rise from this Egg.",
+      "elements": [
+        "dream"
+      ],
+      "rarity": "Common",
+      "region": "Deep Sea",
+      "dragon_type": "Fantasy Dragon",
+      "body_type": "Draco",
+      "food": "Piranha",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "lauha_01_f_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "lauha_01_f_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "lauha_01_f_hatchling_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "lauha_01_m_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "lauha_01_m_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "lauha_01_m_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Lauha_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lauha",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Lauha_00_e_egg_b.png/revision/latest?cb=20240215021112"
+    },
+    "lava_dragon": {
+      "name": "lava dragon",
+      "egg_description": "This Egg's shell has solidified lava on it.",
+      "elements": [
+        "fire",
+        "earth"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Lava Dragon",
+      "body_type": "Draco",
+      "food": "Fire Carrot",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "lava_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "lava_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "lava_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "lava_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "lava_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "lava_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Lava_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lava_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c4/Lava_00_e_egg_yr.png/revision/latest?cb=20240202221042"
+    },
+    "leaf_dragon": {
+      "name": "leaf dragon",
+      "egg_description": "Leaves are growing on this Egg.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Leaf Dragon",
+      "body_type": "Draco",
+      "food": "Grass",
+      "tradeable": false,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "leafdragon_01_f_adult_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "gy",
+          "path": "leafdragon_01_f_hatch_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "gy",
+          "path": "leafdragon_01_f_hatchling_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "gy",
+          "path": "leafdragon_01_m_adult_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "gy",
+          "path": "leafdragon_01_m_hatch_gy"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "gy",
+          "path": "leafdragon_01_m_hatchling_gy"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Leafdragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leaf_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Leafdragon_00_e_egg_gy.png/revision/latest?cb=20240202230612"
+    },
+    "leglien": {
+      "name": "leglien",
+      "egg_description": "This Egg spreads poisonous gas.",
+      "elements": [
+        "dream",
+        "wind"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Alien Dragon",
+      "body_type": "Draco",
+      "food": "Starfruit",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "adult",
+          "color_code": "bg",
+          "path": "leglien_01_n_adult_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatch",
+          "color_code": "bg",
+          "path": "leglien_01_n_hatch_bg"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatchling",
+          "color_code": "bg",
+          "path": "leglien_01_n_hatchling_bg"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Leglien_01_n_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leglien",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/51/Leglien_00_e_egg_w.png/revision/latest?cb=20230911182554"
+    },
+    "leo_vector": {
+      "name": "leo vector",
+      "egg_description": "This Egg is being charged.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Rare",
+      "region": "West Yutakan",
+      "dragon_type": "Weapon Dragon",
+      "body_type": "Drake",
+      "food": "Electricity",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "leovector_01_f_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "leovector_01_f_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "leovector_01_f_hatchling_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "leovector_01_m_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "leovector_01_m_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "leovector_01_m_hatchling_pb"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Leovector_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leo_Vector",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Leovector_00_e_egg_pb.png/revision/latest?cb=20231001094001"
+    },
+    "leopard_dragon": {
+      "name": "leopard dragon",
+      "egg_description": "This Egg is found in rock cracks.",
+      "elements": [
+        "water"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Lizard Dragon",
+      "body_type": "Draco",
+      "food": "Rainbow Flower",
+      "tradeable": true,
+      "breeding_tier": 5,
+      "forms": [
+        "default",
+        "enigma",
+        "galaxy",
+        "black night",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "leoparddragon_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "leoparddragon_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "leoparddragon_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "leoparddragon_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "leoparddragon_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "leoparddragon_01_m_hatchling_yr"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "leoparddragon_02_f_adult_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "leoparddragon_02_f_hatch_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "leoparddragon_02_f_hatchling_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "leoparddragon_02_m_adult_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "leoparddragon_02_m_hatch_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "leoparddragon_02_m_hatchling_y"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "leoparddragon_03_f_adult_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "leoparddragon_03_f_hatch_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "leoparddragon_03_f_hatchling_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "leoparddragon_03_m_adult_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "leoparddragon_03_m_hatch_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "leoparddragon_03_m_hatchling_w"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "leoparddragon_04_f_adult_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "leoparddragon_04_f_hatch_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "leoparddragon_04_f_hatchling_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "leoparddragon_04_m_adult_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "leoparddragon_04_m_hatch_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "leoparddragon_04_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/18/Leoparddragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leopard_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/20/Leoparddragon_00_e_egg_yr.png/revision/latest?cb=20240202215355"
+    }
+  }
+}

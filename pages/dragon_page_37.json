@@ -1,0 +1,901 @@
+{
+  "dragon": {
+    "magnello": {
+      "name": "magnello",
+      "egg_description": "This Egg's coral grows.",
+      "elements": [
+        "fire",
+        "dream"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "Coral Dragon",
+      "body_type": "Wyvern",
+      "food": "Firemelon",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "magnello_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "magnello_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "magnello_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "magnello_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "magnello_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "magnello_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cd/Magnello_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Magnello",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Magnello_00_e_egg_yr.png/revision/latest?cb=20230824075612"
+    },
+    "mago": {
+      "body_type": "Munia",
+      "breeding_tier": 2,
+      "dragon_type": "Egg Dragon",
+      "egg_description": "This Egg evokes sadness.",
+      "egg_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
+      "elements": [
+        "steel",
+        "dark"
+      ],
+      "food": "Purple Tulip",
+      "forms": [
+        "Default"
+      ],
+      "name": "Mago",
+      "profile_img_url": "https://dvc.wiki.gg/images/6/6d/Mago_Egg_Sprite.png",
+      "profile_url": "https://dvc.wiki.gg/wiki/mago",
+      "rarity": "Rare",
+      "region": "Sky Kingdom",
+      "tradeable": true,
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "mago_01_n_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "mago_01_n_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "mago_01_n_adult_bk"
+        }
+      ]
+    },
+    "makara": {
+      "name": "makara",
+      "egg_description": "This Egg contains the power of a corrupted universe.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Epic",
+      "region": "West Yutakan",
+      "dragon_type": "Space Dragon",
+      "body_type": "Draco",
+      "food": "Dark Melon",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "makara_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "makara_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "makara_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "makara_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "makara_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "makara_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Makara_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Makara",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Makara_00_e_egg_w.png/revision/latest?cb=20240125024202"
+    },
+    "malcartis": {
+      "name": "malcartis",
+      "egg_description": "This Egg exudes overwhelming power and authority.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Rare",
+      "region": "Special",
+      "dragon_type": "Demon World Dragon",
+      "body_type": "Draco",
+      "food": "Purple Tulip",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "p_bloodmoon",
+        "p_frostmoon",
+        "p_brightmoon",
+        "p_vipermoon",
+        "bloodmoon",
+        "frostmoon",
+        "brightmoon",
+        "vipermoon",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "malcartis_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "malcartis_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "malcartis_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "malcartis_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "malcartis_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "malcartis_01_m_hatchling_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "malcartis_02_f_adult_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "malcartis_02_f_hatch_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "malcartis_02_f_hatchling_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "malcartis_02_m_adult_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "malcartis_02_m_hatch_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "malcartis_02_m_hatchling_r"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "malcartis_03_f_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "malcartis_03_f_hatch_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "malcartis_03_f_hatchling_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "malcartis_03_m_adult_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "malcartis_03_m_hatch_b"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "malcartis_03_m_hatchling_b"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "malcartis_04_f_adult_w"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "malcartis_04_f_hatch_w"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "malcartis_04_f_hatchling_w"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "malcartis_04_m_adult_w"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "malcartis_04_m_hatch_w"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "malcartis_04_m_hatchling_w"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "malcartis_05_f_adult_g"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "malcartis_05_f_hatch_g"
+        },
+        {
+          "form_number": "05",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "malcartis_05_f_hatchling_g"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "malcartis_05_m_adult_g"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "malcartis_05_m_hatch_g"
+        },
+        {
+          "form_number": "05",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "malcartis_05_m_hatchling_g"
+        },
+        {
+          "form_number": "06",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "malcartis_06_f_adult_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "malcartis_06_f_hatch_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "malcartis_06_f_hatchling_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "malcartis_06_m_adult_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "malcartis_06_m_hatch_r"
+        },
+        {
+          "form_number": "06",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "malcartis_06_m_hatchling_r"
+        },
+        {
+          "form_number": "07",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "malcartis_07_f_adult_b"
+        },
+        {
+          "form_number": "07",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "malcartis_07_f_hatch_b"
+        },
+        {
+          "form_number": "07",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "malcartis_07_f_hatchling_b"
+        },
+        {
+          "form_number": "07",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "malcartis_07_m_adult_b"
+        },
+        {
+          "form_number": "07",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "malcartis_07_m_hatch_b"
+        },
+        {
+          "form_number": "07",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "malcartis_07_m_hatchling_b"
+        },
+        {
+          "form_number": "08",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "malcartis_08_f_adult_w"
+        },
+        {
+          "form_number": "08",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "malcartis_08_f_hatch_w"
+        },
+        {
+          "form_number": "08",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "malcartis_08_f_hatchling_w"
+        },
+        {
+          "form_number": "08",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "malcartis_08_m_adult_w"
+        },
+        {
+          "form_number": "08",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "malcartis_08_m_hatch_w"
+        },
+        {
+          "form_number": "08",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "malcartis_08_m_hatchling_w"
+        },
+        {
+          "form_number": "09",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "malcartis_09_f_adult_g"
+        },
+        {
+          "form_number": "09",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "malcartis_09_f_hatch_g"
+        },
+        {
+          "form_number": "09",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "malcartis_09_f_hatchling_g"
+        },
+        {
+          "form_number": "09",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "malcartis_09_m_adult_g"
+        },
+        {
+          "form_number": "09",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "malcartis_09_m_hatch_g"
+        },
+        {
+          "form_number": "09",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "malcartis_09_m_hatchling_g"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/df/Malcartis_02_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240829010122",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Malcartis",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Malcartis_00_e_egg_r.png/revision/latest?cb=20240829003737"
+    },
+    "maldek": {
+      "name": "maldek",
+      "egg_description": "This Egg wishes to absorb life from a living being.",
+      "elements": [
+        "earth"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Earth Dragon",
+      "body_type": "Drake",
+      "food": "Paopao Fruit",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "arcane",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "maldek_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "maldek_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "maldek_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "maldek_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "maldek_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "maldek_01_m_hatchling_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "maldek_02_m_adult_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "maldek_02_m_hatch_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "maldek_02_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Maldek_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maldek",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Maldek_00_e_egg_r.png/revision/latest?cb=20230831173932"
+    },
+    "maloden": {
+      "name": "maloden",
+      "egg_description": "Enormous in size, this Egg has horns.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Massive Dragon",
+      "body_type": "Draco",
+      "food": "Ore",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "underground castle",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "maloden_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "maloden_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "maloden_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "maloden_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "maloden_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "maloden_01_m_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "maloden_02_f_adult_g"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "maloden_02_f_hatch_g"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "maloden_02_f_hatchling_g"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "maloden_02_m_adult_g"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "maloden_02_m_hatch_g"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "maloden_02_m_hatchling_g"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Maloden_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maloden",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/07/Maloden_00_e_egg_w.png/revision/latest?cb=20240202235414"
+    },
+    "mamunia": {
+      "name": "mamunia",
+      "egg_description": "This Egg loves water.",
+      "elements": [
+        "water",
+        "dream"
+      ],
+      "rarity": "Uncommon",
+      "region": "Deep Sea",
+      "dragon_type": "Egg Dragon",
+      "body_type": "Munia",
+      "food": "Rainbow Fish",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "adult",
+          "color_code": "b",
+          "path": "mamunia_01_n_adult_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatch",
+          "color_code": "b",
+          "path": "mamunia_01_n_hatch_b"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatchling",
+          "color_code": "b",
+          "path": "mamunia_01_n_hatchling_b"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Mamunia_01_n_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mamunia",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Mamunia_00_e_egg_b.png/revision/latest?cb=20240215021140"
+    },
+    "maniacal_power_dragon": {
+      "name": "maniacal power dragon",
+      "egg_description": "This Egg holds tremendously rough power.",
+      "elements": [
+        "dark",
+        "earth"
+      ],
+      "rarity": "Epic",
+      "region": "Special",
+      "dragon_type": "Power Dragon",
+      "body_type": "Draco",
+      "food": "Paopao Fruit",
+      "tradeable": false,
+      "breeding_tier": 5,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "maniacalpowerdragon_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "maniacalpowerdragon_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "maniacalpowerdragon_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "maniacalpowerdragon_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "maniacalpowerdragon_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "maniacalpowerdragon_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/57/Maniacalpowerdragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maniacal_Power_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Maniacalpowerdragon_00_e_egg_yr.png/revision/latest?cb=20230824080039"
+    }
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "dragon": {
+    "siamese_dragon": {
+      "name": "siamese dragon",
+      "egg_description": "This Egg has clear boundaries.",
+      "elements": [
+        "fire",
+        "steel"
+      ],
+      "rarity": "Uncommon",
+      "region": "East Yutakan",
+      "dragon_type": "Two-Headed Dragon",
+      "body_type": "Draco",
+      "food": "Fire Carrot",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default",
+        "festival",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "siamesedragon_01_f_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "siamesedragon_01_f_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "siamesedragon_01_f_hatchling_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "siamesedragon_01_m_adult_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "siamesedragon_01_m_hatch_r"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "siamesedragon_01_m_hatchling_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "siamesedragon_02_f_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "siamesedragon_02_f_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "siamesedragon_02_f_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "siamesedragon_02_m_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "siamesedragon_02_m_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "siamesedragon_02_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e3/Siamesedragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Siamese_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/80/Imagesiamegg.png/revision/latest?cb=20230912205313"
+    },
+    "sigma": {
+      "name": "sigma",
+      "egg_description": "This Egg wishes to protect darkness.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Rare",
+      "region": "Deep Sea",
+      "dragon_type": "Dark Dragon",
+      "body_type": "Draco",
+      "food": "Purple Tulip",
+      "tradeable": false,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "persion",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "sigma_01_f_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "sigma_01_f_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "sigma_01_f_hatchling_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "sigma_01_m_adult_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "sigma_01_m_hatch_pb"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "sigma_01_m_hatchling_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "sigma_02_f_adult_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "sigma_02_f_hatch_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "sigma_02_f_hatchling_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "sigma_02_m_adult_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "sigma_02_m_hatch_r"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "sigma_02_m_hatchling_r"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Sigma_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sigma",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Sigma_00_e_egg_pb.png/revision/latest?cb=20240215021402"
+    },
+    "sion": {
+      "name": "sion",
+      "egg_description": "This Egg emits primordial light.",
+      "elements": [
+        "light"
+      ],
+      "rarity": "Common",
+      "region": "Deep Sea",
+      "dragon_type": "Light Dragon",
+      "body_type": "Draco",
+      "food": "Grape",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "sion_01_f_adult_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "sion_01_f_hatch_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "sion_01_f_hatchling_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "g",
+          "path": "sion_01_m_adult_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "g",
+          "path": "sion_01_m_hatch_g"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "g",
+          "path": "sion_01_m_hatchling_g"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d5/Sion_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sion",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e2/Sion_00_e_egg_g.png/revision/latest?cb=20240418015134"
+    },
+    "six-leg_horn": {
+      "name": "six-leg horn",
+      "egg_description": "This Egg's horn is growing little by little.",
+      "elements": [
+        "wind",
+        "light"
+      ],
+      "rarity": "Common",
+      "region": "East Yutakan",
+      "dragon_type": "Horn Dragon",
+      "body_type": "Draco",
+      "food": "Haunted Pumpkin",
+      "tradeable": true,
+      "breeding_tier": 4,
+      "forms": [
+        "default",
+        "night sky six-legged horn",
+        "sunlight six-legged horn",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "sixleghorn_01_f_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "sixleghorn_01_f_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "sixleghorn_01_f_hatchling_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "y",
+          "path": "sixleghorn_01_m_adult_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "y",
+          "path": "sixleghorn_01_m_hatch_y"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "y",
+          "path": "sixleghorn_01_m_hatchling_y"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "sixleghorn_02_f_adult_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "sixleghorn_02_f_hatch_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "sixleghorn_02_f_hatchling_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "pb",
+          "path": "sixleghorn_02_m_adult_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "pb",
+          "path": "sixleghorn_02_m_hatch_pb"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "pb",
+          "path": "sixleghorn_02_m_hatchling_pb"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "sixleghorn_03_f_adult_rp"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "sixleghorn_03_f_hatch_rp"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "sixleghorn_03_f_hatchling_rp"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "rp",
+          "path": "sixleghorn_03_m_adult_rp"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "rp",
+          "path": "sixleghorn_03_m_hatch_rp"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "rp",
+          "path": "sixleghorn_03_m_hatchling_rp"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/16/Sixleghorn_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Six-Leg_Horn",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/be/Sixleghorn_00_e_egg_y.png/revision/latest?cb=20240202221554"
+    },
+    "skelegon": {
+      "name": "skelegon",
+      "egg_description": "This Egg has bones sticking out.",
+      "elements": [
+        "dark"
+      ],
+      "rarity": "Uncommon",
+      "region": "West Yutakan",
+      "dragon_type": "Skull Dragon",
+      "body_type": "Wyvern",
+      "food": "?",
+      "tradeable": true,
+      "breeding_tier": 3,
+      "forms": [
+        "default"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "p",
+          "path": "skelegon_01_f_adult_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "p",
+          "path": "skelegon_01_f_hatch_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "p",
+          "path": "skelegon_01_f_hatchling_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "p",
+          "path": "skelegon_01_m_adult_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "p",
+          "path": "skelegon_01_m_hatch_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "p",
+          "path": "skelegon_01_m_hatchling_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "adult",
+          "color_code": "p",
+          "path": "skelegon_01_n_adult_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatch",
+          "color_code": "p",
+          "path": "skelegon_01_n_hatch_p"
+        },
+        {
+          "form_number": "01",
+          "gender": "n",
+          "stage": "hatchling",
+          "color_code": "p",
+          "path": "skelegon_01_n_hatchling_p"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ed/Skelegon_01_n_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173517",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Skelegon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Skelegon_00_e_egg_p.png/revision/latest?cb=20230919103706"
+    },
+    "skink_dragon": {
+      "name": "skink dragon",
+      "egg_description": "This Egg hatches on sand.",
+      "elements": [
+        "steel"
+      ],
+      "rarity": "Rare",
+      "region": "East Yutakan",
+      "dragon_type": "lizard Dragon",
+      "body_type": "Draco",
+      "food": "Paopao Fruit",
+      "tradeable": true,
+      "breeding_tier": 5,
+      "forms": [
+        "default",
+        "white",
+        "flame",
+        "axanthic",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "skinkdragon_01_f_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "skinkdragon_01_f_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "skinkdragon_01_f_hatchling_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "skinkdragon_01_m_adult_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "skinkdragon_01_m_hatch_bk"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "skinkdragon_01_m_hatchling_bk"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "skinkdragon_02_f_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "skinkdragon_02_f_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "skinkdragon_02_f_hatchling_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "skinkdragon_02_m_adult_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "skinkdragon_02_m_hatch_w"
+        },
+        {
+          "form_number": "02",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "skinkdragon_02_m_hatchling_w"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "skinkdragon_03_f_adult_r"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "skinkdragon_03_f_hatch_r"
+        },
+        {
+          "form_number": "03",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "skinkdragon_03_f_hatchling_r"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "r",
+          "path": "skinkdragon_03_m_adult_r"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "r",
+          "path": "skinkdragon_03_m_hatch_r"
+        },
+        {
+          "form_number": "03",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "r",
+          "path": "skinkdragon_03_m_hatchling_r"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "skinkdragon_04_f_adult_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "skinkdragon_04_f_hatch_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "skinkdragon_04_f_hatchling_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "bk",
+          "path": "skinkdragon_04_m_adult_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "bk",
+          "path": "skinkdragon_04_m_hatch_bk"
+        },
+        {
+          "form_number": "04",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "bk",
+          "path": "skinkdragon_04_m_hatchling_bk"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Skinkdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173517",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Skink_Dragon",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Skinkdragon_00_e_egg_bk.png/revision/latest?cb=20240202223827"
+    },
+    "skoorum": {
+      "name": "skoorum",
+      "egg_description": "This Egg accumulates fury of fire.",
+      "elements": [
+        "fire"
+      ],
+      "rarity": "Epic",
+      "region": "East Yutakan",
+      "dragon_type": "Guardian Dragon",
+      "body_type": "Draco",
+      "food": "Ham",
+      "tradeable": false,
+      "breeding_tier": 1,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "skoorum_01_f_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "skoorum_01_f_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "skoorum_01_f_hatchling_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "yr",
+          "path": "skoorum_01_m_adult_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "yr",
+          "path": "skoorum_01_m_hatch_yr"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "yr",
+          "path": "skoorum_01_m_hatchling_yr"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Skoorum_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173517",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Skoorum",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4e/Skoorum_00_e_egg_yr.png/revision/latest?cb=20240202234538"
+    },
+    "sky_cuanade": {
+      "name": "sky cuanade",
+      "egg_description": "This Egg senses urgency.",
+      "elements": [
+        "wind",
+        "light"
+      ],
+      "rarity": "Rare",
+      "region": "Sky Kingdom",
+      "dragon_type": "Helper Dragon",
+      "body_type": "Draco",
+      "food": "Whirl Flower",
+      "tradeable": true,
+      "breeding_tier": 2,
+      "forms": [
+        "default",
+        "undead (default)"
+      ],
+      "assets": [
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "skycuanade_01_f_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "skycuanade_01_f_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "f",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "skycuanade_01_f_hatchling_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "adult",
+          "color_code": "w",
+          "path": "skycuanade_01_m_adult_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatch",
+          "color_code": "w",
+          "path": "skycuanade_01_m_hatch_w"
+        },
+        {
+          "form_number": "01",
+          "gender": "m",
+          "stage": "hatchling",
+          "color_code": "w",
+          "path": "skycuanade_01_m_hatchling_w"
+        }
+      ],
+      "special_actions": [],
+      "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/67/Skycuanade_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033803",
+      "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sky_Cuanade",
+      "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f5/Skycuanade_00_e_egg_w.png/revision/latest?cb=20240724022317"
+    }
+  }
+}
