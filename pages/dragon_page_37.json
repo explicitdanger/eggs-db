@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "magnello": {
         "name": "magnello",
@@ -67,7 +67,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cd/Magnello_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Magnello",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Magnello_00_e_egg_yr.png/revision/latest?cb=20230824075612"
-      },
+      }
+    },
+    {
       "mago": {
         "body_type": "Munia",
         "breeding_tier": 2,
@@ -111,7 +113,9 @@
             "path": "mago_01_n_adult_bk"
           }
         ]
-      },
+      }
+    },
+    {
       "makara": {
         "name": "makara",
         "egg_description": "This Egg contains the power of a corrupted universe.",
@@ -177,7 +181,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Makara_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Makara",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Makara_00_e_egg_w.png/revision/latest?cb=20240125024202"
-      },
+      }
+    },
+    {
       "malcartis": {
         "name": "malcartis",
         "egg_description": "This Egg exudes overwhelming power and authority.",
@@ -587,7 +593,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/df/Malcartis_02_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240829010122",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Malcartis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Malcartis_00_e_egg_r.png/revision/latest?cb=20240829003737"
-      },
+      }
+    },
+    {
       "maldek": {
         "name": "maldek",
         "egg_description": "This Egg wishes to absorb life from a living being.",
@@ -675,7 +683,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Maldek_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maldek",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Maldek_00_e_egg_r.png/revision/latest?cb=20230831173932"
-      },
+      }
+    },
+    {
       "maloden": {
         "name": "maloden",
         "egg_description": "Enormous in size, this Egg has horns.",
@@ -784,7 +794,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Maloden_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maloden",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/07/Maloden_00_e_egg_w.png/revision/latest?cb=20240202235414"
-      },
+      }
+    },
+    {
       "mamunia": {
         "name": "mamunia",
         "egg_description": "This Egg loves water.",
@@ -830,7 +842,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Mamunia_01_n_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mamunia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Mamunia_00_e_egg_b.png/revision/latest?cb=20240215021140"
-      },
+      }
+    },
+    {
       "maniacal_power_dragon": {
         "name": "maniacal power dragon",
         "egg_description": "This Egg holds tremendously rough power.",

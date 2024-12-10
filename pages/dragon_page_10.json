@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "caleuche": {
         "name": "caleuche",
@@ -110,7 +110,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/db/Caleuche_01_f_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Caleuche",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d1/Caleuche_00_e_egg_g.png/revision/latest?cb=20240509012512"
-      },
+      }
+    },
+    {
       "caretaker_blue_dragon": {
         "name": "caretaker blue dragon",
         "egg_description": "This blue Egg has eyebrows and eyes.",
@@ -262,7 +264,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d8/Caretakerbluedragon_02_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171917",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Caretaker_Blue_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Caretakerbluedragon_00_e_egg_b.png/revision/latest?cb=20240215020619"
-      },
+      }
+    },
+    {
       "caretaker_darknix": {
         "name": "caretaker darknix",
         "egg_description": "This Egg has two eyes filled with red energy.",
@@ -385,7 +389,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Caretakerdarknix_02_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20241114001212",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Caretaker_Darknix",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Caretakerdarknix_00_e_egg_bk.png/revision/latest?cb=20241114001348"
-      },
+      }
+    },
+    {
       "caretaker_god_dragon": {
         "name": "caretaker god dragon",
         "egg_description": "This Egg has yellow spots and eyes.",
@@ -508,7 +514,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Keepergoddragon_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Caretaker_God_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Keepergoddragon_00_e_egg_w.png/revision/latest?cb=20231116075254"
-      },
+      }
+    },
+    {
       "caslux": {
         "name": "caslux",
         "egg_description": "This Egg contains two lives.",
@@ -574,7 +582,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a1/Caslux_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033757",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Caslux",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Caslux_00_e_egg_w.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "castigue": {
         "name": "castigue",
         "egg_description": "This Egg knows the weight of sin.",
@@ -727,7 +737,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/48/Castigue_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419184728",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Castigue",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Castigue_00_e_egg_w.png/revision/latest?cb=20240415175445"
-      },
+      }
+    },
+    {
       "catsgon": {
         "name": "catsgon",
         "egg_description": "This Egg has a small bell attached to it.",
@@ -836,7 +848,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/df/Catsgon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171920",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Catsgon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/06/Catsgon_00_e_egg_p.png/revision/latest?cb=20240202234708"
-      },
+      }
+    },
+    {
       "celsior": {
         "name": "celsior",
         "egg_description": "This Egg pulls in stars with a subtle light.",

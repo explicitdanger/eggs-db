@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "star_ace": {
         "name": "star ace",
@@ -109,7 +109,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Starace_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173522",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Star_Ace",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Starace_00_e_egg_w.png/revision/latest?cb=20230919103824"
-      },
+      }
+    },
+    {
       "starry_dragon": {
         "name": "starry dragon",
         "egg_description": "This Egg is faintly surrounded by stardust.",
@@ -175,7 +177,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Starrydragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173523",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Starry_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Starrydragon_00_e_egg_w.png/revision/latest?cb=20240215021427"
-      },
+      }
+    },
+    {
       "stealth_dragon": {
         "name": "stealth dragon",
         "egg_description": "This egg contains Memory powder in it.",
@@ -414,7 +418,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8a/Stealthdragon_02_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173525",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Stealth_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ef/Stealthdragon_00_e_egg_pb.png/revision/latest?cb=20240203000628"
-      },
+      }
+    },
+    {
       "stra": {
         "name": "stra",
         "egg_description": "This Egg dreams of freedom of all life forms.",
@@ -502,7 +508,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a2/Stra_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Stra",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Stra_00_e_egg_b.png/revision/latest?cb=20230903173650"
-      },
+      }
+    },
+    {
       "stud_dragon": {
         "name": "stud dragon",
         "egg_description": "This Egg is surrounded by armor.",
@@ -568,7 +576,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Studdragon_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Stud_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Studdragon_00_e_egg_rp.png/revision/latest?cb=20240418015134"
-      },
+      }
+    },
+    {
       "sullae": {
         "name": "sullae",
         "egg_description": "This Egg looks like a gourd.",
@@ -634,7 +644,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Sullae_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sullae",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Sullae_00_e_egg_y.png/revision/latest?cb=20230926141842"
-      },
+      }
+    },
+    {
       "sura_dragon": {
         "name": "sura dragon",
         "egg_description": "This Egg emanates intense heat.",
@@ -700,7 +712,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2c/Suradragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sura_Dragon",
         "egg_img_url": null
-      },
+      }
+    },
+    {
       "surprise_dragon": {
         "name": "surprise dragon",
         "egg_description": "This Egg is fixed inside a box.",

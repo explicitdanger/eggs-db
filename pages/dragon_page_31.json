@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "kangkang": {
         "name": "kangkang",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Kangkang_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Kangkang",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Kangkang_00_e_egg_r.png/revision/latest?cb=20230926135137"
-      },
+      }
+    },
+    {
       "kanthaka": {
         "name": "kanthaka",
         "egg_description": "This Egg calls forth the bitter cold.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Kanthaka_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Kanthaka",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ad/Kanthaka_00_e_egg_bk.png/revision/latest?cb=20240229021314"
-      },
+      }
+    },
+    {
       "karura": {
         "name": "karura",
         "egg_description": "This Egg awaits the strong one.",
@@ -198,7 +202,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Karura_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Karura",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fc/Karura_00_e_egg_w.png/revision/latest?cb=20240202225153"
-      },
+      }
+    },
+    {
       "kelp_swamp_dragon": {
         "name": "kelp swamp dragon",
         "egg_description": "This Egg is wearing seaweed.",
@@ -264,7 +270,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e2/Kelpswampdragon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Kelp_Swamp_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Kelpswampdragon_00_e_egg_b.png/revision/latest?cb=20240402081312"
-      },
+      }
+    },
+    {
       "khan": {
         "name": "khan",
         "egg_description": "This Egg has three blue horns.",
@@ -330,7 +338,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a4/Khan_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Khan",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/63/Khan_00_e_egg_b.png/revision/latest?cb=20240202224925"
-      },
+      }
+    },
+    {
       "khan_marino": {
         "name": "khan marino",
         "egg_description": "The dragon inside this egg has a pink glow.",
@@ -396,7 +406,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/af/Khanmarino_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Khan_Marino",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Khanmarino_00_e_egg_rp.png/revision/latest?cb=20240203000127"
-      },
+      }
+    },
+    {
       "kinder": {
         "name": "kinder",
         "egg_description": "This Egg spreads fantasies.",
@@ -462,7 +474,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/11/Kinder_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240427083349",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Kinder",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Kinder_00_e_egg_yr.png/revision/latest?cb=20240425005009"
-      },
+      }
+    },
+    {
       "kirin": {
         "name": "kirin",
         "egg_description": "This Egg has a golden horn.",

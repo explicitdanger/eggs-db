@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "augus": {
         "name": "augus",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Augus_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Augus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Augus_00_e_egg_g.png/revision/latest?cb=20240509005224"
-      },
+      }
+    },
+    {
       "aurelia": {
         "name": "aurelia",
         "egg_description": "This Egg resembles a jellyfish.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Aurelia_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419190312",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Aurelia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4f/Aurelia_00_e_egg_b.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "auros": {
         "name": "auros",
         "egg_description": "This Egg shines with a beautiful red hue.",
@@ -198,7 +202,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Auros_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417062114",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Auros",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/20/Auros_00_e_egg_r.png/revision/latest?cb=20240314024707"
-      },
+      }
+    },
+    {
       "avernale": {
         "name": "avernale",
         "egg_description": "This Egg shines in dark places.",
@@ -308,7 +314,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Avernale_02_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419185940",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Avernale",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Avernale_00_e_egg_bk.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "azak": {
         "name": "azak",
         "egg_description": "This Egg has large pincers.",
@@ -361,7 +369,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Azak_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171858",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Azak",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Azak_00_e_egg_b.png/revision/latest?cb=20240202235422"
-      },
+      }
+    },
+    {
       "baal": {
         "name": "baal",
         "egg_description": "This Egg has fins.",
@@ -428,7 +438,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Baal_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171859",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baal",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3b/Baal_00_e_egg_pb.png/revision/latest?cb=20240202225416"
-      },
+      }
+    },
+    {
       "baba": {
         "name": "baba",
         "egg_description": "This Egg uses its antennae to search for food.",
@@ -538,7 +550,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/32/Baba_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240718021354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baba",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Baba_00_e_egg_w.png/revision/latest?cb=20240718005926"
-      },
+      }
+    },
+    {
       "baby_darknix": {
         "name": "baby darknix",
         "egg_description": "This Egg follows the dark with its eyes.",

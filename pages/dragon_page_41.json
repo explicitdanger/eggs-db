@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "mystic_tiny": {
         "name": "mystic tiny",
@@ -80,7 +80,9 @@
           }
         ],
         "special_actions": []
-      },
+      }
+    },
+    {
       "naga": {
         "name": "naga",
         "egg_description": "This Egg has horns as hard as ivory.",
@@ -189,7 +191,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b2/Naga_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Naga",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Naga_00_e_egg_b.png/revision/latest?cb=20240314025733"
-      },
+      }
+    },
+    {
       "najeon": {
         "name": "najeon",
         "egg_description": "This Egg looks like a craft.",
@@ -256,7 +260,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Najeon_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240517015932",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Najeon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Najeon_00_e_egg_pb.png/revision/latest?cb=20240516005122"
-      },
+      }
+    },
+    {
       "nakir": {
         "name": "nakir",
         "egg_description": "This Egg has a horn of wisdom growing from it.",
@@ -408,7 +414,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c9/Nakir_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033801",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nakir",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dd/Nakir_00_e_egg_w.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "nebula": {
         "name": "nebula",
         "egg_description": "This Egg holds the energy of the stars.",
@@ -453,7 +461,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ab/Nebula_01_n_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nebula",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f9/Nebula_00_e_egg_bk.png/revision/latest?cb=20240202230338"
-      },
+      }
+    },
+    {
       "nello": {
         "name": "nello",
         "egg_description": "This Egg's horns continue to grow.",
@@ -519,7 +529,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Nello_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nello",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Nello_00_e_egg_p.png/revision/latest?cb=20240202221245"
-      },
+      }
+    },
+    {
       "neon_dragon": {
         "name": "neon dragon",
         "egg_description": "This Egg emits a spectrum of colors.",
@@ -585,7 +597,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Neondragon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Neon_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a3/Neondragon_00_e_egg_p.png/revision/latest?cb=20230919093617"
-      },
+      }
+    },
+    {
       "neptune": {
         "name": "neptune",
         "egg_description": "This Egg emits a special light.",

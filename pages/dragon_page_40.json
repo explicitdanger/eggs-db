@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "mud_dragon": {
         "name": "mud dragon",
@@ -46,7 +46,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a1/Mud_01_n_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mud_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1b/Mud_00_e_egg_yr.png/revision/latest?cb=20240203000102"
-      },
+      }
+    },
+    {
       "mummy_dragon": {
         "name": "mummy dragon",
         "egg_description": "This Egg is wrapped in bandages.",
@@ -112,7 +114,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1b/Mummydragon_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mummy_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/84/Mummydragon_00_e_egg_g.png/revision/latest?cb=20231026193809"
-      },
+      }
+    },
+    {
       "munkar": {
         "name": "munkar",
         "egg_description": "This Egg is searching for a sage.",
@@ -264,7 +268,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/da/Munkar_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033800",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Munkar",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Munkar_00_e_egg_bk.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "mushroom_dragon": {
         "name": "mushroom dragon",
         "egg_description": "The Egg is moist and bouncy.",
@@ -346,7 +352,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/db/Mushroom_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mushroom_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b7/Mushroom_00_e_egg_yr.png/revision/latest?cb=20240202224229"
-      },
+      }
+    },
+    {
       "mushroom_knight_dragon": {
         "name": "mushroom knight dragon",
         "egg_description": "This Egg resembles a hard mushroom.",
@@ -413,7 +421,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Mushroomknight_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mushroom_Knight_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Mushroomknight_00_e_egg_b.png/revision/latest?cb=20240203000111"
-      },
+      }
+    },
+    {
       "music_dragon": {
         "name": "music dragon",
         "egg_description": "This Egg holds a melody.",
@@ -510,7 +520,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/ff/Musicdragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033801",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Music_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4d/Musicdragon_00_e_egg_gy.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "mustard_hammer": {
         "name": "mustard hammer",
         "egg_description": "This Egg holds tremendous power.",
@@ -577,7 +589,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Mustardhammer_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mustard_Hammer",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ac/Mustardhammer_00_e_egg_y.png/revision/latest?cb=20230912083614"
-      },
+      }
+    },
+    {
       "mystic_arts": {
         "name": "mystic arts",
         "egg_description": "This Egg constantly watches its surroundings.",

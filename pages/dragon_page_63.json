@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "vlad": {
         "name": "vlad",
@@ -124,7 +124,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Vlad_02_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20241121004059",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vlad",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/64/Vlad_00_e_egg_bk.png/revision/latest?cb=20241121003619"
-      },
+      }
+    },
+    {
       "volcano_dragon": {
         "name": "volcano dragon",
         "egg_description": "This Egg is made of lava.",
@@ -190,7 +192,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Volcano_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Volcano_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3d/Volcano_00_e_egg_r.png/revision/latest?cb=20240202215933"
-      },
+      }
+    },
+    {
       "voncias": {
         "name": "voncias",
         "egg_description": "This Egg is heavy contrary to its looks.",
@@ -257,7 +261,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/99/Voncias_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Voncias",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Voncias_00_e_egg_b.png/revision/latest?cb=20240202215555"
-      },
+      }
+    },
+    {
       "vonsharkgon": {
         "name": "vonsharkgon",
         "egg_description": "This Egg has white fins.",
@@ -324,7 +330,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/57/Vonsharkgon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vonsharkgon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a2/Vonsharkgon_00_e_egg_b.png/revision/latest?cb=20240202235523"
-      },
+      }
+    },
+    {
       "voodoo_dragon": {
         "name": "voodoo dragon",
         "egg_description": "This Egg gives off creepy vibe.",
@@ -389,7 +397,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1a/Voodoodragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Voodoo_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/95/Voodoodragon_00_e_egg_yr.png/revision/latest?cb=20231117001426"
-      },
+      }
+    },
+    {
       "vritra": {
         "name": "vritra",
         "egg_description": "This Egg emits a light filled with hatred.",
@@ -455,7 +465,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Vritra_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033448",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vritra",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Vritra_00_e_egg_p.png/revision/latest?cb=20240627025546"
-      },
+      }
+    },
+    {
       "warpy": {
         "name": "warpy",
         "egg_description": "This Egg opens portals.",
@@ -572,7 +584,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Warpy_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240727071127",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Warpy",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Warpy_00_e_egg_b.png/revision/latest?cb=20240726063814"
-      },
+      }
+    },
+    {
       "water_dragon": {
         "name": "water dragon",
         "egg_description": "This Egg looks like it's wearing a crown.",

@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "psyker": {
         "name": "psyker",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Psyker_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Psyker",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4f/Psyker_00_e_egg_pb.png/revision/latest?cb=20240509014451"
-      },
+      }
+    },
+    {
       "pummunia": {
         "name": "pummunia",
         "egg_description": "This Egg flutters in search of sweet treats.",
@@ -105,7 +107,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/96/Pummunia_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004958",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pummunia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Pummunia_00_e_egg_yr.png/revision/latest?cb=20241017005208"
-      },
+      }
+    },
+    {
       "puppeteer": {
         "name": "puppeteer",
         "egg_description": "This Egg understands loneliness.",
@@ -229,7 +233,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Puppeteer_02_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Puppeteer",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/be/Puppeteer_00_e_egg_r.png/revision/latest?cb=20240523004138"
-      },
+      }
+    },
+    {
       "pure_evil_non": {
         "name": "pure evil non",
         "egg_description": "This Egg wants to create its own world.",
@@ -294,7 +300,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Pureevilnon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pure_Evil_Non",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Pureevilnon_00_e_egg_r.png/revision/latest?cb=20231129043852"
-      },
+      }
+    },
+    {
       "pure_white_fides": {
         "name": "pure white fides",
         "egg_description": "This Egg emits lightning.",
@@ -361,7 +369,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5b/Purewhitefides_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pure_White_Fides",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Purewhitefides_00_e_egg_w.png/revision/latest?cb=20231129050912"
-      },
+      }
+    },
+    {
       "purple_lips": {
         "name": "purple lips",
         "egg_description": "This Egg holds a beautiful jewel.",
@@ -427,7 +437,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e5/Purplelips_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Purple_Lips",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/85/Purplelips_00_e_egg_p.png/revision/latest?cb=20230824075845"
-      },
+      }
+    },
+    {
       "pusom": {
         "name": "pusom",
         "egg_description": "This Egg wants to give happiness.",
@@ -838,7 +850,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Pusom_02_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240427083348",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pusom",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/59/Pusom_00_e_egg_bg.png/revision/latest?cb=20240425005016"
-      },
+      }
+    },
+    {
       "puzzle_dragon": {
         "name": "puzzle dragon",
         "egg_description": "These Egg fit together like a puzzle.",

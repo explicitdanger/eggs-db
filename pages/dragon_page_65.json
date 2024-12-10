@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "witch_dragon": {
         "name": "witch dragon",
@@ -82,7 +82,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Witchdragon_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Witch_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/18/Witchdragon_00_e_egg_p.png/revision/latest?cb=20230919104255"
-      },
+      }
+    },
+    {
       "wonder_dragon": {
         "name": "wonder dragon",
         "egg_description": "This Egg plants the energy of nightmares.",
@@ -149,7 +151,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/28/Wonderdragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Wonder_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Wonderdragon_00_e_egg_yr.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "xmas_dragon": {
         "name": "xmas dragon",
         "egg_description": "This egg is decorated with a red ribbon.",
@@ -301,7 +305,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f0/Xmasdragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Xmas_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e9/Xmasdragon_00_e_egg_w.png/revision/latest?cb=20231222185207"
-      },
+      }
+    },
+    {
       "yurion": {
         "name": "yurion",
         "egg_description": "This Egg shines very bright.",
@@ -367,7 +373,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/64/Yurion_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Yurion",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/92/Yurion_00_e_egg_w.png/revision/latest?cb=20231129041633"
-      },
+      }
+    },
+    {
       "yurqa": {
         "name": "yurqa",
         "egg_description": "This Egg spreads its wings at night.",
@@ -433,7 +441,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Yurqa_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Yurqa",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dc/Yurqa_00_e_egg_bg.png/revision/latest?cb=20240509015920"
-      },
+      }
+    },
+    {
       "zael_delta": {
         "name": "zael delta",
         "egg_description": "This Egg is imbued with the power of corrosion.",
@@ -586,7 +596,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Zaeldelta_02_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004955",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zael_Delta",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cd/Zaeldelta_00_e_egg_bg.png/revision/latest?cb=20241017005208"
-      },
+      }
+    },
+    {
       "zephyros": {
         "name": "zephyros",
         "egg_description": "This Egg prepares to fly through the sky.",
@@ -653,7 +665,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Zephyros_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zephyros",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Zephyros_00_e_egg_bk.png/revision/latest?cb=20230824075945"
-      },
+      }
+    },
+    {
       "zithakula": {
         "name": "zithakula",
         "egg_description": "This Egg is surrounded by ice.",

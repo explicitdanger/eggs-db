@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "firetail": {
         "name": "firetail",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Firetail_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Firetail",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/13/Firetail_00_e_egg_w.png/revision/latest?cb=20240202230419"
-      },
+      }
+    },
+    {
       "flame_dragon": {
         "name": "flame dragon",
         "egg_description": "The flames around this Egg never cool down.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Flamedragon_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Flame_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e1/Flamedragon_00_e_egg_r.png/revision/latest?cb=20240202230511"
-      },
+      }
+    },
+    {
       "fleecy_cloud_dragon": {
         "name": "fleecy cloud dragon",
         "egg_description": "This Egg is surrounded by clouds like fluffy wool.",
@@ -197,7 +201,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Fleecyclouddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033758",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fleecy_Cloud_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Fleecyclouddragon_00_e_egg_w.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "florea": {
         "name": "florea",
         "egg_description": "This Egg can see destinies.",
@@ -264,7 +270,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2f/Florea_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Florea",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Florea_00_e_egg_w.png/revision/latest?cb=20230919102701"
-      },
+      }
+    },
+    {
       "flower_dragon": {
         "name": "flower dragon",
         "egg_description": "This Egg looks like a flower.",
@@ -346,7 +354,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Flowerdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Flower_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/22/Flowerdragon_00_e_egg_w.png/revision/latest?cb=20240202230604"
-      },
+      }
+    },
+    {
       "forbidden_witch_dragon": {
         "name": "forbidden witch dragon",
         "egg_description": "This Egg has an aura of benevolent magic.",
@@ -412,7 +422,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/45/Prohibitedwitchdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Forbidden_Witch_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Prohibitedwitchdragon_00_e_egg_w.png/revision/latest?cb=20231129045050"
-      },
+      }
+    },
+    {
       "forner": {
         "name": "forner",
         "egg_description": "This Egg is sprinkled with breadcrumbs.",
@@ -477,7 +489,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/48/Forner_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Forner",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Forner_00_e_egg_yr.png/revision/latest?cb=20240627012436"
-      },
+      }
+    },
+    {
       "frame": {
         "name": "frame",
         "egg_description": "This Egg is placed in a frame.",

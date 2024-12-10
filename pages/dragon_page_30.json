@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "jealousy_cupid": {
         "name": "jealousy cupid",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Jealousycupid_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jealousy_Cupid",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Jealousycupid_00_e_egg_r.png/revision/latest?cb=20230824080639"
-      },
+      }
+    },
+    {
       "jet_dragon": {
         "name": "jet dragon",
         "egg_description": "This Egg emits mechanical sounds.",
@@ -192,7 +194,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e2/Jetdragon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033759",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jet_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b3/Jetdragon_00_e_egg_b.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "jima": {
         "name": "jima",
         "egg_description": "This Egg has transparent fins underneath it.",
@@ -258,7 +262,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Jima_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jima",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3f/Jima_00_e_egg_b.png/revision/latest?cb=20230919103128"
-      },
+      }
+    },
+    {
       "jimon": {
         "name": "jimon",
         "egg_description": "This Egg can find its owner.",
@@ -303,7 +309,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/be/Jimon_01_n_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jimon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/96/Jimon_00_e_egg_rp.png/revision/latest?cb=20230911152907"
-      },
+      }
+    },
+    {
       "jujak": {
         "name": "jujak",
         "egg_description": "This Egg emits an aura which signifies the south.",
@@ -369,7 +377,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Jujag_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jujak",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/45/Jujag_00_e_egg_r.png/revision/latest?cb=20231206032147"
-      },
+      }
+    },
+    {
       "jump_dragon": {
         "name": "jump dragon",
         "egg_description": "This Egg rarely stays on the ground.",
@@ -435,7 +445,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/29/Jumpdragon_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jump_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/08/Jumpdragon_00_e_egg_g.png/revision/latest?cb=20240530022516"
-      },
+      }
+    },
+    {
       "kalavinka": {
         "name": "kalavinka",
         "egg_description": "This Egg harbors a grudge.",
@@ -501,7 +513,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3c/Kalavinka_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Kalavinka",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a0/Kalavinka_00_e_egg_y.png/revision/latest?cb=20240627025546"
-      },
+      }
+    },
+    {
       "kangarabbit": {
         "name": "kangarabbit",
         "egg_description": "This Egg's pouch is always full.",

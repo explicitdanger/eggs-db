@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "thorn_nail": {
         "name": "thorn nail",
@@ -67,7 +67,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Thornnail_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Thorn_Nail",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f7/Thornnail_00_e_egg_bk.png/revision/latest?cb=20240418015134"
-      },
+      }
+    },
+    {
       "thunderbolt_dragon": {
         "name": "thunderbolt dragon",
         "egg_description": "This Egg is surrounded by powerful electricity.",
@@ -134,7 +136,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9f/Thunderboltdragon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Thunderbolt_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Thunderboltdragon_00_e_egg_p.png/revision/latest?cb=20240215021524"
-      },
+      }
+    },
+    {
       "thunderlips": {
         "name": "thunderlips",
         "egg_description": "This Egg has fins covered in strong electricity.",
@@ -330,7 +334,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/70/Thunderlips_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Thunderlips",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/63/Thunderlips_00_e_egg_bg.png/revision/latest?cb=20240530022711"
-      },
+      }
+    },
+    {
       "tiamat": {
         "name": "tiamat",
         "egg_description": "This Egg's body and mind are plagued with sickness.",
@@ -482,7 +488,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ee/Tiamat_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tiamat",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Tiamat_00_e_egg_w.png/revision/latest?cb=20240229022427"
-      },
+      }
+    },
+    {
       "tilant": {
         "name": "tilant",
         "egg_description": "These Egg have sharp scales.",
@@ -548,7 +556,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3c/Tilant_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tilant",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Tilant_00_e_egg_p.png/revision/latest?cb=20240215021759"
-      },
+      }
+    },
+    {
       "tilki": {
         "name": "tilki",
         "egg_description": "This Egg is wearing a crown.",
@@ -615,7 +625,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Tilki_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tilki",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f5/Tilki_00_e_egg_b.png/revision/latest?cb=20231129043251"
-      },
+      }
+    },
+    {
       "timber_dragon": {
         "name": "timber dragon",
         "egg_description": "This Egg looks like a lump of branches.",
@@ -682,7 +694,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/96/Timber_01_n_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Timber_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Timber_00_e_egg_g.png/revision/latest?cb=20240202230530"
-      },
+      }
+    },
+    {
       "titan": {
         "name": "titan",
         "egg_description": "This Egg holds the strength of giants.",

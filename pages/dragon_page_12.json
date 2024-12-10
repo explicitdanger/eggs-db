@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "chungmu_haetae": {
         "name": "chungmu haetae",
@@ -67,7 +67,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Chungmuhaetae_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171923",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Chungmu_Haetae",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Chungmuhaetae_00_e_egg_b.png/revision/latest?cb=20230919104324"
-      },
+      }
+    },
+    {
       "circle_dragon": {
         "name": "circle dragon",
         "egg_description": "This Egg draws a circle on the floor.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Circledragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033757",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Circle_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Circledragon_00_e_egg_w.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "citael": {
         "name": "citael",
         "egg_description": "This Egg defends itself with its horns and fangs.",
@@ -178,7 +182,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Citael_01_n_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171924",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Citael",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Citael_00_e_egg_w.png/revision/latest?cb=20240202230621"
-      },
+      }
+    },
+    {
       "clavis": {
         "name": "clavis",
         "egg_description": "This Egg is covered in roses.",
@@ -460,7 +466,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Clavis_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171925",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Clavis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Clavis_00_e_egg_w.png/revision/latest?cb=20231129034226"
-      },
+      }
+    },
+    {
       "cleio": {
         "name": "cleio",
         "egg_description": "This Egg is filled with the will of a guardian.",
@@ -612,7 +620,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Cleio_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417062115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cleio",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/14/Cleio_00_e_egg_b.png/revision/latest?cb=20240215020639"
-      },
+      }
+    },
+    {
       "clockwork_dragon": {
         "name": "clockwork dragon",
         "egg_description": "This Egg's spring has to be wound up.",
@@ -695,7 +705,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b8/Clockworkdragon_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171928",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Clockwork_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1f/Clockworkdragon_00_e_egg_bk.png/revision/latest?cb=20230919102323"
-      },
+      }
+    },
+    {
       "cloud_dragon": {
         "name": "cloud dragon",
         "egg_description": "This Egg is with the clouds.",
@@ -762,7 +774,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2a/Cloud_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171928",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cloud_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Cloud_00_e_egg_b.png/revision/latest?cb=20240202215621"
-      },
+      }
+    },
+    {
       "cobra_dragon": {
         "name": "cobra dragon",
         "egg_description": "This Egg is covered with thick scales.",

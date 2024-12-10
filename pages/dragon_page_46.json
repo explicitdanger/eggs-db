@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "popomo": {
         "name": "popomo",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Popomo_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Popomo",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/19/Popomo_00_e_egg_r.png/revision/latest?cb=20240202220025"
-      },
+      }
+    },
+    {
       "popon": {
         "name": "popon",
         "egg_description": "This Egg looks like a glove.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/63/Popon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Popon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Popon_00_e_egg_bg.png/revision/latest?cb=20240202223816"
-      },
+      }
+    },
+    {
       "porta": {
         "name": "porta",
         "egg_description": "This Egg feels dimensions.",
@@ -284,7 +288,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ca/Porta_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Porta",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Porta_00_e_egg_bk.png/revision/latest?cb=20240203000814"
-      },
+      }
+    },
+    {
       "portunus": {
         "name": "portunus",
         "egg_description": "This Egg is influenced by water.",
@@ -350,7 +356,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d2/Portunus_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Portunus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Portunus_00_e_egg_b.png/revision/latest?cb=20240418015134"
-      },
+      }
+    },
+    {
       "poseidon": {
         "name": "poseidon",
         "egg_description": "These Egg are as cold as ice.",
@@ -459,7 +467,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Poseidon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Poseidon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/67/Poseidon_00_e_egg_b.png/revision/latest?cb=20240314025914"
-      },
+      }
+    },
+    {
       "power_dragon": {
         "name": "power dragon",
         "egg_description": "This Egg is very rough and heavy.",
@@ -583,7 +593,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/69/Power_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Power_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dc/Power_00_e_egg_bk.png/revision/latest?cb=20240202224146"
-      },
+      }
+    },
+    {
       "proto_alpha": {
         "name": "proto alpha",
         "egg_description": "This Egg responds to the sound of ancient memories.",
@@ -692,7 +704,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Protoalpha_02_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004957",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Proto_Alpha",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Protoalpha_00_e_egg_w.png/revision/latest?cb=20241017005208"
-      },
+      }
+    },
+    {
       "psyche": {
         "name": "psyche",
         "egg_description": "This Egg holds the scent of love.",

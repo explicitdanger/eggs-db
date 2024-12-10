@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "insect_queen": {
         "name": "insect queen",
@@ -45,7 +45,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Insectqueen_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Insect_Queen",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/13/Insectqueen_00_e_egg_y.png/revision/latest?cb=20240202224247"
-      },
+      }
+    },
+    {
       "iris": {
         "name": "iris",
         "egg_description": "This Egg responds to human voices.",
@@ -120,7 +122,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Iris_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240912005019",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Iris",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Iris_00_e_egg_w.png/revision/latest?cb=20240912003521"
-      },
+      }
+    },
+    {
       "iron_dragon": {
         "name": "iron dragon",
         "egg_description": "Something black is sticking out from this red Egg.",
@@ -166,7 +170,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Iron_01_n_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Iron_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Iron_00_e_egg_r.png/revision/latest?cb=20240202223909"
-      },
+      }
+    },
+    {
       "irondeva": {
         "name": "irondeva",
         "egg_description": "This egg has a mysterious green pattern on it.",
@@ -211,7 +217,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Irondeva_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Irondeva",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/da/Irondeva_00_e_egg_pb.png/revision/latest?cb=20230911152539"
-      },
+      }
+    },
+    {
       "janerr": {
         "name": "janerr",
         "egg_description": "This Egg attracts the righteous.",
@@ -277,7 +285,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/98/Janerr_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Janerr",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/42/Janerr_00_e_egg_bk.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "jango": {
         "name": "jango",
         "egg_description": "The egg has a yellow badge.",
@@ -387,7 +397,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5b/Jango_02_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jango",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Jango_00_e_egg_yr.png/revision/latest?cb=20231222183806"
-      },
+      }
+    },
+    {
       "janus": {
         "name": "janus",
         "egg_description": "This egg emits both light and darkness.",
@@ -625,7 +637,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d6/Janus_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Janus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e2/Janus_00_e_egg_w.png/revision/latest?cb=20231228035530"
-      },
+      }
+    },
+    {
       "jarukah": {
         "name": "jarukah",
         "egg_description": "This Egg has a blue horn.",

@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "nessie": {
         "name": "nessie",
@@ -109,7 +109,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Nessie_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nessie",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/df/Nessie_00_e_egg_p.png/revision/latest?cb=20240202221220"
-      },
+      }
+    },
+    {
       "nessiebig": {
         "name": "nessiebig",
         "egg_description": "This Egg keeps getting bigger and bigger.",
@@ -148,7 +150,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b3/Nessiebig_01_n_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nessiebig",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/82/Nessiebig_00_e_egg_p.png/revision/latest?cb=20240202234718"
-      },
+      }
+    },
+    {
       "nidhogg": {
         "name": "nidhogg",
         "egg_description": "This Egg absorbs the source of the stars.",
@@ -301,7 +305,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Nidhogg_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nidhogg",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Nidhogg_00_e_egg_w.png/revision/latest?cb=20231013090322"
-      },
+      }
+    },
+    {
       "nightmare_lucio": {
         "name": "nightmare lucio",
         "egg_description": "This Egg causes hallucinations.",
@@ -368,7 +374,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/af/Nightmarelucio_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nightmare_Lucio",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0f/Nightmarelucio_00_e_egg_bk.png/revision/latest?cb=20231129045646"
-      },
+      }
+    },
+    {
       "ninja_dragon": {
         "name": "ninja dragon",
         "egg_description": "This Egg tries to hide itself.",
@@ -434,7 +442,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b6/Ninjadragon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ninja_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Ninjadragon_00_e_egg_p.png/revision/latest?cb=20240202234413"
-      },
+      }
+    },
+    {
       "ninmunia": {
         "name": "ninmunia",
         "egg_description": "This Egg harbors the will of a ninja.",
@@ -515,7 +525,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/40/Ninmunia_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ninmunia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Ninmunia_00_e_egg_p.png/revision/latest?cb=20230919095602"
-      },
+      }
+    },
+    {
       "noah": {
         "name": "noah",
         "egg_description": "This Egg resembles a white whale.",
@@ -666,7 +678,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b1/Noah_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417062115",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Noah",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1c/Noah_00_e_egg_w.png/revision/latest?cb=20240229021653"
-      },
+      }
+    },
+    {
       "non": {
         "name": "non",
         "egg_description": "This Egg is found in the Void Abyss.",

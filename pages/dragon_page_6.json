@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "baby_god_dragon": {
         "name": "baby god dragon",
@@ -37,7 +37,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/37/Babygoddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240706201136",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baby_God_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Babygoddragon_00_e_egg_w.png/revision/latest?cb=20240704005507"
-      },
+      }
+    },
+    {
       "baekho": {
         "name": "baekho",
         "egg_description": "This Egg exudes a divine aura.",
@@ -103,7 +105,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Baekho_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171859",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baekho",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Baekho_00_e_egg_w.png/revision/latest?cb=20230919101952"
-      },
+      }
+    },
+    {
       "bagma": {
         "name": "bagma",
         "egg_description": "This Egg carries a captivating fragrance.",
@@ -169,7 +173,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/da/Bagma_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171902",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bagma",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/70/Bagma_00_e_egg_w.png/revision/latest?cb=20230919101237"
-      },
+      }
+    },
+    {
       "balod": {
         "name": "balod",
         "egg_description": "This Egg is imbued with the darkness of the abyss.",
@@ -235,7 +241,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Balod_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171900",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Balod",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2c/Balod_00_e_egg_bk.png/revision/latest?cb=20240215021822"
-      },
+      }
+    },
+    {
       "balrog": {
         "name": "balrog",
         "egg_description": "This Egg emits scorching heat.",
@@ -343,7 +351,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3e/Balrog_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240808061839",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Balrog",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Balrog_00_e_egg_r.png/revision/latest?cb=20240808005826"
-      },
+      }
+    },
+    {
       "banshee": {
         "name": "banshee",
         "egg_description": "This Egg exudes a formidable power.",
@@ -408,7 +418,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Banshee_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171901",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Banshee",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/28/Banshee_00_e_egg_b.png/revision/latest?cb=20230919094253"
-      },
+      }
+    },
+    {
       "barian": {
         "name": "barian",
         "egg_description": "This Egg has a shining mane.",
@@ -474,7 +486,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Barian_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171901",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Barian",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/37/Barian_00_e_egg_yr.png/revision/latest?cb=20240215020357"
-      },
+      }
+    },
+    {
       "baskerville": {
         "name": "baskerville",
         "egg_description": "This Egg is seeping into the shadows.",

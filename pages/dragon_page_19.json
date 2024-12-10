@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "enix": {
         "name": "enix",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0f/Enix_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172340",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Enix",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Enix_00_e_egg_gy.png/revision/latest?cb=20240215021844"
-      },
+      }
+    },
+    {
       "enoki_dragon": {
         "name": "enoki dragon",
         "egg_description": "The dragon inside this egg grows enoki mushrooms.",
@@ -175,7 +177,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/95/Enokidragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172340",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Enoki_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Enokidragon_00_e_egg_w.png/revision/latest?cb=20240202235405"
-      },
+      }
+    },
+    {
       "enturas": {
         "name": "enturas",
         "egg_description": "This Egg ignites with flames that summon annihilation.",
@@ -284,7 +288,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Enturas_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240905005432",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Enturas",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/54/Enturas_00_e_egg_yr.png/revision/latest?cb=20240905003827"
-      },
+      }
+    },
+    {
       "eos": {
         "name": "eos",
         "egg_description": "This Egg removes darkness.",
@@ -350,7 +356,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Eos_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172340",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eos",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Eos_00_e_egg_p.png/revision/latest?cb=20240215020747"
-      },
+      }
+    },
+    {
       "epit": {
         "name": "epit",
         "egg_description": "This Egg whispers sweetly.",
@@ -474,7 +482,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/de/Epit_02_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20241024003920",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Epit",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Epit_00_e_egg_r.png/revision/latest?cb=20241024003706"
-      },
+      }
+    },
+    {
       "ereboss": {
         "name": "ereboss",
         "egg_description": "This Egg possesses the power of blackness.",
@@ -541,7 +551,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/83/Ereboss_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172340",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ereboss",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ed/Ereboss_00_e_egg_b.png/revision/latest?cb=20230919102511"
-      },
+      }
+    },
+    {
       "eshu": {
         "name": "eshu",
         "egg_description": "This Egg resembles a phantom thief.",
@@ -650,7 +662,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/eb/Eshu_02_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172339",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eshu",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/18/Eshu_00_e_egg_gy.png/revision/latest?cb=20231013080310"
-      },
+      }
+    },
+    {
       "esperer": {
         "name": "esperer",
         "egg_description": "This Egg shares the light of hope.",

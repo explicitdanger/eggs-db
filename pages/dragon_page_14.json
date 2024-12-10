@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "crookers": {
         "name": "crookers",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fd/Crookers_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Crookers",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7a/Crookers_00_e_egg_r.png/revision/latest?cb=20231020165906"
-      },
+      }
+    },
+    {
       "cthulhu": {
         "name": "cthulhu",
         "egg_description": "These Egg have leg-like tentacles.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Cthulhu_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cthulhu",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Cthulhu_00_e_egg_bk.png/revision/latest?cb=20240509013420"
-      },
+      }
+    },
+    {
       "cuanade": {
         "name": "cuanade",
         "egg_description": "This Egg is inside an incubation device.",
@@ -198,7 +202,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/54/Cuanade_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cuanade",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Cuanade_00_e_egg_b.png/revision/latest?cb=20240321011055"
-      },
+      }
+    },
+    {
       "cupi_friend": {
         "name": "cupi friend",
         "egg_description": "This Egg brings a symbol of good luck.",
@@ -350,7 +356,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9c/Cupifriend_03_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cupi_Friend",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Cupifriend_00_e_egg_g.png/revision/latest?cb=20230906180946"
-      },
+      }
+    },
+    {
       "cupid": {
         "name": "cupid",
         "egg_description": "This Egg has a heart shape in the middle.",
@@ -495,7 +503,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Cupid_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cupid",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/df/Cupid_00_e_egg_rp.png/revision/latest?cb=20240202225613"
-      },
+      }
+    },
+    {
       "curse_reaper": {
         "name": "curse reaper",
         "egg_description": "This Egg radiates a sinister aura.",
@@ -562,7 +572,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/29/Cursereaper_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/117?cb=20241011004452",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Curse_Reaper",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3d/Cursereaper_00_e_egg_w.png/revision/latest?cb=20241011004514"
-      },
+      }
+    },
+    {
       "dark_angel_dragon": {
         "name": "dark angel dragon",
         "egg_description": "This Egg has the wings of an angel tainted with darkness.",
@@ -643,7 +655,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Darkangeldragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dark_Angel_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fa/Darkangeldragon_00_e_egg_w.png/revision/latest?cb=20230824080551"
-      },
+      }
+    },
+    {
       "dark_cloud_dragon": {
         "name": "dark cloud dragon",
         "egg_description": "This Egg is with the dark clouds.",

@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "surtr": {
         "name": "surtr",
@@ -153,7 +153,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/08/Surtr_02_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Surtr",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8c/Surtr_00_e_egg_r.png/revision/latest?cb=20231013093225"
-      },
+      }
+    },
+    {
       "swamp_dragon": {
         "name": "swamp dragon",
         "egg_description": "This Egg resembles a part of nature.",
@@ -263,7 +265,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Swamp_01_f_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173525",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Swamp_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/86/Swamp_00_e_egg_g.png/revision/latest?cb=20240202215647"
-      },
+      }
+    },
+    {
       "symphonia": {
         "name": "symphonia",
         "egg_description": "This Egg hears the sounds of the stars.",
@@ -673,7 +677,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7b/Symphonia_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Symphonia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/16/Symphonia_00_e_egg_w.png/revision/latest?cb=20240627025546"
-      },
+      }
+    },
+    {
       "t-rex_dragon": {
         "name": "t-rex dragon",
         "egg_description": "This Egg radiates authority.",
@@ -739,7 +745,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Trexdragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/T-Rex_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/01/Trexdragon_00_e_egg_yr.png/revision/latest?cb=20230919103911"
-      },
+      }
+    },
+    {
       "taabire": {
         "name": "taabire",
         "egg_description": "This Egg is surrounded by static electricity.",
@@ -806,7 +814,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Taabire_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Taabire",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ee/Taabire_00_e_egg_r.png/revision/latest?cb=20240202224351"
-      },
+      }
+    },
+    {
       "tail_dragon": {
         "name": "tail dragon",
         "egg_description": "This Egg is damp.",
@@ -872,7 +882,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Taildragon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tail_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4e/Taildragon_00_e_egg_b.png/revision/latest?cb=20240215021500"
-      },
+      }
+    },
+    {
       "takchaka": {
         "name": "takchaka",
         "egg_description": "This Egg reads the flow of water with its antennae.",
@@ -938,7 +950,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/48/Takchaka_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033448",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Takchaka",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Takchaka_00_e_egg_b.png/revision/latest?cb=20240627025546"
-      },
+      }
+    },
+    {
       "tara": {
         "name": "tara",
         "egg_description": "This Egg has melted wax dripping down from it.",

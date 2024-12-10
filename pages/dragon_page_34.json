@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "libera": {
         "name": "libera",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ca/Libera_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Libera",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Libera_00_e_egg_b.png/revision/latest?cb=20240202225814"
-      },
+      }
+    },
+    {
       "liberte": {
         "name": "liberte",
         "egg_description": "This Egg is holding a letter.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Liberte_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Liberte",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Liberte_00_e_egg_y.png/revision/latest?cb=20240202224300"
-      },
+      }
+    },
+    {
       "libro_dragon": {
         "name": "libro dragon",
         "egg_description": "This Egg is wearing a hat with feathers on it.",
@@ -199,7 +203,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Librodragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Libro_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Librodragon_00_e_egg_gy.png/revision/latest?cb=20231020163411"
-      },
+      }
+    },
+    {
       "lichmond": {
         "name": "lichmond",
         "egg_description": "This Egg exudes strong dark magic.",
@@ -265,7 +271,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Lichmond_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lichmond",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9c/Lichmond_00_e_egg_bg.png/revision/latest?cb=20230919100900"
-      },
+      }
+    },
+    {
       "life_river": {
         "name": "life river",
         "egg_description": "This Egg has red scales that point upwards.",
@@ -331,7 +339,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Liferiver_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Life_River",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Liferiver_00_e_egg_r.png/revision/latest?cb=20240314025219"
-      },
+      }
+    },
+    {
       "light_darknix": {
         "name": "light darknix",
         "egg_description": "This Egg's light lets out strong energy.",
@@ -397,7 +407,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Lightdarknix_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Light_Darknix",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9f/Lightdarknix_00_e_egg_w.png/revision/latest?cb=20230824080450"
-      },
+      }
+    },
+    {
       "light_spicy": {
         "name": "light spicy",
         "egg_description": "Eerie light is seeping out from this Egg.",
@@ -463,7 +475,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1b/Lightspicy_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Light_Spicy",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Lightspicy_00_e_egg_w.png/revision/latest?cb=20240203000417"
-      },
+      }
+    },
+    {
       "lightning_dragon": {
         "name": "lightning dragon",
         "egg_description": "The pattern on this Egg resembles lightning.",

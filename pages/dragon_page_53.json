@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "siamese_dragon": {
         "name": "siamese dragon",
@@ -110,7 +110,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e3/Siamesedragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Siamese_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/80/Imagesiamegg.png/revision/latest?cb=20230912205313"
-      },
+      }
+    },
+    {
       "sigma": {
         "name": "sigma",
         "egg_description": "This Egg wishes to protect darkness.",
@@ -219,7 +221,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Sigma_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sigma",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Sigma_00_e_egg_pb.png/revision/latest?cb=20240215021402"
-      },
+      }
+    },
+    {
       "sion": {
         "name": "sion",
         "egg_description": "This Egg emits primordial light.",
@@ -285,7 +289,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d5/Sion_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sion",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e2/Sion_00_e_egg_g.png/revision/latest?cb=20240418015134"
-      },
+      }
+    },
+    {
       "six-leg_horn": {
         "name": "six-leg horn",
         "egg_description": "This Egg's horn is growing little by little.",
@@ -438,7 +444,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/16/Sixleghorn_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Six-Leg_Horn",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/be/Sixleghorn_00_e_egg_y.png/revision/latest?cb=20240202221554"
-      },
+      }
+    },
+    {
       "skelegon": {
         "name": "skelegon",
         "egg_description": "This Egg has bones sticking out.",
@@ -524,7 +532,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ed/Skelegon_01_n_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173517",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Skelegon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Skelegon_00_e_egg_p.png/revision/latest?cb=20230919103706"
-      },
+      }
+    },
+    {
       "skink_dragon": {
         "name": "skink dragon",
         "egg_description": "This Egg hatches on sand.",
@@ -719,7 +729,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Skinkdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173517",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Skink_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Skinkdragon_00_e_egg_bk.png/revision/latest?cb=20240202223827"
-      },
+      }
+    },
+    {
       "skoorum": {
         "name": "skoorum",
         "egg_description": "This Egg accumulates fury of fire.",
@@ -785,7 +797,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Skoorum_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173517",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Skoorum",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4e/Skoorum_00_e_egg_yr.png/revision/latest?cb=20240202234538"
-      },
+      }
+    },
+    {
       "sky_cuanade": {
         "name": "sky cuanade",
         "egg_description": "This Egg senses urgency.",

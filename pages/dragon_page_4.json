@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "araca": {
         "name": "araca",
@@ -83,7 +83,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Araca_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171852",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Araca",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c1/Araca_00_e_egg_bg.png/revision/latest?cb=20231228040910"
-      },
+      }
+    },
+    {
       "arca_angel_dragon": {
         "name": "arca angel dragon",
         "egg_description": "This Egg senses good and evil.",
@@ -165,7 +167,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/eb/Arcaangeldragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033805",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Arca_Angel_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Arcaangeldragon_00_e_egg_w.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "arca_asti": {
         "name": "arca asti",
         "egg_description": "This Egg absorbs energy through its horn.",
@@ -232,7 +236,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Arcaasti_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033806",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Arca_Asti",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b7/Arcaasti_00_e_egg_w.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "archelon": {
         "name": "archelon",
         "egg_description": "This Egg has a black and blue mane.",
@@ -341,7 +347,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Archelon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171854",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Archelon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7b/Archelon_00_e_egg_b.png/revision/latest?cb=20240215020311"
-      },
+      }
+    },
+    {
       "argo": {
         "name": "argo",
         "egg_description": "This Egg burns with justice.",
@@ -451,7 +459,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e3/Argo_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419190537",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Argo",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/42/Argo_00_e_egg_bk.png/revision/latest?cb=20240418014803"
-      },
+      }
+    },
+    {
       "arsalka": {
         "name": "arsalka",
         "egg_description": "This Egg holds your heart captive.",
@@ -518,7 +528,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Arsalka_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035100",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Arsalka",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Arsalka_00_e_egg_yr.png/revision/latest?cb=20240530022553"
-      },
+      }
+    },
+    {
       "artemis": {
         "name": "artemis",
         "egg_description": "This Egg wears a shiny crown.",
@@ -627,7 +639,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c9/Artemis_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171854",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Artemis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/86/Artemis_00_e_egg_b.png/revision/latest?cb=20230919101932"
-      },
+      }
+    },
+    {
       "asti": {
         "name": "asti",
         "egg_description": "This Egg uses its horns to protect itself.",

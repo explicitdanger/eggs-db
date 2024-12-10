@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "toarnesce": {
         "name": "toarnesce",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Toarnesce_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Toarnesce",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9d/Toarnesce_00_e_egg_y.png/revision/latest?cb=20240328014111"
-      },
+      }
+    },
+    {
       "toddletomtom": {
         "name": "toddletomtom",
         "egg_description": "This Egg twinkles like stars.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Toddletomtom_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240427083349",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Toddletomtom",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d3/Toddletomtom_00_e_egg_yr.png/revision/latest?cb=20240425005031"
-      },
+      }
+    },
+    {
       "tonton": {
         "name": "tonton",
         "egg_description": "This Egg is searching for something.",
@@ -198,7 +202,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3b/Tonton_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240427083349",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tonton",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/64/Tonton_00_e_egg_b.png/revision/latest?cb=20240425005039"
-      },
+      }
+    },
+    {
       "totem_dragon": {
         "name": "totem dragon",
         "egg_description": "A sharp feather is stuck in this Egg.",
@@ -307,7 +313,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ac/Totemdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Totem_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Totemdragon_00_e_egg_w.png/revision/latest?cb=20240202234801"
-      },
+      }
+    },
+    {
       "trevor": {
         "name": "trevor",
         "egg_description": "This Egg illuminates the path.",
@@ -374,7 +382,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Trevor_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055604",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Trevor",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/96/Trevor_00_e_egg_yr.png/revision/latest?cb=20240814055329"
-      },
+      }
+    },
+    {
       "tropheus": {
         "name": "tropheus",
         "egg_description": "This Egg absorbs the darkness of the abyss.",
@@ -440,7 +450,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Tropheus_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tropheus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Tropheus_00_e_egg_bg.png/revision/latest?cb=20240314030453"
-      },
+      }
+    },
+    {
       "tutankhagon": {
         "name": "tutankhagon",
         "egg_description": "This Egg is full of majesty.",
@@ -507,7 +519,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Tutankhagon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tutankhagon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a1/Tutankhagon_00_e_egg_y.png/revision/latest?cb=20231020164652"
-      },
+      }
+    },
+    {
       "tycane": {
         "name": "tycane",
         "egg_description": "The dragon inside this egg can summon a gust of wind and lightning.",

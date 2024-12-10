@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "diyona": {
         "name": "diyona",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Diyona_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Diyona",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/19/Diyona_00_e_egg_y.png/revision/latest?cb=20231020170214"
-      },
+      }
+    },
+    {
       "dragon_slayer": {
         "name": "dragon slayer",
         "egg_description": "This Egg was forgotten by everyone.",
@@ -174,7 +176,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/49/Dragonslayer_02_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240829010122",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragon_Slayer",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Dragonslayer_00_e_egg_p.png/revision/latest?cb=20240829003737"
-      },
+      }
+    },
+    {
       "dragonoid": {
         "name": "dragonoid",
         "egg_description": "This Egg consists of solid steel.",
@@ -240,7 +244,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Dragonoid_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragonoid",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a7/Dragonoid_00_e_egg_bg.png/revision/latest?cb=20230919100451"
-      },
+      }
+    },
+    {
       "dragonoid_soul": {
         "name": "dragonoid soul",
         "egg_description": "This Egg is made of steel infused with souls.",
@@ -305,7 +311,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Dragonoidsoul_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dragonoid_Soul",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Dragonoidsoul_00_e_egg_bg.png/revision/latest?cb=20230919100524"
-      },
+      }
+    },
+    {
       "dragons": {
         "name": "dragons",
         "egg_description": "",
@@ -324,7 +332,9 @@
           "sprites": {}
         },
         "special_actions": []
-      },
+      }
+    },
+    {
       "dream_water_dragon": {
         "name": "dream water dragon",
         "egg_description": "This Egg flickers.",
@@ -390,7 +400,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8e/Dreamwaterdragon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dream_Water_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/43/Dreamwaterdragon_00_e_egg_p.png/revision/latest?cb=20240203000339"
-      },
+      }
+    },
+    {
       "dreamer_obex": {
         "name": "dreamer obex",
         "egg_description": "This Egg wants to create a world of imagination.",
@@ -457,7 +469,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ab/Dreamerobex_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dreamer_Obex",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8c/Dreamerobex_00_e_egg_rp.png/revision/latest?cb=20231129050227"
-      },
+      }
+    },
+    {
       "dumbo_blue_dragon": {
         "name": "dumbo blue dragon",
         "egg_description": "This Egg has a toy arrowhead on it.",

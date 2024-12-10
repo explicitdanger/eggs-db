@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "abaddon": {
         "name": "abaddon",
@@ -109,7 +109,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Abaddon_02_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171841",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Abaddon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f3/Abaddon_00_e_egg_p.png/revision/latest?cb=20230926135928"
-      },
+      }
+    },
+    {
       "abvalle": {
         "name": "abvalle",
         "egg_description": "This Egg is one with the gold wings.",
@@ -176,7 +178,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Abvalle_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171840",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Abvalle",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Abvalle_00_e_egg_w.png/revision/latest?cb=20230824080009"
-      },
+      }
+    },
+    {
       "abyssedge": {
         "name": "abyssedge",
         "egg_description": "The fins of this Egg are as sharp as knives.",
@@ -285,7 +289,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Abyssedge_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/116?cb=20240419171841",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Abyssedge",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b3/Abyssedge_00_e_egg_bk.png/revision/latest?cb=20240202234752"
-      },
+      }
+    },
+    {
       "adela": {
         "name": "adela",
         "egg_description": "This Egg shines yellow.",
@@ -350,7 +356,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Adela_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171842",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Adela",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Adela_00_e_egg_w.png/revision/latest?cb=20231020165202"
-      },
+      }
+    },
+    {
       "aegis": {
         "name": "aegis",
         "egg_description": "This Egg is wearing sacred golden armor.",
@@ -417,7 +425,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/40/Aegis_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171842",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Aegis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/83/Aegis_00_e_egg_y.png/revision/latest?cb=20230919101838"
-      },
+      }
+    },
+    {
       "afrit": {
         "name": "afrit",
         "egg_description": "This Egg is tightly sealed.",
@@ -484,7 +494,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Afrit_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171843",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Afrit",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/05/Afrit_00_e_egg_r.png/revision/latest?cb=20240202221133"
-      },
+      }
+    },
+    {
       "aftea": {
         "name": "aftea",
         "egg_description": "This Egg's fragrance and color change over time.",
@@ -894,7 +906,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/21/Aftea_02_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20241031005921",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Aftea",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Aftea_00_e_egg_rp.png/revision/latest?cb=20241031005947"
-      },
+      }
+    },
+    {
       "agares": {
         "name": "agares",
         "egg_description": "This Egg is enveloped in eternal flames.",

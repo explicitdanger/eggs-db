@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "lucir": {
         "name": "lucir",
@@ -111,7 +111,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e1/Lucir_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033800",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lucir",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0e/Lucir_00_e_egg_w.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "lulu": {
         "name": "lulu",
         "egg_description": "This Egg contains a pearl.",
@@ -178,7 +180,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/93/Lulu_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030057",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lulu",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/41/Lulu_00_e_egg_bg.png/revision/latest?cb=20240509013729"
-      },
+      }
+    },
+    {
       "lumindis": {
         "name": "lumindis",
         "egg_description": "This Egg radiates noble loyalty.",
@@ -417,7 +421,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d1/Lumindis_02_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lumindis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Lumindis_00_e_egg_y.png/revision/latest?cb=20230926142714"
-      },
+      }
+    },
+    {
       "luminesce": {
         "name": "luminesce",
         "egg_description": "This Egg emits a chill.",
@@ -483,7 +489,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cb/Luminesce_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173209",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Luminesce",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Luminesce_00_e_egg_b.png/revision/latest?cb=20240328014019"
-      },
+      }
+    },
+    {
       "lunera": {
         "name": "lunera",
         "egg_description": "The dragon inside this egg has a moon-shaped gemstone.",
@@ -592,7 +600,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3c/Lunera_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173209",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lunera",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Lunera_00_e_egg_w.png/revision/latest?cb=20240202225348"
-      },
+      }
+    },
+    {
       "lusong": {
         "name": "lusong",
         "egg_description": "This Egg smells like a savory rice cake.",
@@ -658,7 +668,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e5/Lusong_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240912005019",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lusong",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Lusong_00_e_egg_w.png/revision/latest?cb=20240912003520"
-      },
+      }
+    },
+    {
       "macaron_dragon": {
         "name": "macaron dragon",
         "egg_description": "This Egg is light and sweet.",
@@ -724,7 +736,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5e/Macarondragon_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Macaron_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b0/Macarondragon_00_e_egg_rp.png/revision/latest?cb=20240627025546"
-      },
+      }
+    },
+    {
       "maga": {
         "name": "maga",
         "egg_description": "This Egg loves gusts of wind.",

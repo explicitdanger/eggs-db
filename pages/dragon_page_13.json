@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "coelacanth": {
         "name": "coelacanth",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/59/Coelacanth_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171929",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Coelacanth",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Coelacanth_00_e_egg_b.png/revision/latest?cb=20240215020701"
-      },
+      }
+    },
+    {
       "comet_dragon": {
         "name": "comet dragon",
         "egg_description": "This Egg shows the way to the universe.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Cometdragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055604",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Comet_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Cometdragon_00_e_egg_w.png/revision/latest?cb=20240814055329"
-      },
+      }
+    },
+    {
       "coral_nessiebig": {
         "name": "coral nessiebig",
         "egg_description": "This Egg becomes more splendid over time.",
@@ -163,7 +167,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Coralnessiebig_01_n_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171929",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Coral_Nessiebig",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/39/Coralnessiebig_00_e_egg_b.png/revision/latest?cb=20240314024828"
-      },
+      }
+    },
+    {
       "cortus": {
         "name": "cortus",
         "egg_description": "This Egg is wearing a thick helmet.",
@@ -316,7 +322,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Cortus_03_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cortus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Cortus_00_e_egg_pb.png/revision/latest?cb=20240111032255"
-      },
+      }
+    },
+    {
       "cotty": {
         "body_type": "Draco",
         "breeding_tier": 2,
@@ -381,7 +389,9 @@
             "path": "cotty_01_m_adult_w"
           }
         ]
-      },
+      }
+    },
+    {
       "cozy_dragon": {
         "name": "cozy dragon",
         "egg_description": "This Egg feels emotional instability.",
@@ -462,7 +472,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Cozydragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033757",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cozy_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/32/Cozydragon_00_e_egg_w.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "cratio": {
         "name": "cratio",
         "egg_description": "This Egg is boiling lava.",
@@ -614,7 +626,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b8/Cratio_02_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171929",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cratio",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Cratio_00_e_egg_bk.png/revision/latest?cb=20240201023921"
-      },
+      }
+    },
+    {
       "crested_dragon": {
         "name": "crested dragon",
         "egg_description": "This Egg seems to have a round core.",

@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "angel_dragon": {
         "name": "angel dragon",
@@ -81,7 +81,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5b/Angel_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171846",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Angel_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f7/Angel_00_e_egg_w.png/revision/latest?cb=20240202224727"
-      },
+      }
+    },
+    {
       "angel_jr": {
         "name": "angel jr",
         "egg_description": "This Egg has small wings.",
@@ -126,7 +128,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fc/Angeljr_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171849",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Angel_Jr",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Angeljr_00_e_egg_w.png/revision/latest?cb=20230906133748"
-      },
+      }
+    },
+    {
       "angra": {
         "name": "angra",
         "egg_description": "This Egg bears God's curse.",
@@ -235,7 +239,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Angra_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171850",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Angra",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Angra_00_e_egg_r.png/revision/latest?cb=20240203000509"
-      },
+      }
+    },
+    {
       "animala": {
         "name": "animala",
         "egg_description": "This Egg is accompanied by souls.",
@@ -301,7 +307,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Animala_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171850",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Animala",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f3/Animala_00_e_egg_bk.png/revision/latest?cb=20230919101906"
-      },
+      }
+    },
+    {
       "anurhada": {
         "name": "anurhada",
         "egg_description": "This Egg creates chaos around it.",
@@ -367,7 +375,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Anurhada_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171851",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Anurhada",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Anurhada_00_e_egg_bk.png/revision/latest?cb=20240125024156"
-      },
+      }
+    },
+    {
       "aphrodite": {
         "name": "aphrodite",
         "egg_description": "This Egg blossoms with beauty.",
@@ -433,7 +443,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2a/Aphrodite_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033805",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Aphrodite",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Aphrodite_00_e_egg_y.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "applecheek": {
         "name": "applecheek",
         "egg_description": "This Egg has large red spots on its sides.",
@@ -514,7 +526,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Applecheek_01_f_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171851",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Applecheek",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Applecheek_00_e_egg_gy.png/revision/latest?cb=20240202224136"
-      },
+      }
+    },
+    {
       "aqua_dragon": {
         "name": "aqua dragon",
         "egg_description": "This Egg is as refreshing as water.",

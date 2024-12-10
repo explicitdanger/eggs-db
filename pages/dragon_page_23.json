@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "galaxia": {
         "name": "galaxia",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/22/Galaxia_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240731021523",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Galaxia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8e/Galaxia_00_e_egg_p.png/revision/latest?cb=20240731011716"
-      },
+      }
+    },
+    {
       "gandharva": {
         "name": "gandharva",
         "egg_description": "This egg is overflowing with playful energy.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Gandharba_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gandharva",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Gandharba_00_e_egg_b.png/revision/latest?cb=20231228033558"
-      },
+      }
+    },
+    {
       "gatling-gon": {
         "name": "gatling-gon",
         "egg_description": "This Egg is equipped with a gun.",
@@ -173,7 +177,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Gautlinggon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gatling-Gon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Gautlinggon_00_e_egg_yr.png/revision/latest?cb=20231001093325"
-      },
+      }
+    },
+    {
       "ges": {
         "name": "ges",
         "egg_description": "This Egg has five horns.",
@@ -239,7 +245,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c9/Ges_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ges",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3a/Ges_00_e_egg_b.png/revision/latest?cb=20231026190440"
-      },
+      }
+    },
+    {
       "gigantis": {
         "name": "gigantis",
         "egg_description": "This Egg is holding a mana stone.",
@@ -304,7 +312,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Gigantis_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gigantis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Gigantis_00_e_egg_p.png/revision/latest?cb=20231026193211"
-      },
+      }
+    },
+    {
       "girdletail_dragon": {
         "name": "girdletail dragon",
         "egg_description": "The dragon inside this egg has a curled-up tail.",
@@ -542,7 +552,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Girdletaildragon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Girdletail_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Girdletaildragon_00_e_egg_y.png/revision/latest?cb=20240203000053"
-      },
+      }
+    },
+    {
       "glaone": {
         "name": "glaone",
         "egg_description": "This Egg has been merged.",
@@ -608,7 +620,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Glaone_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Glaone",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Glaone_00_e_egg_bk.png/revision/latest?cb=20231026194715"
-      },
+      }
+    },
+    {
       "goblin_dragon": {
         "name": "goblin dragon",
         "egg_description": "This Egg can sense evil spirits.",

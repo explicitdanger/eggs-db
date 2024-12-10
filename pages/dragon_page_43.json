@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "nox": {
         "name": "nox",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/06/Nox_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173331",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nox",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Nox_00_e_egg_bk.png/revision/latest?cb=20240202225356"
-      },
+      }
+    },
+    {
       "nubestella": {
         "name": "nubestella",
         "egg_description": "This Egg gathers the energy of wishes.",
@@ -176,7 +178,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/49/Nubestella_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240905005432",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nubestella",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Nubestella_00_e_egg_b.png/revision/latest?cb=20240905003826"
-      },
+      }
+    },
+    {
       "obex": {
         "name": "obex",
         "egg_description": "This Egg tries to create space.",
@@ -243,7 +247,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Obex_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Obex",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Obex_00_e_egg_r.png/revision/latest?cb=20230919103355"
-      },
+      }
+    },
+    {
       "oculus": {
         "name": "oculus",
         "egg_description": "This Egg instinctively hovers around souls.",
@@ -309,7 +315,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/55/Oculus_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173331",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Oculus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Oculus_00_e_egg_b.png/revision/latest?cb=20240202234656"
-      },
+      }
+    },
+    {
       "ophanim": {
         "name": "ophanim",
         "egg_description": "This Egg monitors the movements of all things.",
@@ -418,7 +426,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/07/Ophanim_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033801",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ophanim",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b0/Ophanim_00_e_egg_y.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "oro": {
         "name": "oro",
         "egg_description": "This Egg subdues threats.",
@@ -484,7 +494,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Oro_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Oro",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Oro_00_e_egg_y.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "paimon": {
         "name": "paimon",
         "egg_description": "This Egg is adorned with enchanting golden patterns.",
@@ -550,7 +562,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/75/Paimon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Paimon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Paimon_00_e_egg_bg.png/revision/latest?cb=20240125024207"
-      },
+      }
+    },
+    {
       "pancake_dragon": {
         "name": "pancake dragon",
         "egg_description": "This Egg has a sweet taste.",

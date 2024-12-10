@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "wave_blue_dragon": {
         "name": "wave blue dragon",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1c/Wavebluedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Wave_Blue_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/83/Wavebluedragon_00_e_egg_b.png/revision/latest?cb=20240418015134"
-      },
+      }
+    },
+    {
       "whale_dragon": {
         "name": "whale dragon",
         "egg_description": "This Egg can hear sounds.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/01/Whaledragon_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Whale_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/84/Whaledragon_00_e_egg_pb.png/revision/latest?cb=20240314030805"
-      },
+      }
+    },
+    {
       "white_applecheek": {
         "name": "white applecheek",
         "egg_description": "This Egg smells sweet like apples.",
@@ -200,7 +204,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Whiteapple_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/White_Applecheek",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a3/Whiteapple_00_e_egg_w.png/revision/latest?cb=20240202230408"
-      },
+      }
+    },
+    {
       "white_dragon": {
         "name": "white dragon",
         "egg_description": "This Egg forms bright light around it.",
@@ -245,7 +251,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1c/Whitedragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/White_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/39/Whitedragon_00_e_egg_w.png/revision/latest?cb=20240203000530"
-      },
+      }
+    },
+    {
       "white_gold_dragon": {
         "name": "white gold dragon",
         "egg_description": "This Egg is made of platinum.",
@@ -308,7 +316,9 @@
           }
         ],
         "special_actions": []
-      },
+      }
+    },
+    {
       "white_thunder_dragon": {
         "name": "white thunder dragon",
         "egg_description": "Horns of lightning are on this Egg's shell.",
@@ -374,7 +384,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Whitethunder_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/White_Thunder_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/52/Whitethunder_00_e_egg_w.png/revision/latest?cb=20240202224421"
-      },
+      }
+    },
+    {
       "wind_dragon": {
         "name": "wind dragon",
         "egg_description": "This Egg is about to sway in the wind.",
@@ -484,7 +496,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d8/Wind_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Wind_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Wind_00_e_egg_bg.png/revision/latest?cb=20240202215543"
-      },
+      }
+    },
+    {
       "wings_dragon": {
         "name": "wings dragon",
         "egg_description": "This Egg has wings with a fancy pattern.",

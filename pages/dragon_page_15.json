@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "dark_god_dragon": {
         "name": "dark god dragon",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8b/Darkgoddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dark_God_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3f/Darkgoddragon_00_e_egg_w.png/revision/latest?cb=20240202230747"
-      },
+      }
+    },
+    {
       "dark_lightning_dragon": {
         "name": "dark lightning dragon",
         "egg_description": "This Egg's lightning shape holds the power of the darkness.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Darklightningdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171839",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dark_Lightning_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Darklightningdragon_00_e_egg_bk.png/revision/latest?cb=20230824080234"
-      },
+      }
+    },
+    {
       "darknix": {
         "name": "darknix",
         "egg_description": "Be careful of the red power this Egg holds.",
@@ -215,7 +219,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/44/Darknix_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172215",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Darknix",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/47/Darknix_00_e_egg_r.png/revision/latest?cb=20240203000521"
-      },
+      }
+    },
+    {
       "daros": {
         "name": "daros",
         "egg_description": "This Egg holds memories within.",
@@ -281,7 +287,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Daros_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172215",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Daros",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Daros_00_e_egg_y.png/revision/latest?cb=20230919081321"
-      },
+      }
+    },
+    {
       "death_river": {
         "name": "death river",
         "egg_description": "This Egg feels like death.",
@@ -347,7 +355,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Deathriver_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419183320",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Death_River",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ca/Deathriver_00_e_egg_bk.png/revision/latest?cb=20240418014855"
-      },
+      }
+    },
+    {
       "deep_blue_purple_lips": {
         "name": "deep blue purple lips",
         "egg_description": "This Egg arouses greed.",
@@ -542,7 +552,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Deepbluepurplelips_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419183145",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Deep_Blue_Purple_Lips",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Deepbluepurplelips_00_e_egg_pb.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "deep_sea_water_dragon": {
         "name": "deep sea water dragon",
         "egg_description": "This Egg wears decorations made of bones.",
@@ -608,7 +620,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Deepseawaterdragon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419182509",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Deep_Sea_Water_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e0/Deepseawaterdragon_00_e_egg_b.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "demong_&_gargoyle": {
         "name": "demong & gargoyle",
         "egg_description": "This Egg emanates a demonic aura.",

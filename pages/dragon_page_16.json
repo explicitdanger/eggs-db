@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "demonio": {
         "name": "demonio",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Demonio_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Demonio",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Demonio_00_e_egg_r.png/revision/latest?cb=20231026195440"
-      },
+      }
+    },
+    {
       "deva": {
         "name": "deva",
         "egg_description": "This egg has a mysterious pattern on it.",
@@ -134,7 +136,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Deva_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Deva",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ee/Deva_00_e_egg_y.png/revision/latest?cb=20240202235346"
-      },
+      }
+    },
+    {
       "devared": {
         "name": "devared",
         "egg_description": "This egg has a mysterious red pattern on it.",
@@ -180,7 +184,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8a/Devared_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Devared",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/27/Devared_00_e_egg_y.png/revision/latest?cb=20240202223858"
-      },
+      }
+    },
+    {
       "devilgon": {
         "name": "devilgon",
         "egg_description": "This Egg resonates with the spirit of dead Dragons.",
@@ -246,7 +252,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dd/Devilgon_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Devilgon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f1/Devilgon_00_e_egg_r.png/revision/latest?cb=20230919100215"
-      },
+      }
+    },
+    {
       "dianu": {
         "name": "dianu",
         "egg_description": "This Egg waits for the portal.",
@@ -399,7 +407,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Dianu_02_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dianu",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Dianu_00_e_egg_pb.png/revision/latest?cb=20240203000655"
-      },
+      }
+    },
+    {
       "dilrang": {
         "name": "dilrang",
         "egg_description": "This Egg is adorned with ornaments that emit a powerful light.",
@@ -465,7 +475,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Dilrang_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dilrang",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cb/Dilrang_00_e_egg_y.png/revision/latest?cb=20240530022621"
-      },
+      }
+    },
+    {
       "dimension_dragon": {
         "name": "dimension dragon",
         "egg_description": "This Egg is found at the Dimensional Gap.",
@@ -575,7 +587,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Dimensiondragon_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dimension_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dc/Dimensiondragon_00_e_egg_w.png/revision/latest?cb=20240202215330"
-      },
+      }
+    },
+    {
       "disguise_chameleon_dragon": {
         "body_type": "Animal Dragon",
         "breeding_tier": 1,

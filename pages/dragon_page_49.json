@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "record_dragon": {
         "name": "record dragon",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/11/Recorddragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055603",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Record_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Recorddragon_00_e_egg_yr.png/revision/latest?cb=20240814055329"
-      },
+      }
+    },
+    {
       "red_taabire": {
         "name": "red taabire",
         "egg_description": "Blue static electricity is created around this Egg.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2b/Redtaabire_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Red_Taabire",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d2/Redtaabire_00_e_egg_r.png/revision/latest?cb=20240203000205"
-      },
+      }
+    },
+    {
       "red_wyvern": {
         "name": "red wyvern",
         "egg_description": "This Egg likes fire pits.",
@@ -199,7 +203,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Redwyvern_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Red_Wyvern",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Redwyvern_00_e_egg_r.png/revision/latest?cb=20240407165108"
-      },
+      }
+    },
+    {
       "redbull_dragon": {
         "name": "redbull dragon",
         "egg_description": "This Egg exudes strong energy.",
@@ -265,7 +271,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Redbulldragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Redbull_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Redbulldragon_00_e_egg_r.png/revision/latest?cb=20240318030805"
-      },
+      }
+    },
+    {
       "reghi": {
         "name": "reghi",
         "egg_description": "This Egg locates things that have been abandoned.",
@@ -331,7 +339,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Reghi_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20241114001213",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Reghi",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Reghi_00_e_egg_bk.png/revision/latest?cb=20241114001348"
-      },
+      }
+    },
+    {
       "regnator": {
         "name": "regnator",
         "egg_description": "This Egg wears a crown with the orb of Acuris.",
@@ -442,7 +452,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dd/Regnator_02_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Regnator",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/40/Regnator_00_e_egg_b.png/revision/latest?cb=20240201023810"
-      },
+      }
+    },
+    {
       "rekmall": {
         "name": "rekmall",
         "egg_description": "This Egg holds mysterious power.",
@@ -509,7 +521,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Rekmall_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rekmall",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/26/Rekmall_00_e_egg_bk.png/revision/latest?cb=20230824080157"
-      },
+      }
+    },
+    {
       "remorseful_florea": {
         "name": "remorseful florea",
         "egg_description": "This Egg holds memories.",

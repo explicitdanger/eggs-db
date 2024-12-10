@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "klid": {
         "name": "klid",
@@ -153,7 +153,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Klid_02_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Klid",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/37/Klid_00_e_egg_b.png/revision/latest?cb=20240418021213"
-      },
+      }
+    },
+    {
       "knight_dragon": {
         "name": "knight dragon",
         "egg_description": "This Egg is wearing a shining helmet.",
@@ -219,7 +221,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Knightdragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Knight_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Knightdragon_00_e_egg_b.png/revision/latest?cb=20240202223806"
-      },
+      }
+    },
+    {
       "kuzmara": {
         "name": "kuzmara",
         "egg_description": "This Egg has yellow horns.",
@@ -286,7 +290,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Kuzmara_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Kuzmara",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a1/Kuzmara_00_e_egg_w.png/revision/latest?cb=20240202230521"
-      },
+      }
+    },
+    {
       "la_lux": {
         "name": "la lux",
         "egg_description": "This Egg has a sun shaped ornament.",
@@ -353,7 +359,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Lalux_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/La_Lux",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3d/Lalux_00_e_egg_r.png/revision/latest?cb=20230824075640"
-      },
+      }
+    },
+    {
       "labasalt": {
         "name": "labasalt",
         "egg_description": "This Egg's shell is covered with basalt.",
@@ -419,7 +427,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d8/Labasalt_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Labasalt",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3e/Labasalt_00_e_egg_bk.png/revision/latest?cb=20240203000031"
-      },
+      }
+    },
+    {
       "laby": {
         "name": "laby",
         "egg_description": "This Egg spreads a deep, rich world tree fragrance.",
@@ -572,7 +582,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Laby_02_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004957",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Laby",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d6/Laby_00_e_egg_y.png/revision/latest?cb=20241017005208"
-      },
+      }
+    },
+    {
       "lady_dragon": {
         "name": "lady dragon",
         "egg_description": "This Egg is bright pink.",
@@ -661,7 +673,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/59/Lady_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lady_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3b/Lady_00_e_egg_rp.png/revision/latest?cb=20240203000433"
-      },
+      }
+    },
+    {
       "lakion": {
         "name": "lakion",
         "egg_description": "This Egg is wearing a hoodie.",

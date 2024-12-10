@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "pangpang": {
         "name": "pangpang",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cb/Pangpang_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pangpang",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a7/Pangpang_00_e_egg_b.png/revision/latest?cb=20240203000950"
-      },
+      }
+    },
+    {
       "panmunia": {
         "name": "panmunia",
         "egg_description": "This Egg is searching for a friend.",
@@ -111,7 +113,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Panmunia_01_f_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Panmunia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Panmunia_00_e_egg_gy.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "paprion": {
         "name": "paprion",
         "egg_description": "Bubbles are rising out of this Egg.",
@@ -191,7 +195,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3e/Paprion_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Paprion",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/af/Paprion_00_e_egg_b.png/revision/latest?cb=20240215021209"
-      },
+      }
+    },
+    {
       "party_dragon": {
         "name": "party dragon",
         "egg_description": "This Egg is wrapped with a giant ribbon.",
@@ -257,7 +263,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7a/Party_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Party_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6f/Party_00_e_egg_r.png/revision/latest?cb=20240202225707"
-      },
+      }
+    },
+    {
       "patroa": {
         "name": "patroa",
         "egg_description": "This Egg is guarded by an emerald snake.",
@@ -324,7 +332,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/60/Patroa_01_n_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Patroa",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a7/Patroa_00_e_egg_y.png/revision/latest?cb=20240202234743"
-      },
+      }
+    },
+    {
       "penguingon": {
         "name": "penguingon",
         "egg_description": "This Egg is white, smooth, and has dense dark blue fur.",
@@ -390,7 +400,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/91/Penguingon_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Penguingon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Penguingon_00_e_egg_pb.png/revision/latest?cb=20240215021246"
-      },
+      }
+    },
+    {
       "petra": {
         "name": "petra",
         "egg_description": "This Egg holds the flames of karma.",
@@ -456,7 +468,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Petra_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Petra",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/ba/Petra_00_e_egg_bk.png/revision/latest?cb=20230824075705"
-      },
+      }
+    },
+    {
       "phantom": {
         "name": "phantom",
         "egg_description": "This Egg has a black ring.",

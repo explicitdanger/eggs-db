@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "black_armor_sword": {
         "name": "black armor sword",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4d/Blackarmorsword_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171909",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Black_Armor_Sword",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3d/Blackarmorsword_00_e_egg_bk.png/revision/latest?cb=20240203000009"
-      },
+      }
+    },
+    {
       "black_dragon": {
         "name": "black dragon",
         "egg_description": "This Egg forms a blanket of dark fog around it.",
@@ -111,7 +113,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/06/Blackdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171909",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Black_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e3/Blackdragon_00_e_egg_bk.png/revision/latest?cb=20240203000540"
-      },
+      }
+    },
+    {
       "blade_dragon": {
         "name": "blade dragon",
         "egg_description": "This Egg has tiny blades protruding from it.",
@@ -177,7 +181,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6f/Bladedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171909",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blade_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Bladedragon_00_e_egg_b.png/revision/latest?cb=20230919102210"
-      },
+      }
+    },
+    {
       "blowfish_goldie": {
         "name": "blowfish goldie",
         "egg_description": "This Egg is adorned with red jewels and is greatly inflated.",
@@ -220,7 +226,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a6/Puffergoldie_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blowfish_Goldie",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/93/Puffergoldie_00_e_egg_y.png/revision/latest?cb=20240314030054"
-      },
+      }
+    },
+    {
       "blue_bird_berris": {
         "name": "blue bird berris",
         "egg_description": "This Egg is wearing a blue brooch.",
@@ -286,7 +294,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/99/Bluebirdberris_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171911",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Bird_Berris",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/08/Bluebirdberris_00_e_egg_b.png/revision/latest?cb=20231129044519"
-      },
+      }
+    },
+    {
       "blue_characen": {
         "name": "blue characen",
         "egg_description": "This Egg has a blue keyhole.",
@@ -352,7 +362,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/95/Bluecharacen_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171911",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Characen",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Bluecharacen_00_e_egg_b.png/revision/latest?cb=20240202235503"
-      },
+      }
+    },
+    {
       "blue_dragon": {
         "name": "blue dragon",
         "egg_description": "This Egg has horns and skin on its belly.",
@@ -435,7 +447,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Blue_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171910",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4d/Blue_00_e_egg_b.png/revision/latest?cb=20240202221514"
-      },
+      }
+    },
+    {
       "blue_firetail": {
         "name": "blue firetail",
         "egg_description": "This Egg's deep blue fur is incredibly soft.",

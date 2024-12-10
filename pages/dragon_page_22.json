@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "frankenstein_dragon": {
         "name": "frankenstein dragon",
@@ -65,7 +65,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0e/Frankensteindragon_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frankenstein_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/71/Frankensteindragon_00_e_egg_bg.png/revision/latest?cb=20231020172004"
-      },
+      }
+    },
+    {
       "frog_dragon": {
         "name": "frog dragon",
         "egg_description": "This Egg is smooth but has coarse hairs.",
@@ -260,7 +262,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Frog_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frog_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/00/Frog_00_e_egg_g.png/revision/latest?cb=20240202221142"
-      },
+      }
+    },
+    {
       "frost_blue_dragon": {
         "name": "frost blue dragon",
         "egg_description": "This Egg's ice doesn't melt.",
@@ -326,7 +330,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Frostbluedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172401",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frost_Blue_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/40/Frostbluedragon_00_e_egg_b.png/revision/latest?cb=20240202235513"
-      },
+      }
+    },
+    {
       "frost_dragon": {
         "name": "frost dragon",
         "egg_description": "This Egg is very cold.",
@@ -408,7 +414,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Frost_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172401",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frost_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/58/Frost_00_e_egg_b.png/revision/latest?cb=20240202221203"
-      },
+      }
+    },
+    {
       "frostina": {
         "body_type": "Draco",
         "breeding_tier": 2,
@@ -816,7 +824,9 @@
             "path": "frostina_09_m_adult_r"
           }
         ]
-      },
+      }
+    },
+    {
       "frozen": {
         "name": "frozen",
         "egg_description": "This Egg is covered in frost.",
@@ -926,7 +936,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Frozen_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172401",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frozen",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/56/Frozen_00_e_egg_w.png/revision/latest?cb=20240215020903"
-      },
+      }
+    },
+    {
       "furfur": {
         "name": "furfur",
         "egg_description": "The Egg continuously creates lightning.",
@@ -1034,7 +1046,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d8/Furfur_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240808061839",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Furfur",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ab/Furfur_00_e_egg_p.png/revision/latest?cb=20240808005826"
-      },
+      }
+    },
+    {
       "gaian": {
         "name": "gaian",
         "egg_description": "This Egg has unbreakable scales.",

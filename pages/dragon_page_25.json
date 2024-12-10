@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "golden_poison_river": {
         "name": "golden poison river",
@@ -67,7 +67,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a0/Goldenpoisonriver_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Golden_Poison_River",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Goldenpoisonriver_00_e_egg_y.png/revision/latest?cb=20231129054228"
-      },
+      }
+    },
+    {
       "goldie": {
         "name": "goldie",
         "egg_description": "This Egg has a gold shaped mark.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Goldie_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Goldie",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Goldie_00_e_egg_y.png/revision/latest?cb=20240202225721"
-      },
+      }
+    },
+    {
       "goldpike": {
         "name": "goldpike",
         "egg_description": "This Egg has golden thorns.",
@@ -178,7 +182,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/51/Goldpike_01_n_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Goldpike",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Goldpike_00_e_egg_r.png/revision/latest?cb=20240202235957"
-      },
+      }
+    },
+    {
       "gorgon": {
         "name": "gorgon",
         "egg_description": "This Egg is wrapped by a snake.",
@@ -244,7 +250,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Gorgon_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gorgon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Gorgon_00_e_egg_rp.png/revision/latest?cb=20231116235747"
-      },
+      }
+    },
+    {
       "gothrelia": {
         "name": "gothrelia",
         "egg_description": "This Egg is soft and poisonous.",
@@ -310,7 +318,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Gothrelia_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gothrelia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/00/Gothrelia_00_e_egg_bk.png/revision/latest?cb=20240627025546"
-      },
+      }
+    },
+    {
       "gracia": {
         "name": "gracia",
         "egg_description": "This Egg breathes with its smooth shell.",
@@ -376,7 +386,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Gracia_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gracia",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Gracia_00_e_egg_pb.png/revision/latest?cb=20240202234550"
-      },
+      }
+    },
+    {
       "granos": {
         "name": "granos",
         "egg_description": "This Egg can sense holy presences.",
@@ -442,7 +454,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a5/Granos_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Granos",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/84/Granos_00_e_egg_w.png/revision/latest?cb=20230919090628"
-      },
+      }
+    },
+    {
       "griffar": {
         "name": "griffar",
         "egg_description": "This Egg is surrounded by flames.",

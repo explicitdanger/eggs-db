@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "manimekhala": {
         "name": "manimekhala",
@@ -110,7 +110,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/25/Manimekalai_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Manimekhala",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8e/Manimekalai_00_e_egg_bg.png/revision/latest?cb=20240314025415"
-      },
+      }
+    },
+    {
       "manus": {
         "name": "manus",
         "egg_description": "This Egg guards the other side of the moon.",
@@ -234,7 +236,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Manus_02_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240912005019",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Manus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ca/Manus_00_e_egg_pb.png/revision/latest?cb=20240912003521"
-      },
+      }
+    },
+    {
       "maple_dragon": {
         "name": "maple dragon",
         "egg_description": "This Egg has a leaf pattern.",
@@ -300,7 +304,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6a/Mapledragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maple_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Mapledragon_00_e_egg_yr.png/revision/latest?cb=20231122041647"
-      },
+      }
+    },
+    {
       "marbas": {
         "name": "marbas",
         "egg_description": "This Egg's black fur is exceptionally soft.",
@@ -366,7 +372,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Marbas_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Marbas",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cb/Marbas_00_e_egg_bk.png/revision/latest?cb=20230919100943"
-      },
+      }
+    },
+    {
       "marino": {
         "name": "marino",
         "egg_description": "The dragon inside this egg feels moist.",
@@ -432,7 +440,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e3/Marino_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Marino",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5d/Marino_00_e_egg_rp.png/revision/latest?cb=20240202221350"
-      },
+      }
+    },
+    {
       "maritus": {
         "name": "maritus",
         "egg_description": "This Egg is in a vortex.",
@@ -584,7 +594,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dc/Maritus_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maritus",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f1/Maritus_00_e_egg_w.png/revision/latest?cb=20240201023900"
-      },
+      }
+    },
+    {
       "megalodon": {
         "name": "megalodon",
         "egg_description": "This Egg has claw marks.",
@@ -693,7 +705,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/95/Megalodon_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Megalodon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Megalodon_00_e_egg_p.png/revision/latest?cb=20240314025604"
-      },
+      }
+    },
+    {
       "mellow": {
         "name": "mellow",
         "egg_description": "This Egg longs to soar through the skies.",

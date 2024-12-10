@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "semilla": {
         "name": "semilla",
@@ -152,7 +152,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bf/Semilla_02_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Semilla",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/68/Semilla_00_e_egg_pb.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "seraphim": {
         "name": "seraphim",
         "egg_description": "This Egg is hiding its identity.",
@@ -304,7 +306,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Seraphim_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033803",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seraphim",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Seraphim_00_e_egg_w.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "serpent_dragon": {
         "name": "serpent dragon",
         "egg_description": "This Egg consists of thin scales.",
@@ -350,7 +354,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Serpentdragon_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Serpent_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Serpentdragon_00_e_egg_g.png/revision/latest?cb=20240202225407"
-      },
+      }
+    },
+    {
       "serpent_flower_dragon": {
         "name": "serpent flower dragon",
         "egg_description": "This Egg smells like flowers.",
@@ -393,7 +399,9 @@
           }
         ],
         "special_actions": []
-      },
+      }
+    },
+    {
       "shadow_dragon": {
         "name": "shadow dragon",
         "egg_description": "This Egg gives off a dark, shady aura.",
@@ -434,7 +442,9 @@
           }
         ],
         "special_actions": []
-      },
+      }
+    },
+    {
       "shark_dragon": {
         "name": "shark dragon",
         "egg_description": "This Egg looks like a shark.",
@@ -559,7 +569,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Sharkgon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shark_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/aa/Sharkgon_00_e_egg_b.png/revision/latest?cb=20240316020210"
-      },
+      }
+    },
+    {
       "sharp_tail": {
         "name": "sharp tail",
         "egg_description": "This Egg is fierce.",
@@ -625,7 +637,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Sharptail_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173515",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sharp_Tail",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Sharptail_00_e_egg_yr.png/revision/latest?cb=20230919103643"
-      },
+      }
+    },
+    {
       "shockwave": {
         "name": "shockwave",
         "egg_description": "This Egg leaves a trail.",

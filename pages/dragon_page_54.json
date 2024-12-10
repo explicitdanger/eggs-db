@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "sky_lancer": {
         "name": "sky lancer",
@@ -153,7 +153,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e0/Skylancer_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173518",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sky_Lancer",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Skylancer_00_e_egg_w.png/revision/latest?cb=20231102131345"
-      },
+      }
+    },
+    {
       "sleeze": {
         "name": "sleeze",
         "egg_description": "This Egg leaks poison.",
@@ -219,7 +221,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Sleeze_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173518",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sleeze",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/18/Sleeze_00_e_egg_b.png/revision/latest?cb=20240418015134"
-      },
+      }
+    },
+    {
       "slime_dragon": {
         "name": "slime dragon",
         "egg_description": "This Egg's texture is like liquid.",
@@ -307,7 +311,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Slimedragon_01_n_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173518",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Slime_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/aa/Slimedragon_00_e_egg_b.png/revision/latest?cb=20230912212622"
-      },
+      }
+    },
+    {
       "slosi": {
         "name": "slosi",
         "egg_description": "This Egg holds the Key of Stasis.",
@@ -373,7 +379,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Slosi_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173518",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Slosi",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1a/Slosi_00_e_egg_yr.png/revision/latest?cb=20230831173201"
-      },
+      }
+    },
+    {
       "sluha": {
         "name": "sluha",
         "egg_description": "This Egg gazes at the world through yellow eyes.",
@@ -483,7 +491,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ee/Sluha_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173519",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sluha",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Sluha_00_e_egg_w.png/revision/latest?cb=20240418100503"
-      },
+      }
+    },
+    {
       "smart_dragon": {
         "name": "smart dragon",
         "egg_description": "This Egg is incredibly still.",
@@ -572,7 +582,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Smart_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173519",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Smart_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/47/Smart_00_e_egg_g.png/revision/latest?cb=20230912213404"
-      },
+      }
+    },
+    {
       "snow_fairy_dragon": {
         "name": "snow fairy dragon",
         "egg_description": "This Egg is looking forward to the snow.",
@@ -639,7 +651,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Snowfairydragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173519",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Snow_Fairy_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/47/Snowfairydragon_00_e_egg_w.png/revision/latest?cb=20240229022200"
-      },
+      }
+    },
+    {
       "snow_flower_popomo": {
         "name": "snow flower popomo",
         "egg_description": "This Egg is found near cherry blossom trees on snowy days.",

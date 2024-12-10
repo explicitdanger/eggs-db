@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "lambgon": {
         "name": "lambgon",
@@ -81,7 +81,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Lambgon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lambgon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Lambgon_00_e_egg_y.png/revision/latest?cb=20230919100617"
-      },
+      }
+    },
+    {
       "lattegon": {
         "name": "lattegon",
         "egg_description": "This Egg is topped with cream.",
@@ -206,7 +208,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Lattegon_02_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lattegon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Lattegon_00_e_egg_yr.png/revision/latest?cb=20231206033041"
-      },
+      }
+    },
+    {
       "lauha": {
         "name": "lauha",
         "egg_description": "Beautiful horns rise from this Egg.",
@@ -272,7 +276,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Lauha_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lauha",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Lauha_00_e_egg_b.png/revision/latest?cb=20240215021112"
-      },
+      }
+    },
+    {
       "lava_dragon": {
         "name": "lava dragon",
         "egg_description": "This Egg's shell has solidified lava on it.",
@@ -339,7 +345,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Lava_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lava_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c4/Lava_00_e_egg_yr.png/revision/latest?cb=20240202221042"
-      },
+      }
+    },
+    {
       "leaf_dragon": {
         "name": "leaf dragon",
         "egg_description": "Leaves are growing on this Egg.",
@@ -405,7 +413,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Leafdragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leaf_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Leafdragon_00_e_egg_gy.png/revision/latest?cb=20240202230612"
-      },
+      }
+    },
+    {
       "leglien": {
         "name": "leglien",
         "egg_description": "This Egg spreads poisonous gas.",
@@ -451,7 +461,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Leglien_01_n_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leglien",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/51/Leglien_00_e_egg_w.png/revision/latest?cb=20230911182554"
-      },
+      }
+    },
+    {
       "leo_vector": {
         "name": "leo vector",
         "egg_description": "This Egg is being charged.",
@@ -516,7 +528,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Leovector_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leo_Vector",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Leovector_00_e_egg_pb.png/revision/latest?cb=20231001094001"
-      },
+      }
+    },
+    {
       "leopard_dragon": {
         "name": "leopard dragon",
         "egg_description": "This Egg is found in rock cracks.",

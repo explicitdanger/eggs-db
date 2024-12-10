@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "metal_dragon": {
         "name": "metal dragon",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Metal_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Metal_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5a/Metal_00_e_egg_bk.png/revision/latest?cb=20240202223716"
-      },
+      }
+    },
+    {
       "meteor_dragon": {
         "name": "meteor dragon",
         "egg_description": "This Egg has a blue horn that contains the energy of the stars.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Meteordragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240711021343",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Meteor_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/06/Meteordragon_00_e_egg_w.png/revision/latest?cb=20240711004453"
-      },
+      }
+    },
+    {
       "metis": {
         "name": "metis",
         "egg_description": "This Egg overflows with the wisdom of nature.",
@@ -543,7 +547,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f9/Metis_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Metis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/91/Metis_00_e_egg_w.png/revision/latest?cb=20240229021628"
-      },
+      }
+    },
+    {
       "milla": {
         "name": "milla",
         "egg_description": "This Egg resembles nature.",
@@ -609,7 +615,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Milla_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033800",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Milla",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Milla_00_e_egg_g.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "minas": {
         "name": "minas",
         "egg_description": "This Egg is wearing fancy armor.",
@@ -676,7 +684,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bc/Minas_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Minas",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5a/Minas_00_e_egg_bk.png/revision/latest?cb=20230919101104"
-      },
+      }
+    },
+    {
       "mirinae": {
         "name": "mirinae",
         "egg_description": "This Egg chases the light of a galaxy.",
@@ -743,7 +753,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Mirinae_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055603",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mirinae",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b3/Mirinae_00_e_egg_pb.png/revision/latest?cb=20240814055329"
-      },
+      }
+    },
+    {
       "mist_dragon": {
         "name": "mist dragon",
         "egg_description": "This Egg gives off eerie vibes.",
@@ -808,7 +820,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2a/Mistdragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mist_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a4/Mistdragon_00_e_egg_b.png/revision/latest?cb=20230919101202"
-      },
+      }
+    },
+    {
       "mithra": {
         "name": "mithra",
         "egg_description": "This Egg has a lofty mission.",

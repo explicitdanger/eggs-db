@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "centipede_dragon": {
         "name": "centipede dragon",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/59/Centipededragon_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171921",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Centipede_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1d/Centipededragon_00_e_egg_p.png/revision/latest?cb=20230906162540"
-      },
+      }
+    },
+    {
       "centura": {
         "name": "centura",
         "egg_description": "This Egg is trapped in blue flames.",
@@ -176,7 +178,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/59/Centura_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171922",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Centura",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Centura_00_e_egg_pb.png/revision/latest?cb=20240202234812"
-      },
+      }
+    },
+    {
       "chameleon_dragon": {
         "name": "chameleon dragon",
         "egg_description": "This Egg changes its color.",
@@ -242,7 +246,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Chameleondragon_01_f_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033757",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Chameleon_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c1/Chameleondragon_00_e_egg_g.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "chaos_janerr": {
         "name": "chaos janerr",
         "egg_description": "This Egg attracts the vile.",
@@ -287,7 +293,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5a/Chaosjanerr_01_n_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419183642",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Chaos_Janerr",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fa/Chaosjanerr_00_e_egg_bk.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "chaosfear": {
         "name": "chaosfear",
         "egg_description": "This Egg radiates an aura of attunement.",
@@ -393,7 +401,9 @@
           }
         ],
         "special_actions": []
-      },
+      }
+    },
+    {
       "characen": {
         "name": "characen",
         "egg_description": "This Egg has a keyhole.",
@@ -460,7 +470,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Characen_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171923",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Characen",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b0/Characen_00_e_egg_y.png/revision/latest?cb=20240202230839"
-      },
+      }
+    },
+    {
       "charlotte_dragon": {
         "name": "charlotte dragon",
         "egg_description": "This Egg is topped with sweet cream.",
@@ -526,7 +538,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Charlottedragon_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033446",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Charlotte_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/45/Charlottedragon_00_e_egg_p.png/revision/latest?cb=20240627011906"
-      },
+      }
+    },
+    {
       "cherubim": {
         "name": "cherubim",
         "egg_description": "This Egg controls its surroundings.",

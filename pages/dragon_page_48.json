@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "python": {
         "name": "python",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Python_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Python",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Python_00_e_egg_bk.png/revision/latest?cb=20230919103518"
-      },
+      }
+    },
+    {
       "qanuk": {
         "name": "qanuk",
         "egg_description": "This Egg has lush white fur growing on it.",
@@ -190,7 +192,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0e/Qanuk_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173423",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Qanuk",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Qanuk_00_e_egg_w.png/revision/latest?cb=20240321010824"
-      },
+      }
+    },
+    {
       "quale": {
         "name": "quale",
         "egg_description": "This Egg is wrapped in fins as if wearing a cloak.",
@@ -256,7 +260,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/70/Qualle_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173423",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Quale",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d7/Qualle_00_e_egg_rp.png/revision/latest?cb=20240314030213"
-      },
+      }
+    },
+    {
       "rafael": {
         "name": "rafael",
         "egg_description": "This Egg shines like a jewel.",
@@ -343,7 +349,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Rafael_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173438",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rafael",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d6/Rafael_00_e_egg_p.png/revision/latest?cb=20240202224747"
-      },
+      }
+    },
+    {
       "ragnarok": {
         "name": "ragnarok",
         "egg_description": "This Egg craves for apocalypses.",
@@ -453,7 +461,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Ragnarok_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173438",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ragnarok",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fd/Ragnarok_00_e_egg_w.png/revision/latest?cb=20231013092006"
-      },
+      }
+    },
+    {
       "rakshasa": {
         "name": "rakshasa",
         "egg_description": "This Egg is found around shipwrecks.",
@@ -649,7 +659,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4d/Rakshasa_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rakshasa",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Rakshasa_00_e_egg_w.png/revision/latest?cb=20240203000620"
-      },
+      }
+    },
+    {
       "ranky": {
         "name": "ranky",
         "egg_description": "This Egg is wearing headphones.",
@@ -958,7 +970,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Ranky_02_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ranky",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Ranky_00_e_egg_gy.png/revision/latest?cb=20231026203556"
-      },
+      }
+    },
+    {
       "razikas": {
         "name": "razikas",
         "egg_description": "This Egg predicts the future.",

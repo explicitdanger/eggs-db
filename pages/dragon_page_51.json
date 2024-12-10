@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "rusalka": {
         "name": "rusalka",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/29/Rusalka_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rusalka",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Rusalka_00_e_egg_pb.png/revision/latest?cb=20240314030304"
-      },
+      }
+    },
+    {
       "ruthperon": {
         "name": "ruthperon",
         "egg_description": "This Egg has shiny gills.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/03/Ruthperon_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ruthperon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Ruthperon_00_e_egg_pb.png/revision/latest?cb=20240215021338"
-      },
+      }
+    },
+    {
       "sand_dragon": {
         "name": "sand dragon",
         "egg_description": "This Egg's shell has a sand-like texture.",
@@ -200,7 +204,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c1/Sand_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sand_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Sand_00_e_egg_y.png/revision/latest?cb=20240202221009"
-      },
+      }
+    },
+    {
       "scarlet": {
         "name": "scarlet",
         "egg_description": "This Egg hides its form.",
@@ -266,7 +272,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2b/Scarlet_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Scarlet",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Scarlet_00_e_egg_r.png/revision/latest?cb=20230919103551"
-      },
+      }
+    },
+    {
       "scorpion_dragon": {
         "name": "scorpion dragon",
         "egg_description": "This Egg is tingling to the touch.",
@@ -332,7 +340,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Scorpiondragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Scorpion_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3a/Scorpiondragon_00_e_egg_r.png/revision/latest?cb=20231026172338"
-      },
+      }
+    },
+    {
       "seahorse_dragon": {
         "name": "seahorse dragon",
         "egg_description": "This Egg is surrounded by turbulent waves.",
@@ -374,7 +384,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Haemagon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seahorse_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Haemagon_00_e_egg_y.png/revision/latest?cb=20240314024930"
-      },
+      }
+    },
+    {
       "sealed_darknix": {
         "name": "sealed darknix",
         "egg_description": "This Egg is bound by chains of sealing.",
@@ -440,7 +452,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Sealeddarknix_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sealed_Darknix",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Sealeddarknix_00_e_egg_bk.png/revision/latest?cb=20231129051526"
-      },
+      }
+    },
+    {
       "seere": {
         "name": "seere",
         "egg_description": "It is best not to remove the hood of this Egg.",

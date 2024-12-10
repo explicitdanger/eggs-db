@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "snow_frost_dragon": {
         "name": "snow frost dragon",
@@ -67,7 +67,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Snowfrostdragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173519",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Snow_Frost_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Snowfrostdragon_00_e_egg_w.png/revision/latest?cb=20230824075907"
-      },
+      }
+    },
+    {
       "solar_dragon": {
         "name": "solar dragon",
         "egg_description": "This Egg transmits Light.",
@@ -133,7 +135,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Solardragon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173520",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Solar_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/39/Solardragon_00_e_egg_y.png/revision/latest?cb=20240202230634"
-      },
+      }
+    },
+    {
       "solucanis": {
         "name": "solucanis",
         "egg_description": "This Egg is full of greed.",
@@ -328,7 +332,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Solucanis_04_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173520",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Solucanis",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ce/Solucanis_00_e_egg_bk.png/revision/latest?cb=20240203000549"
-      },
+      }
+    },
+    {
       "spica": {
         "name": "spica",
         "egg_description": "This Egg looks after wishes.",
@@ -479,7 +485,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/82/Spica_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173520",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Spica",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Spica_00_e_egg_w.png/revision/latest?cb=20240118022030"
-      },
+      }
+    },
+    {
       "spicy": {
         "name": "spicy",
         "egg_description": "This Egg wants to reach the light.",
@@ -566,7 +574,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4a/Spicy_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173521",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Spicy",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Spicy_00_e_egg_y.png/revision/latest?cb=20240202224901"
-      },
+      }
+    },
+    {
       "spike_dragon": {
         "name": "spike dragon",
         "egg_description": "This Egg has very sharp thorns.",
@@ -632,7 +642,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Spike_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173521",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Spike_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b6/Spike_00_e_egg_p.png/revision/latest?cb=20240202223647"
-      },
+      }
+    },
+    {
       "spine_dragon": {
         "name": "spine dragon",
         "egg_description": "This Egg is covered with thorns.",
@@ -698,7 +710,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Spinedragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173521",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Spine_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Spinedragon_00_e_egg_yr.png/revision/latest?cb=20230919103731"
-      },
+      }
+    },
+    {
       "splender": {
         "name": "splender",
         "egg_description": "This Egg holds colorful light.",

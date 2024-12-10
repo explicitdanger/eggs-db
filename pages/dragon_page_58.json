@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "taros": {
         "name": "taros",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Taros_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Taros",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Taros_00_e_egg_bk.png/revision/latest?cb=20230919103935"
-      },
+      }
+    },
+    {
       "tartaros": {
         "name": "tartaros",
         "egg_description": "This Egg detects the misdeeds of the dead.",
@@ -175,7 +177,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4f/Tartaros_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240808061839",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tartaros",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/44/Tartaros_00_e_egg_p.png/revision/latest?cb=20240808005826"
-      },
+      }
+    },
+    {
       "tattoo_dragon": {
         "name": "tattoo dragon",
         "egg_description": "This Egg has a desire for intricate patterns.",
@@ -327,7 +331,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Tattoodragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tattoo_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/13/Tattoodragon_00_e_egg_w.png/revision/latest?cb=20230919103955"
-      },
+      }
+    },
+    {
       "taygeta": {
         "name": "taygeta",
         "egg_description": "This Egg is highly loyal.",
@@ -393,7 +399,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Taygeta_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Taygeta",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Taygeta_00_e_egg_b.png/revision/latest?cb=20240202221451"
-      },
+      }
+    },
+    {
       "teddy_dragon": {
         "name": "teddy dragon",
         "egg_description": "This Egg has buttons attached.",
@@ -501,7 +509,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4a/Teddydragon_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Teddy_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Teddydragon_00_e_egg_r.png/revision/latest?cb=20230919104016"
-      },
+      }
+    },
+    {
       "tediblo": {
         "name": "tediblo",
         "egg_description": "This Egg has been abandoned after being loved.",
@@ -566,7 +576,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Tediblo_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tediblo",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/54/Tediblo_00_e_egg_r.png/revision/latest?cb=20230919104207"
-      },
+      }
+    },
+    {
       "telos_gamma": {
         "name": "telos gamma",
         "egg_description": "This Egg moves by following the energy of those who have escaped.",
@@ -977,7 +989,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Telosgamma_02_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240926004956",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Telos_Gamma",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Telosgamma_00_e_egg_bk.png/revision/latest?cb=20240926004341"
-      },
+      }
+    },
+    {
       "temiz": {
         "name": "temiz",
         "egg_description": "This Egg has a horn of purification.",

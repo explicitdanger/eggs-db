@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "blue_lightning_dragon": {
         "name": "blue lightning dragon",
@@ -67,7 +67,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Bluelightning_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171912",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Lightning_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Bluelightning_00_e_egg_b.png/revision/latest?cb=20240202224435"
-      },
+      }
+    },
+    {
       "blue_thunder": {
         "name": "blue thunder",
         "egg_description": "Lightning gathers around this Egg.",
@@ -134,7 +136,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Bluethunder_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171913",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Thunder",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4e/Bluethunder_00_e_egg_bk.png/revision/latest?cb=20240202224447"
-      },
+      }
+    },
+    {
       "bomber_dragon": {
         "name": "bomber dragon",
         "egg_description": "This Egg explodes like a bomb.",
@@ -217,7 +221,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3e/Bomberdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171914",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bomber_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Bomberdragon_00_e_egg_bk.png/revision/latest?cb=20240202220957"
-      },
+      }
+    },
+    {
       "bone_head": {
         "name": "bone head",
         "egg_description": "This Egg is covered with bones.",
@@ -327,7 +333,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/da/Bonehead_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171914",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bone_Head",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e7/Bonehead_00_e_egg_r.png/revision/latest?cb=20240202235430"
-      },
+      }
+    },
+    {
       "brrry": {
         "body_type": "Drake",
         "breeding_tier": 2,
@@ -393,7 +401,9 @@
           "Attendant",
           "Santa"
         ]
-      },
+      }
+    },
+    {
       "bubble_dragon": {
         "name": "bubble dragon",
         "egg_description": "Foam is rising out of this Egg.",
@@ -459,7 +469,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9f/Bubbledragon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171915",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bubble_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Bubbledragon_00_e_egg_bg.png/revision/latest?cb=20240215020559"
-      },
+      }
+    },
+    {
       "burnesce": {
         "name": "burnesce",
         "egg_description": "This Egg emits heat.",
@@ -525,7 +537,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ad/Burnesce_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171916",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Burnesce",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Burnesce_00_e_egg_r.png/revision/latest?cb=20240328013813"
-      },
+      }
+    },
+    {
       "cactus_dragon": {
         "name": "cactus dragon",
         "egg_description": "This Egg remains unmoved by any stimuli.",

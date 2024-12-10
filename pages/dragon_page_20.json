@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "fairy_dragon": {
         "name": "fairy dragon",
@@ -152,7 +152,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Fairydragon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172359",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fairy_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/52/Fairydragon_00_e_egg_rp.png/revision/latest?cb=20240210080447"
-      },
+      }
+    },
+    {
       "fat": {
         "name": "fat",
         "egg_description": "This Egg comes with a shield.",
@@ -249,7 +251,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fc/Fat_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fat",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Fat_00_e_egg_bk.png/revision/latest?cb=20240202223918"
-      },
+      }
+    },
+    {
       "feros": {
         "name": "feros",
         "egg_description": "This Egg waits for the portal to open.",
@@ -402,7 +406,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2a/Feros_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Feros",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Feros_00_e_egg_w.png/revision/latest?cb=20240203000804"
-      },
+      }
+    },
+    {
       "feruna": {
         "name": "feruna",
         "egg_description": "This Egg is accompanied by dark souls.",
@@ -639,7 +645,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/eb/Feruna_02_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Feruna",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a3/Feruna_00_e_egg_rp.png/revision/latest?cb=20240130032101"
-      },
+      }
+    },
+    {
       "feyrex": {
         "name": "feyrex",
         "egg_description": "This Egg holds the energy of fairies.",
@@ -748,7 +756,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a1/Feyrex_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Feyrex",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/70/Feyrex_00_e_egg_w.png/revision/latest?cb=20230907073912"
-      },
+      }
+    },
+    {
       "fides": {
         "name": "fides",
         "egg_description": "This Egg bears lightning.",
@@ -815,7 +825,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Fides_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fides",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cb/Fides_00_e_egg_bk.png/revision/latest?cb=20230919102547"
-      },
+      }
+    },
+    {
       "fire_dragon": {
         "name": "fire dragon",
         "egg_description": "This Egg is red and burning hot.",
@@ -896,7 +908,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/46/Fire_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fire_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Fire_00_e_egg_r.png/revision/latest?cb=20240202215832"
-      },
+      }
+    },
+    {
       "fire_ghost_dragon": {
         "name": "fire ghost dragon",
         "egg_description": "This Egg has burning flames.",

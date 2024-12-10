@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "bato": {
         "name": "bato",
@@ -123,7 +123,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Bato_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171903",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bato",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/54/Bato_00_e_egg_b.png/revision/latest?cb=20240215020439"
-      },
+      }
+    },
+    {
       "bearded_dragon": {
         "name": "bearded dragon",
         "egg_description": "This Egg carries the will of the Lizard Kingdom.",
@@ -361,7 +363,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Beardeddragon_05_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171906",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bearded_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bc/Beardeddragon_00_e_egg_yr.png/revision/latest?cb=20230912190155"
-      },
+      }
+    },
+    {
       "beast_roar": {
         "name": "beast roar",
         "egg_description": "This Egg shines with blue light imbued with the power of the moon.",
@@ -443,7 +447,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/60/Beastroar_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033756",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Beast_Roar",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5a/Beastroar_00_e_egg_bk.png/revision/latest?cb=20240724022318"
-      },
+      }
+    },
+    {
       "beleth": {
         "name": "beleth",
         "egg_description": "This Egg can sense ominous presences.",
@@ -510,7 +516,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3e/Beleth_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171906",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Beleth",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Beleth_00_e_egg_bk.png/revision/latest?cb=20230919102114"
-      },
+      }
+    },
+    {
       "berris": {
         "name": "berris",
         "egg_description": "This Egg is wearing a red brooch.",
@@ -576,7 +584,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Berris_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171907",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Berris",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4d/Berris_00_e_egg_w.png/revision/latest?cb=20230919102135"
-      },
+      }
+    },
+    {
       "biblos": {
         "name": "biblos",
         "egg_description": "This Egg reacts to stories.",
@@ -686,7 +696,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c4/Biblos_02_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240718021354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Biblos",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ca/Biblos_00_e_egg_r.png/revision/latest?cb=20240718005934"
-      },
+      }
+    },
+    {
       "black_armor": {
         "name": "black armor",
         "egg_description": "This Egg is wearing a helmet.",
@@ -752,7 +764,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Blackarmor_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171908",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Black_Armor",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Blackarmor_00_e_egg_p.png/revision/latest?cb=20240202223105"
-      },
+      }
+    },
+    {
       "black_armor_spear": {
         "name": "black armor spear",
         "egg_description": "This Egg is wearing a helmet studded with a green jewel.",

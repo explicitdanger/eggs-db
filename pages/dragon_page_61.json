@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "typhoon_dragon": {
         "name": "typhoon dragon",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0f/Typhoondragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Typhoon_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Typhoondragon_00_e_egg_b.png/revision/latest?cb=20240202221501"
-      },
+      }
+    },
+    {
       "ullr": {
         "name": "ullr",
         "egg_description": "This Egg cuts through the darkness.",
@@ -132,7 +134,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Ullr_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ullr",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/19/Ullr_00_e_egg_y.png/revision/latest?cb=20240724022317"
-      },
+      }
+    },
+    {
       "underground_dragon": {
         "name": "underground dragon",
         "egg_description": "This Egg is found deep in the ground.",
@@ -185,7 +189,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/65/Underground_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173640",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Underground_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7d/Underground_00_e_egg_g.png/revision/latest?cb=20240202224331"
-      },
+      }
+    },
+    {
       "undine": {
         "name": "undine",
         "egg_description": "This Egg causes hallucinations.",
@@ -311,7 +317,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Undine_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173640",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Undine",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/99/Undine_00_e_egg_rp.png/revision/latest?cb=20240418015134"
-      },
+      }
+    },
+    {
       "unicorn_dragon": {
         "name": "unicorn dragon",
         "egg_description": "This Egg shows off its pink mane.",
@@ -379,7 +387,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Unicorndragon_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033804",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Unicorn_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/de/Unicorndragon_00_e_egg_rp.png/revision/latest?cb=20240724022319"
-      },
+      }
+    },
+    {
       "valcan": {
         "name": "valcan",
         "egg_description": "This Egg is as hot as magma.",
@@ -445,7 +455,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fa/Valcan_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valcan",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Valcan_00_e_egg_b.png/revision/latest?cb=20240215021929"
-      },
+      }
+    },
+    {
       "valefor": {
         "name": "valefor",
         "egg_description": "This Egg wants to create chaos.",
@@ -512,7 +524,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/91/Valefor_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valefor",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Valefor_00_e_egg_bk.png/revision/latest?cb=20231129052633"
-      },
+      }
+    },
+    {
       "valla": {
         "name": "valla",
         "egg_description": "The branches around this Egg can be easily broken.",

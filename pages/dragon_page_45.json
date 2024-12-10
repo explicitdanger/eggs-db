@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "pharaogon": {
         "name": "pharaogon",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/43/Pharaogon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pharaogon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Pharaogon_00_e_egg_y.png/revision/latest?cb=20231020163951"
-      },
+      }
+    },
+    {
       "phlegon": {
         "name": "phlegon",
         "egg_description": "This Egg emits flames that resemble the sun.",
@@ -190,7 +192,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5a/Phlegon_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240620012625",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Phlegon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8e/Phlegon_00_e_egg_w.png/revision/latest?cb=20240620004153"
-      },
+      }
+    },
+    {
       "phoenix_dragon": {
         "name": "phoenix dragon",
         "egg_description": "This Egg is burning in flames.",
@@ -342,7 +346,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ac/Phoenix_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Phoenix_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Phoenix_00_e_egg_r.png/revision/latest?cb=20240202215900"
-      },
+      }
+    },
+    {
       "pierrot_dragon": {
         "name": "pierrot dragon",
         "egg_description": "Laughter is heard near this Egg.",
@@ -451,7 +457,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ed/Pierrotdragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pierrot_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ce/Pierrotdragon_00_e_egg_w.png/revision/latest?cb=20240202225824"
-      },
+      }
+    },
+    {
       "pinata_dragon": {
         "name": "pinata dragon",
         "egg_description": "This Egg rustles like a piece of paper.",
@@ -518,7 +526,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/60/Pinatadragon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240517015932",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pinata_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Pinatadragon_00_e_egg_y.png/revision/latest?cb=20240516005356"
-      },
+      }
+    },
+    {
       "pink_bell": {
         "name": "pink bell",
         "egg_description": "This Egg is beautiful and adorable.",
@@ -686,7 +696,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Pinkbell_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pink_Bell",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Pinkbell_00_e_egg_r.png/revision/latest?cb=20230919103419"
-      },
+      }
+    },
+    {
       "plumos": {
         "name": "plumos",
         "egg_description": "This Egg's apricot blossoms are blooming.",
@@ -925,7 +937,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d6/Plumos_02_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Plumos",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Plumos_00_e_egg_rp.png/revision/latest?cb=20230831170154"
-      },
+      }
+    },
+    {
       "poison_river": {
         "name": "poison river",
         "egg_description": "This Egg has tentacles attached.",

@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "vargr": {
         "name": "vargr",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e9/Vargr_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vargr",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Vargr_00_e_egg_p.png/revision/latest?cb=20230919101743"
-      },
+      }
+    },
+    {
       "varunas": {
         "name": "varunas",
         "egg_description": "This Egg was imbued with sacred energy.",
@@ -219,7 +221,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Varunas_02_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Varunas",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a4/Varunas_00_e_egg_b.png/revision/latest?cb=20240201023841"
-      },
+      }
+    },
+    {
       "vaska": {
         "name": "vaska",
         "egg_description": "This Egg bears the scent of the grassland.",
@@ -629,7 +633,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a3/Vaska_02_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vaska",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Vaska_00_e_egg_bk.png/revision/latest?cb=20240328014201"
-      },
+      }
+    },
+    {
       "vefal": {
         "name": "vefal",
         "egg_description": "This Egg evolves gradually.",
@@ -696,7 +702,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f5/Vefal_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vefal",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Vefal_00_e_egg_p.png/revision/latest?cb=20240202225845"
-      },
+      }
+    },
+    {
       "vegabond": {
         "name": "vegabond",
         "egg_description": "This Egg has many scars.",
@@ -762,7 +770,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d6/Vegabond_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vegabond",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Vegabond_00_e_egg_yr.png/revision/latest?cb=20230913184140"
-      },
+      }
+    },
+    {
       "venom_dragon": {
         "name": "venom dragon",
         "egg_description": "This Egg contains green venom.",
@@ -827,7 +837,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b6/Venomdragon_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Venom_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/ba/Venomdragon_00_e_egg_pb.png/revision/latest?cb=20240314030622"
-      },
+      }
+    },
+    {
       "vera": {
         "name": "vera",
         "egg_description": "This Egg resonates with ancient power.",
@@ -893,7 +905,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/95/Vera_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vera",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Vera_00_e_egg_p.png/revision/latest?cb=20230919104241"
-      },
+      }
+    },
+    {
       "vetala": {
         "name": "vetala",
         "egg_description": "This Egg has black fangs attached to it.",

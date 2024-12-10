@@ -1,5 +1,5 @@
 {
-  "dragons": [
+  "dragon": [
     {
       "dupen": {
         "name": "dupen",
@@ -66,7 +66,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ad/Dupen_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172217",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dupen",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/af/Dupen_00_e_egg_yr.png/revision/latest?cb=20231020170638"
-      },
+      }
+    },
+    {
       "eclipse_dragon": {
         "name": "eclipse dragon",
         "egg_description": "This Egg feels the movements of the moon and the sun.",
@@ -109,7 +111,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Eclipesdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419182312",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eclipse_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3c/Eclipesdragon_00_e_egg_bk.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "eelos_dragon": {
         "name": "eelos dragon",
         "egg_description": "This Egg has fins.",
@@ -175,7 +179,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Eelosdragon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172339",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eelos_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Eelosdragon_00_e_egg_bg.png/revision/latest?cb=20231020171133"
-      },
+      }
+    },
+    {
       "egg_dragon": {
         "name": "egg dragon",
         "egg_description": "This Egg has saliva on it.",
@@ -263,7 +269,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fd/Egg_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172339",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Egg_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0c/Egg_00_e_egg_w.png/revision/latest?cb=20230906200602"
-      },
+      }
+    },
+    {
       "egg_mayo_dragon": {
         "name": "egg mayo dragon",
         "egg_description": "This Egg smells like mayonnaise.",
@@ -387,7 +395,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Eggmayodragon_02_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172339",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Egg_Mayo_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Eggmayodragon_00_e_egg_y.png/revision/latest?cb=20240111032247"
-      },
+      }
+    },
+    {
       "elderly_dragon": {
         "name": "elderly dragon",
         "egg_description": "This Egg reflects the passage of time.",
@@ -496,7 +506,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/86/Elderlydragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172339",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Elderly_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d1/Elderlydragon_00_e_egg_w.png/revision/latest?cb=20230919102403"
-      },
+      }
+    },
+    {
       "eligos": {
         "name": "eligos",
         "egg_description": "This Egg has sensitive fins.",
@@ -562,7 +574,9 @@
         "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Eligos_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419182137",
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eligos",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/de/Eligos_00_e_egg_bg.png/revision/latest?cb=20240418014856"
-      },
+      }
+    },
+    {
       "emerald_dragon": {
         "name": "emerald dragon",
         "egg_description": "Slightly blueish, this Egg is wearing a crown.",
