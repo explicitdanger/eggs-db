@@ -5777,6 +5777,24 @@
         "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Lightning_Dragon",
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Bluelightning_00_e_egg_b.png/revision/latest?cb=20240202224435"
       },
+      "blue_snake_dragon": {
+        "body_type": "?",
+        "breeding_tier": 2,
+        "dragon_type": "?",
+        "egg_description": "?",
+        "egg_img_url": "https://dvc.wiki.gg/images/2/2c/Blue_Snake_Dragon_Egg_Sprite.png",
+        "elements": [
+          "wind",
+          "steel"
+        ],
+        "food": "?",
+        "name": "Blue Snake Dragon",
+        "profile_img_url": "https://dvc.wiki.gg/images/2/2c/Blue_Snake_Dragon_Egg_Sprite.png",
+        "profile_url": "https://dvc.wiki.gg/wiki/Blue_Snake_Dragon",
+        "rarity": "Rare",
+        "region": "Special",
+        "tradeable": true
+      },
       "blue_thunder": {
         "name": "blue thunder",
         "egg_description": "Lightning gathers around this Egg.",
@@ -19446,7 +19464,7 @@
         "region": "West Yutakan",
         "dragon_type": "Poison Dragon",
         "body_type": "Deep Sea",
-        "food": "Sea \u200b\u200banemone",
+        "food": "Sea ​​anemone",
         "tradeable": false,
         "breeding_tier": 2,
         "forms": [
@@ -48253,7 +48271,7 @@
         "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Zombiedragon_00_e_egg_g.png/revision/latest?cb=20240210055413"
       }
     },
-    524,
-    "2024-12-20 18:13:58.417071"
+    525,
+    "2025-01-01 12:36:41.194810"
   ]
 }

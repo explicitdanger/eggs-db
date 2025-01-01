@@ -1,0 +1,18 @@
+{
+  "body_type": "?",
+  "breeding_tier": 2,
+  "dragon_type": "?",
+  "egg_description": "?",
+  "egg_img_url": "https://dvc.wiki.gg/images/2/2c/Blue_Snake_Dragon_Egg_Sprite.png",
+  "elements": [
+    "wind",
+    "steel"
+  ],
+  "food": "?",
+  "name": "Blue Snake Dragon",
+  "profile_img_url": "https://dvc.wiki.gg/images/2/2c/Blue_Snake_Dragon_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/Blue_Snake_Dragon",
+  "rarity": "Rare",
+  "region": "Special",
+  "tradeable": true
+}
